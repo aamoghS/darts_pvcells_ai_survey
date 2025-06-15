@@ -46,7 +46,7 @@ func fetchJSON(url, apiKey string, target interface{}) error {
 }
 
 func getSubcollections(groupID, parentKey, apiKey string) []Collection {
-	url := fmt.Sprintf("https://api.zotero.org/groups/%s/collections?limit=100", groupID)
+	url := fmt.Sprintf("https://api.zotero.org/groups/%s/collections?limit=1000", groupID)
 	var allCollections []struct {
 		Data Collection `json:"data"`
 	}
