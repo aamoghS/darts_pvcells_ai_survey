@@ -1,0 +1,3 @@
+e (Voc)Short-circuit Current (Isc)Module Efficiency STC (%)Maximum Power (Pmax) Module Efficiency STC (%)Maximum Power (Pmax) Module Efficiency STC (%)Maximum Power (Pmax) Module Efficiency STC (%)Operating Temperature(℃)Maximum system voltageMaximum series fuse ratingPower toleranceTemperature coefficients of PmaxTemperature coefficients of VocTemperature coefficients of IscNominal operating cell temperature  (NOCT) Cell Temperature 25°C
+Ambient Temperature 20°C
+( Two pallets = One stack ) 

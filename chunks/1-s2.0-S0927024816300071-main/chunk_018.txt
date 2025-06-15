@@ -1,0 +1,4 @@
+conrequiresasurfacereactionbetweenB2O3andsilicon[16].Toexploresuchtrade-off,wepreparedsampleswitha-Silayerthicknessesof29nm,36nm,46nm,55nmand90nm,andsub-
+jectedthemtothreedifferentdiffusiontemperatures,920°C,960°Cand980°C.Theboronprolescorrespondingtothelowest
+Fig.1.Borondopingprolesofpoly-Si/SiOx/c-Sipassivatingcontactatdiffusiontemperatureof920°Cfordifferentthicknessesofthedepositeda-Silayer.
+Fig.2.Borondopingprolesofpoly-Si/SiOx/c-Sipassivatingcontactatdiffusiontemperatureof980°Cfordi

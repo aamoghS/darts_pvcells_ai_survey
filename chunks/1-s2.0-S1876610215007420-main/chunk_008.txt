@@ -1,0 +1,28 @@
+hw 
+Convective heat transfer coefficient between cover to atmosphere (W/(m2 0C)) 
+Ib 
+ Incident beam radiation (W/m2) 
+k 
+ Thermal conductivity (W/(m0C)) 
+L   
+Length of tube (m) 
+ṁ 
+ Mass flow rate (kg/s) 
+n 
+Number of day in year 
+Qu 
+ rate of useful heat gain (W)   
+Ql 
+ Heat loss (W/m) 
+S 
+Absorbed solar flux (W/m2) 
+Tin 
+ Inlet temperature of water (oC) 
+Tpm 
+ Mean temperature of tube surface (oC) 
+Ta 
+ Atmospheric temperature of water (oC) 
+Tout 
+ Outlet temperature of water (oC) 
+Tc 
+Gl

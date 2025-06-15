@@ -1,0 +1,5 @@
+IONSMechanical CharacteristicsCell  TypeCurves (415W)No. of cellsDimensionsWeightFront GlassFrameJunction BoxOutput Cables22 kg (48.50 lbs)IP68 RatedElectrical Performance & Temperature DependenceIrradiance 1000W/m2
+AM=1.5Irradiance 800W/m2
+AM=1.5NOCT:*STC:
+Wind Speed 1m/sModule Type Maximum Power (Pmax) Maximum Power Voltage (Vmp) Maximum Power Current (Imp) Open-circuit Voltage (Voc)Short-circuit Current (Isc)Module Efficiency STC (%)Operating Temperature(
+)Maximum system voltageMaximum series

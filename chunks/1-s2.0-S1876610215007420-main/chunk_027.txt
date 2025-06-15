@@ -1,0 +1,3 @@
+n prove a good 
+application for industrial heating applications. Table 1 show the nomenclature used.  2. Experimental setup:  
+Experimental setup consists of following Equipment:- 1. Cold water storage tank with asbestos insulation of capacity 100 tr. 2. Support stand storage tank of height 6 feet. 3. Prototype of cylindrical parabolic trough with glass cover and absorber tube. 4. Support stand for CPC. 5. K-type thermocouple 8 quantity  6. USB enabled Data Logger to record temperature. 7. Lux m

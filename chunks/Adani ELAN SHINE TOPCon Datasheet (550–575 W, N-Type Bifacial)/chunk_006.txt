@@ -1,0 +1,16 @@
+conditions
+Electrical data - All data measured to STC*
+Mechanical data
+21.9
+22.1
+22.3
+Technical DataMulti Irradiance Curve Bifacial M10-144 HC Cell ModuleCell temp: 25°C
+Dimensions in mm
+*STC: Irradiance 1000 W/m², cell temperature 25°C, Air mass AM 1.5 according to EN 60904-3.Average efficiency reduction is approx. 3% at 200 W/m² according to EN 60904-1. ExceptPmpp, all other parameter have tolerance of +/-3%, measurement uncertainty <3%. 
+30%
+728
+43.52
+16.77
+51.30
+18.18
+28.20* Power gain f

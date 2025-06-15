@@ -1,0 +1,3 @@
+.Yang,SolutionprocessedMoO3interfaciallayerfororganicphotovoltaicspreparedbyafacilesynthesismethod,Adv.Mater.24(2012)2459.[15]Y.Zhao,A.M.Nardes,K.Zhu,EffectiveholeextractionusingMoOx-AlcontactinperovskiteCH3NH3PbI3solarcells,Appl.Phys.Lett.104(2014)213906.
+Fig.7.IQEofthen-typesiliconsolarcellswithanelectron-selectiveTiOxorSiO2/TiOxcontactattherear.X.Yangetal./SolarEnergyMaterials&SolarCells150(2016)32–3837
+[16]M.D.Irwin,D.B.Buchholz,A.W.Hains,R.P.H.Chang,T.J.Marks,p-Typesemi-conductingnickelox

@@ -1,0 +1,5 @@
+ barrier, TiN, long-term stability 
+1.
+ 
+Introduction For the rear metallization of high-efficient, industrial silicon solar cells PVD Al represents a promising alternative to screen-printing. It is favorable regarding optical and electrical properties, it enables reduced material 
+consumption, including costly silver, and is suitable to contact both n+ and p+ regions on advanced solar cell concepts like BC-BJ structures [1,2]. A major drawback for industrial application and commercialization is

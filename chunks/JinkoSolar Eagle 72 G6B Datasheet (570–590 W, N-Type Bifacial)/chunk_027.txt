@@ -1,0 +1,16 @@
+)
+Module Efﬁciency (%)
+713Wp
+27.59%
+719Wp
+27.83%
+725Wp
+28.06%
+731Wp
+28.31%
+738Wp
+28.55%
+The company reserves the final right for explanation on any of the information presented hereby. TR JKM455-475M-7RL3-TV-A2-EN-F40 (IEC 2016)Engineering DrawingsSPECIFICATIONSElectrical Performance & Temperature DependenceIrradiance 1000W/m2
+AM=1.5STC:Irradiance 800W/m2
+AM=1.5NOCT:Power measurement tolerance: ± 3%**
+Wind Speed 1m/sModule Type Maximum Power (Pmax)Maximum Power Voltage (Vmp)Maximum Power Curr

@@ -1,0 +1,3 @@
+n. Factors which will be used in experiment planning are temperature and sample composition. In DOE factors are defined as low, high and center point values, but in DOE factor definition include definition of factor type, factor role and also low, high and center point value definition. There are chosen low and high values for chosen factors. 
+The temperature is taken 700 °C and 900 °C, but the sample content will be the low 20 % and the high 75 %. The 
+response in experimental planning will b

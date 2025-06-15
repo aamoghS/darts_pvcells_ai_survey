@@ -1,0 +1,3 @@
+iN/Ti/Ag (stack 1) or TiN/NiV/Ag (stack 2) as shown in Fig. 1, in a single deposition sequence together with an evaporated Al metallization using an ATON 500 PVD machine without breaking the vacuum. The TiN diffusion barrier enables soldering of a standard cell interconnector to the rear metallization with a conventional solder process even after annealing, thus enabling an industrial, state-of-the-art module integration. 2.
+ 
+Experimental For the deposition of the metallization scheme an ATON 5

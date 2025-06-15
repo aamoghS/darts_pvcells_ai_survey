@@ -1,0 +1,7 @@
+using PECVD. The samples were fired in an industrial belt driven fast firing furnace at a set peak 
+temperature. We surveyed the appearance of our samples by ZETA’s 3D-OM, and analyzed the bonding 
+configuration by BRUKER’s FT-IR spectrometer. We also used Sinton Instrument’s Suns-Voc to monitor the implied Voc.    3.
+ 
+Results and discussion 3.1.
+ 
+Optical properties Fig. 1 shows the microscope observations of the sample surface, after firing, with a 20X objective. The white spots in Fig.

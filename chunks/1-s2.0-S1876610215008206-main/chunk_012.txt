@@ -1,0 +1,3 @@
+e deposition of the metallization scheme an ATON 500 industrial prototype PVD machine is used. The Al layer is thermally evaporated in the evaporation chamber and in the same process sequence the solder stack TiN/Ti/Ag is sputtered in the sputter chamber that contains two targets, e.g. a Ti target and an Ag target. They can be used one by one with Ar as working gas. The TiN layer is reactively sputtered from the Ti target with additional 
+N2
+ gas in the process atmosphere. Cathode power, tray ve

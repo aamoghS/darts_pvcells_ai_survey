@@ -1,0 +1,2 @@
+ppl.Phys.Lett.106(2015)113901.[29]R.A.Sinton,A.Cuevas,Contactlessdeterminationofcurrent–voltagechar-acteristicsandminoritycarrierlifetimesinsemiconductorsfromquasisteadystatephotoconductancedata,Appl.Phys.Lett.69(1996)2510.[30]G.K.Reeves,H.B.Harrison,Obtainingthespeciccontactresistancefromtransmission-linemodelmeasurements,IEEEElectronDeviceLett.3(1982)
+111–113.[31]T.Trupke,R.A.Bardos,M.C.Schubert,W.Warta,Photoluminescenceimagingofsiliconwafers,Appl.Phys.Lett.89(2006)044107.[32]E.Peiner,

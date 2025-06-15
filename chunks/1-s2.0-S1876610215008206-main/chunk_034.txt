@@ -1,0 +1,9 @@
+he concentration gradient. Table 4: Results of solder and peel tests on Al layer with solder stack 1 with 100 nm thick TiN layers (unstuffed, atmospherically stuffed and in-situ stuffed) after different annealing conditions TiN type 10 min 350°C
+ 
+1 min 425°C 3 min 425°C
+��
+15 min 425°C
+ 
+Unstuffed  ok fail   
+In-situ stuffed  ok ok fail  In-situ stuffed with IR heaters ok ok ok ok Atmospherically stuffed  ok ok ok ok 
+378   Julia Kumm et al.  /  Energy Procedia   77  ( 2015 )  374 – 3

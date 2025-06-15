@@ -1,0 +1,5 @@
+equent year not to exceed 0.4%, minimum power at year 30 is 87.4% or greater.25-year product and 30-year linear power warranty
+Packaging ConfigurationEngineering DrawingsSPECIFICATIONSMechanical CharacteristicsCell  TypeCurves (415W)No. of cellsDimensionsWeightFront GlassFrameJunction BoxOutput Cables22 kg (48.50 lbs)IP68 RatedElectrical Performance & Temperature DependenceIrradiance 1000W/m2
+AM=1.5Irradiance 800W/m2
+AM=1.5NOCT:*STC:
+Wind Speed 1m/sModule Type Maximum Power (Pmax) Maximum Power 

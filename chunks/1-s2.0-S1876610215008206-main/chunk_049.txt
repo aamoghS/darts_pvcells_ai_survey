@@ -1,0 +1,7 @@
+n therefore shows a 
+good stability during 200 cycles of thermal cycling, which is a first indication that it enables a long-term stable interconnection. Also after additional damp heat and humidity freeze testing (DH1000 and HF10) the loss of each 
+demo module with PVD metallization is < 3 %.  
+ Julia Kumm et al.  /  Energy Procedia   77  ( 2015 )  374 – 381 381
+7.
+ 
+Summary and conclusion A conventional, evaporated Al rear metallization layer is combined with a solder stack which comprises a

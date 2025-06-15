@@ -1,0 +1,31 @@
+) 
+Tout 
+ Outlet temperature of water (oC) 
+Tc 
+Glass cover temperature (oC) 
+Ul 
+Heat loss coefficient 
+V 
+Wind speed (m/s) 
+W 
+Width of trough (m) 
+α 
+Absorptance 
+β 
+slope (rad) 
+γ 
+Intercept factor 
+δ 
+Declination angle 
+ε 
+Thermal emittance 
+θi 
+Angle  of incidence of central solar ray with collector aperture, [deg] 
+ρ 
+Specular  reflectance 
+ηi 
+Solar collector instantaneous efficiency 
+τα 
+Transmittance absorptance product of the receiver glass envelope 
+α 
+Solar altitude angle

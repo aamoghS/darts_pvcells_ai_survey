@@ -1,0 +1,5 @@
+W. Thermal stability of spatial ALD deposited A
+l2O3 
+capped by PECVD SiN
+X
+ for the passivation of lowly- and highly-doped p-type silicon surfaces, 2012, 27th EUPVSEC. [11] Hughey MP, Cook RF. Hydrogen diffusion as the rate-limiting mechanism of stress development in dielectric films. Appl Phys Lett. 2004;85(3): 404-6.  [12] Nickel N. Hydrogen in Semiconductors II. Berlin: Hahn-Meitner-Institut; 1999.  [13] Benoit D, Regolini J, Morin P. Hydrogen desorption and diffusion in PECVD silicon nitrid

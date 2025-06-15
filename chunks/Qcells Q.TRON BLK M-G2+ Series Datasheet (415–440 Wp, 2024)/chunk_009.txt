@@ -1,0 +1,41 @@
+ft
+2
+]
+113 (5400Pa)/50 (2400Pa)
+Permitted Module Temperature
+ 
+on Continuous Duty
+−40°F up to +185°F
+(−40°C up to +85°C)
+Max. Test Load, Push / Pull
+3
+[lbs/ft
+2
+]
+169 (8100Pa)/75 (3600Pa)
+3
+ See Installation Manual
+TEMPERATURE COEFFICIENTS
+Temperature Coecient of I
+SC
+α
+[%/K]
++0.04
+Temperature Coecient of V
+OC
+β
+[%/K]
+−0.24
+Temperature Coecient of P
+MPP
+γ
+[%/K]
+−0.30
+Nominal Module Operating Temperature
+NMOT
+[°F]
+109±5.4 
+(43
+
+±3°C) 
+*Contact your

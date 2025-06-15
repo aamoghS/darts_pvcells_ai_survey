@@ -1,0 +1,5 @@
+ormixed
+phasearebeingactivelydeveloped.Theimplementationofsuch
+approachtotherearsideofn-typesiliconsolarcellshasrecently
+ledtoa25.1%conversionefciency[1].Basedondifferentdopingtechnologies,thermaldiffusion[2,3],in-situdopingbyCVD[4]andionimplantation[5–7],bothn-typeelectron-selectiveandp-typehole-selectivecontactshavebeenformed.Fromtheserecent
+results,n-typesilicon-lmcontactstructuresusuallyshowabetterpassivatingperformancethanp-typesilicon-lmpassivatingcontacts.Then-typepassivatingcontacts

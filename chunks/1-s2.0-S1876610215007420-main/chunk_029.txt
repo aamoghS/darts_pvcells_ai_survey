@@ -1,0 +1,22 @@
+21 m 
+Receiver  inner diameter 
+0.017 m 
+Receiver outer diameter 
+0.019 m 
+Concentration ratio 
+16.94 ~ 17 
+Water flow rate 
+4 lph 
+Storage tank capacity 
+100 ltr. 
+Tank insulation material 
+Asbestos 
+Insulation Thickness 
+5 mm 
+Glass cover thickness                               
+3 mm 
+Rim angle 
+134.52o 
+ Atul A. Sagade et al.  /  Energy Procedia   57  ( 2014 )  3058 – 3070 3063
+  Fig.2 3D model of CPC      Fig.3 Explored view of CPC  3. Calculations   
+The performance of CPC is assumed for 

@@ -1,0 +1,2 @@
+ GmbH, Robert-Bosch-Str. 1, 99310 Arnstadt, Germany  Abstract 
+In this work, we present our progress in the industrial p-type PERC technology [1, 2]. Based on device simulations we continuously develop an efficiency roadmap for a steady improvement of our PERC (passivated emitter and rear cell) process. Following this simulation based approach, we effectively improve the front side metallization and the emitter characteristics. Currently, our best prototype process has reached a conversion effic

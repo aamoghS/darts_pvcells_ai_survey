@@ -1,0 +1,19 @@
+-54HL4-B-F3-EN©2022 Jinko Solar Co., Ltd. All rights reserved.Specifications included in this datasheet are subject to change without notice.Length: ±2mmWidth: ±2mm
+Height: ±1mm
+Row Pitch: ±2mm
+-40
+~+85
+1000VDC (IEC) 25A0~+3%-0.29%/
+-0.25%/
+0.045%/
+45±2
+kcaBediStnorFCurrent (A)Voltage (V)Cell Temperature (℃）Normalized Isc, Voc, Pmax (%)
+14.0
+9.0
+35
+33
+H
+1722mm (67.79")1134mm (44.65")
+860mm (33.86")
+1086mm (42.68")
+152025303540002�4�681012070�140�2103502805104201416400Wp31.28V12

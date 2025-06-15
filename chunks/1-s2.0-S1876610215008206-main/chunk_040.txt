@@ -1,0 +1,16 @@
+obtained interval and values for 
+k0 
+and the activation energy 
+EA
+ are derived. 
+ 
+2,3502,3752,4002,4252,4502,4752,500-5-4-3
+-2
+-1
+ln ( k(T) [nm²/s] )1000/T [K-1
+] 
+Fig. 2: Arrhenius diagram with linear fit for consumed layer of 50 nm Ag layers on solder stack 1 during thermal ageing. 
+ Julia Kumm et al.  /  Energy Procedia   77  ( 2015 )  374 – 381 379
+The activation energies is found to be 
+E
+A = -197 kJ/mol. If this result is convoluted with the module temperatures on a German site as in

@@ -1,0 +1,2 @@
+ons. Acknowledgements This work is supported by the Project of Major Science and Technology Achievement Transformation from Jiangsu Province (No. SBA2015030129). 
+References [1] Young-Woo Oka, Ajay D. Upadhyaya, Yuguo Tao, Francesco Zimbardi, Kyungsun Ryu, Moon-Hee Kang, Ajeet Rohatgi, “Ion implanted and screen printed large area 20% efficient N-type front junction Si solar cells”, Solar Energy Material Solar Cells, 123, p92-96 (2014). [2] I.G. Romijn, J. Anker, A.R. Burgers, A. Gutjahr, B. 

@@ -1,0 +1,17 @@
+permission.
+Seehttp://www.ieee.org/publications
+standards/publications/rights/index.htmlformoreinformation.
+Authorized licensed use limited to: University of Central Florida. Downloaded on June 13,2025 at 15:58:56 UTC from IEEE Xplore.  Restrictions apply. 
+190
+IEEEJOURNALOFPHOTOVOLTAICS,VOL.5,NO.1,JANUARY2015
+Fig.2.Imagesof239-cm
+2
+-sizedpseudosquarePERCsolarcellsdisplaying
+(a)thefrontand(b)rear.
+resultingfromcellinterconnection,weconsidereachcontribu-
+tiontotheresistance:
+R
+s
+,
+string
+theserie

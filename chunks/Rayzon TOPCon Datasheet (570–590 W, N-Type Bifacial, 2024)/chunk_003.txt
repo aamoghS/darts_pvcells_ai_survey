@@ -1,0 +1,7 @@
+.95 A / 24.53 %719 W16.99 A / 27.86 %
+609 W14.33 A / 23.60 %638 W15.02 A / 24.72 %725 W17.06 A / 28.09 %
+614 W 14.39 A / 23.79 %644 W 15.08 A / 24.95 %731 W 17.13 A / 28.32 %
+TECHNICAL DATA 
+ELECTRICAL PERFORMANCE [Note: Power tolerance: 0 ~ +4.99 W. Power measurement uncertainty: < ±3%. Average value of NOCT: 45.08 ± 2 °C] 
+ELECTRICAL CHARACTERISTICS*
+Nominal Maximum Power (Pmax)           Optimum Operating Voltage (Vmp)Optimum Operating Current (Imp)Open Circuit Voltage (Voc)Short Ciruit Cu

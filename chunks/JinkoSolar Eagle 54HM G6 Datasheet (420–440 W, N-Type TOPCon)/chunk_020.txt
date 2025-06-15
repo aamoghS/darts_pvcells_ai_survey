@@ -1,0 +1,14 @@
+4HL4-B21.51%420Wp32.04V13.11A38.15V13.80A316Wp10.54A29.97V36.24V11.14APower (W)-25B
+�������
+����������������������������������*STC:
+      
+ 
+Irradiance 1000W/m
+2NOCT:
+     
+ 
+Irradiance 800W/m
+2*Power measurement tolerance: ±3% Cell Temperature 25°CAmbient Temperature 20°CAM = 1.5
+AM = 1.5 Wind Speed 1m/s
+I
+WARRANTY1st year degradation not to exceed 1%, each subsequent year not to exceed 0.4%, minimum power at y

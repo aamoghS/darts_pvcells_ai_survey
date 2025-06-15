@@ -1,0 +1,28 @@
+ receiver glass envelope 
+α 
+Solar altitude angle  
+Φ 
+  Rim angle 
+ω 
+  Hour angle 
+ɸ 
+Latitude angle 
+τ 
+  Glass transmitivity 
+σ 
+Stefan Boltzmann constant (5.67 x 10-8 W/(m2 oC 4)) 
+rb 
+Conversion factor for beam radiation 
+Do 
+Outer diameter of receiver tube (m) 
+Di 
+Inner diameter of receiver tube (m) 
+3060   Atul A. Sagade et al.  /  Energy Procedia   57  ( 2014 )  3058 – 3070 
+Tsky 
+Sky Temperature (oC) 
+Nu 
+Nusselt Number 
+Aabs 
+Area of receiver(m2) 
+ 1.1 Literature Survey  
+Kam

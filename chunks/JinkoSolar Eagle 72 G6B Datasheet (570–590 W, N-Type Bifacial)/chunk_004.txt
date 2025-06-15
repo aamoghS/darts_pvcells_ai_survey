@@ -1,0 +1,26 @@
+CTERISTICS
+ELECTRICAL CHARACTERISTICS
+No. of Half Cells
+144 (2 x 72)
+Dimensions
+2278 x 1134 x 30mm (89.69 x 44.65 x 1.18in)
+Weight
+31kg (68.34lbs)
+Front Glass
+2.0mm, Anti-Reflection Coating
+Back Glass
+2.0mm, Heat Strengthened Glass
+Frame
+Anodized Aluminum Alloy
+Junction Box
+IP68 Rated
+Output Cables
+12 AWG, 1400mm (55.12in)
+Fire Type
+Type 29
+Pressure Rating
+5400Pa (Snow) & 2400Pa (Wind)
+Hailstone Test
+25mm Hailstone at 23 m/s
+(Two pallets = One stack)
+36pcs/pallet, 72pcs/stack, 576pcs/40 HQ Conta

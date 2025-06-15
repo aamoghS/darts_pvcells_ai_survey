@@ -1,0 +1,7 @@
+inanobviousincreaseofVocandJsc.TheIQEresult
+Table1Prametersofthechampionsiliconheterojunctionsolarcellsfeaturinganelectron-
+selectiveTiOxcontactwithdifferentthickness.Thepseudollfactor(pFF)mea-suredbySuns-Vocandthecalculatedseriesresistance(Rs)arelistedtogether.TiOxThickness(nm)Voc(mV)Jsc(mA/cm2)FF(%)pFF(%)η(%)Rs(mcm2)3.560339.180.383.318.90.554.563239.379.482.719.70.64
+5.561539.476.680.518.60.76
+Table2
+Parametersofthechampionsiliconheterojunctionsolarcellfeaturinganelectron-
+selectiveSiO2/Ti

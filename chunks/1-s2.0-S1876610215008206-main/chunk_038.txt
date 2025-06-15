@@ -1,0 +1,4 @@
+m Ag only start failing after about 100 h. The aging time until a solder-joint fails is observed to rapidly shorten for both Ag layer thicknesses by 1.5 to 2 orders of magnitude when the temperature of the aging process is increased by 20 K. We assume that similar to the procedure described in Ref. [6] the Ag top layer is consumed in an 
+intermetallic reaction with the solder material whose kinetics can be described by an Arrhenius law as in (1).  
+TkEBAekTk�Ÿ���Ÿ� /0)(
+   (1) The th
