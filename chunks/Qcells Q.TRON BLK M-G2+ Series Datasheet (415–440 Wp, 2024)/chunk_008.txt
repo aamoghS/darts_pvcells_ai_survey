@@ -1,0 +1,26 @@
+standard of p-mono*
+*Standard terms of guarantee for the 5 PV companies with the 
+highest production capacity in 2021 (February 2021)
+RELATIVE EFFCIENCY [%]
+RELATIVE EFFCIENCY
+COMPARED TO NOMINAL POWER [%]
+Properties for System Design
+Maximum System Voltage
+V
+SYS
+[V]
+1000 (IEC)/1000 (UL)
+PV module classiﬁcation
+Class II
+Maximum Series Fuse Rating
+[A DC]
+25
+Fire Rating based on ANSI / UL 61730
+C / TYPE 2
+Max. Design Load, Push / Pull
+3
+[lbs/ft
+2
+]
+113 (5400Pa)/50 (2400Pa)
+Permitted Modu

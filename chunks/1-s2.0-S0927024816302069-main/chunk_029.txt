@@ -1,0 +1,6 @@
+tions.
+Table1
+Bestpassivationcharacteristicsobtainedonpolishedwafers.Symmetricwafer
+structureswithn-polySi/SiOxonbothsides.“Lifetime”¼effectiveminoritycarrierrecombinationlifetime.Celltype(polished,Th.Ox)iVoc(mV)Joen-poly(fA/cm2)Lifetime(ms@n¼1015cm3)Afterdoping(200nmn-poly;49Ω/sq)7313.45.0AfterSiNx(70nmn-poly;186Ω/sq)7432.26.6AfterSiNxandFiring(200nmn-poly;
+49Ω/sq)7345.29.4AfterSiNxremoved(200nmn-poly;
+49Ω/sq)7323.012.3M.K.Stodolnyetal./SolarEnergyMaterials&SolarCell

@@ -1,0 +1,2 @@
+reby the TiN layer serves as a diffusion barrier against Al. It is therefore optimized by varying sputter parameters and by stuffing the grain boundaries with oxygen. On the optimized stack a cell-interconnector can be conventionally soldered even after a strong annealing step of 15 min at 425°C, which sets this concept apart from other PVD metallization approaches. Cell efficiency is not influenced by the solder stack compared to a 
+reference rear metallization by plain evaporated Al. Addition

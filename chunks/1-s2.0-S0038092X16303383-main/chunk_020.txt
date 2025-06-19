@@ -1,0 +1,11 @@
+6:0017:0018:0019:0004080120160
+Energy output / Wh
+ Regular module
+ Bifacial moduleTime
+Fig.5.Comparisonofenergyoutputbetweenabifacialmoduleandaregularmoduleinacloudyday.
+Table1Energyoutputmeasurementdatainyear2014.MonthBifacialmodule(kWh/kWp)Regularmodule(kWh/kWp)Relativedifferenceofenergyoutput(%)6118.21112.045.22795.4489.406.32
+8116.04110.954.38
+9115.79112.213.09
+1080.6378.492.65
+1185.6883.512.54Average101.9797.774.03B.Yuetal./SolarEnergy137(2016)129–133131
+4.1.1.Comparisonofenergyoutput4.1.

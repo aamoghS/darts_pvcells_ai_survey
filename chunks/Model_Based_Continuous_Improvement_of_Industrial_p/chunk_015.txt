@@ -1,0 +1,6 @@
+518   Gerd Fischer et al.  /  Energy Procedia   77  ( 2015 )  515 – 519  
+Fig. 3. Emitter sheet resistance 
+�!
+SH,em and emitter saturation current density (J0e) for different P-diffusion and surface passivation processes. For the evaluation the Richter Auger model and Band-gap narrowing (BGN) is used [7]. 3.
+ 
+Results In order to demonstrate the potential of our improvements we implemented the above discussed optimizations.        Table 1. Experimental cell results of 200 wafer group produc

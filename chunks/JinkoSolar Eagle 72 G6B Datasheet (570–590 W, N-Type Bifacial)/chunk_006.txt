@@ -1,0 +1,62 @@
+590N-72HL4-BDV
+STC
+NOCT
+STC
+NOCT
+STC
+NOCT
+STC
+NOCT
+STC
+NOCT
+Maximum Power (Pmax)
+570Wp
+430Wp
+575Wp
+433Wp
+580Wp
+437Wp
+585Wp
+441Wp
+590Wp
+445Wp
+Maximum Power Voltage (Vmp)
+43.58V
+40.56V
+43.73V
+40.73V
+43.88V
+40.89V
+44.02V
+41.05V
+44.17V
+41.21V
+Maximum Power Current (Imp)
+13.08A
+10.59A
+13.15A
+10.64A
+13.22A
+10.69A
+13.29A
+10.74A
+13.36A
+10.79A
+Open-circuit Voltage (Voc)
+52.10V
+39.60V
+52.30V
+39.75V
+52.50V
+39.90V
+52.70V
+40.05V
+52.90V
+40.20V
+Short-circuit Current (lsc)
+13.83A
+11.16A
+13.89A
+11.21A
+13.95A
+11.

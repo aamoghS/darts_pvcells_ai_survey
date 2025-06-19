@@ -1,0 +1,22 @@
+ximum system voltage (VDC)
+V
+ 1000
+Series fuse rating
+A
+ 25
+Power Tolerance
+Wp
+ 0 to +10
+Measurement conditions: STC 1000 W/m  AM 1.5  Temperature 25 °C  NOCT 800 W/m  AM 1.5  Measurement uncertainty ≤ 3%
+ 
+Sun simulator calibration reference modules from Fraunhofer Institute. Electrical characteristics may vary by ±5% and power by 0 to +10 W.
+1770 Port Drive
+Burlington WA 98233 USA
+T 
++1 360.569.4733
+info@silfabsolar.com
+SILFABSOLAR.COM
+7149 Logistics Lane
+Fort Mill SC 29715 USA
+T
+  

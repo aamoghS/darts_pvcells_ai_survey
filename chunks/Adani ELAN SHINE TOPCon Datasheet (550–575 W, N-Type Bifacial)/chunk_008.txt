@@ -1,0 +1,26 @@
+cation are under process
+Tc of open circuit voltage (ß)
+Tc of short circuit current (ɑ)Tc of power (Ƴ)
+1400±1
+2278±2
+C
+D
+990±1
+400±1
+1133±2
+1092±2
+9
+14
+Details-D
+7
+10
+Details-C
+FRAME CROSS SECTION(SHORT SIDE)
+11
+15
+30
+11
+32
+30FRAME CROSS SECTION�(LONG SIDE)14
+Incidence Irradiance = 1000 W/m2Incidence Irradiance = 800 W/m2Incidence Irradiance = 600 W/m2Incidence Irradiance = 400 W/m2Incidence Irradiance = 200 W/m2570.3 Wp456.8 Wp341.9 Wp226.2 Wp110.6 Wp
+1210864210002030405060Voltage (V

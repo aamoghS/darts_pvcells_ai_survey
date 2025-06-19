@@ -1,0 +1,10 @@
+erter(2300W)whichwereconnectedtothepublicgridand8regularmodules(2280Wp)wereconnectedtoanotherinverter(2300W)which
+012345678
+678910110204060
+80100120140160
+Energy output  kWh / kWpMonth
+ Bifacial module
+ Regular module
+  Relative difference of  energy outputRelative difference of energy output (%)
+Fig.6.Acomparisonofmonthlyenergyoutputinyear2014.
+Table2Energyoutputmeasurementinyear2014.MonthBifacialmodules(kWh/kWp)Regularmodules(kWh/kWp)Relativedifferenceofenergyoutput(%)165.3362.075.00281.5878.0

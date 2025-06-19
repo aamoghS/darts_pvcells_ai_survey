@@ -1,0 +1,21 @@
+
+0.33 % degradation per year. At 
+least 95.53 % of nominal power 
+up to 10 years. At least 90.58 % of 
+nominal power up to 25 years.
+All data within measurement 
+tolerances. Full warranties in 
+accordance with the warranty 
+terms of the Qcells sales 
+organisation of your respective 
+country.
+Typical module performance under low irradiance conditions in
+ 
+comparison to STC conditions (25 °C, 1000 W/m
+2
+).
+YEARS
+IRRADIANCE [W/m]
+Qcells
+Industry standard of p-mono*
+*Standard terms of guarantee f

@@ -1,0 +1,5 @@
+rom Al 
+indiffusion since it is the formation of Al oxide on the Ag surface which prevents solderability after an annealing 
+step [4]. At the end of solar cell processing an annealing step in forming gas (FGA) is common if it improves passivation quality and/or contact resistance, e.g. for PERC or BC-BJ structures with SiO
+x
+ passivation and/or PVD metallization. Depending on the specific cell concept, used annealing conditions vary, but most of these cell concepts benefit most from annealing st

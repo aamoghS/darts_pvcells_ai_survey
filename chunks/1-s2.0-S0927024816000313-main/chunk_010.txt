@@ -1,0 +1,4 @@
+.yang@anu.edu.au,louis.xbyang@gmail.com(X.Yang).
+SolarEnergyMaterials&SolarCells150(2016)32–38
+andnon-contactareas;2)extractionofcarriersattheenergyofquasi-FermilevelresultinginahighopencircuitvoltageVoc;3)nocostlythermaldiffusionprocesses;4)nocomplicatedcontact
+patterning;5)asimpleprocessowwithlowcost.Uptillnow,twotypesofCSCs,namelyi)intrinsica-Si:H(i-a-Si:H)/nþorpþa-Si:Handii)SiO2/nþorpþpolycrystallinesilicon(pc-Si),havebeensuccessfullydevelopedandimplementedintohighefciencysiliconsola

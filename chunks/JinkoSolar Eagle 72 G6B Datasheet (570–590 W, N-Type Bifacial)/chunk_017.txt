@@ -1,0 +1,7 @@
+urves (570W) 144 (2×72)N type Mono-crystallineNOCTSTCJKM560N-72HL4-BDVJKM565N-72HL4-BDVJKM570N-72HL4-BDV©2022 Jinko Solar Co., Ltd. All rights reserved.Specifications included in this datasheet are subject to change without notice.Length: ±2mmWidth: ±2mmHeight: ±1mmRow Pitch: ±2mm
+10.0
+7.0
+-40℃~+85℃1500VDC (IEC) 30A0~+3%-0.29%/℃-0.25%/℃0.045%/℃45±2℃80±5%BCFrontSideBackCurrent (A)Voltage (V)Cell Temperature (℃）Power (W)
+14.0
+9.0
+A-AD-D560Wp41.95V13.35A50.67V14.13A421Wp10.6

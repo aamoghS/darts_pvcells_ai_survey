@@ -1,0 +1,8 @@
+The speciﬁcations included in this datasheet are subject to change without notice.•The electrical data given here is for reference purpose only.•Please conﬁrm your exact requirements with the sales representative while placing your order. 
+Note:
+** Warranty:Please read Adani solar warranty documents thoroughly.
+*Caution:Please read safety and installation instructions before using the product.
+Peak power, Pmax(Wp)
+Maximum voltage, Vmpp (V)
+Maximum current, Impp (A)
+Open circuit voltage, 

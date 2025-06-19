@@ -1,0 +1,4 @@
+um Power (Pmax) Maximum Power Voltage (Vmp) Maximum Power Current (Imp) Open-circuit Voltage (Voc)Short-circuit Current (Isc)Module Efficiency STC (%)Operating Temperature(
+)Maximum system voltageMaximum series fuse ratingPower toleranceTemperature coefficients of PmaxTemperature coefficients of VocTemperature coefficients of IscNominal operating cell temperature  (NOCT) Cell Temperature 25°C
+Ambient Temperature 20°C
+( Two pallets = One stack ) 36pcs/pallets, 72pcs/stack, 936pcs/ 40'HQ Contain

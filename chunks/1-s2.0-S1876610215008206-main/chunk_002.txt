@@ -1,0 +1,2 @@
+tract 
+Since passivated emitter and rear cells (PERC) and other silicon solar cell concepts with evaporated aluminum (Al) as rear metallization are incompatible with a common solder process, in this work an annealing stable, solderable and long-term stable metallization scheme deposited by physical vapor deposition (PVD) is developed. The solder stack that complements the Al metallization consists of sputter deposited TiN/Ti/Ag or TiN/NiV/Ag, whereby the TiN layer serves as a diffusion barrier a

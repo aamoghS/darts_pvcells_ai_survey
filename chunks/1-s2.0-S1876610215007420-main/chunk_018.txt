@@ -1,0 +1,6 @@
+ relative to the horizontal centerline of the 
+receiver. Authors analysed the light ray paths within the concentrator system using a skew-ray tracing 
+approach. A method is then proposed for optimizing the geometry of the concentrator system in such a 
+way as to optimize the uniformity of the irradiance distribution on the heat-pipe surface. Authors also 
+demonstrated the validity of the proposed optimization method by means of ZEMAX/SolidWorks-Flow 
+simulations. It has been shown that the optim

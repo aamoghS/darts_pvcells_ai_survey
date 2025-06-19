@@ -1,0 +1,21 @@
+ layer and are then stuck in the SiN
+X
+, which acts as barrier layer. This makes the blistering and meanwhile a lower implied VOC appear. We supposed that blistering leads to a degradation of the passivation properties. 
+ 
+Table 2. Molecular hydrogen diffusion in dielectric films with different temperatures [11] Order of the magnitude in different temperatures 
+Diffusion Coefficients(cm
+2
+/s), D  
+400 
+�±�D 800
+ 
+�±�D
+ 
+H2
+ in SiO
+2
+ 3.50E-06 8.00E-06 
+H2
+ in Al
+2O3
+ 5.00E-12 1.30E-08 

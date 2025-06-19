@@ -1,0 +1,5 @@
+t prototype process has reached a conversion efficiency well over 21% which enables the manufacturing of a 
+60-cell based module with a power of 310W. Our best cell so far has a conversion efficiency of 21.5% which has been confirmed by the calibration laboratory of Fraunhofer ISE. This is to our knowledge the highest efficiency reported for industrial-size silicon solar cells with screen-printed metal front and rear contacts. 
+ 
+© 2015 The Authors. Published by Elsevier Ltd. 
+Peer review by th

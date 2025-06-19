@@ -1,0 +1,12 @@
+tions (STC): 1000 W/m³, AM 1.5, Temperature 25 °C • Nominal Operating Cell Temperature (NOCT): 800 W/m³, AM 1.5 • Bifacial Standard Test Conditions (BSTC): 1000 W/m2 + φ × 135 W/m2 , φ = 80 % , AM 1.5 • Electrical characteristics may vary by ±5%.
+82.6" [2098mm]
+1.4" [35mm]
+SideBack  View
+44.6" [1133mm]
+15.7" [399mm]
+51.2" [1300mm]
+15.7" [399mm]Mounting Hole (x4 - 12x7)
+43" [1093mm]
+2.4" [60mm]
+53.15"[1350mm]Cable LengthØ0.17" [Ø4.2mm] (x2)Grounding Hole
+Tracker Mounting Hole (x8 -

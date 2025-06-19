@@ -1,0 +1,2 @@
+ventional solder process and common cell-interconnectors. The power output of the modules is measured before and after 200 cycles of thermal cycling (TC200) between -40°C and +85°C, according to standard IEC 61215, to evaluate and compare the according power loss. Afterwards 
+the same modules undergo 1000 h of damp heat testing (DH1000) at 85°C at a relative humidity of 85% and then additionally 10 cycles of humidity freeze testing (HF10) with cycles between -40°C and 85°C at a relative hum

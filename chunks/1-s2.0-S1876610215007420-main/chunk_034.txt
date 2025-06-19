@@ -1,0 +1,2 @@
+n efficiency can be calculated as per equation 7 [11, 12, 13] �ß�ÜL���Ê�à�Â�Í�Û�å�Í�Û�Ð�Û�Å
+ ------------------------------- (7)  3.1 Calculation of Heat loss coefficient:- It is necessary to evaluate heat loss coefficient for trough covered with glass cover and trough without glass cover. In case of CPC major heat loss takes place through top opening, bottom and side losses are very small quantities so they are neglected. Overall heat loss coefficient

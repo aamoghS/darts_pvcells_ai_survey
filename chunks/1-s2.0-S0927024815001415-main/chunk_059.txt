@@ -1,0 +1,3 @@
+pedsolarcells,Sol.EnergyMater.Sol.Cells95(2011)1085–1094.[14]A.Fell,D.Walter,X.Yang,S.Surve,E.Franklin,K.Weber,D.MacDonald,Quantitativesurfacerecombinationimagingofsinglesideprocessedsilicon
+wafersobtainedbyphotoluminescencemodelling,EnergyProcedia55(2014)63–70.[15]M.A.Green,A.W.Blakers,N.R.Willison,T.Szpitalak,E.M.Keller,E.Gauja,P.J.Bart,TheMINPsolarcell–anewhighvoltage,highefciencysiliconsolarcell,in:Proceedingsofthe15thIEEEPhotovoltaicsSpecialistConference,1981,pp.
+1405–1408.[16]K.J�

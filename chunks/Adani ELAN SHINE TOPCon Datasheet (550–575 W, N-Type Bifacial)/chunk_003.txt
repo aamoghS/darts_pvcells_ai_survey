@@ -1,0 +1,48 @@
+)
+Maximum current, Impp (A)
+Open circuit voltage, Voc (V)
+Short circuit current, Isc (A)
+Module efﬁciency (%)
+550 
+13.10
+50.20 
+13.87
+565
+42.60
+13.27
+50.80
+14.0
+560
+42.40
+13.21
+50.60
+13.99
+555
+42.20
+13.16
+50.40
+13.93
+570
+42.80
+13.32
+51.00
+14.11
+575
+43.00
+13.38
+51.20
+14.17
+Bifaciality Gain
+Peak power, (0 ~+ 4.99 Wp) Pmax(Wp)
+Maximum voltage, Vmpp (V)
+Maximum current, Impp (A)
+Open circuit voltage, Voc (V)
+Short circuit current, Isc (A)
+Module efﬁciency (%)
+10%
+616
+14.29
+50 .90
+15.39
+23.8
+15%

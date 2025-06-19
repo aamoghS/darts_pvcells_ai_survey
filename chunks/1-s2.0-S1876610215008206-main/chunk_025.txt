@@ -1,0 +1,4 @@
+ cycles between -40°C and 85°C at a relative humidity 
+of 85%, each according to standard IEC 61215.  3.
+ 
+Barrier optimization  For the PVD metallization concept it is vital that the TiN layer is optimized regarding its barrier quality to prevent Al diffusion even during a typical annealing step. It was reported that TiN is most effective against Al diffusion when it has a dense microstructure and a stoichiometric ratio of 1:1, which coincides with the minimum of the specific resistance [7]. 

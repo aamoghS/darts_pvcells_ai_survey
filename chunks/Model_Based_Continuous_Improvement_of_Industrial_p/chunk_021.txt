@@ -1,0 +1,3 @@
+ 19.4%. Acknowledgements The authors would like to thank all members of the departments of characterization, technology center and solar cell development at SolarWorld Innovations in Freiberg, Germany. References [1] Blakers, A. W., Wang, A., Milne, A. M., Zhao, J., & Green, M. A. (1989). 22.8% efficient silicon solar cell. Applied Physics Letters, 55(13), 1363-1365. 
+[2] 
+Fischer, G., Strauch, K., Weber, T., Müller, M., Wolny, F., Schiepe, R., ... & Neuhaus, H. (2014). Simulation based develop

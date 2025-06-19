@@ -1,0 +1,6 @@
+TYPE
+NEXT-GENERATION N-TYPE
+NEXT-GENERATION N-TYPE
+WARRANTIESModule product workmanship warranty25 years**Linear power performance guarantee30 years  ≥ 98% end 1st yr ≥ 94.7% end 12th yr ≥ 90.8% end 25th yr l≥ 89.3% end 30th yr
+TEMPERATURE RATINGS        Temperature Coeicient Isc0.04 %/°CTemperature Coeicient Voc-0.24 %/°CTemperature Coeicient Pmax-0.29 %/°CNOCT (± 2°C)45 °COperating temperature-40/+85 °C
+SHIPPING SPECSModules Per Pallet:29 or 29 (California) Pallets Per Tru

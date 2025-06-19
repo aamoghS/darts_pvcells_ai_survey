@@ -1,0 +1,5 @@
+over for instant water heating and steam generation application with water flow rate of 0.011kg/s.  During experimental performance of collector, copper receiver has been coated with black copper as selective absorber coatings. The experiments have been carried out to check the reproducibility of the results. Table 2 shows the experimental data collected.   
+ Atul A. Sagade et al.  /  Energy Procedia   57  ( 2014 )  3058 – 3070 3065
+ Table2: Experimental data  
+Time  
+Global Radiation (w/m2) 

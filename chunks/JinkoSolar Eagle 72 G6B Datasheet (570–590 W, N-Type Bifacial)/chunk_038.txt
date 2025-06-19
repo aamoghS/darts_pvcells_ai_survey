@@ -1,0 +1,9 @@
+2.45%23.37%604Wp25.60%661Wp27.82%719Wp23.57%609Wp25.82%667Wp28.07%725Wp
+Normalized Isc, Voc, Pmax (%)
+C
+WARRANTY
+1
+st
+ year degradation not to exceed 1%, each subsequent year not to 
+exceed 0.4%, minimum power at year 30 is 87.4% or greater.
+12-year product and 30-year linear power warranty
