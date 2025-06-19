@@ -2,6 +2,7 @@ package main
 
 import (
 	"fmt"
+	"io/ioutil"
 	"os"
 	"path/filepath"
 	"runtime"
@@ -12,7 +13,7 @@ import (
 )
 
 const (
-	inputDir     = "./pdfs"
+	inputDir     = "pdfs"
 	outputDir    = "./chunks"
 	chunkSize    = 500
 	chunkOverlap = 50
@@ -50,7 +51,8 @@ func main() {
 
 	go func() {
 		for _, f := range files {
-			if strings.HasSuffix(strings.ToLower(f.Name()), ".pdf") {
+			lowerName := strings.ToLower(f.Name())
+			if strings.HasSuffix(lowerName, ".pdf") || strings.HasSuffix(lowerName, ".txt") {
 				taskCh <- Task{
 					Path: filepath.Join(inputDir, f.Name()),
 					Name: f.Name(),
@@ -67,9 +69,9 @@ func main() {
 
 	for res := range resultCh {
 		if res.Err != nil {
-			fmt.Printf("❌ Failed %s: %v\n", res.Name, res.Err)
+			fmt.Printf("error %s: %v\n", res.Name, res.Err)
 		} else {
-			fmt.Printf("✅ Processed %s\n", res.Name)
+			fmt.Printf("done %s\n", res.Name)
 		}
 	}
 }
@@ -77,7 +79,16 @@ func main() {
 func worker(tasks <-chan Task, results chan<- Result, wg *sync.WaitGroup) {
 	defer wg.Done()
 	for task := range tasks {
-		err := processPDFToChunks(task.Path, task.Name)
+		ext := strings.ToLower(filepath.Ext(task.Name))
+		var err error
+		switch ext {
+		case ".pdf":
+			err = processPDFToChunks(task.Path, task.Name)
+		case ".txt":
+			err = processTXTToChunks(task.Path, task.Name)
+		default:
+			err = fmt.Errorf("unsupported file type: %s", ext)
+		}
 		results <- Result{Name: task.Name, Err: err}
 	}
 }
@@ -96,10 +107,8 @@ func processPDFToChunks(path, name string) error {
 
 	var buffer strings.Builder
 	chunkIndex := 0
-
 	numPages := r.NumPage()
 
-	// Channel to write chunks asynchronously
 	type chunk struct {
 		text string
 		idx  int
@@ -107,14 +116,13 @@ func processPDFToChunks(path, name string) error {
 	chunkCh := make(chan chunk, 4)
 	var wg sync.WaitGroup
 
-	// Writer goroutine
 	wg.Add(1)
 	go func() {
 		defer wg.Done()
 		for ch := range chunkCh {
 			chunkFilename := filepath.Join(pdfChunkDir, fmt.Sprintf("chunk_%03d.txt", ch.idx))
 			if err := os.WriteFile(chunkFilename, []byte(ch.text), 0644); err != nil {
-				fmt.Printf("Failed writing chunk file %s: %v\n", chunkFilename, err)
+				fmt.Printf("failed %s: %v\n", chunkFilename, err)
 			}
 		}
 	}()
@@ -134,18 +142,15 @@ func processPDFToChunks(path, name string) error {
 			bufStr := buffer.String()
 			chunkText := bufStr[:chunkSize]
 
-			// Send to write channel
 			chunkCh <- chunk{text: chunkText, idx: chunkIndex}
 			chunkIndex++
 
-			// Rebuild buffer with overlap preserved
 			remaining := bufStr[chunkSize-chunkOverlap:]
 			buffer.Reset()
 			buffer.WriteString(remaining)
 		}
 	}
 
-	// Write remaining text chunks
 	remainingText := buffer.String()
 	for i := 0; i < len(remainingText); i += chunkSize - chunkOverlap {
 		end := i + chunkSize
@@ -158,6 +163,36 @@ func processPDFToChunks(path, name string) error {
 
 	close(chunkCh)
 	wg.Wait()
+
+	return nil
+}
+
+func processTXTToChunks(path, name string) error {
+	contentBytes, err := ioutil.ReadFile(path)
+	if err != nil {
+		return err
+	}
+	content := string(contentBytes)
+
+	txtChunkDir := filepath.Join(outputDir, strings.TrimSuffix(name, filepath.Ext(name)))
+	if err := os.MkdirAll(txtChunkDir, 0755); err != nil {
+		return err
+	}
+
+	chunkIndex := 0
+	for i := 0; i < len(content); i += chunkSize - chunkOverlap {
+		end := i + chunkSize
+		if end > len(content) {
+			end = len(content)
+		}
+		chunkText := content[i:end]
+
+		chunkFilename := filepath.Join(txtChunkDir, fmt.Sprintf("chunk_%03d.txt", chunkIndex))
+		if err := os.WriteFile(chunkFilename, []byte(chunkText), 0644); err != nil {
+			return fmt.Errorf("failed to write chunk %d: %w", chunkIndex, err)
+		}
+		chunkIndex++
+	}
 
 	return nil
 }

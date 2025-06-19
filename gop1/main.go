@@ -1,5 +1,6 @@
 package main
 
+// custom package for zotero pdf downloader on local machine
 import (
 	"encoding/json"
 	"fmt"
@@ -66,7 +67,7 @@ func getSubcollections(groupID, parentKey, apiKey string) []Collection {
 
 func downloadPDF(groupID, apiKey, itemKey, fileName string) error {
 	url := fmt.Sprintf("https://api.zotero.org/groups/%s/items/%s/file", groupID, itemKey)
-	fmt.Println("url used", url)
+	fmt.Println("Downloading:", url)
 
 	req, _ := http.NewRequest("GET", url, nil)
 	req.Header.Set("Zotero-API-Key", apiKey)
@@ -79,7 +80,7 @@ func downloadPDF(groupID, apiKey, itemKey, fileName string) error {
 	defer resp.Body.Close()
 
 	if resp.StatusCode != 200 {
-		return fmt.Errorf("failed %d", resp.StatusCode)
+		return fmt.Errorf("failed with status %d", resp.StatusCode)
 	}
 
 	folder := "pdfs"
@@ -120,7 +121,7 @@ func processItemsInCollection(groupID, collectionKey, apiKey string, pdfTitles *
 			fmt.Printf("  pdf: %s\n", item.Data.Title)
 			err := downloadPDF(groupID, apiKey, item.Data.Key, item.Data.Title)
 			if err != nil {
-				fmt.Println("    error", err)
+				fmt.Println("    error:", err)
 			} else {
 				*pdfTitles = append(*pdfTitles, item.Data.Title)
 			}
@@ -130,19 +131,30 @@ func processItemsInCollection(groupID, collectionKey, apiKey string, pdfTitles *
 		childrenURL := fmt.Sprintf("https://api.zotero.org/groups/%s/items/%s/children", groupID, item.Data.Key)
 		var children []Attachment
 		if err := fetchJSON(childrenURL, apiKey, &children); err != nil {
-			fmt.Println("error", err)
+			fmt.Println("  erro", err)
 			continue
 		}
+
 		for _, att := range children {
 			if att.Data.ContentType == "application/pdf" {
-				fmt.Printf("  ✅ %s → PDF: %s\n", item.Data.Title, att.Data.Title)
+				isFulltext := false
+				lowerTitle := strings.ToLower(att.Data.Title)
+				if strings.Contains(lowerTitle, "fulltext") || strings.Contains(lowerTitle, "full text") {
+					isFulltext = true
+				}
+
+				if isFulltext {
+					fmt.Printf("FPDF: %s → %s\n", item.Data.Title, att.Data.Title)
+				} else {
+					fmt.Printf(" pdf: %s → %s\n", item.Data.Title, att.Data.Title)
+				}
+
 				err := downloadPDF(groupID, apiKey, att.Key, att.Data.Title)
 				if err != nil {
-					fmt.Println("error:", err)
+					fmt.Println("  error downloading PDF:", err)
 				} else {
 					*pdfTitles = append(*pdfTitles, att.Data.Title)
 				}
-				break
 			}
 		}
 	}
@@ -153,7 +165,7 @@ func main() {
 	apiKey := os.Getenv("API_KEY")
 	groupID := os.Getenv("GROUP_ID")
 	if apiKey == "" || groupID == "" {
-		fmt.Println("env is wrong")
+		fmt.Println("Environment variables API_KEY or GROUP_ID are missing")
 		return
 	}
 
@@ -162,7 +174,7 @@ func main() {
 		Data Collection `json:"data"`
 	}
 	if err := fetchJSON(url, apiKey, &allCollections); err != nil {
-		fmt.Println("error collection", err)
+		fmt.Println("Error fetching collections:", err)
 		return
 	}
 
@@ -170,13 +182,13 @@ func main() {
 	for _, col := range allCollections {
 		if col.Data.Name == "Dataset-Photovoltaics" {
 			datasetKey = col.Data.Key
-			fmt.Println("parent ", datasetKey)
+			fmt.Println("Parent collection found:", datasetKey)
 			break
 		}
 	}
 
 	if datasetKey == "" {
-		fmt.Println("dne")
+		fmt.Println("Dataset-Photovoltaics collection not found")
 		return
 	}
 
@@ -193,4 +205,5 @@ func main() {
 			processItemsInCollection(groupID, sub2.Key, apiKey, &pdfTitles)
 		}
 	}
+
 }
