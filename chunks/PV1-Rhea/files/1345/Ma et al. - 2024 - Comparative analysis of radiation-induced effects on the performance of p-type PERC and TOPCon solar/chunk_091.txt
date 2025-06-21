@@ -1,0 +1,19 @@
+ralian Research Council under the grant LP210200883. During the preparation of the original draft, F.-J. Ma used GPT-3.5 to improve readability and English. 
+Fig. 8.The EOL efficiencies of (a) PERC and (b) p-TOPCon as a function of the substrate acceptor concentration ranging from 10
+14 
+to 10
+16 
+cm
+�3 
+for three electron fluences, 1 ×10
+14
+, 5 ×10
+14 
+and 1 ×10
+15 
+cm
+�2
+, respectively. 
+Fig. 9.The EOL V
+oc 
+and FF of (a) PERC and (b) p-TOPCon on substrates with the acceptor concentrati

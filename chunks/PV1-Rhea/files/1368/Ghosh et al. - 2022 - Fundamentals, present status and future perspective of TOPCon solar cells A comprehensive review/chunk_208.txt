@@ -1,0 +1,11 @@
+poly-Si) structure at the front side [79]. The solar cells were developed onto n-type, 1–5 -cm CZ c-Si wafers with an active cell area of 2 cm ×2 cm. After optimizing the carbon doping concentration, thickness of boron doped poly-SiC
+x 
+layer and post-deposition annealing temperature a conversion efficiency of 19.82% (V
+oc 
+=694.7 mV, J
+sc 
+=36.28 mA/cm
+2 
+and FF =78.63%) was yielded for DPPCs solar cell featuring boron doped poly-SiC
+x 
+layer at the rear side whereas the similar cell struct

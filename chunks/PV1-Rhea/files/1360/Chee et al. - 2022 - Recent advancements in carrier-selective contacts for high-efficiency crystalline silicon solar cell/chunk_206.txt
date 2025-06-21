@@ -1,0 +1,2 @@
+ the simple model capacitor of Eq. 1, so that the predominant passivation mechanism in the total passivation is chemical passivation. It should be considered, however, that resistive losses may arise from newly-developed In-free TCOs following high-temperature processes, or from thin poly-Si layers that usually feature high sheet resistances [121,153,194]. Nevertheless, by fine-tuning the dielectric stack, the TCD sheet resistance can be reduced. 
+Fig. 10.ECV-measured phosphorus doping profiles 

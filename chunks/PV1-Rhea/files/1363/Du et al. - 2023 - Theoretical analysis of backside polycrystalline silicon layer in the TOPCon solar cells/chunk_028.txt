@@ -1,0 +1,21 @@
+ gap will be decrease when doped with carbon, then the band gap will increase. With the change of band gap, V
+oc
+, J
+sc
+, FF and E
+ff 
+of TOPCon solar cells have been greatly changed. Fig. 2 shows the V
+oc
+, J
+sc
+, FF and E
+ff 
+of TOPCon solar cells with different band gaps. By changing the band gap width from 1.11 eV to 1.34 eV, the V
+oc 
+of TOPCon solar cells increases from 711.6 to 745.5 mV, J
+sc 
+increases from 39.17 to 41.34 mA/cm
+2
+, and FF increases from 79.03% to 85.20%. E
+ff 
+increases 

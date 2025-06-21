@@ -1,0 +1,7 @@
+ions suggests that the front side of the cell was not planar; otherwise, achieving a J
+sc 
+of 40 mA/cm
+2 
+would be unattainable. Yet, it is very likely that the front surface was partially planar and partially textured with inverted pyramidal structures as indicated in Ref. [29]. From a design standpoint for space applications, adopting a fully textured front surface may lead to higher in-orbit operating tempera
+-
+tures, potentially counteracting the optical benefits derived from light trapping.

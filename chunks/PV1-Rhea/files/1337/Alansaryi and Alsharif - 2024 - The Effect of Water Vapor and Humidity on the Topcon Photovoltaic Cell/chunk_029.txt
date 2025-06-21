@@ -1,0 +1,12 @@
+ty on the Topcon cell. Therefore, the 
+main research question is determined as the following: 
+ 
+Q1. What is the effect of water vapor and humidity on the Topcon cell? 
+ 
+Literature Review 
+ 
+It has been discussed the use of a tunnel oxide layer less than 2 nm thick to achieve passivated contact in 
+sophisticated, high
+-
+efficiency silicon solar cells based on the full back surface field (BSF). Through interface 
+passivation, the insertion of the tunnel oxide layer resulted in a significant impr

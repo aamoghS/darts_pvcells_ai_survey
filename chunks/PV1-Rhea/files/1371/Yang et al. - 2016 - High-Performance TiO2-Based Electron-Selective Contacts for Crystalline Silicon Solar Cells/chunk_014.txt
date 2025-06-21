@@ -1,0 +1,3 @@
+lls. However, the carrier selectivity 
+characteristics of TiO 2  thin ﬁ lm are yet to be investigated, and the PCE of silicon solar cells with a full-area TiO 2  contact has not been fully explored to date.  In this work, we present high-efﬁ ciency silicon solar cells featuring a full-area electron-selective TiO 2  contact, which is deposited by atomic layer deposition (ALD). The performance 
+of ultrathin TiO 2  ﬁ lms as an electron-selective contact is inves-tigated by considering both th

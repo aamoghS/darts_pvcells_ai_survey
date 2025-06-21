@@ -1,0 +1,7 @@
+em with the experimentally determined QE and I–V characteristics under stan
+-
+dard test conditions. Next, the parameters derived for the n-type TOP
+-
+Con cell were used to simulate a p-type TOPCon cell as it is well known that p-type silicon is less sensitive to radiation damage compared to n- 
+Table 5 Capture cross section values and introduction rates from previous publications together with this work.  
+Trap energy levels Uniform introduction [21] Uniform introduction [3] Uniform introducti

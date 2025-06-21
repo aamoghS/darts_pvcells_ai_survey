@@ -1,0 +1,9 @@
+MoO
+x
+) [37–39] can serve very well as the hole-selective/collecting layer (HCL). In fact, SHJ solar cells with MoO
+x 
+and TiO
+x 
+as the hole- and electron- selective layers, respec
+-
+tively, on an n-Si wafer, were characterized as having a low temperature coefficient of the efficiency [40], thereby indicating effective mitigation of thermal losses. Efficiencies above 22% can be achieved (e.g., ref. [30, 40], etc.), with a high value reported so far of 22.1% [41] and 23.5% [38] for the electro

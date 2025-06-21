@@ -1,0 +1,4 @@
+FGA annealing (see Figure S4, Sup-porting Information). Due to the strong oxygen afﬁ nity of Al metal, aluminum atoms easily attract oxygen atoms from the 
+TiO 2  interlayer and a redox reaction occurs between Al and TiO 2  forming an interfacial AlO  x  . [ 32 ]  This interfacial AlO x  layer is assumed to be a nonstoichiometric, Al rich layer due to the 
+low  ρ  c  obtained for these devices. The composition of the TiO 2  layer, which is initially considered to be amorphous and stoi-
+chiome

@@ -1,0 +1,7 @@
+phorus diffused front emitter and p-poly-Si/SiO
+x 
+passivated-rear surface [22]. Bulk (p-type c-Si) and surface (doped front emitter) recombination losses are key constraints, however, to the efficiency performance. New initiatives to reduce the parasitic absorption losses in the poly-Si were recently reported through various parameter investigations in the deposition and processing of the SiO
+x
+/n
++
+-poly-Si passivating contact [171]. Poly-Si layer etching, as well as enacting the appropriate d

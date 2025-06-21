@@ -1,0 +1,4 @@
+assivation stack for c-Si solar cell front contacts significantly reduces the surface recombination current compared to that from conventional Al-BSF technology. With the same passivation stack on the rear surface, 21.3%-efficiency-SiO
+2
+-PERC cell technology can be realized [163]. The current standards of industrial PERC mass production can be upgraded by TOPCon technology on the high-efficiency, busbarless p-type bifacial cell, featuring a phosphorus diffused front emitter and p-poly-Si/SiO
+x 

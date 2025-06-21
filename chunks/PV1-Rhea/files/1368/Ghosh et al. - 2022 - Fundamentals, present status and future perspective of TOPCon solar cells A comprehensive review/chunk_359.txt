@@ -1,0 +1,9 @@
+ reference cells. In contrast, rela
+-
+tively low V
+oc 
+was realized due to the emitter-induced inhomogeneities. Besides, the loss analysis demonstrated that carrier recombination at grain boundaries and at the front emitter was mainly responsible for the electrical losses. However, the authors opined that improving the crys
+-
+tallization process, hydrogenation of the bulk and optimizing the boron emitter may lead to enhance the power conversion efficiency of multi
+-
+crystalline silicon solar cel

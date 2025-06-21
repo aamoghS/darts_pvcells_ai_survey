@@ -1,0 +1,7 @@
+ter and Rear Poly-silicon”) by using industrial manufacturing tools [117]. These large area and screen-printed TOPCon solar cells were fabricated onto 6" n-type CZ wafers where the best cell demonstrated a conversion efficiency of 20.7% with V
+oc 
+=675 mV, J
+sc 
+=38.8 mA/cm
+2 
+and FF =79.1%. Since then, many reports have been published regarding the development of bifacial TOPCon solar cells which will be discussed in the subsequent section. In 2018, Nandakumar et al. claimed to develop 22.8% 

@@ -1,0 +1,2 @@
+ic (ITRPV), Twelfth Edition, April 2021, https://itrpv.vdma.org/web/itrpv/download. D.K. Ghosh et al.                                                                                                                                                                                                                                
+[20]F. Feldmann, M. Bivour, C. Reichel, M. Hermle, S.W. Glunz, A passivated rear contact for high-efficiency n-type silicon solar cells enabling high VocS and FF>82%”, in: 

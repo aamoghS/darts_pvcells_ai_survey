@@ -1,0 +1,21 @@
+ion software, Anand et al. also made an effort to optimize the major two parameters of TOPCon structure i.e., the thick
+-
+ness of ultra-thin tunnelling SiO
+x 
+layer and the doping concentration of doped poly-Si layer [102]. The study revealed that a conversion effi
+-
+ciency of 25% (V
+oc 
+=760 mV, J
+sc 
+=43 mA/cm
+2 
+and FF =80%) may be obtained for the TOPCon solar cells featuring thickness of SiO
+x 
+layer as 1 nm and doping concentration of n
++
+poly-Si layer as 10
+19
+cm
+�3
+. On the other hand,

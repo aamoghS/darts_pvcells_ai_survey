@@ -1,0 +1,13 @@
+r at the rear side whereas the similar cell structure featuring carbon free p-TOPCon structure showed quite inferior performance (V
+oc 
+=671.5 mV, J
+sc 
+=36.16 mA/cm
+2 
+and FF =56.12%, 
+ 
+=13.63%) to its coun
+-
+terpart. Again, significant improvement in V
+oc 
+and FF was realized for the carbon doped samples due to preserving the passivation quality of p-TOPCon structure by suppressing the blistering effect upon thermal treatment. 6.2.3.Variation of thickness and/or doping concentration of doped

@@ -1,0 +1,15 @@
+ Fig. 6(b) that the device performance featuring the double-layer structure is significantly improved compared to that of the C-free device. Typically, the TOPCon SC with the double-layer structure delivers a remarkable PCE of 24.18%, with an open-circuit voltage (V
+oc
+) of 707.3 mV, a short circuit current density (J
+sc
+) of 42.03 mA/cm
+2
+, and a fill factor (FF) of 81.34%. In contrast, the C-free device shows a rela
+-
+tively poor PCE of 23.61%, a V
+oc 
+of 698.8 mV, a J
+sc 
+of 41.80 mA/cm
+2
+, a

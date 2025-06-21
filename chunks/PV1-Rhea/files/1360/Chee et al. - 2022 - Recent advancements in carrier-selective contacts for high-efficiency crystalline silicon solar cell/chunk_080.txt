@@ -1,0 +1,9 @@
+passivating contacts, also known as hetero
+-
+contacts, are new industrially-favored technologies. The back contact losses related to the c-Si solar cell are crucial factors accounting for the decline in V
+oc 
+and efficiency [57,75]. In terms of reducing back contact recombination losses as well as increasing the electron-selectivity and hole-blocking capabilities in which the relative barrier height is essen
+-
+tial, better potential was shown for the TMO (e.g., TiO
+2
+)/p-Si than for the Al/p-Si 

@@ -1,0 +1,5 @@
+n dielectric layer using fixed charges of opposite charge polarity [8]. The excess majority charge carriers at the surface assures field-effect passivation (or charge carrier population control) due to the high charge carrier asymmetry so that minority charge carrier diffusion oc
+-
+curs with minimal recombination losses at the interfaces. Efficient charge transport towards the contacts guarantees low electrical re
+-
+sistivity in the base region with dopant-free CSCs [8,43]. By moving the front c

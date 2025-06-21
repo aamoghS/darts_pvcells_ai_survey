@@ -1,0 +1,6 @@
+ and 1.0 Ω cm 2  is obtained for the n-Si/Al contact, which can be attributed to a relatively large Schottky barrier 
+height (Φ B  0.7–0.80 eV) between n-Si and Al. [ 28 ]  The electrons have to pass through this large barrier before being collected by 
+Al, as shown in Figure  3 b. A thin interfacial dielectric inserted 
+between the semiconductor and metal can increase the carrier 
+extraction for optoelectronic devices through the reduction of 
+the Φ B  at the interface, [ 21,29 ]  which m

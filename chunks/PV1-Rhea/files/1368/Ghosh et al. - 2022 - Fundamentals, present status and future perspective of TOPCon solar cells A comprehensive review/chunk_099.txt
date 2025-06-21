@@ -1,0 +1,25 @@
+ing value of J
+0 
+was found to be 4.3 fA/cm
+2
+. Further improve
+-
+ment in the passivation quality with an iV
+oc 
+of 747 mV and J
+0 
+of 2 fA/cm
+2 
+was realized after performing AlO
+x
+/SiN
+x 
+hydrogenation step. In contrast, prior to the hydrogenation step the developed n-TOPCon structure which comprised of NAOS-SiO
+x 
+showed slightly inferior passivation quality to its counterpart PANO-SiOx as it offered an iV
+oc 
+of 727 mV and J
+0 
+of 4.4 fA/cm
+2
+. The study also revealed that the optimized anne

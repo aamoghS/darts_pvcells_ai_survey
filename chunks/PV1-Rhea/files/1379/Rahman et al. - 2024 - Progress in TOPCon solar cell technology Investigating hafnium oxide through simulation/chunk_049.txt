@@ -1,0 +1,3 @@
+arios requiring augmented light-matter interaction, effective light confinement, or optical waveguiding [34]. These refrac
+-
+tive index values are approximate and can fluctuate based on material composition, structure, and measurement conditions [35]. Accurate refractive index measurements often demand sophisticated techniques such as ellipsometry, spectroscopic methods, or interferometry [14]. The figure suggests that the refractive index of HfO₂ decreases with increasing wavelength, a relati

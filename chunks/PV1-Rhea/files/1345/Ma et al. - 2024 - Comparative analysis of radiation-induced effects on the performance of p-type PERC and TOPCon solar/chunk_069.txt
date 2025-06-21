@@ -1,0 +1,8 @@
+eneration assumption.  
+Fig. 6.Assuming an exponential defect generation profile with a depth factor of 960 
+
+m, reasonable agreements can be obtained for (a) EQE and (b) abnormal J
+sc 
+behaviour. 
+F.-J. Ma et al.                                                                                                                                                                                                                                   
+3.5.PERC vs p-TOPCon The initial efficiencies at BOL for b

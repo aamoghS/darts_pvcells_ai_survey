@@ -1,0 +1,11 @@
+ distribution throughout the substrate. It is important to note that consistent introduction rates capable of reconciling all EQE curves for different electron fluences remained elusive, hinting at significant sample-to-sample variations. By manipu
+-
+lating the front metal fraction, the simulated cell achieved the same J
+sc 
+of 40 mA/cm
+2
+, V
+oc 
+of 605 mV, fill factor (FF) of 78, efficiency of 14 % under 25 
+◦
+C and AM0 conditions. Through careful adjustments of the introduction rates, the ob

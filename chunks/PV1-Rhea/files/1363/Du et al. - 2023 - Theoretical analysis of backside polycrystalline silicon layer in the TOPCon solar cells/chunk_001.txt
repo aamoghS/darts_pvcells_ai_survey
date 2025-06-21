@@ -1,0 +1,9 @@
+83, China 
+b
+Institute of Microelectronics of the Chinese Academy of Sciences, Beijing, 100029, China 
+c
+University of Chinese Academy of Sciences, Beijing, 100029, China   
+ARTICLE INFO  
+Keywords: TOPCon Poly-Si Band gap Defect states 
+ABSTRACT  
+As an upgraded version of passivated emitter and rear cell (PERC) solar cells, the performance of tunnel oxide passivating contacts (TOPCon) solar cells is very dependent on the silicon oxide layer and poly-Si layer. We found that different crystalliz

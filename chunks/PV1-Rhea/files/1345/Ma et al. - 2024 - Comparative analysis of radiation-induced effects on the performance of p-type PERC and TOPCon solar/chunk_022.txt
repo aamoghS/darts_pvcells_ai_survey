@@ -1,0 +1,22 @@
+-type substrates emerged as a viable strategy to circumvent BO defects [15]. In the absence of BO defects, the maximum achievable lifetimes were found to be mainly dependent on the sub
+-
+strate’s doping concentration [16]. Under the circumstance where the excess carrier density (n) equals 10 % of the hole concentration (p
+0
+), the bulk lifetime (
+
+b
+) within a p-type substrate can be described through the following empirical parameterization [16]: 
+1
+
+b
+=
+15500
+
+s+
+p
+20
+5×10
+35
+cm
+�6
+

@@ -1,0 +1,7 @@
+onger-wavelength photons back into space. The absence of critical information about the light trapping strategy hampers the ability to achieve a precise alignment with the BOL EQE. Additionally, the shape of the BOL EQE influences the EQE profile following an electron fluence of 4 ×10
+16 
+cm
+�2
+. By fine-tuning the introduction rates of the five identified defects, it was established that the introduction rate of the donor defect positioned 0.18 eV below the conduction band (E
+c
+) needed to b

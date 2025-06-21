@@ -1,0 +1,26 @@
+ 
+[11]
+ 
+M. Koehl, S. Hoffmann, S. Wiesmeier, Evaluation of damp
+-
+heat testing of photovoltaic modules, Prog. 
+Photovoltaics Res. Appl. 25 (2) (2017) 175
+–
+183, https://doi.org/10.1002/pip.2842, 2017
+-
+02
+-
+01.
+ 
+[12]
+ 
+Segbefia, Oscar & Imenes, Anne Gerd & Saetre, Tor. “Moisture ingress in photovoltaic modules: A 
+review”. Solar Energy. 224. 889
+-
+906 (2021). 10.1016/j.solener.2021.06.055.
+ 
+[13]
+ 
+Jankovec, M., Annigoni, E., Ballif, C., Topiˇc, M., “In
+-
+situ Determination of Moistur

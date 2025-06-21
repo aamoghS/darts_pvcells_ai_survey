@@ -1,0 +1,13 @@
+excellent surface passivation quality [72]. Besides, an improvement in the surface passivation quality with an implied open-circuit voltage (iV
+oc
+) of 718 mV, an effective mi
+-
+nority carrier lifetime (
+
+) of 2 ms and single-sided recombination current density (J
+0
+) of 8.6 mA/cm
+2 
+was realized after depositing 60 nm SiN
+x 
+layer by PECVD method onto this laser processed TOPCon structure. However, the authors opined that further optimization of laser process and the thickness of a-Si:H layer 

@@ -1,0 +1,10 @@
+ efficiency, etc. [15]
+ 
+Currently, the most important work in silicon photovoltaic research and development is bridging the performance 
+of poly silicon passivating contacts and developing a blatant passivating contact that is scientifically feasible. 
+Crystalline silicon solar cel
+ls are the industry standard in the solar industry. Double
+-
+sided contacted cells are the 
+preferred option for industrial production because they are less complex and exhibit higher efficiency than 
+interdigitated 

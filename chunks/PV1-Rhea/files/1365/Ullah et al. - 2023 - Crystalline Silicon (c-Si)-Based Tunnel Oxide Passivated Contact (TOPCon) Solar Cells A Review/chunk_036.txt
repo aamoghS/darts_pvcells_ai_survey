@@ -1,0 +1,6 @@
+cethemajoritycarrierﬂow,whichimprovesandenhancestheoverallperformance.
+Energies2023,16,715
+7of10
+Figure6.ComparisonofpowerconversionefﬁciencybetweenPERC-mono-,PERC-multi-,andTOPCon-basedsolarcellswithc-Siasabasematerial.Datafrom[37].Table1.Efﬁciencycomparisonofvariousc-Sibasedsolarcelltechnologies.Datafrom[37].
+SingleJunctionStructureCellEfﬁciency(%)CellArea(cm2)YearGroup/Institute
+p-typePERC25.041998UNSWIBC25.2153.52012SunPowerHITRearJunction25.6143.72014PanasonicTOPCon25.742017Fraunhof

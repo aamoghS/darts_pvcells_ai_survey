@@ -1,0 +1,7 @@
+aracterized by XPS (AXIS ULTRA DLD). The surface wettability of the C-doped poly
+-
+silicon samples was characterized by measuring the water contact angle using a contact angle tester (OCA-20). 2.2.Preparation of the double-layer polysilicon structure and TOPCon device N-type phosphorus-doped CZ crystalline silicon wafers with a thickness of 205 ±20 
+
+m and a resistivity of 1–7  cm were used for the preparation of solar cells. The front surface was textured by KOH solu
+-
+tion to construct th

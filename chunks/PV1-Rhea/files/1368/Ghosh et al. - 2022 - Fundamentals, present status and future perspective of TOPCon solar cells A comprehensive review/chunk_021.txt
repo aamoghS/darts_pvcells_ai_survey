@@ -1,0 +1,6 @@
+ar cells comprise of full area rear side metallic contact, therefore the problems like requirement of laser assisted contact openings or crowding of charge carriers at localized contacts are not there [17]. In general, the successful development of TOPCon structure is mainly dependent on four major processes; namely (i) development of ultra-thin SiO
+x 
+tunneling layer, (ii) deposition of highly doped a-Si or a-Si:H layer onto the ultra-thin SiO
+x 
+layer, (iii) high temperature thermal 
+Fig. 1.Gl

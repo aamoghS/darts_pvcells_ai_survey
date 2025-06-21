@@ -1,0 +1,11 @@
+atom/cm
+3
+. As a result, high value of FF and a very low value of series resistance (R
+series 
+=4.34 m) were obtained due to this high phosphorous doping concentration. In addition, the recombination current density (J
+0, rear
+) value was as low as 18 fA/cm
+2 
+for the samples which possessed 1.55 nm thick homogeneous and dense SiO
+x 
+tunneling layer. However, simulation study revealed that a power conversion efficiency of beyond 24% may be obtained by improving the passivation quality at the re

@@ -1,0 +1,3 @@
+of 
+the Φ B  at the interface, [ 21,29 ]  which might be caused by a reduced metal-induced gap states occupation in the semiconductor 
+bandgap and hence Fermi level depinning. [ 30 ]  Due to a very small conduction band offset (≈0.05 eV) between Si and TiO 2  interlayer, [ 16 ]  the insertion of an ultrathin TiO 2  ﬁ lm (<4.5 nm) between n-Si and Al reduces the Φ B  to 0–0.2 eV (Figure  3 c) by assuming a conduction band edge of TiO 2  at ≈4.0 eV [ 16 ]  and a work function of Al at 4.

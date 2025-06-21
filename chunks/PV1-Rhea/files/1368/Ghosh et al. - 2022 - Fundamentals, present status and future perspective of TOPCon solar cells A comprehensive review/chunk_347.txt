@@ -1,0 +1,4 @@
+ver consumption per cell for various cell concepts developed onto M6 wafers [19].  
+Fig. 30.Expected trend for implementation of lead free pastes for different cell technologies [19].  
+D.K. Ghosh et al.                                                                                                                                                                                                                                
+coming decade i.e., by 2031 for PERC, TOPCon and SHJ solar cells; respec

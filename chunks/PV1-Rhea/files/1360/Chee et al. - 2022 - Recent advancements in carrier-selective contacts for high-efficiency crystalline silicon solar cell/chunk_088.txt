@@ -1,0 +1,11 @@
+9.8%. Enhancement in the passivation thermal stability of the TiO
+2 
+film on the n-Si surface was elicited by the additional insertion of a thermally grown tunnel SiO
+2 
+layer (~1.2nm thick) between the c-Si and TiO
+2 
+film, so that the maximum effective surface recombination velocity further reduced to 14cm/s after annealing, thereby increasing the efficiency to 21.6%. Reproducibility of the c-Si solar cells with full-area SiO
+2
+/TiO
+2 
+ECL was illustrated with an average efficiency above 21.0%

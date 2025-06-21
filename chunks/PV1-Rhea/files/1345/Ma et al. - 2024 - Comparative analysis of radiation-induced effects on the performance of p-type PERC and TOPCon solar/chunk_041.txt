@@ -1,0 +1,52 @@
+ shown in Fig. 2(a) underwent slight modifications to transform it into a TOPCon configuration on a p-type substrate, as depicted in Fig. 3(a). On 
+Table 2 The electron and hole lifetimes in p-type c-Si after permanent BO recovery at 25 
+◦
+C.  
+N
+A 
+n
+0 
+p
+0 
+n n
+i,eff 
+
+Aug 
+
+Rad 
+
+b 
+
+p0 
+cm
+�3 
+cm
+�3 
+cm
+�3 
+cm
+�3 
+cm
+�3 
+s s s s 1 ×10
+14 
+6.95 ×10
+5 
+1 ×10
+14 
+1 ×10
+13 
+8.34 ×10
+9 
+876.68 21.14 5.50 ×10
+�3 
+3.16 ×10
+�2 
+5 ×10
+14 
+1.42 ×10
+5 
+5 ×10
+14 
+5 ×10
+13

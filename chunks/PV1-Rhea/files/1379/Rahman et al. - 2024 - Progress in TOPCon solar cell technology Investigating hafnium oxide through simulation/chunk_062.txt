@@ -1,0 +1,3 @@
+combination rates and improved carrier lifetime. The simulation also encompasses electrical and optical properties modeling within the passivation layers, ac
+-
+counting for carrier transport, recombination mechanisms, and light transmission, aiding in optimizing light trapping efficiency and photon-to-electron conversion [17]. ATLAS Silvaco facilitates the simulation of carrier transport and recombination mechanisms, which is essential for understanding how passivation layers affect carrier dyna

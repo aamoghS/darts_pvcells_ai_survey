@@ -1,0 +1,5 @@
+e contacted solar cells featuring P implantations into undoped a-Si layers (to form electron contact) and in-situ B-doped hole contact demonstrated a V
+oc 
+of 690 mV and a FF of 79.1%. In contrast, the solar cells with P implantations into in-situ B doped a-Si layers featured a V
+oc 
+of 680 mV and a FF of 80.4%. The results and the understandings may smooth the progress of the fabrication of IBC solar cells with passivated contacts. Again, ion-implantation technique was used for the conversion o

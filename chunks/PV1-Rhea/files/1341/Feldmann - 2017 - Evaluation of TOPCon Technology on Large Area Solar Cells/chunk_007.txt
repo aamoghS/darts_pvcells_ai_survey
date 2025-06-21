@@ -1,0 +1,65 @@
+ring 
+and 
+a 
+140
+ 
+Ω/sq emitter 
+(
+N
+surf
+ 
+=
+ 
+1x10
+18
+ 
+cm
+-
+3
+, 
+depth = 1.5
+ 
+µm) 
+was realized by 
+tube furnace diffusion 
+and 
+subsequent
+ 
+drive
+-
+in oxidation. 
+At the rear, the TOPCon structure 
+was applied
+ 
+as described in
+ 
+Ref.
+ 
+[
+1
+]
+. The front surface wa
+s 
+passivated by a stack of 
+Al
+2
+O
+3
+ 
+and 
+SiN
+x
+.
+ 
+The
+ 
+front contact 
+openings were realized by laser ablation using a UV/ps
+ 
+laser 
+source
+. Thereafter, the front
+ 
+and rear surface passivation were
+ 
+activated using

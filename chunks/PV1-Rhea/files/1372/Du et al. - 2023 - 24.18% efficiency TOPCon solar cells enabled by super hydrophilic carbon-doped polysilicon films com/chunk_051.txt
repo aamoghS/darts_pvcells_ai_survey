@@ -1,0 +1,6 @@
+ed Ni seed layer for the C-free/C-doped polysilicon samples. The Ni seed layer was electroplated at a current density of 15 mA/cm
+2 
+for 2 min. 
+H. Du et al.                                                                                                                                                                                                                                      
+Fig. 4.(a) Structure of the lifetime samples with double-layer polysilicon films, and the corresponding (b) iV
+o

@@ -1,0 +1,7 @@
+osition of the ultrathin SiO
+x 
+layer for emitter surface passivation [174] reported that while thermal SiO
+x 
+featured the best passivation, its applicability in high volume manufacturing is limited because of its high thermal budget requisite. A low-temperature (~40
+◦
+C) chemical oxide passivation process based on using sodium hypochlorite solution (NCPRE-oxide) was proposed as feasible for industrial-scale implementation due to its low cost, low thermal budget, convenient waste disposal, an

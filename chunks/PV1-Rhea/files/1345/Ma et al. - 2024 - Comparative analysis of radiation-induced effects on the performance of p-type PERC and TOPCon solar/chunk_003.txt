@@ -1,0 +1,3 @@
+inning-of-life (BOL) and end-of-life (EOL) performance. However, with lower substrate doping concentra
+-
+tions, both technologies show improved BOL efficiency. Notably, this enhanced BOL efficiency does not translate into superior EOL efficiency. This distinction in EOL efficiency can be attributed to two primary factors triggered by radiation exposure. Firstly, the emergence of defects leads to a reduction in open-circuit voltage. Secondly, dopant compensation contributes to an increase in seri

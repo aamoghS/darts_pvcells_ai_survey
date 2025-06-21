@@ -1,0 +1,3 @@
+ng solution for the mainstream c-Si photovoltaics industry is the adoption of passivating contacts, also known as carrier-selective contacts (CSCs), which are thin films or stacks within the contact structure on the surface of the c-Si absorber that suppress surface carrier recombination and enhance charge carrier selectivity by providing a low contact resistivity to elec
+-
+trons (holes) while concomitantly impeding holes (electrons) (see Figs. 1b and 1c). Ensuring that the interfaces are well-p

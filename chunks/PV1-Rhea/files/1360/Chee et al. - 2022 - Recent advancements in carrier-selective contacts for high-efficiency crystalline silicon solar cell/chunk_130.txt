@@ -1,0 +1,7 @@
+, Paduthol et al. [129] reported that the use of SiN
+x 
+is preferred over doped a-Si:H because the latter was found to adversely affect the carrier injection efficiency. The a-Si:H(i)/SiN
+x 
+layer stack provides excellent surface passivation on c-Si, but suffers from a very high contact resis
+-
+tance. Only a small proportion of charge carriers generated in the a-Si:H (i) layer by light absorption contribute to the photocurrent [130]. Earlier analyses [37,75,118–120,126,127] have shown that the

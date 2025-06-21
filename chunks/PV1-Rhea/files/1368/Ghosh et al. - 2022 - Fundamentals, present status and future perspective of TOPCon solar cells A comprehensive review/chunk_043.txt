@@ -1,0 +1,17 @@
+. As a result, significant improvement in V
+oc 
+was observed. Consequently, TOPCon solar cells featuring Ag single layer as the rear electrode and metalized area fraction of 1.1% at the front side demonstrated the highest conversion efficiency of 23.7% (V
+oc 
+=703.3 mV, J
+sc 
+=41.0 mA/ cm
+2 
+and FF =82.2%) whereas relatively poor power conversion effi
+-
+ciency of 23.3% (V
+oc 
+=693.0 mV, J
+sc 
+=41.4 mA/cm
+2 
+and FF =81.2%) was obtained for the solar cells featuring Ag single layer as the rear ele

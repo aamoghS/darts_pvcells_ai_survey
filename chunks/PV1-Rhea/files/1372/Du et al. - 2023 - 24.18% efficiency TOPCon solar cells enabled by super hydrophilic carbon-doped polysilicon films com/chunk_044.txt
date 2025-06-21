@@ -1,0 +1,11 @@
+, leading to a rise in the sheet resistance as shown in Fig. 5(d). In contrast, the double-layer samples show a relatively lower 
+
+c
+, which can be maintained at 2–3 m cm
+2 
+even though the R-value is high enough (such as R =0.75). It is worth mentioning that sufficiently low 
+
+c 
+can be obtained based on the C-free samples as shown in Fig. 5(c), although there may be voids between the plated electrode and the C-free poly
+-
+silicon due to the poor surface wettability. We speculate that this

@@ -1,0 +1,13 @@
+ properties [143,144], but the onset of an SiO
+x 
+IL is associated with dissociation of MoO
+x
+, thus giving rise to significant parasitic ab
+-
+sorption [146] and an energy barrier that impedes hole transport to the contact [77,144,146]. Hence, the degradation of the MoO
+x 
+film caused by a decrease in O content lowers its WF and leads to optical and resistance losses. Recently, oxygen diffusion was observed across the c-Si/MoO
+x 
+or a-Si:H(i)/MoO
+x 
+interface, eventually forming a sub-stochiomet

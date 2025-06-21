@@ -1,0 +1,9 @@
+
+x 
+tunnelling layer and doped poly-Si layer. Besides, reducing the recom
+-
+bination current density at front emitter is also important to obtain higher power conversion efficiency. The other way to maximize the value of J
+sc 
+and hence conversion efficiency is to reflect back the un
+-
+absorbed light from the rear side metallic contact into the absorbing layer of the solar cells. Therefore, in the following sections, we shall discuss about various observations which have been reported focusing o

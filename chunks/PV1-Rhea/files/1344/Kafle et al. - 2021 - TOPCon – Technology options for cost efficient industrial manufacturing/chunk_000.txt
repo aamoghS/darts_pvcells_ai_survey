@@ -1,0 +1,10 @@
+
+TOPCon – Technology options for cost efficient industrial manufacturing 
+Bishal Kafle
+*
+, Baljeet Singh Goraya, Sebastian Mack, Frank Feldmann, Sebastian Nold, Jochen Rentsch 
+Fraunhofer Institute for Solar Energy Systems ISE, Heidenhofstr. 2, Freiburg, 79110, Germany   
+ARTICLE INFO  
+Keywords: Passivated contacts TOPCon a-Si deposition Cost-analysis Cost of ownership Levelized cost of electricity 
+ABSTRACT  
+Formation of an interfacial tunnel oxide capped by the polysilicon (poly-Si) layer 

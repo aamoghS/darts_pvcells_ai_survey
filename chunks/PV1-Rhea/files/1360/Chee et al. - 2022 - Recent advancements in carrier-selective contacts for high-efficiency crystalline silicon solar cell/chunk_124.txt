@@ -1,0 +1,7 @@
+s The fact that a doped a-Si:H layer allows excellent carrier selectivity is renowned, as well as its ability to act as a passivating layer. However, major shortcomings include the toxicity of material sources associated with doping, as well as the technological impact of front surface para
+-
+sitic absorption. On the other hand, the tremendous potential in intro
+-
+ducing an ultrathin MoO
+x 
+film to act as a passivating and carrier- selective contact material is derived from its high WF compared 

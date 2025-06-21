@@ -1,0 +1,50 @@
+brication 
+steps. 
+The scope of this paper lies on the application of la
+ser ablation and NiCu plating to a 1.5µm deep, 140
+ 
+Ω/sq boron
+-
+diffused
+ 
+emitter.
+ 
+The 10x10
+ 
+cm² cell yielded an efficiency of 22.9%.
+ 
+ 
+Keywords: 
+n
+-
+type, Silicon Solar Cell, Passivation, PECVD
+ 
+ 
+ 
+1
+ 
+INTRODUCTION
+ 
+Passivating and carrier
+-
+selective contacts which consist of an 
+ultrathin SiO
+x
+ 
+layer and a heavily doped silicon film (e.g. 
+TOPCon 
+[
+1
+]
+ 
+or 
+poly
+-
+Si
+ 
+[
+2
+, 
+3
+]
+) are an appealing t

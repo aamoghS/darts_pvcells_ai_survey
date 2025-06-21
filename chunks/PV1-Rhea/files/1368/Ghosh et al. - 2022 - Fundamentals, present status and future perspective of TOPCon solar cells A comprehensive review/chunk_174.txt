@@ -1,0 +1,7 @@
+d when industrial scalable low frequency plasma enhanced chemical vapor deposition (RF-PECVD) technique was used to deposit the doped amorphous silicon layer for the formation of TOPCon structure [64]. Besides, TLM (Transmission line measurement) tech
+-
+nique revealed that the upper limit of the specific contact resistivities of the samples were in the range of 3–6 m cm
+2
+. Moreover, a lifetime test based on 100 -cm, n-type FZ silicon wafers showed a very high mi
+-
+nority carrier lifetime of

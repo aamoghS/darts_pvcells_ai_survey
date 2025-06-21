@@ -1,0 +1,16 @@
+ealing tempera
+-
+ture, and thicknesses of the MoO
+x 
+and a-Si:H(i) layers, are crucial for excellent charge transport properties and performance stability. Reduced 
+
+c 
+and improved optical transparency are obtained for a thinner MoO
+x 
+layer so that the J
+sc 
+increases. However, while MoO
+x 
+is an efficient hole collector, its optoelectronic properties may deteriorate during solar cell manufacture and processing. Before and after contact sinter annealing, oxidization reduces the MoO
+x 
+WF and 

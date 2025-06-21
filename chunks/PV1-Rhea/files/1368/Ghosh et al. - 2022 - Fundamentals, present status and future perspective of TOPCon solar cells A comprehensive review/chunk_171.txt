@@ -1,0 +1,9 @@
+value was 696 mV and the doped poly-Si layer was 34 nm thick. The other important observation was the realization of slight improvement in the passivation quality of p-type poly-Si contacts when BF was implanted for doping purpose instead of B. Finally, both sided poly-Si/SiO
+x 
+passivated contacts Si solar cells featuring n
++
+-poly-Si at the front side and p
++
+-poly-Si at the rear side with an active cell area of 2 cm ×2 cm were fabricated onto 250 
+
+m thick, 1 -cm, p-type FZ Si wafers. The 

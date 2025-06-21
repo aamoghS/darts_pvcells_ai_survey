@@ -1,0 +1,21 @@
+ [115]. A high-WF buffer layer, such as In
+2
+O
+3 
+[116] or MoO
+x 
+[117] may also be inserted between the TCO and doped a-Si:H layers. Fig. 5 shows a TCO/
+-
+MoO
+x
+/a-Si:H(p)/a-Si:H(i) stack proposed for the back contact [117], which realized overall efficiency enhancements compared to that of a-Si: H(i)/ a-Si:H(p)/TCO through favorable adjustment of the barrier height at the interface between the TCO and doped a-Si:H layers to reduce 
+
+
+c
+and increase V
+oc 
+and FF. Besides SiO
+x 
+or AlO
+x
+, the T

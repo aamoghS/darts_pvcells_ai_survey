@@ -1,0 +1,7 @@
+ may be attributed to the thermal degradation of the oxide layer at higher annealing temperature. Besides, Choi et al. also realized the reduction of the oxide layer thickness and formation of pinholes through the ultra-thin oxide layer at higher annealing temperature (beyond 800
+◦
+C and upto 1000
+◦
+C) which in turn lowered down the carrier selectivity of the passivated contact [48]. Accordingly, the authors suggested that the optimized thickness value of ultra-thin SiO
+x 
+oxide layer should

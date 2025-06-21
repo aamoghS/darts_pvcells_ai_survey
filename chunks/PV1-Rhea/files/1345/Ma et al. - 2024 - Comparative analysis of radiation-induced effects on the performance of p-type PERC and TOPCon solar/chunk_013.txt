@@ -1,0 +1,5 @@
+cerning both beginning-of-life (BOL) and end-of-life (EOL) perfor
+-
+mance, particularly for space applications. In pursuit of this assessment, numerical simulations were conducted utilizing real-world industrial PERC and n-TOPCon cells as the basis. The recombination parameters were carefully calibrated per the measured performance characteristics of these cells under standard test conditions. To ensure a fair and equitable comparison between the two distinct technologies, the struc
+-
+ture of th

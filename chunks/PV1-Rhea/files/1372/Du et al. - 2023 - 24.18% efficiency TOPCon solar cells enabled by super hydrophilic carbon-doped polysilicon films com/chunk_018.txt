@@ -1,0 +1,17 @@
+r was deposited on both sides of the c-Si substrate using a 13.56 MHz PECVD system with silane (SiH
+4
+), phosphorane (PH
+3
+), methane (CH
+4
+), and hydrogen (H
+2
+) as the reaction gases. The carbon content was controlled by the gas flow ratio (R) of CH
+4
+/(CH
+4
++SiH
+4
+). The samples were then annealed at 840 
+◦
+C for 30 min in a quartz tube furnace in a moisture/nitrogen atmosphere [25]. The chemical composition of the C-doped polysilicon was characterized by XPS (AXIS ULTRA DLD). The surface w

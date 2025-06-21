@@ -1,0 +1,4 @@
+ defect, the efficiency of HJT has been greatly improved at present. It is reported that HJT effi
+-
+ciency has reached an amazing 26.81%. As the substrate is phosphorus-doped n-type single crystal silicon, there is no boron-oxygen recombination or boron-iron recombination in p-type crystalline silicon, 
+*Corresponding author. Institute of Microelectronics of the Chinese Academy of Sciences, Beijing, 100029, China. **Corresponding author. Institute of Microelectronics of the Chinese Academy of Sc

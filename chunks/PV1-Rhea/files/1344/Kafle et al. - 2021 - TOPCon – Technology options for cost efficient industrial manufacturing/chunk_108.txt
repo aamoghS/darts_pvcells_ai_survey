@@ -1,0 +1,9 @@
+l p-PERC technology, assuming a TOPCon cell efficiency advantage of 0.5%
+abs. 
+over PERC at 23.5% and 23.0% respectively. Sensitivity of the LCOE to the cell efficiency is analyzed for TOPCon routes that previously showed highest and lowest LCOE values in comparison to bifacial p-PERC. At LCOE level, considering the most conservative TOPCon concept, a minimum gain of 0.55%
+abs. 
+in con
+-
+version efficiency to bifacial p-PERC concept is required to be econom
+-
+ically viable. For the best-case TOP

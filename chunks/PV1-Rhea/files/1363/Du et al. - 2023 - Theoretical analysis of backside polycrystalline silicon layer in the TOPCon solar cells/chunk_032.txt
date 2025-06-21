@@ -1,0 +1,5 @@
+nce band at the interface between poly-Si and monocrystalline silicon will produce a quantum well(The horizontal axis in the figure represents the distance to the upper surface of p
++
+-type Si layer). Due to the presence of quantum wells, a large number of holes accumulate in this region. As the polysilicon band gap increases, the quantum well depth gradually de
+-
+creases, and it has disappeared, when the poly-Si band gap is 1.34 eV. Fig. 4 shows that when the band gap of poly-Si is below 1.22 e

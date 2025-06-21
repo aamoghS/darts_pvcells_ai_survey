@@ -1,0 +1,7 @@
+tion quality upon thermal treatment [87]. This phenomenon might be ascribed to the effusion of hydrogen entities from the TOPCon structure. However, the authors further revealed that insertion of ALD coated 15 nm thick AlO
+x 
+layer in between doped poly-Si layer and PECVD coated SiN
+x 
+capping layer might offer higher thermal stability along with better passivation quality by impeding the effusion of hydrogen atoms from Si/SiO
+x 
+interface and/or doped poly-Si layer during the high temperature f

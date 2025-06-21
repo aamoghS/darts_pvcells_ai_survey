@@ -1,0 +1,19 @@
+nd exhibit higher efficiency than 
+interdigitated back
+-
+contact cells. Avoiding the front side 
+layer, which is essential for the bi
+-
+directional cell's 
+exceptional opto
+-
+electrical properties and provides lateral charge carrier transportation. As a result, the conversion 
+efficiency is 26.0%. The back of this cell has a p
+-
+n junction in the form of a fu
+ll
+-
+surface passivation contact of 
+polysilicon, in contrast to standard industrial cells, which have a p
+-
+n junction at the front. A th

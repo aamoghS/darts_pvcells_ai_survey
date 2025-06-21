@@ -1,0 +1,6 @@
+concepts are found to remain economically competitive against bifacial PERC in terms of levelized cost of electricity (LCOE), if a minimum absolute gain in cell efficiency 
+ 
+>0.55% for most-conservative and 
+ 
+>0.40% for most-progressive scenarios respectively can be maintained.   
+1.Introduction Tunnel oxide passivated contacts (TOPCon) solar cells [1] are widely seen as the forthcoming technology to the current state-of-the-art passivated emitter and rear cell (PERC)-concept. The cell arc

@@ -1,0 +1,3 @@
+n order to protect the boron emitter from being etched during the single- sided etching (SSE) of poly-Si. Afterwards, tunnel oxide is formed in-situ by oxidizing c-Si surface inside LPCVD furnace, which is followed by deposition of either intrinsic (LPCVD TOPCon exsitu) or phosphorus (n
++
+-) doped a-Si/poly-Si layer (LPCVD TOPCon insitu) in a front-front process (two wafers per slot facing front sides). The a-Si/poly-Si deposition by LPCVD is inherently both-sided, therefore leading to the paras

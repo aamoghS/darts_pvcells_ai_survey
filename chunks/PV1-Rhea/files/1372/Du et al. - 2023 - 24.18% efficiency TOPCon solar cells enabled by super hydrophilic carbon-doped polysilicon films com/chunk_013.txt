@@ -1,0 +1,7 @@
+alance the optical and electrical performance with high short-circuit current (J
+sc
+) and open-circuit voltage (V
+oc
+) simultaneously [19,20]. In addition, the poor wettability of the polysilicon layer is one of the key factors limiting the contact performance of electroplated electrodes, which is due to that the poor wettability makes it difficult for the plating solution to diffuse completely and allows air bubbles to be easily trap
+-
+ped, thus forming voids and making poor electrical properti

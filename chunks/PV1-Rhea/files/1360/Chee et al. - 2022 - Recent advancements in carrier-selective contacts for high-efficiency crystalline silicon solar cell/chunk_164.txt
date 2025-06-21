@@ -1,0 +1,9 @@
+ical losses and production costs. A progressive approach to circumvent these issues involves PECVD-ILs to reduce processing costs. The various industry-standard passivation schemes adopted, and the corresponding techno-economic prospects are summed in Table 2. Ag-printed SHJ solar cells having a thin front-side transparent elec
+-
+trode have already shown long-term performance reliability when cap
+-
+ped with a PECVD-SiO
+x 
+layer [162]. The 70-nm-thick PECVD-SiO
+x 
+layer may act not only just as a

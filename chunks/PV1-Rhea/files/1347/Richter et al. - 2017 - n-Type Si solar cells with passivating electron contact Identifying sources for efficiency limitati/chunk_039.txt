@@ -1,0 +1,3 @@
+tasobservedinRef.[43],forwhichreasontheinitialimpurityconcentrationcanbeconsideredtobeinsignicant.However,ourlab-typehigh-eciencycellfabricationsequencecontainsseveralhightemperatureprocessesabove~900°C,e.g.thethermalgrowthof
+Fig.4.Totalseriesresistanceofthecellsunderilluminationconditions,Rs,light,asdeterminedfromtheSuns-VOCandthe1-sunI-Vdata.(a)showsRs,lightforthebaseresistivityvariationand(b)forthethicknessvariation.
+Fig.5.BoxplotoftheI-VparametersandPFF(opensymbols)asafunctionofthewaferth

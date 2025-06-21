@@ -1,0 +1,2 @@
+ciency. The process is initiated by defining the solar cell structure, specifying the silicon substrate, emitter layers, metal contacts, and pivotal passivation layers (SiO2 and HfO2) 
+Fig. 2.The figure showcases the energy band structures in TOPCon solar cells with n-type and p-type doping. In the left panel (a), the n-type configuration is presented, highlighted by the presence of electrons as majority charge carriers, while the right panel (b) displays the p-type setup, where holes predominat

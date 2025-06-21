@@ -1,0 +1,2 @@
+ed 1 April 2021   
+mainstream PERC cell is still an open question. Current PERC-concept is reported to reach up to 23% average conversion efficiencies in mass production with a fairly mature process sequence [8]. These continuous improvements in the price-performance ratio up-to-now enable PERC to be the preferred option for utility-scale installations. Therefore, the additional capital and operating costs required to establish and operate a TOPCon manufacturing facility needs to be offset by an

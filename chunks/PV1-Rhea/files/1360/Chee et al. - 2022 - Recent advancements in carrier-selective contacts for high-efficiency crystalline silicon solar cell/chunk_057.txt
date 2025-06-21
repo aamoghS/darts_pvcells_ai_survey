@@ -1,0 +1,27 @@
+3mA/cm
+2
+, FF=83.8, PCE=26.3% [12] Top/rear a-Si:H(i) plus a-Si:H (n/p) contact layers, A=102cm
+2 
+cell (HIT) n-type; 100µm V
+oc
+=0.750V, J
+sc
+=39.5mA/cm
+2
+, FF=83.0, PCE=24.7% [18] Top/rear a-Si:H(i) plus a-Si:H (n/p) contact layers, A=152cm
+2 
+cell (HIT) n-type; 160µm V
+oc
+=0.738V, J
+sc
+=40.8mA/cm
+2
+, FF=83.5, PCE=25.1% [19] Top/rear a-Si:H(i) plus a-Si:H (n/p) contact layers, A=243cm
+2 
+cell (HIT) n-type; 180µm V
+oc
+=0.733, J
+sc
+=37.3mA/cm
+2
+, FF=78.4, PCE=21.5% [20] Top surface n-type dop

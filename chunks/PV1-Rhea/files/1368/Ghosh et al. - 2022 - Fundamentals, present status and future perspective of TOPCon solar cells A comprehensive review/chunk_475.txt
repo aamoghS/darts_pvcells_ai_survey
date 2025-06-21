@@ -1,0 +1,5 @@
+ C.H. Lee, S. H. Shin, Y. Kang, H.S. Lee, D. Kim, Passivation quality control in poly-Si/SiOx/c- Si passivated contact solar cells with 734 mV implied open circuit voltage, Sol. Energy Mater. Sol. Cells 189 (2019) 21–26, https://doi.org/10.1016/j. solmat.2018.09.013. [82]S. Chowdhury, G. Chavan, S. Kim, D. Oh, Y. Kim, E.C. Cho, Y. Cho, J. Yi, Analysis of passivation property using thin Al
+2
+O
+3 
+layer and simulation for realization of high-efficiency TOPCon cell, Infrared Phys. Technol. (2020)

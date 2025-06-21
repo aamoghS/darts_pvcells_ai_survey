@@ -1,0 +1,6 @@
+hin SiO
+2 
+oxide layer is an important parameter to consider always because the oxide layer must maintain its stoichiometry (the oxidation state of Si must be close to Si
+4+
+) during the thermal treatment of doped poly-Si layer for its dopant activation and crystallization purpose. Thermal oxide grown in LPCVD tube is mostly used for the mass production of TOPCon solar cells [117,118–123,127]. The comparative analysis of the various routes 
+D.K. Ghosh et al.                                    

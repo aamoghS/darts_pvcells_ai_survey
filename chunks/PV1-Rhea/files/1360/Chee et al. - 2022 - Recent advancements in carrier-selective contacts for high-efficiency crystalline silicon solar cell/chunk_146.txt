@@ -1,0 +1,12 @@
+ In ions and oxygen vacancies induce highly asymmetric conductivity that favors holes and reduces recombination losses due to defects at the c-Si surface. In fact, defect-assisted quantum tunneling of the holes may occur due to the fixed charges in the a-SiO
+x
+(In) IL [151]. The excellent charge transport property provided by the resulting a-SiO
+x
+(In)/TCO stack, therefore, leads to a significantly reduced 
+
+c
+, thereby increasing both FF and effi
+-
+ciency even without a MoO
+x 
+IL. However, the

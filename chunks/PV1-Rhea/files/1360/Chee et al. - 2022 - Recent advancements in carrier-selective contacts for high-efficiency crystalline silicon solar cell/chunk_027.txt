@@ -1,0 +1,7 @@
+cessing, such as for metallization and intercon
+-
+nection. Therefore, while already affording excellent passivation prop
+-
+erties, adopting alternative CSC designs is desirable. Specifically, in place of an a-Si:H(i)/a-Si:H(n) stack in HIT cells, the polycrystalline silicon on oxide (POLO) contact architecture developed by Institute for Solar Energy Research GmbH (ISFH) is stable under high processing temperatures, which is based on an SiO
+x 
+passivation interface layer (IL) between the rear sil

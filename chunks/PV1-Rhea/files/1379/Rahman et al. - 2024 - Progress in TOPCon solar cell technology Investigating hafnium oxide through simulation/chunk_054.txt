@@ -1,0 +1,5 @@
+ced decrease in refractive index with increasing wave
+-
+length. Both plots exhibit that the materials have higher refractive indices at shorter wavelengths and lower indices at longer wavelengths, which is consistent with normal dispersion behavior in dielectric ma
+-
+terials. In the realm of photovoltaic research, particularly focusing on the advancement of Tunnel Oxide Passivated Contact (TOPCon) solar cells, the determination of refractive index values for SiO2 and HfO2 layers presents a criti

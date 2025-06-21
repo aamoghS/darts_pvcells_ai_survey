@@ -1,0 +1,18 @@
+ 
+can be realized. Meanwhile, it should be considered that the passivation afforded by an AlO
+x
+/SiO
+x 
+stack, which was performed on n-Si substrates in ref. [177], or on p-Si substrates in ref. [180], is not similar [153]. In the latter, the magnitude increase in -Q
+f 
+can be asso
+-
+ciated with a spike in the density of negatively charged AlO
+4 
+tetrahedra at the AlO
+x
+/SiO
+x 
+interface after a thermal treatment step. The SiO
+x 
+layer by itself may provide different passivation properties depen

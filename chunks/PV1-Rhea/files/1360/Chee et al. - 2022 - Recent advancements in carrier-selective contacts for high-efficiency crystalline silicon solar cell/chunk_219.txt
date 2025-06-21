@@ -1,0 +1,4 @@
+ion of the P.R.C. (111 Project 2.0: BP0719016), BK21 project of the Ministry of Education of Korea, Na
+-
+tional Natural Science Foundation of China (61650110517) and Natural Science Foundation of Ningbo (2017A610095). Declarations The authors have no conflicts to disclose. References 
+[1]Z. Liu, et al., Revisiting thin silicon for photovoltaics: a technoeconomic perspective, Energy Environ. Sci. 13 (1) (2020) 12–23, https://doi.org/10.1039/ C9EE02452B. [2]A. Blakers, Development of the PERC So

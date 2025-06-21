@@ -1,0 +1,5 @@
+ow mechanical strength. Thirdly, as the thermal resistivity is a function of wafer thickness, hence the optimized pro
+-
+cessing temperatures of thin wafer based solar cells may vary in com
+-
+parison with the standard Si wafer based solar cells. Fourthly, advanced surface texturing and passivation process need to be implemented for thin wafers. For example, the thickness of TOPCon structure may be required to be optimized to excel the surface passivation quality. Fifthly, incomplete absorption of

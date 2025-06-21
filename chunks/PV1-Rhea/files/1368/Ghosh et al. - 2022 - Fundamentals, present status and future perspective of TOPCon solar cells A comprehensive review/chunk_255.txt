@@ -1,0 +1,8 @@
+-
+tration and dopant depth. On the other hand, flattening of solar cell surfaces at higher diffusion temperature of beyond 980
+◦
+C may be the cause of realizing lesser J
+sc
+. Hence, to maximize the cell parameters two-step diffusion process was suggested. 7.Theoretical exploration The following section will deal with various theoretical works per
+-
+formed for exploring several aspects of maximizing the power output of TOPCon solar cells. In 2017, Zeng et al. reported about using AFORS- HET (Au

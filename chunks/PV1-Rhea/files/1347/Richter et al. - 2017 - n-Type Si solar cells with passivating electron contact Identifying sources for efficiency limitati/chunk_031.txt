@@ -1,0 +1,3 @@
+uncertaintyofthesimulationresultswithFeSRHrecombinationaccordingtothe
+uncertaintiesoftheinputparametersgiveninTableA1.
+Table1I-VparametersaswellasPFF,Rs,lightandRpofthebestcellspervariation.Allcellshaveanareaof2×2cm2(designatedarea)andweremeasuredunderSTC.ρbWVOCJSCFFPFFηRs,lightRp(cm)(µm)(mV)(mA/cm2)(%)(%)(%)(cm2(kcm2)1200718.042.582.885.225.3a0.383.65150720.442.281.784.324.90.382.75200718.942.581.984.625.00.443.95400712.543.381.985.325.3a0.523.510200717.842.581.984.625.0a0.435.2aindepend

@@ -1,0 +1,4 @@
+tributed to a reduction of surface recombination (resulting in a higher  V  oc  as well as  J  sc ) and contact resistivity (resulting in a higher FF) at the rear side, which indicates that the TiO 2 -based contact inserted between n-Si and Al not only serves as an effective 
+electron transporting layer, but also provides good surface pas-
+sivation on silicon surfaces. A detailed analysis of the surface 
+passivation of thin TiO 2  and SiO 2 /TiO 2  stack on silicon surfaces is presented below.  

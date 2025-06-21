@@ -1,0 +1,15 @@
+h V
+oc 
+=715.1 mV, J
+sc 
+=41.5 mA/cm
+2 
+and FF =82.1%. Furthermore, according to Rohatgi et al., a power conversion efficiency of 23.8% (V
+oc 
+=712 mV, J
+sc 
+=41.2 mA/cm
+2 
+and FF =81.1%) was achieved by implementing selective boron emitter at the front side and tunnel oxide passivated contact at the rear side of the c-Si solar cells which were fabricated onto n-type FZ silicon wafers [97]. The corresponding cell area was 4 cm
+2
+. In addition, 2D Sentaurus simulation results revealed that by imp

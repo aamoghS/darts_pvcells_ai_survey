@@ -1,0 +1,8 @@
+ells having diffused junc
+-
+tions and BSF yield PCEs that are chiefly bottlenecked by the high charge carrier recombination losses at the metal-Si contact regions [3,9]. Thus, the implementation of passivation and local contact strategies to ensure superb lateral conductivity is a complex technical problem involving the two-fold objectives of overcoming recombination losses and maintain
+-
+ing a low 
+
+c
+. As an alternative to local metal contacts, dopant-free CSCs are deployed using full-area di

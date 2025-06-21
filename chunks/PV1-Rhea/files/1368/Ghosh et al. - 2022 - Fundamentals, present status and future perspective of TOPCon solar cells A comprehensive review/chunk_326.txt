@@ -1,0 +1,5 @@
+ the throughput and cost-effectiveness before replacing the current market dominating PERC-concept and TOPCon solar cells. Hence, as of now we may consider that TOPCon solar cells have the highest probability to become the mostly produced solar cells in the mass production in this decade. Thereafter, compara
+-
+tive study on various technological routes which are favourable for the mass production of the ultra-thin SiO
+x 
+tunneling layer and doped poly-Si layer is going to be pinpointed in the fo

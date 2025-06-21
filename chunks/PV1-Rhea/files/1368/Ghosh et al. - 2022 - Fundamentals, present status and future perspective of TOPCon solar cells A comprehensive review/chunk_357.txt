@@ -1,0 +1,15 @@
+22.3% with V
+oc 
+=674.2 mV, J
+sc 
+=41.1 mA/cm
+2 
+and FF =80.5% was achieved for n-type high performance multicrystalline silicon solar cells featuring TOPCon structure at the rear side and Al
+2
+O
+3 
+passivated boron emitter on the front side [137]. The front side of the solar cell was textured by black silicon to reduce the reflection losses while maintaining low recombination current density (J
+0e
+) of ≤60 mA/cm
+2 
+for a 90 /sq emitter. On the other hand, different loss mechanisms involved i

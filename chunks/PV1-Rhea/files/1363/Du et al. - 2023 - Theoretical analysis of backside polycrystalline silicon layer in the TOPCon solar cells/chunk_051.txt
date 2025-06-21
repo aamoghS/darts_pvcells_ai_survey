@@ -1,0 +1,3 @@
+nor-like defect states concentration. As can be seen from the poly-Si band dia
+-
+gram Fig. 8, a large number of holes accumulate at the poly-Si interface due to the existence of triangle quantum well, and the increase of donor- like defect states concentration will lead to the increase of recombination. In addition to exploring the effect of the concentration of donor-like defect states on the performance of solar cells, the effect of different positions of the donor-like defect states on the pe

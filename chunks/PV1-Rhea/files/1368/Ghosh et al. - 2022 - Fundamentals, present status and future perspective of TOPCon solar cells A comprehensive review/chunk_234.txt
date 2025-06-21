@@ -1,0 +1,7 @@
+l treatment of poly-Si/ITO/Ag stack at relatively high temperature (∼400
+◦
+C) to regain the passivation properties. The high temperature annealing in ambient air however may be responsible for the formation of an interfacial oxide layer which in turn increased the contact resistivity of TOPCon/ITO/Ag stack. Nevertheless, the con
+-
+tact properties may be improved by increasing the thickness and doping level of n
++
+Si layer but it increases the free carrier absorption (FCA) as well. Therefore,

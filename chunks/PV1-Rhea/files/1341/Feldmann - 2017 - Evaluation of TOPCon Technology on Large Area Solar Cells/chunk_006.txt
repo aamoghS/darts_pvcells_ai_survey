@@ -1,0 +1,55 @@
+g rear 
+contact
+. The scope of this paper
+ 
+lie
+s on the formation of the
+ 
+front 
+grid using laser contact opening (LCO)
+ 
+and NiCuAg plating.
+ 
+ 
+2
+ 
+EXPERIMENTAL DETAILS
+ 
+2.
+1
+ 
+Fabrication of large area solar cells
+ 
+Solar cells of significant area (10×10
+ 
+c
+m
+2
+) were fabricated on 
+shiny
+-
+etched, 1
+ 
+Ωcm n
+-
+type float
+-
+zone silicon. The
+ 
+cell layout is 
+shown in Fig.
+ 
+1
+. On the front random pyramids were formed by 
+alkaline texturing 
+and 
+a 
+140
+ 
+Ω/sq emitter 
+(
+N
+surf
+ 
+=
+ 

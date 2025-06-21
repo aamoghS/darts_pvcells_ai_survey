@@ -1,0 +1,3 @@
+le-sided TOPCon solar cells on textured wafer with ALD SiO
+x 
+layer, Sol. Energy Mater. Sol. Cells 207 (2020), 110357, https://doi.org/10.1016/j.solmat.2019.110357. [30]M. Lozac’h, S. Nunomura, Role of silicon surface, polished <100>and <111>or textured, on the efficiency of double-sided TOPCon solar cells, Prog. Photovolt. Res. Appl. (2020), https://doi.org/10.1002/pip.3304. [31]A. Richter, J. Benick, R. Müller, F. Feldmann, C. Reichel, M. Hermle, S.W. Glunz, Tunnel oxide passivating electro

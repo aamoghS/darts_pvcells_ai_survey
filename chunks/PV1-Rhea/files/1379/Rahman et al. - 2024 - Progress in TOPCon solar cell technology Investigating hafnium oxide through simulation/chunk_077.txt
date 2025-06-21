@@ -1,0 +1,4 @@
+b) Details the top interface of the TOPCon solar cell, highlighting the layers present at the topmost part of the cell, possibly including the passivation layer, contacts, and any anti-reflective coatings. c) Focuses on the bottom interface of the TOPCon solar cell, showing the materials and layers that make up the bottom part of the cell, which may include the back surface field, bottom electrode, and the SiO
+2 
+passivation layer. 
+Fig. 5.The provided figure illustrates the simulated structure 

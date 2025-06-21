@@ -1,0 +1,3 @@
+optimize solar cell performance, driving the devel
+-
+opment of more efficient and advanced photovoltaic devices by understanding the influence of various passivation materials. In solar cell technology, HfO2’s fixed charges play a pivotal role [40]. Positively charged HfO2 can enhance silicon surface passivation, reducing recombination losses and boosting cell output [19]. These inherent charges in the HfO2 layer impact the solar cell’s electric field, affecting charge separation and cell ef

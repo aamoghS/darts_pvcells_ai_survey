@@ -1,0 +1,13 @@
+ss instead of laser isolation process. The improvement in J
+sc 
+may be attributed to the weakening of the parasitic absorption of the incident light which was caused by the wrap-around of poly-Si thin films. However, after opti
+-
+mizing the process parameters further improvement in the cell perfor
+-
+mance with an efficiency value of 22.81% (V
+oc 
+=702.6 mV, J
+sc 
+=39.78 mA/cm
+2 
+and FF =81.62%) was achieved. Besides, in another report, Zhou et al. claimed that use of thick BSG layer (>50 nm) may

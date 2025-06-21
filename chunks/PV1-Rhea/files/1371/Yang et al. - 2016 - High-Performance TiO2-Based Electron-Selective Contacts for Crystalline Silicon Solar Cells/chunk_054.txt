@@ -1,0 +1,4 @@
+ annealing might be caused by the composition change of TiO 2  interlayer, which will be discussed in the Experimental Sec-
+tion. Therefore, the implementation of a TiO 2 -based contact improves the contact resistivity at the rear side, resulting in a 
+reduced series resistance and hence a higher FF, which is con-
+sistent with the results shown in Table  1 .   We found that the parameters of the devices featuring a full-area TiO 2 -based contact, especially the FF, depend on a ﬁ nal FGA anneal

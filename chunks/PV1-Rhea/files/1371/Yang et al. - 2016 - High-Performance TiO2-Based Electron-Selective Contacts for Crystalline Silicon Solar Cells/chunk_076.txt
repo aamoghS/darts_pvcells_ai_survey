@@ -1,0 +1,4 @@
+2 /TiO 2  contact were subjected to a short thermal oxidation at 700 °C for 150 s for tunnel SiO 2  growth before TiO 2  ﬁ lms (3.5 nm) deposition. The front ﬁ ngers were prepared with photolithography in 
+combination with an evaporated stack of Cr/Pd/Ag (40/40/40 nm) that 
+was thickened with Ag electroplating. Finally, the cells were subjected to 
+a FGA annealing before cutting by laser for  I – V  measurements. A control cell without TiO 2  contact at the rear (Si/Al contact directly) w

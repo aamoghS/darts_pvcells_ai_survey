@@ -1,0 +1,4 @@
+ a tunnel SiO 2  interlayer between the TiO 2  and n-Si interface leads to the best long-wavelength response, resulting 
+in an obvious increase of  V  oc  and  J  sc , and hence the efﬁ ciency. The calculated  J  sc  for the cell with a full-area SiO 2 /TiO 2  contact, obtained by integrating the product of external quantum efﬁ -ciency (EQE) and the air mass (AM) 1.5 spectrum and cor-
+recting for the approximate contact fraction, is proven to be 39.51 mA cm  − 
+  2 , in good agreement with

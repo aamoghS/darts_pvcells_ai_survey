@@ -1,0 +1,30 @@
+etallization were realized and analyzed. 
+An efficiency 
+of 22.9% 
+was measu
+red. The FELA reveal
+ed
+ 
+that the dominant losses 
+were 
+the limited finger conductivity and the minority carrier 
+recombination at the front side. 
+From literature it is known that 
+laser damage can be cured by forming gas annealing or
+ 
+firing 
+[
+9
+]
+. 
+Alternatively, the threshold energy for 
+ps 
+laser ablation can be 
+reduced by 
+using 
+a nanosecond pre
+-
+pulse
+ 
+thereby mitigating the 
+impact of laser damage signi

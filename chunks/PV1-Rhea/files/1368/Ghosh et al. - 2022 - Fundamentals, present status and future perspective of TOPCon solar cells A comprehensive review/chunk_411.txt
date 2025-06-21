@@ -1,0 +1,11 @@
+trial cell   - - - Deposition mode (Batch/ Inline) Batch Both Inline Inline Batch  
+Table 12 TOPCon solar cells fabricated on multicrystalline silicon material.  
+Cell area (cm
+2
+) V
+oc 
+(mV) J
+sc 
+(mA/cm
+2
+) FF (%) Efficiency (%) Refs. 4 663.01 38.04 76.39 19.3 [132] 4 663.7 38.87 75.9 19.6 [133] 4 672.6 40.8 79.7 21.9 [136] 4 674.2 41.1 80.5 22.3 [137] 247.79 41.14 711.9 79.29 23.22 [141]  D.K. Ghosh et al.                                                                                   

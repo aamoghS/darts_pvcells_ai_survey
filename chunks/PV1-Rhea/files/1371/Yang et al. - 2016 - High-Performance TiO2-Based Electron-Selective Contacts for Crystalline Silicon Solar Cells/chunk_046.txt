@@ -1,0 +1,3 @@
+A structure (see Figure S3, Supporting Information) developed 
+by Cox and Strack [ 26 ]  was prepared to extract the  ρ  c  values. Most contacts with different thicknesses of TiO 2  ﬁ lms and diameters circular metal dots (0.5–10 mm) at the top exhibit Ohmic  I–V  behavior, which demonstrates that electrons can pass through 
+the thin TiO 2  and SiO 2 /TiO 2  layers, and allows the extraction of  ρ  c  by ﬁ tting the curve of resistance versus top circle contact diameter.   Figure    3

@@ -1,0 +1,3 @@
+ goal of achieving grid parity and hence according to the latest ITRPV report, the bifacial solar cells will gradu
+-
+ally gain a market share of about 80% within the next ten years [19]. This shows the importance of bifacial solar cells in the PV industry. In case of TOPCon solar cells, in 2016 Stodolny et al. first reported about the development of bifacial TOPCon solar cells (Though they termed the cells as “PERPoly” i.e. “Passivated Emitter and Rear Poly-silicon”) by using industrial 

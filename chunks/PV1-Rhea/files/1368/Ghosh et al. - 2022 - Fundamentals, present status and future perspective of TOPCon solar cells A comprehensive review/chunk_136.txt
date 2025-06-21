@@ -1,0 +1,5 @@
+ness value of ultra-thin SiO
+x 
+oxide layer should be in the range of 1.2 nm to 1.5 nm. Moreover, Tetzlaff et al. demonstrated that the pinholes might be present into the wet chemically grown ultra-thin oxide layer even after annealing of poly-silicon on oxide (POLO) junctions at relatively low temperature of 750
+◦
+C [49]. The correlation of annealing temperature and the pinhole density was investigated and the magnitude of the pinhole densities was found to be increased with the increment of 

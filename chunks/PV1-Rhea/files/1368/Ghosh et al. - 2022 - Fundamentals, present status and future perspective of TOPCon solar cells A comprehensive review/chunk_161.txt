@@ -1,0 +1,13 @@
+e of iV
+oc 
+at higher annealing temperature. On the other hand, contrary to n-contact, an enhancement of iV
+oc 
+was observed with the increment of ion doses for BF
+2
+-implanted passivation contacts (p-contacts) at 800
+◦
+C annealing temperature. However, poor passivation quality was obtained for the samples which were annealed at 900
+◦
+C in spite of possessing low Auger recombination (J
+0,Auger
+) value which meant diffusion of boron atoms into c-Si layer was not the cause for realizing poor i

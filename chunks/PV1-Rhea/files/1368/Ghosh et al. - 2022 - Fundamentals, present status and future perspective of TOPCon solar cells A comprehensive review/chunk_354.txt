@@ -1,0 +1,3 @@
+zed by improving the optical confinement inside the solar cells and reducing the power losses occurring due to high value of series resistance. On the other hand, Riepe et al. reported that the crystal structure and the initial grain size have significant role on the power conversion efficiency of the multicrystalline silicon based TOPCon solar cells [134]. In the study, an efficiency prediction of about 20% was made, considering the use of multicrystalline silicon plate as seed ma
+-
+terial. How

@@ -1,0 +1,5 @@
+uthors performed a simulation study to optimize the base material, front emitter and light trapping mechanisms. The study demonstrated that increment in base resistivity from 1 -cm to 10 -cm resulted in an efficiency improvement irrespective of the wafer thickness, for an example an efficiency increment of 0.2%
+abs 
+was observed for 200 
+
+m thick wafers when the base resistivity was increased from 1 -cm to 10 -cm. Improvement in the cell performances was also realized for increasing the waf

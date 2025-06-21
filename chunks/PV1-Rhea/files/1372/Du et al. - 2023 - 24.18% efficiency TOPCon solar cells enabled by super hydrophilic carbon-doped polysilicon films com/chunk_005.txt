@@ -1,0 +1,4 @@
+rsion efficiency (PCE) of 24.18%. Therefore, the C-doped polysilicon combined with the electroplating technology demonstrated in this work shows great potential to obtain high-efficiency and low-cost TOPCon SCs in the PV industry.   
+1.Introduction High-efficiency and low-cost crystalline silicon (c-Si) solar cells (SCs) have always been the main subject of the photovoltaic (PV) industry. Currently, the high-efficient c-Si technologies include silicon hetero
+-
+junction (HJT) [1,2], tunneling oxi

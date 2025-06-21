@@ -1,0 +1,3 @@
+g is not solely responsible for the flow of charge carriers through the ultra-thin tunnel oxide layer. Therefore, the authors recommended terming this passivated contacts as POLO (poly-silicon on oxide) junctions. Thirdly, suitable and sufficient thermal treatment may provide low junction resistance (2.4 m-cm
+2
+) even for the samples possessing an interfacial oxide layer thickness of greater than 2 nm. Therefore, by realizing the findings, one may consider the poly-Si/c-Si junction as “classi

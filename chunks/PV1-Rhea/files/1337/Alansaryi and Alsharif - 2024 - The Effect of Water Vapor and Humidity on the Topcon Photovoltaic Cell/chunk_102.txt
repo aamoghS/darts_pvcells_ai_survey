@@ -1,0 +1,25 @@
+.org/10.1016/j.surfin.2022.101917
+.
+ 
+[16]
+ 
+Richter, A., Müller, R., Benick, J., Feldmann, F., Steinhauser, B., Reichel, C., Fell, A., Bivour, M., 
+Hermle, M., Glunz, S.W., “Design rules for high
+-
+efficiency both
+-
+sides
+-
+contacted silicon solar cells with 
+balanced charge carrier transport and recombinat
+ion losses,” Nature Energy, pp. 1
+-
+10 (2021).
+ 
+[17]
+ 
+Kafle, B., Goraya, B. S., Mack, S., Feldmann, F., Nold, S., & Rentsch, J. “TOPCon 
+–
+ 
+Technology options 
+for cost efficient

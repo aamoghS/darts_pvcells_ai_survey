@@ -1,0 +1,5 @@
+sivation quality of the TOPCon structure even after high temperature paste firing process use of additional capping layer un
+-
+derneath the doped poly-Si layer may be a viable solution [87]. Besides, use of wideband gap poly-SiC
+x 
+layer instead of poly-Si layer may also facilitate to triumph over the challenge of parasitic absorption even in lower wavelength region of the light [95]. 6.5.Front emitter management Minimization of carrier recombination velocities at front emitter/ metal interface 

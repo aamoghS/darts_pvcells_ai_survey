@@ -1,0 +1,7 @@
+ 2018, Nandakumar et al. claimed to develop 22.8% efficient bifacial, large area and screen printed TOPCon solar cells based on M2 sized, 244.32 cm
+2
+, n-type CZ Si wafers [86]. Within one year, Chen et al. also reported about the development of the bifacial and industrial scalable TOPCon (i-TOPCon) solar cells based on n-type 6-inch CZ wa
+-
+fers [118]. According to the report, the average front side efficiency was obtained more than 23% with an open circuit voltage (V
+oc
+) of greater than 700 m

@@ -1,0 +1,17 @@
+ncy of 22.5% with V
+oc 
+=691.2 mV, J
+sc 
+=40.4 mA/cm
+2 
+and FF =80.7%. In contrast, Huang et al. used LPCVD technique for the development of TOPCon structure in the large area TOPCon solar cells [116]. According to the report, TOPCon structure featuring HNO
+3 
+grown ultra-thin (1.5 nm) SiO
+x 
+layer in conjunction with LPCVD coated 100 nm n
++
+poly-Si layer, followed by thermal annealing at 875
+◦
+C demonstrated an outstanding surface passivation quality with J
+0b 
+(rear side saturation current d

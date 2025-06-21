@@ -1,0 +1,17 @@
+V
+parametersofn-typeSi(uppergraphs)andp-typeSi(lowergraphs)solarcellsasafunctionofthecellthicknessand
+thedopingconcentration.Theresultsarecalculatedforcellsunder1-sunillumination(AM1.5G)at25
+◦
+C,whichareconstrainedbytheradiativeandAuger
+recombinationtakingphotonrecyclingandFCAintoaccount.Themodelingparametersofrow
+F
+inTableIwereusedforthesecalculations.Inadditiontothe
+efﬁciency
+η
+,alsoshownaretheopen-circuitvoltage
+V
+OC
+,thevoltageatthemaximumpowerpoint
+V
+mpp
+,theshort-circuitcurrentdensi

@@ -1,0 +1,3 @@
+sed carrier-selective 
+contacts for silicon solar cells.    Experimental Section   ALD-TiO 2  Film Deposition and Characterization : Thin TiO 2  ﬁ lms were deposited by ALD (TFS 200, BENEQ, Finland) with the titanium chloride 
+(TiCl 4 ) titanium precursor and H 2 O oxidant at a low temperature of 75 °C, and N 2  was used as the purge gas. The growth rate was determined to be ≈0.07 nm per cycle, and the cycle time was only 1.5 s. Thin TiO 2  ﬁ lms (2.5–5.5 nm) can be deposited within 2 m

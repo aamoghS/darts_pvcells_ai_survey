@@ -1,0 +1,19 @@
+ oxidation PECVD RPHP ∼720 7 [25] n-type CZ, 1–3 -cm Concentrated nitric and sulphuric acid oxidation PECVD FGA +PECVD SiN
+x 
+724 6.9 [37] p-type CZ, 1–3 -cm Oxidation in N
+2
+O plasma PECVD FGA +ALD Al
+2
+O
+3 
+742 3 [32] n-type CZ, 3 -cm Oxidation in N
+2
+O plasma PECVD Insertion of AlO
+x
+/SiN
+x 
+capping layer +annealing 747 2 [38] n-type CZ, 0.5–2 -cm Thermal oxidation LPCVD ALD AlO
+x 
++PECVD SiN
+x 
+700 18 [43] n-type CZ, 0.5–2 -cm Wet chemical oxidation PECVD Ozone oxidation 740 0

@@ -1,0 +1,14 @@
+g pads) / 100 mg   
+Table 4 LCOE parameters  
+Input Assumed Value Global horizontal irradiation Irradiation on module plane System size System type System life  Degradation parameters 1
+st 
+year (PERC / TOPCon) 2+year (PERC / TOPCon)  Temperature Coefficient P
+mpp 
+(PERC / TOPCon)  Bifaciality (PERC / TOPCon) Albedo 1700 kWh/m
+2
+a (South Europe) 1870 kWh/m
+2
+a 5000 kWp Green field 25 years   2.0% / 1.5% 0.5% / 0.5%   -0.37 / -0.34 %/K  70% / 80% 0.2 (340 kWh/m
+2
+a)   
+Table 5 Total production yi

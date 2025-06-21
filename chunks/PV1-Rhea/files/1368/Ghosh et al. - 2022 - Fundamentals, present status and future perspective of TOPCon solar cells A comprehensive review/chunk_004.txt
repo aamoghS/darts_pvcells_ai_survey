@@ -1,0 +1,3 @@
+ce [1]. Besides, successful development of first real solar cell by Bell Labs in 1954 has been able to endorse the research activities by a considerable margin for various explorations in the field of solar photovoltaics [2]. Consequently, different types of solar cell structures have been designed based on various semiconductor mate
+-
+rials but standard Al BSF (Back Surface Field) crystalline silicon solar cells dominated the market share over a longer period of time due to possessing numerous 

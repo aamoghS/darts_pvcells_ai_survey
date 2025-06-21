@@ -1,0 +1,7 @@
+t maximum power point; V
+MPP
+, Voltage at maximum power point; J
+MPP
+, Current density at maximum power point; DASH, Dopant-free asymmetric Si heterocontact; ECL, Electron-selective/col
+-
+lecting layer; HCL, Hole-selective/collecting layer; Poly-Si, Polycrystalline silicon; Fz-Si, Cz-Si; CVD, APCVD; PECVD, LPCVD; Float-zone silicon, Czochralski-grown silicon; Chemical vapor deposition, Atmospheric pressure chemical vapor deposition; Plasma-enhanced chemical vapor deposition, Low pressure chemica

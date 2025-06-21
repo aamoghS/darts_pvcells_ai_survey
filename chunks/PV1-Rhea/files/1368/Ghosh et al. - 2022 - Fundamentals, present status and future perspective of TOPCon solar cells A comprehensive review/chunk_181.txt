@@ -1,0 +1,17 @@
+ doped silicon layer. Quantitatively, the hydrogenated n-type and p-type POLO con
+-
+tacts based on CZ Si wafers provided quite low J
+0 
+of 6 fA/cm
+2 
+and acceptable iV
+oc 
+of 721 mV and 730 mV, respectively. The best p-POLO solar cell fabricated onto 156.75 mm ×156.75 mm, 1.6 -cm, p-type CZ Si wafers offered a conversion efficiency of 19.5% with V
+oc 
+=661 mV, J
+sc 
+=37.7 mA/cm
+2 
+and FF =78.0%. The corresponding cell area was 92.7 cm
+2
+. Recently, in 2022, Mousumi et al. claimed to realize a 

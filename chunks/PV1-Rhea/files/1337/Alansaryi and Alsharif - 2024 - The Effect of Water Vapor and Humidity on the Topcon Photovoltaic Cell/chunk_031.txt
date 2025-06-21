@@ -1,0 +1,16 @@
+ characteristics ought to be contingent upon the physical attributes of the oxide. The density of interface 
+traps
+ 
+D
+it 
+is a crucial passivation parameter that is impacted by the oxide's stoichiometry, which is in turn greatly 
+impacted by the conditions during fabrication and post
+-
+annealing. Due to hydrogen effusion on flat substrate 
+surfaces, thin film blistering happens w
+hen heat treating a
+-
+Si: H thin films in order to crystallize and
+ 
+create doped 
+layers. Regulation of the anneali

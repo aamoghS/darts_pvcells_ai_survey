@@ -1,0 +1,3 @@
+ which they have realized such kind of high efficiency value has not been revealed yet [24]. In essence, the continuous progress of TOPCon solar cells since its development in 2013 by Fraunhofer ISE has motivated us to write this review article and the primary focus of this contribution is to understand the basic operation of TOPCon solar cells and its importance in PV in
+-
+dustry. Next, the study reveals the fabrication of both-sided TOPCon solar cells with its merits and demerits. Besides, we 

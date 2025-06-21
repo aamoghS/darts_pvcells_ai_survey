@@ -1,0 +1,7 @@
+ to study the influential effect of using low work func
+-
+tion electron selective collection (ESC) layer instead of heavily doped n-type poly-Si layer at the rear side of the TOPCon solar cells [105]. The study revealed that the TOPCon solar cells featuring less defective tunnel oxide layer with a thickness of 1.2–1.4 nm and an electron selective collection (ESC) layer having a work function of <3.6 eV showed a very high implied V
+oc 
+(iV
+oc
+) of 742 mV and a FF of 86%. The authors also invest

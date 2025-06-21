@@ -1,0 +1,13 @@
+heentirevoltagerange.Thedatatablequantitativelysupportstheseobservations;atthehighestsqueegeespeedof170mm/s,thecellexhibitsaJ
+sc
+of38.96mA/cm
+2
+,aV
+oc
+of0.68V,anFFof78.77%,andanoveralleffi-ciencyof21.00%.Thesevaluesindicateoptimalmetallizationquality,whichtranslatestoreducedresistivelossesandefficientlightabsorptionandconversioncapabilities.Withthesqueegeespeeddecreasingto100mm/s,allperformancemetricsdecline:J
+sc
+dropsto38.39mA/cm
+2
+,V
+oc
+to0.68V,FFto73.32%,andefficiencyto19.12%.Thisreductionsug

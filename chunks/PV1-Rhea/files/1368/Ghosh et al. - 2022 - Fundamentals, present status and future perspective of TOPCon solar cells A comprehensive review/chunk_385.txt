@@ -1,0 +1,3 @@
+ due to featuring various advantages such as low bulk impurities, low material consumption, flexibility, easy to handle etc. However, power conversion efficiency of these thin wafer based solar cells is usually lower than the conventional Si solar cells. This phenomenon may be ascribed to low light absorption due to pos
+-
+sessing thin absorbing layer. Therefore, proper light management mechanisms need to be applied to triumph over this challenge. To the best of our knowledge, an intensive study 

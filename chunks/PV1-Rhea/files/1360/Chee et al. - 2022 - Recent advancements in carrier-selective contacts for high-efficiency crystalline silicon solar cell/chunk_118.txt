@@ -1,0 +1,17 @@
+c passivation may suffer, thereby increasing J
+0
+. Annealing the contact layers dramatically reduces 
+
+c 
+and increases FF, whereas increasing the passivation layer thickness de
+-
+creases surface/interface recombination at the penalty of a high 
+
+c 
+[121]. Despite a high interface state density (D
+it
+), the bilayer SiO
+x
+/Mg passivation film also enables outstanding electron selectivity thus yielding superior quantum efficiency and iV
+oc
+. Moreover, with a TMO having a high WF and excellent op

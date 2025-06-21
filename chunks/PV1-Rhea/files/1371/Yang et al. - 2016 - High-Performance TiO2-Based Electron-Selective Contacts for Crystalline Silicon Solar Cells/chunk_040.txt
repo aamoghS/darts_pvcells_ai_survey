@@ -1,0 +1,2 @@
+5 nm TiO 2  layer, respectively, after FGA annealing at 350 °C. Signiﬁ -cant passivation degradation is observed for all SiO 2 /TiO 2  stacks when FGA annealing at 400 °C. The results demonstrate that SiO 2 /TiO 2  stacks can also provide a good surface passivation on n-type silicon surface with a better thermal stability. Therefore, 
+silicon solar cells featuring a full-area SiO 2 /TiO 2  contact show a high  V  oc  value (676 mV) thanks to the stable passivation at the rear side during ﬁ

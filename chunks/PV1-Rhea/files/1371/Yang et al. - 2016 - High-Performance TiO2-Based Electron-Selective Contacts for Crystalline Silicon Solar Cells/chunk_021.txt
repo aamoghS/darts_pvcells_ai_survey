@@ -1,0 +1,4 @@
+t at the rear; b) light  I – V  curves under AM 1.5G; c) log-plot dark  I – V  curves; d) IQE spectra of silicon solar cells with and without a full-area TiO 2 -based contact.  Table 1.    Photovoltaic parameters of n-type silicon solar cells with or without a full area TiO 2 -based contact.  
+Rear contact type  V  oc    [mV]   J  sc    [mA cm −2 ]  FF   [%]   η    [%] Al58538.578.217.6TiO 2 /Al63839.279.119.8SiO 2 /TiO 2 /Al67639.680.721.6
+5893
+wileyonlinelibrary.com© 2016 WILEY-VCH Ver

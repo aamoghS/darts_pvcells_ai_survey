@@ -1,0 +1,17 @@
+1.8 mV, J
+sc 
+=42.62 ±0.4 mA/cm
+2 
+and FF =84.28 ±0.59; active cell area of 4 cm
+2
+) efficient c-Si solar cells by implementing both p
++
+-POLO and n
++
+-POLO structure at the rear side of a p-type c-Si wafer in an interdigitated pattern [16]. In the fabricated device, the passivated contacts i.e., n
++
+and p
++
+POLO layers were sepa
+-
+rated by an intrinsic poly-Si layer. Low parasitic absorption by doped poly-Si layer due to presence of passivated contacts at the rear side and no metal induced sh

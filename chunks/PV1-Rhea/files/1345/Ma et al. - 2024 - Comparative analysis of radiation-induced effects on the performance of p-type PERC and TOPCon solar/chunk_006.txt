@@ -1,0 +1,5 @@
+overs. They provide long-lasting power for scientific experiments, communi
+-
+cation systems, propulsion, navigation, and other critical functions. Without solar cells, the feasibility and sustainability of space missions would be severely compromised. Only two photovoltaic technologies have been used beyond proof-of-principle testing for space power sup
+-
+ply. Triple-junction InGaP/GaAs/InGaAs solar cells have been used almost exclusively for space applications for the last 20 years. Prior to th

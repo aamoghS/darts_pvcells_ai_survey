@@ -1,0 +1,11 @@
+ side of the bifacial TOPCon solar cells which were fabricated onto 180 
+
+m thick, 2 -cm, n-type CZ wafers [124]. The cells featured homogeneous ion-implanted boron emitter and the best cell demonstrated a power conversion efficiency of 22.6% with an effective cell area of 239 cm
+2
+. Besides, TOPCon structure with SiN
+x 
+capping layer provided an excellent surface passivation quality with a very low J
+0_TOPCON 
+of ∼5 fA/cm
+2
+, even after metallization (metal coverage area ∼13%) through ind

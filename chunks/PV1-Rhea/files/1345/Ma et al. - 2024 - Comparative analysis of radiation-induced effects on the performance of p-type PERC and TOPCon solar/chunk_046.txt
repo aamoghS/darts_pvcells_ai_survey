@@ -1,0 +1,4 @@
+between measured EQE and R curves and simulated results.  
+Fig. 2.(A) sketch of 2D unit cell of the n-TOPCon cell and (b) reasonable agreements between measured EQE and R curves and simulated results.  
+Fig. 3.(A) sketch of 2D unit cell of the p-TOPCon cell and (b) light JV of n-TOPCon and p-TOPCon.  
+F.-J. Ma et al.                                                                                                                                                                                      

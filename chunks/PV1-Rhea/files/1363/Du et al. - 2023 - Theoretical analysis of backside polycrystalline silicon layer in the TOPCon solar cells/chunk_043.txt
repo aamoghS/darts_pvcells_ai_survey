@@ -1,0 +1,5 @@
+ the quantum states near the bottom of the conduction band were recom
+-
+bined by defect. At the same time, it is found that the conduction band at the interface of monocrystalline silicon is lower than that of poly-Si, so a large number of electrons will accumulate here. Due to the large number of electrons being recombined by the defect, a large number of quantum states near the bottom of the conduction band are released. This causes a large number of electrons in mono
+-
+crystalline silicon to 

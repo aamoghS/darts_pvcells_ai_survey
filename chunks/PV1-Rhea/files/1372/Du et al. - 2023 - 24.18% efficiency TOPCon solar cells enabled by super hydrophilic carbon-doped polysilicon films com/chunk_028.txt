@@ -1,0 +1,3 @@
+, i.e., the contact angles of the Ni electrolyte are negatively correlated with the amount of C doping in the film, sug
+-
+gesting that C doping could effectively promote the diffusion of Ni electrolyte on the polysilicon. Therefore, it can be concluded from these observations that the introduction of C atoms into the polysilicon can effectively improve surface wettability. To uncover the improved wettability of the C-doped sample, we performed X-ray photoelectron spectroscopy (XPS) measurements 

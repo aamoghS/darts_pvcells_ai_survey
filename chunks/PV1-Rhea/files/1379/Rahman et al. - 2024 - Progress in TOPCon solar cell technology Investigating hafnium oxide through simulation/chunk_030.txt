@@ -1,0 +1,17 @@
+fO2 Relative permittivity 
+
+r 
+3.9 7.5 9.1 22 Electron tunnel mass m
+e
+/m
+0 
+0.40 0.50 0.41 0.11 Hole tunnel mass m
+h
+/m
+0 
+0.32 0.41 0.36 0.29 Electron barrier [eV] 
+e 
+3.1 2.1 2.9 2.1 Hole barrier [eV] 
+h 
+4.5 1.9 3.4 2.6 Fixed charge  ++– +R.U. Rahman et al.                                                                                                                                                                                                                             
+effectivenes

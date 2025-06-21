@@ -1,0 +1,12 @@
+yses [37,75,118–120,126,127] have shown that the incor
+-
+poration of an a-Si:H(i)/MoO
+x 
+passivating stack enhances charge transport in the SHJ solar cell. Nevertheless, the extent of reduction in J
+0 
+and 
+
+c 
+is a function of the stoichiometry of the MoO
+x 
+film, which in turn depends on the deposition technique and processing conditions. Chemical vapor deposition (CVD) [131], ALD [64,73], electron-beam evaporation [132], sputtering [133], and thermal evaporation [134–139] are common depo

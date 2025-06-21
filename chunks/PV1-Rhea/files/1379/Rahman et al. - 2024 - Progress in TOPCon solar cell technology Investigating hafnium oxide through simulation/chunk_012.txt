@@ -1,0 +1,3 @@
+kable thermal stability, are well documented in broader scientific discourse. These attributes render HfO2 an ideal candidate for applica
+-
+tion in advanced solar cell technologies (see Table 1, Fig. 1). Moreover, the research elucidates how HfO2’s broader bandgap effectively minimizes unnecessary light absorption, thereby optimizing the photon-to-electricity conversion process. Such findings, derived from simulation results, highlight HfO2’s capability to enhance the interface quality with 

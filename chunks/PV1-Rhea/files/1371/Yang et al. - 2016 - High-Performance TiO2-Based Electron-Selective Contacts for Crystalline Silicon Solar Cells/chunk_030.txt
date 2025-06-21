@@ -1,0 +1,3 @@
+2  stack on silicon surfaces is presented below.   Figure    2  a shows the injection level dependent effective life time ( τ  eff ) of n-type silicon wafers passivated by TiO 2  ﬁ lms with different thickness after forming gas atmosphere (FGA, 
+mixture of 95% N 2  and 5% H 2 ) annealing at 250 °C for 3 min, and the calculated upper limits of effective surface recombina-
+tion velocity ( S  eff ) values are shown together. An ultrathin TiO 2  ﬁ lm (2.5 nm) can signiﬁ cantly reduce the  S 

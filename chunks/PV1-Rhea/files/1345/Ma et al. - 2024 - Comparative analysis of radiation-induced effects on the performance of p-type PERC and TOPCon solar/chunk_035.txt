@@ -1,0 +1,3 @@
+hoto
+-
+generation profile derived from the earlier optical simulations. The substrate’s resistivity was determined to be approximately 1 cm. In alignment with the parameters established in Ref. [24], the profiles for the front emitter and the rear local BSF were conservatively set at 107 /sq and 10 /sq, respectively. Detailed specifications for the dielectric passivation on both the front and rear sides can be referenced from Table 1. From the EQE data presented in Fig. 1(b)–a front-side 

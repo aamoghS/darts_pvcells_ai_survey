@@ -1,0 +1,17 @@
+igh temperature annealing (optimized annealing tempera
+-
+ture ∼850
+◦
+C) in N
+2 
+atmosphere Step 6: Deposition of ALD coated Al
+2
+O
+3 
+layer and PECVD coated SiN
+x 
+layer onto front p
++
+emitter Step 7: Front side metallization by thermally evaporated Ti/Pd/Ag seed layer (finger width: 20 
+
+m) and subsequent electroplating of Ag layer Step 8: Rear side metallization by thermally evaporated Ti/Pd/Ag layer However, for better light management, rear side Ti/Pd/Ag metallic stack was replaced by e

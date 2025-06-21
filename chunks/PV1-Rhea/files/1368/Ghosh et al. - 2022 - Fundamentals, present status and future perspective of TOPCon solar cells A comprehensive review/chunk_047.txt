@@ -1,0 +1,11 @@
+=42.1 mA/cm
+2
+, FF =83.2%) [21]. The corresponding cell area was 2 ×2 cm
+2
+. Fig. 4 represents the band dia
+-
+gram of different interfaces such as a-Si/c-Si, poly silicon with tunnel oxide/c-Si and amorphous/poly silicon with tunnel oxide/c-Si (TOP
+-
+Con). From these band bending diagrams, efficient and simplified sep
+-
+aration of photo-generated carriers at the back side of n-Si base for a TOPCon solar cell can be well understood. Almost one and half years later, in 2017 Richter et al. reporte

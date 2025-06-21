@@ -1,0 +1,24 @@
+d (ALD) Al
+2
+O
+3 
+was used as capping layer, followed by a thermal annealing at 400
+◦
+C. As a result, the developed TOPCon structure based onto p-type Si wafers demonstrated an excellent surface passivation quality with iV
+oc 
+(implied open-circuit voltage) =742 mV, J
+0 
+(single-side saturated recombination current density) ∼3 fA/cm
+2
+, 
+
+c 
+(contact resistivity) ∼2 – 4 m-cm
+2
+, and 
+
+eff 
+(effective minority carrier lifetime) =1050 
+
+s. 
+Fig. 8.TEM images of (a) (p) a-Si:H/SiOx on p

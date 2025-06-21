@@ -1,0 +1,15 @@
+oped by using PECVD technology [128]. The recombination current density was found to be as low as ≈3 fA/cm
+2 
+in the passivated region whereas the value of J
+0 
+was almost 200 fA/cm
+2 
+in the metalized region. In the device level, the best cell featured a con
+-
+version efficiency of 22.95% with a V
+oc 
+of 700 mV, J
+sc 
+of 41.2 mA/cm
+2 
+and FF of 79.6%. On the other hand, APCVD may also be a competitor to LPCVD and/ or PECVD process due to its high deposition rate, facility of single-sided depo

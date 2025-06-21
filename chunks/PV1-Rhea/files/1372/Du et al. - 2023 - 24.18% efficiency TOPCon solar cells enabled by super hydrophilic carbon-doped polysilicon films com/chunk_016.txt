@@ -1,0 +1,14 @@
+en-circuit voltage (iV
+oc
+) of 745 mV and good contact performance with a contact resistivity (
+
+c
+) of 2–3 m cm
+2
+. Finally, the proof-of-concept TOPCon SCs with the double-layer polysilicon struc
+-
+ture and Ni/Cu/Sn-plated electrodes achieve a high-power conversion efficiency (PCE) of 24.18%, much higher than the C-free devices. 2.Experimental details 2.1.Preparation and characterization of the C-doped polysilicon The <100>oriented and 170 
+
+m thick n-type Czochralski (CZ) sili
+-
+con wafe

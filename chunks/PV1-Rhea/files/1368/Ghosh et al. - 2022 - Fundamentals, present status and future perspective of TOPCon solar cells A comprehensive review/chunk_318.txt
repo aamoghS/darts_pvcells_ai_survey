@@ -1,0 +1,7 @@
+. claimed that use of thick BSG layer (>50 nm) may inhibit the occurrence of damage into front p
++
+emitter during the removal process of wrap-around poly-Si layer developed by LPCVD technique [123]. Additionally, the study also revealed that uniform p
++
+emitter layer with acceptable sheet resistance may be developed by maintaining low pressure (300 mbar) at the time of thermal diffusion of BCl
+3 
+(boron trichloride) into textured, 0.5 – 1 -cm, <100>oriented, n-type CZ c-Si wafers. Finally, n-

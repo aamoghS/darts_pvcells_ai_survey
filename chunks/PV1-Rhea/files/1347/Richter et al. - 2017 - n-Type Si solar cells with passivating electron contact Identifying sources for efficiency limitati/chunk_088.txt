@@ -1,0 +1,2 @@
+33µm–Fingerwidth11µm±10%Fingershadingfraction70%±20%Fingerresistance3.3/cm±20%Widthofcontactopening8µm–aRearpassivatingcontact(TOPCon):J0,TOPCon4fA/cm2±20%ρC,TOPConb50mcm2±20%ParallelresistanceRp3.5kcm2±40%Opticalmodel:SurfacereectancemeasuredZmodel[35]parameters:Z030.69Z∞1.567Zp1.631aUncertaintyincludedinuncertaintyofρC,p++.bLumpedrearcontactresistancefromthec-SithroughtheTOPContotheAgrearcontact.A.Richteretal.Solar Energy Materials and Solar Cells 173 (2017) 96–105104
+(2

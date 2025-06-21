@@ -1,0 +1,14 @@
+rate temperature [84]. Consequently, a very high iV
+oc 
+(implied open-circuit voltage) of 747 mV, a very low J
+0 
+(single-side reverse saturated recombination current density) of 1.9 fA/cm
+2 
+and a high 
+
+eff 
+(effective minority carrier lifetime) of 4.07 ms were obtained due to may be the minimization of defect states at Si/SiO
+2 
+interface. Eventually, the solar cells fabricated onto n-type CZ Si wafers and featuring the optimized TOPCon structure demonstrated a power con
+-
+version efficiency

@@ -1,0 +1,15 @@
+d, ALD technique also provides the facility of precise control of the thickness of ultra-thin SiO
+x 
+layer which featured an optimized thickness value of 0.6 ±0.1 nm. Furthermore, the diffusion profiles of boron and hydrogen at the p-side SiO
+x
+/c-Si interface were also optimized for the improvement of solar cell performances. Eventually, the best cell with a boron con
+-
+centration of about 1.3 ×10
+20 
+at/cm
+3 
+at the front (p) stack and a hydrogen concentration of 2 ×10
+21 
+at/cm
+3 
+near the

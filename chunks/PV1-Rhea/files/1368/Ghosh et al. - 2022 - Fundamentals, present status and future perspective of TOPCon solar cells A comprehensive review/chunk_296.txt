@@ -1,0 +1,9 @@
+ing laser contact opening process may be a solu
+-
+tion to triumph over these challenges. Again, in 2019, Feldmann et al. reported that thick TOPCon layers were developed by using industrial grade low frequency PECVD tool [115]. The developed TOPCon struc
+-
+ture provided excellent surface passivation upon hydrogenation at low temperature. Eventually, the best solar cell based on n-type, M2-sized, 4-cm CZ Si wafer showed a power conversion efficiency of 22.5% with V
+oc 
+=691.2 mV, J
+sc 
+=40.4 mA/

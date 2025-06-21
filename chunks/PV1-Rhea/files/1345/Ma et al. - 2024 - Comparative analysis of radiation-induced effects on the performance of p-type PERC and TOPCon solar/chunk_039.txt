@@ -1,0 +1,9 @@
+mating 1.3 cm. The front boron emitter profile was set at 88 /sq. The experimental phosphorus diffu
+-
+sion profile within the n
++
+poly region was characterized using the electrochemical capacitance-voltage (ECV) technique and the thickness was found to be 220 nm. By effectively reproducing the EQE results as depicted in Fig. 2(b), alongside the corresponding LJV curves, the appropriate front metal fraction was determined to be 3.4 %. Further
+-
+more, to replicate the measured V
+oc
+, a hole carr
