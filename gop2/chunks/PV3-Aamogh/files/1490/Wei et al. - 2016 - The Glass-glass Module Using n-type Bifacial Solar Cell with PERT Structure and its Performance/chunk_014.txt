@@ -1,0 +1,4 @@
+s tested at CPVT.  The PID about 3.5% was obtained after 600hrs under 85��-85% humidity with a bias of -1000 V. The EL images before and after PID testing are shown in Fig. 2.  Fig. 2. EL image before (L) and after(R) PID testing The LID was about 0.19 % under the IEC standard of 60 kW·h/m2 illumination. The LID curve is shown in Fig.3. According to the result, after 60 kW·h/m2   illumination, the PV device is quite stable.   Fig.3. Module decay under illumination. 
+-0,2-0,18-0,16
+-0,14
+-0

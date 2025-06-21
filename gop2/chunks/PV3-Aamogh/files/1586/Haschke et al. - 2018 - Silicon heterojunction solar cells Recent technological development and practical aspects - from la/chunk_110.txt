@@ -1,0 +1,7 @@
+usedinthemodelaresummarizedinTableA.2,thesamesurfacerecombinationhasbeenassumedforbothsidesoftheabsorber.Theinjection-dependente�ectivelifetime˝e�isthencalcu-latedwith˝bulkSRH,˝intr,andassumingsymmetricalsurfacerecom-bination[137]following1
+˝e�=1
+˝bulkSRH+1
+˝intr+2Rsurf
+�nw(A.3)withtheexcesschargecarrierdensity�nandabsorberthick-nessw.Theimpliedopen-circuitvoltageVOC(iVOC)isdependentof�nandiscalculatedusingiVOC(�n)=kT
+qln (n0+�n)(p0+�p)
+ni(T)2!(A.4)withtheBoltzmannconstan

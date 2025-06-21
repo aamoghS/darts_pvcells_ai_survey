@@ -1,0 +1,4 @@
+ the TMO (e.g., TiO
+2
+)/p-Si than for the Al/p-Si Schottky diode [78]. The low barrier height for electrons and large barrier height for holes allow effective electron conduction, and the simultaneous back contact passivation facilitates majority carrier transport by diffusion in n-type SHJ solar cells. The one-diode current equation after Shockley’s theory shows the dependence on temperature 
+K.-W.A. Chee et al.                                                                                  

@@ -1,0 +1,2 @@
+horus-dopedpolycrystallineSi(poly-Si)layer.ThisschemeisreferredasTOPConortunneloxidepassivatedcontact,whichhasshowngreatthermalstabilityathightemperatures[3].Byapplyingboron-diffusedhomoge-
+neousemitterandphotolithographicallydenedfrontcon-tacts(Ti/Pd/Ag),Feldmann,etal.[5]havedemonstratedTOPConcellswith24.0%efciencyonasmallarean-typeoat-zoneSisubstrate.ThetunneloxidelayerinthisTOPConstructurewasgrownin68wt%nitricacidatatemperatureof110°C,closetoitsboilingpointof120°C[6,7].InordertoapplytheT

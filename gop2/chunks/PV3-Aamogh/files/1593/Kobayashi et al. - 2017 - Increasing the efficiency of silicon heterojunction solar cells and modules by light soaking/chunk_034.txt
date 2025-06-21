@@ -1,0 +1,4 @@
+plesetC:Busbarlesscellwithrear-emitter.(d)
+SamplesetD:Busbarlesscellwithfront-emitter.(E)SamplesetE:PrecursorofnishedcellswithoutTCOlayersandelectrodes.
+Fig.2.MeasuredηvaluesofSHJsolarcells.Thevaluesrepresentaveragedcharacter-istics.Eacherrorbarrepresentsthestandarderror.(a)–(c)Eectsofprolongedlightexposureasafunctionoft1-sun.ForsamplesetA,lightisincidentfromthea-Si:H(p)side;forsamplesetB,lightisincidentfromthea-Si:H(n)side.Totalcellnumbersofeachstructurearesix.
+Table1Singlecellmoduleparame

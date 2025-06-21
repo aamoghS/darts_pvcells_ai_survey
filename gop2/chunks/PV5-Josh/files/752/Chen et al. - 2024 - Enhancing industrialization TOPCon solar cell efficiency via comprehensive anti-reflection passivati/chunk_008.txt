@@ -1,0 +1,3 @@
+ of hydrogen [13]. The significance of hydrogen content in the structural performance of doped polysilicon passivating contacts has been well-documented in extensive studies. It has been consistently shown that maintaining a higher concentration of hydrogen in the vi
+-
+cinity of the ultrathin oxide layer, achieved through various methods, can significantly enhance passivation quality [14–17]. And finally leading to a notable improvement in the electrical performance of TOPCon solar cells [18].

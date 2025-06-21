@@ -1,0 +1,2 @@
+S.Reiter,R.Brendel,D.Tetzla,J.Krügener,T.Wietler,U.Höhne,J.-D.Kähler,Optimizationofp+poly-Si/c-Sijunctionsonwet-chemicallygrowninterfacialoxidesandondierentwafermorphologies,in:Proceedingsofthe32ndEuropeanPhotovoltaicSolarEnergyConference.,
+Munich,Germany,WIP,Munich,2016,pp.452–455.[118]D.L.Young,B.G.Lee,D.Fogel,W.Nemeth,V.LaSalvia,S.Theingi,M.Page,M.Young,C.Perkins,P.Stradins,Gallium-dopedpoly-Si:Ga/SiO2passivatedemitterston-CzwaferswithiVoc>730mV,IEEEJ.Photovolt.7(2017)1640.[119]J.Meyer

@@ -1,0 +1,5 @@
+ Busbar damage, cracks, ARE discoloration, and EVA degradation Visual inspection, I–V, and P–V measurements [140] India 90 Sc-Si modules 22 0.3–4.1  (P
+avg
+) Chalking of back sheet, corrosion, finger discoloration, and ribbon disconnection Visual inspection, I–V, thermal imaging, and insulation registration Measurement [134] Italy c-Si 20 0.22  (P
+max
+) Discoloration, delamination, corrosion, finger discoloration, and ribbon disconnection Visual inspection, I–V, IR thermography, and in

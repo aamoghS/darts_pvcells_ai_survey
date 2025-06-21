@@ -1,0 +1,5 @@
+ thickness, implying that the introduction of a-Si (i) did not lead to additional optical absorption loss. However, the FF value decreased with increasing a-Si (i) thickness, particularly in the G4 group. This reduction was primarily due to the limited diffusion of P atoms into the substrate, resulting in poor metal
+-
+lization contact performance. The most significant observation was the enhancement in conversion efficiency (
+
+), which improved from 23.58 % to 23.83 % as the a-Si (i) thickness 

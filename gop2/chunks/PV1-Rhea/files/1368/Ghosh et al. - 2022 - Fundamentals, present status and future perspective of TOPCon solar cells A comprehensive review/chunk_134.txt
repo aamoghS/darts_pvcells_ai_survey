@@ -1,0 +1,11 @@
+ay consider the poly-Si/c-Si junction as “classical, locally contacted emitter”. Lancaster et al. also studied the formation and the influential effect of pinholes on the charge carrier transport mechanism through ultra-thin SiO
+x 
+layers [47]. C-AFM (conductive atomic force microscopy) mea
+-
+surements showed that increment of annealing temperature from 800
+◦
+C to 950
+◦
+C raised the density of pinholes by a factor of 3. This phenom
+-
+enon may be attributed to the thermal degradation of t

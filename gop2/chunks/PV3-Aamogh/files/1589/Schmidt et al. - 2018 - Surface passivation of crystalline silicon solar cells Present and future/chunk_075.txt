@@ -1,0 +1,13 @@
+mparingtheultimateeciencypotentialofvarioustypesofselectivelayers.Assumingac-Siwafer
+thicknessof110µm,Lambertianlighttrappingandonlyintrinsicre-combination,thelimitingeciencyfora2-cmn-typesiliconwaferis
+=
+η
+S(2.4524.240)%max10
+(12)inthecasewheretheoverallrecombinationisnotlimitedbythein-
+trinsicbulkrecombinationandis
+=+
+η
+S((2.4524.240)(29.21))
+%
+max1019.5219.52119.52
+(13)otherwise[63].Fig.8showsthisfunctionthatislinearinselectivityforS10<13asdescribedbyEq.(12)andisincreasinglylimited

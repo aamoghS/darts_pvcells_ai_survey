@@ -1,0 +1,7 @@
+ps. For comparison, two reference samples are prepared; one is the (p) a-Si:H (22 nm)/SiO
+x 
+stack as the “as- deposited” reference, and the other one is the (p) poly-Si (22 nm)/SiO
+x 
+stack as the “high-T annealed” reference, both without the (i) a-Si:H precursor layer. Fig. 3a presents the depth profiles of the boron concentration. The as- deposited (p) a-Si:H reference profile, denoted by the (p) a-Si:H (22 nm) curve, shows no boron diffusion into c-Si, where the boron concentra
+-
+tio

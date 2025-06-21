@@ -1,0 +1,3 @@
+cated that while heavy phosphorus doping in the a-Si layer could prevent bursting to some extent, the sit
+-
+uation changed when the thickness of the a-Si (i) layer exceeded a specific threshold. Beyond this point, the burst phenomenon occurred and worsened as the film’s thickness increased. As reported in the literature, the crystallization of a-Si film leads to the accumulation of interfacial stress and rapid release of hydrogen, which are thought to be the main causes of film blistering [43,

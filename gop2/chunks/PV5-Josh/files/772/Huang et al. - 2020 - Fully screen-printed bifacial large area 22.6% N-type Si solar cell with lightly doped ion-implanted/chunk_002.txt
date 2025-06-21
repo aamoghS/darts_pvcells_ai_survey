@@ -1,0 +1,19 @@
+w recombination current density (J
+0_TOPCon
+) of ~1 fA/cm
+2 
+after a simulated firing treatment at ~770 
+�
+C without metallization. After screen-printed and fire- through metallization on n-TOPCon with ~13% metal coverage, metallized J
+0_TOPCon 
+value increased to only ~5 fA/cm
+2
+. In addition, homogenous boron implanted emitter (~180 /) passivated with ALD Al
+2
+O
+3 
+layer capped with PECVD SiN
+x
+/SiO
+x 
+double-layer antireflection (DLAR) coating gave excellent passivation with emitter recomb

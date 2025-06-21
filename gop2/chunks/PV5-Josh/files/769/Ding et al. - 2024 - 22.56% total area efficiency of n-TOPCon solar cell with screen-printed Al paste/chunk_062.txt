@@ -1,0 +1,18 @@
+l TOPCon solar cells, including laser contact opening (LCO) and screen-printing Al paste on TOPCon cells’ rear side. The results revealed that the laser energy density affected SiO
+x
+/n
++
+-poly-Si/SiN
+x 
+structure passivation, when we used a UV picosecond laser (355 nm, 10 ps) with an energy density of 0.431 J/cm
+2
+, the laser caused the least damage to SiO
+x
+/n
++
+-poly-Si/SiN
+x 
+structure (about 4.97 mV).
+The weight percentage of silicon in the Al paste affected the contact interface of n
++
+-

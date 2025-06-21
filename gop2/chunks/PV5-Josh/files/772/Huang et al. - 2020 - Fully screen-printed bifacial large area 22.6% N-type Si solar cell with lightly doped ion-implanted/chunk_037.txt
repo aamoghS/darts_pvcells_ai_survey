@@ -1,0 +1,13 @@
+1.8 Rear passivated TOPCon 1 86.5% 0.9 Rear metallized TOPCon 30 13.5% 4.0 Full Cell   57.5  
+Fig. 5.Measured phosphorus in-diffusion profile in bulk Si (a) and calculated J
+0_TOPCon 
+as functions of effective hole surface recombination velocity (b).  
+Table 3 Comparison of measured and modeled screen-printed TOPCon solar cell parameters.   
+V
+OC 
+(mV) J
+SC 
+(mA/cm
+2
+) FF (%) Eff (%) Experiment 702 40.3 79.7 22.6 Model 701 40.3 79.6 22.5  
+Fig. 4.Measured implanted B profile (a) and calculated J

@@ -1,0 +1,5 @@
+lardevice(left)andarepresentativetriangulation(right)2ThemathematicalmodelThroughoutthisworkweassumethatthesolarcelldeviceoperatesinalowinjectionandsteadystateregime.Inthisregimetheclassicaldrift-di�usionequationscanbesimpli�edandthesystemdecouplessincecurrenttransportisdominatedbydi�usion.Thecontinuityequationfortheminority(electron)carrierconcentrationn(x;z)andthevoltagedropV(x;z)inthisregime,aregivenby,[25]�n=1
+Dn�n
+˝n�G�;(x;z)2[0;p]�[0;w];�V=�n
+˝n�G��Dn�Dp
+�pN

@@ -1,0 +1,6 @@
+717-1731.
+https://doi.org/10.1109/16.141239
+24.deGraaffHC,deGrootJG.TheSIStunnelemitter:Atheoryforemitterswiththininterfacelayers.IEEETrans.ElectronDevices.1979;26(11):1771-1776.
+https://doi.org/10.1109/T-ED.1979.19684
+25.VanOverstraetenRJ.Advancesinsiliconsolarcellprocessing.In:15thIEEEPhotovoltaicSpecialistsConference.1981;372-376.26.GreenMA,BlakersAW.Advantagesofmetal-insulator-semiconductorstructuresforsiliconsolarcells.SolarCells.1983;8(1):3-16.
+https://doi.org/10.1016/0379-6787(83)90036-4

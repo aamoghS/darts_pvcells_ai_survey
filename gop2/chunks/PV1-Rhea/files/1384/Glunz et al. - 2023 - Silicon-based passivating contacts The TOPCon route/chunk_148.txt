@@ -1,0 +1,9 @@
+463/ab9c6a
+61.ChenY,ChenD,LiuC,etal.Massproductionofindustrialtunneloxidepassivatedcontacts(i-TOPCon)siliconsolarcellswithaverage
+efficiencyover23%andmodulesover345W.ProgPhotovolt:ResAppl2019;27(10):827-834.
+https://doi.org/10.1002/pip.3180
+GLUNZETAL.357
+62.ChenD,ChenY,WangZ,etal.24.58%totalareaefficiencyofscreen-printed,largeareaindustrialsiliconsolarcellswiththetunnel
+oxidepassivatedcontacts(i-TOPCon)design.SolEnergyMaterSolCells.2020;206:110258.
+https://doi.org/10.1016/j.solmat.2019.110258
+63

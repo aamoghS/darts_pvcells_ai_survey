@@ -1,0 +1,15 @@
+ease V
+oc 
+and FF. Besides SiO
+x 
+or AlO
+x
+, the TCO contact structure may also typically employ TMOs such as sub-stoichiometric TiO
+x 
+or MoO
+x
+, having a band gap >3eV and WF >5eV, to replace the a-Si:H(p) layer. MoO
+x 
+(x<3) exhibited best-in-class results with the selective hole contact scheme for n-Si solar cell FF and efficiency due to advantages in processing and optical transparency [75,118,119]. Sputter deposition of the TCO film atop the transparent MoO
+x
+-based HCL stack to form the e

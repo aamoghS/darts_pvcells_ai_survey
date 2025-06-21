@@ -1,0 +1,9 @@
+er insulating region (>100 nm), and the current only flows through the polysilicon region. The sheet resistance of this sample after phosphorous diffusion is 40–45 /sq.The test results are called back contact resistivity (
+
+c,B
+) and polysilicon contact resistivity (
+
+c,P
+). The structure of the TOPCon solar cell is shown in Fig. 1(b), and its process flow is shown in Fig. 2(b). After texturing in an alkaline solution, the front emitter was formed by low-pressure BCl
+3 
+diffusion in an indu

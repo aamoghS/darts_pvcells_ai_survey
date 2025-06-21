@@ -1,0 +1,9 @@
+at the metal con
+-
+tacts in JSIM samples exhibited significantly less sensitivity to NaCl- induced deteroriation, resulting in TOPCon solar cells that can with
+-
+stand NaCl during DH85. 3.3.Contact resistance To get more insight into the cause for the increased R
+s
+, we investi
+-
+gated the contact resistances of JSIM and baseline samples both before and after 20 h of DH85 testing and the results are shown in Fig. 6. Across all control groups, there was a limited increase compared to the contamin

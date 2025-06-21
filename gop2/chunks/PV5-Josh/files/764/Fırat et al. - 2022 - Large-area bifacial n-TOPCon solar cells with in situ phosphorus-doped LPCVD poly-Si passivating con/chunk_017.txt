@@ -1,0 +1,5 @@
+8 mcm
+2 
+[26]. The po
+-
+tential of these passivating contacts is assessed in this work at device level. It is important to note that the use of thermal annealing, which is considered necessary for the activation of dopants and commonly applied to in situ doped Si films [2], makes the in situ doping-based approach a two-step process itself as in the case of ex situ doping by dopant diffusion. However, it has been shown in the literature that, while the deposition of in situ doped Si films is mo

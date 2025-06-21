@@ -1,0 +1,5 @@
+) range of 280–1200 nm using a LOANA system by PV-tools with a black chuck. For the EQE measurements, a bias light of 0.3 suns was used. The EQE data was corrected by a wavelength- independent scaling factor so that its integration with the AM1.5 G spectrum yields the J
+sc 
+determined by the I–V measurements. These data were analyzed for understanding the differences in the optical perfor
+-
+mance of each group of solar cells. For understanding the factors limiting the performance of the n- T

@@ -1,0 +1,13 @@
+from the surface of the wafer, the preparation of the anti-reflection passivation film on the front side starts with the deposition of a ~10 nm AlO
+x 
+film by an in-line single side deposition atomic layer deposition (ALD) (Ideal Deposition Equipment & Applications Co., Ltd.), which is the most mainstream commercial TOPCon solar cell AlOx deposition equipment available. Subsequently, SiN
+x
+, SiO
+x
+N
+y 
+and SiO
+x 
+were sequentially deposited on AlO
+x 
+with a tubular PECVD equipment (M82300-12/UM,

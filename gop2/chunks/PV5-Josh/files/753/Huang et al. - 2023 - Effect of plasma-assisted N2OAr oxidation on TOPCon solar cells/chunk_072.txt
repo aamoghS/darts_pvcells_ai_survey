@@ -1,0 +1,5 @@
+ge numbers, resulting in the increase of potential recombination centers in the silicon substrate and the decrease of chemical passivating effect. The above reasons deteriorate the passiv
+-
+ation quality sharply. In addition, it can be seen from Fig. 6(d) that the contact resistivity decreases with the increase of annealing temperatur, which is mainly related to the internal diffusion of phosphorus [18,25]. 3.4.Effects of PANAO SiO
+x 
+on electrical performance of TOPCon solar cells We have prepa

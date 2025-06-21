@@ -1,0 +1,11 @@
+ concentration of the material will significantly affect the Auger recombination. For the P-doping concen
+-
+tration distribution in Fig. 6(c), we tried to use EDNA2 to simulate to estimate J
+0, Auger 
+in the c-Si substrate, and the results are shown in Fig. 6 (d). By properly setting the simulation parameters, the relative value of J
+0, Auger 
+can be obtained, as shown in Fig. 6(d). In the textured samples, J
+0, Auger 
+is the largest, reaching 8.78fA/cm
+2
+. The alkali-polished P4 group reaches a

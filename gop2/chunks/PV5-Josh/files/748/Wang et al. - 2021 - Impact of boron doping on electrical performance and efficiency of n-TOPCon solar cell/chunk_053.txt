@@ -1,0 +1,23 @@
+haps because the deep junctions have high bulk recombination, and then they are sensitive to surface concentration. As shown in Fig. 3c, the value of J
+0e, passivated 
+increased from 22.3 to 42.8 fA/cm
+2 
+with the in
+-
+crease in the junction depth from 0.5 to 1.0 
+
+m on the peak concen
+-
+tration of 3 ×10
+19 
+atoms/cm
+3
+. And in Fig. 3d, J0e
+, passivated 
+increased from 22.4 to 36.4 fA/cm
+2 
+by increasing the junction depth from 0.5 to 0.85 
+
+m at the peak concentration of 2.6 ×10
+19 
+atoms/c

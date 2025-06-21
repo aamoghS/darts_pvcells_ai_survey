@@ -1,0 +1,7 @@
+. Krassowski et al. inves
+-
+tigated the reliability of PERC cells with LECO treatment, affirming that it did not compromise the long-term stability of module performance [36,38,39]. However, the evaluation of TOPCon cell and module reli
+-
+ability based on the laser-assisted firing process and tailored paste re
+-
+mains limited. Given the heightened sensitivity of TOPCon’s front-side contact, evaluating the impact of laser-assisted firing treatment and associated pastes on the long-term stabilit

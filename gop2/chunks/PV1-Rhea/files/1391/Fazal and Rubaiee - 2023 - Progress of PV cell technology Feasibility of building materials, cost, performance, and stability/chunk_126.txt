@@ -1,0 +1,3 @@
+s are important to enhance the service life of PV cells. The common techniques to be employed for detecting the degradation of cells or modules include visual inspection, IR imaging, I–V character
+-
+ization, electroluminescence (El) imaging, lock-in thermography (LIT), and UV fluorescence imaging. The awareness of enhancing performance by reducing environmental impacts is essential. In this case, several mitigation techniques reported by Santhakumari and Sagar, [133] include active and passive

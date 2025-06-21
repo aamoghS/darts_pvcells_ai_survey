@@ -1,0 +1,11 @@
+ J
+0e 
+¼12 fA/cm
+2 
+(Fig. 3(b)). Similarly, SRV of ~6.7 �10
+4 
+cm/s was extracted (Fig. 4 (b)) for the metallized emitter region from the measured J
+0e,metal 
+of 706 fA/cm
+2 
+(Fig. 3(b)). Since the exact tunneling mechanism and tunneling parameters were not fully known for our TOPCon, we measured phosphorus in-diffusion profile in Si bulk by electrochemical capacitance-voltage (ECV) technique and replaced the n-TOPCon region by this profile with an effective surface recombination velocity tha

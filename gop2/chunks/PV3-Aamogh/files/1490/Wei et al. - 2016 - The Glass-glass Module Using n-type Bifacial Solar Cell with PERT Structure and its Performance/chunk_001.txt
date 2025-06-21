@@ -1,0 +1,2 @@
+s module using n-type bifacial solar cell with PERT structure and its performance Qingzhu Wei, Chenyang Wu*, Xiaorui Liu, Sanyang Zhang, Feng Qian, Junyu Lu,  Weifei Lian, Paul Ni  Zhongli Talesun Solar Co.,Ltd. No.1 Talesun Road, Shajiabang, Changshu, Suzhou, Jiangsu Province, China, 211542  Abstract 
+In this work, the industrial glass-glass module was developed using bifacial n-type solar cell. The passivation emitter and rear total diffusion cells (PERT) structure solar cell combined boron sp

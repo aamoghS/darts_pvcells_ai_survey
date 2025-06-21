@@ -1,0 +1,7 @@
+ysis of champion solar cells The IV results of the champion solar cells with each metallization approach are summarized in Table 1. The narrow front side contact width (~15 
+
+m contact width, 5 
+
+m LCO width) of the plated TOPCon solar cells allowed low contact shading (+0.3 mA/cm
+2 
+compared to SP reference) and low front side contact recombination (+10 mV compared to SP reference). The low contact resistivity of plated nickel on boron doped emitters and phosphorous doped TOPCon allowed low s

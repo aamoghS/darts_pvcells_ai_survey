@@ -1,0 +1,9 @@
+atoms into the Si matrix and deeper diffusion depths, and the diffusion of Z-direction is dominant. However, when the temperature exceeds 950 
+◦
+C, the average diffusion depth and the maximum diffusion depth suddenly increase. Therefore, the most favorable results are tentatively obtained in the temperature range of 950–1050 
+◦
+C. 4.2.Experimental results B powder [12] can also serve as a doping source for n-type Si. However, creating high concentrations (more than 10
+19 
+atom/cm
+3
+) of pu

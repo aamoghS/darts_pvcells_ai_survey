@@ -1,0 +1,9 @@
+s deposition temperatures. The novelty of our results arose from different fabrication methods and treatment steps. Josua et al. used a chemical process for oxidation and a thin nc-SiO
+x 
+layer, thus requiring different annealing times and temperatures. In this study, we optimized the thickness of evaluated layers, N
+2 
+atmosphere annealing, and FGA temperature and time. To evaluate the passivation contact properties, maximum i-V
+oc 
+values and low interface trap density (D
+it
+) were examined as

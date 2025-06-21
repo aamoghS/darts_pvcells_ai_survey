@@ -1,0 +1,24 @@
+on temperature (T
+dep
+), drive in temperature (T
+drive-in
+) on the n
++
+-poly-Si profiles, J
+0
+, 
+
+c 
+and optical reflection of n- TOPCon cells were analyzed using the POCl
+3 
+tube furnace diffusion method. The ECV profiles for the n
++
+-poly-Si layer under different process conditions are shown in Fig. 7. G
+POCl3 
+was set as 1200, 1600, 2000 and 2400 sccm using a single-variable process parameter, Fig. 7a shows the ECV profiles as a function of G
+POCl3
+. T
+dep 
+was set as 770, 790 and 810 
+◦
+C

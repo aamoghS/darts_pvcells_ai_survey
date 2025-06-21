@@ -1,0 +1,3 @@
+rough meticulous simulation, it has been established that the strategic incorporation of HfO2 can lead to a 21.3% increase in charge carrier lifetime, with the possibility of boosting the overall power conversion efficiency (PCE) by up to 25%. This discovery significantly delineates our work from foun
+-
+dational literature. HfO2’s superior material properties, notably its higher dielectric constant compared to silicon oxide (SiO2) and its remarkable thermal stability, are well documented in br

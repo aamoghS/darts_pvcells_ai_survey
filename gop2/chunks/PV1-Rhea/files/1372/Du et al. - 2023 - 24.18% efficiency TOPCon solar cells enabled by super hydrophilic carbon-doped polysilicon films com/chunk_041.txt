@@ -1,0 +1,9 @@
+s are plotted in Fig. 5(a) and (b), respectively. Obvi
+-
+ously, all curves exhibit distinct Ohmic behavior, and the variation in the slope of the dark I–V curves of the double-layer structure is insen
+-
+sitive to the R values compared with the C-doped sample. It is worth 
+Fig. 1.Images of (a)–(d) a distilled water droplet and (e)–(h) a Ni electrolyte droplet for the samples without C-doping and with C-doping at an R-value of 0.5, 0.67, and 0.75. All samples were annealed at 840 
+◦
+C. 
+Fi

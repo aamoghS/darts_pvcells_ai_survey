@@ -1,0 +1,5 @@
+ on the TOPCon rear side with thickness of 60 nm, 90 nm, 125 nm and 140 nm. The poly-Si thicknesses were confirmed with scanning electron micro
+-
+scope measurements at cross sections of the final solar cells after metallization. The fabrication process of the precursors is similar to the description of Grübel et al. [11]. The wafer area was 267.85 cm
+2
+.The metallization process of the TOPCon solar cell precursors was either silver/silver-aluminum (Ag/AgAl) screen printing at the R&D line of th

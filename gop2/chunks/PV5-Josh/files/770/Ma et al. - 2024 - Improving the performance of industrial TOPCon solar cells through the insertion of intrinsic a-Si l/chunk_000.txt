@@ -1,0 +1,34 @@
+
+Improving the performance of industrial TOPCon solar cells through the insertion of intrinsic a-Si layer 
+S. Ma
+a
+,
+b
+, D.X. Du
+a
+, D. Ding
+a
+, C. Gao
+a
+, Z.P. Li
+a
+, X.Y. Wu
+c
+, S. Zou
+d
+, X. Su
+d
+, X.Y. Kong
+b
+, B. Liao
+e
+,
+*
+, W.Z. Shen
+a
+,
+** 
+a
+Institute of Solar Energy, And Key Laboratory of Artificial Structures and Quantum Control (Ministry of Education), School of Physics and Astronomy, Shanghai Jiao Tong University, Shanghai, 200240, People’s Republic of China 
+b
+School of Materials

@@ -1,0 +1,22 @@
+9]
+ 
+C. Sen, et al., Accelerated damp
+-
+heat testing at the cell
+-
+level of bifacial silicon HJT, PERC and TOPCon 
+solar cells using sodium chloride, Sol. Energy Mater. Sol. Cell. 262 (2023) 112554, 
+https://doi.org/10.1016/j.solmat.2023.112554, 2023/10/ 15/. 
+ 
+[10]
+ 
+C. Peike, et al., Origin of damp
+-
+heat induced cell degradation, Sol. Energy Mater. Sol. Cell. 116 (2013) 
+49
+–
+54, https://doi.org/10.1016/j.solmat.2013.03.022, 2013/ 09/01/. 
+ 
+[11]
+ 
+M. Koehl, S. Hoffmann, S. Wiesmeier, Eval

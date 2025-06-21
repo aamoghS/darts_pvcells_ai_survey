@@ -1,0 +1,6 @@
+                             
+annealing in N
+2
+. In Fig. 2, we calculate the COO of intrinsic and phosphorus-doped layers for the same thickness of 150 nm, considering about 36% lower deposition rate for in-situ doped grown layers in comparison to intrinsic layers. LPCVD depositions are performed here in a front-front configuration, i.e. placing two wafers facing front sides in a single slot. It can be observed that the COO of LPCVD step increases by almost 15%
+abs. 
+if in-situ phosphorus- doped

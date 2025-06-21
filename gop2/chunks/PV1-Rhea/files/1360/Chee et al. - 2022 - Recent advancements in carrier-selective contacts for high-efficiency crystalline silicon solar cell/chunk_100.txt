@@ -1,0 +1,10 @@
+tinction coefficient, k, in the visible waveband allows high optical transparency. Furthermore, the sheet resistance, R
+s
+, of the TCO layer, is related to its thickness d and conductivity 
+ 
+through: 
+Fig. 3.Main process sequence for fabrication on n-Si solar cells with a full-area TiO
+2 
+contact at the rear. (used with permission from [41]). 
+Fig. 4.Conversion efficiency and structure evolution of silicon solar cells with full-area electron-selective contacts. (adapted from [41]) 
+K.-W.A. Che

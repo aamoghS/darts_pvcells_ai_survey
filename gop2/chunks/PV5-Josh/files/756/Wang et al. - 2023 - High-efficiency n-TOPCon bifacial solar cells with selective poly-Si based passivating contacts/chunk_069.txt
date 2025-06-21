@@ -1,0 +1,16 @@
+ experimental samples (a) before; (b) after sintering.  
+Fig. 7.ECV profiles of n
++
+-poly-Si layers with variations of the three key process parameters: G
+POCl3 
+(a), T
+dep 
+(b), T
+drive-in 
+(c).  
+Q. Wang et al.                                                                                                                                                                                                                                   
+770 to 810 
+◦
+C (Fig. 9b). For the change of T
+drive-in 
+p

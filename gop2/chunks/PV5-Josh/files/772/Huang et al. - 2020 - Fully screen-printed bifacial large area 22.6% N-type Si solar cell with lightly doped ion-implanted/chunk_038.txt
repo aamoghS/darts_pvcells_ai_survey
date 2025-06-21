@@ -1,0 +1,5 @@
+.Measured implanted B profile (a) and calculated J
+0e 
+as functions of surface recombination velocity (b).  
+Y.-Y. Huang et al.                                                                                                                                                                                                                              
+data, as shown in Table 3. In order to establish directions for further efficiency improvement, we extended the 2D Sentaurus modeling. Table 4 shows t

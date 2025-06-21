@@ -1,0 +1,16 @@
+loss of 0.53 mA/cm
+2
+. The corresponding doping concentration was as high as 1.9 ×10
+20 
+cm
+�3
+. Therefore, one may conclude that the thickness and doping concentration of doped poly-Si layer should be kept as low as possible to minimize the free carrier ab
+-
+sorption loss. However, the authors suggested that the doping level of doped poly-Si layer should not be decreased beyond 1 ×10
+20 
+cm
+�3 
+so that the contact resistivity (
+
+c
+) value can be kept as low as possible. Besides, the stud

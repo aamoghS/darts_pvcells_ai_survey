@@ -1,0 +1,15 @@
+ 
+process, which was mainly related to the distribution number of O and Si
+4+
+content on the growth of the SiO
+x 
+layer. The drive-in temperature of P diffusion process had a stronger influence on J
+0 
+than the deposition temperature, which was mainly related to the chemical passivation of SiO
+x 
+layer induced by P- indiffusion into Si at high temperature. Subsequently, we designed different thicknesses for the n
++
+-poly-Si layers. There was a significant positive correlation between 
+
+c 
+and s

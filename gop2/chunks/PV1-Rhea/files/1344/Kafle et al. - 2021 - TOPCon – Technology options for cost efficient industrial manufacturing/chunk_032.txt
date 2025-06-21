@@ -1,0 +1,9 @@
+chemical inline tool. Ozone cleaning oxidizes the silicon surface, the oxide then being removed with a final HF-dip before the surface passivation steps. Advanced passivation of front and rear side is envisioned by growing thin thermal silicon oxide of about 2 nm before passivation of rear (PECVD AlO
+x
+/a-SiN
+x 
+stack) and front (PECVD a-SiN
+x
+), which is deemed here a necessary step to reach a high average conversion efficiency of 23.0% in bifacial p-PERC pro
+-
+duction. After passivation proces

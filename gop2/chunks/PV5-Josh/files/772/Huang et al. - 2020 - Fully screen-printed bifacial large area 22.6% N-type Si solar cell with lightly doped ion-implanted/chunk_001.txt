@@ -1,0 +1,11 @@
+ Implanted B emitter Large area Bifacial cell 
+ABSTRACT  
+We report on the fabrication of fully screen-printed bifacial large area (239 cm
+2
+) high-efficiency n-type Si solar cells with ion-implanted homogeneous boron emitter on the front side and carrier-selective tunnel oxide passivated contact (TOPCon) on the rear. Our phosphorus-doped poly-Si/SiO
+x 
+passivated contact with SiN
+x 
+capping layer gave excellent surface passivation with a very low recombination current density (J
+0_TOPCon
+) of ~

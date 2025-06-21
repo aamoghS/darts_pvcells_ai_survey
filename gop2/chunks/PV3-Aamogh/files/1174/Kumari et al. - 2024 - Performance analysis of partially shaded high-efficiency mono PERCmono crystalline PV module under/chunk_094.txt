@@ -1,0 +1,2 @@
+ 40% of the PV cell causes a rapid drop in power of 30.4%. e large variance is recorded during 40% shading, where the module power ranges from 364.822 to 253.5546 W. Aer shading 60% and 80% shading, the power loss stabilizes to approximately 36.18%. is is probably because, once the shaded cell is forced to function at negative voltages, the power response becomes more sensitive in order to minimize variances in cell reverse characteristics. While shading, signicant changes are observed in 
+I

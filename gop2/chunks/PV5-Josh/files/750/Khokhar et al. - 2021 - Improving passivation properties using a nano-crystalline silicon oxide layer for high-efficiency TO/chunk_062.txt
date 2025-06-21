@@ -1,0 +1,25 @@
+he lowest i-V
+oc 
+and highest D
+it
+. But the thermal annealing at 950 
+◦
+C and FGA at 400 
+◦
+C of 50 nm thick nc-SiO
+x 
+films resulted in the highest i-V
+oc 
+and lowest D
+it
+. For D
+it
+, the decrease in i-V
+oc 
+owing to leakage became noticeable as the temperature rose. Therefore, the temperature charac
+-
+teristics of the contact solar cell are more sensitive to D
+it 
+[10,16,29–34]. 4.Conclusion This study aimed to improve passivation by employing an amended nc-SiO
+x 
+layer to enhance the 

@@ -1,0 +1,20 @@
+. 4 (b). This corresponds to a metallized J
+0e 
+of 31 fA/cm
+2 
+(¼706 �2.7% þ12 �97.3%) for 2.7% metal/Si contact fraction for floating busbars and 
+Table 1 Light I–V results of best screen-printed, large-area n-TOPCon bifacial cells with non-floating busbars (nFB) and floating busbars (FB).  
+Busbar V
+OC 
+[mV] J
+SC 
+[mA/cm
+2
+] FF [%] 
+	 
+[%] n-factor Rs [-cm
+2
+] Rsh[-cm
+2
+] pFF[%] nFB 688 40.1 80.0 22.1 1.17 0.41 5270 82.3 FB 702 40.3 79.7 22.6 1.12 0.59 12800 82.7  
+Fig. 3.Measured re

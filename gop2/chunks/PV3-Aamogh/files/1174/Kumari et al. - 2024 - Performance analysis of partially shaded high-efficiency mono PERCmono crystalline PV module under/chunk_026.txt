@@ -1,0 +1,7 @@
+
+=
+Vmp∗Imp
+S∗Ar
+4
+Scientific Reports |        (2024) 14:21587  | https://doi.org/10.1038/s41598-024-72502-z
+array will be impacted if a single cell or single PV panel experiences shading. erefore, its crucial to work on how to lessen the impact of shading on PV systems.ere has been intensive research done to understand the on how the shading is impacting energy of a PV  system9,10. Figure3 gives a brief demonstration of IV curves in two dierent scenarios: uniformly illuminated PV mod

@@ -1,0 +1,21 @@
+ration of atomic O in N
+2
+O/Ar plasma. The addition of Ar makes the dissociation of N
+2
+O occur via Penning reactions with Ar* [38]:  N
+2
+O +Ar* N
+2
+(B
+3
+∏
+g
+) +O(
+3
+P) +Ar                                               (2) Due to the existence of this reaction, the atomic O yield by plasma- assisted N
+2
+O/Ar oxidation will be higher than that of plasma-assisted N
+2
+O oxidation under appropriate N
+2
+O/Ar flow ratio. Therefore, it can be explained that the intensity of O emission line increases

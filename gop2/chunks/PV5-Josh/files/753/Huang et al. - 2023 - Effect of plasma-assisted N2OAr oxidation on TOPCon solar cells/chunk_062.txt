@@ -1,0 +1,23 @@
+tion quality. We also have to ensure that the low 
+
+contact 
+value is capable of se
+-
+lective carrier transport through the PANAO SiO
+x 
+tunnel layer after we have evaluated the quality of passivation contact by 
+
+, iV
+oc 
+and J
+0 
+values. In this work, TLM is used to test the contact resistivity value to evaluate the carrier transmission characteristics (effective contact re
+-
+sistivity 
+
+contact
+), as shown in Fig. 6(d). For PANAO SiO
+x
+/Poly-Si(n
++
+) passivated contact, the average contact

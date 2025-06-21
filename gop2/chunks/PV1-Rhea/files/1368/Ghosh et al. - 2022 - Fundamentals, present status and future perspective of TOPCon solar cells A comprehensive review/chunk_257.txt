@@ -1,0 +1,11 @@
+
+15 
+cm
+�3 
+may be realized by developing high quality TOPCon structure onto 1 -cm, 200 
+
+m n-type Si wafers. The influential effect of SiO
+2 
+tunnelling oxide layer thickness on tunnelling current was also studied and it was observed that an increment of 0.2 nm oxide layer thickness may reduce the tunnelling current by more than one magnitude. However, improvement in the collection probability of electrons was noticed for increasing the doping level in n
++
+-Si layer. This may simplify the m

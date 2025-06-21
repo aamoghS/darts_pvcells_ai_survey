@@ -1,0 +1,4 @@
+[22]. However, predicting the reliable lifetime of PV a module is still quite challenging. A reliable PV system is mainly represented by lower degradation rate and longer service lifetimes. These are affected by building materials, processing technology, environment (e.g., cold and hot weather, hu
+-
+midity, snow, dust, and temperature), and operating conditions. The service life of a PV module usually lasts 25–30 years. However, PV 
+Fig. 11.Annual variation in the mean percentage of performanc

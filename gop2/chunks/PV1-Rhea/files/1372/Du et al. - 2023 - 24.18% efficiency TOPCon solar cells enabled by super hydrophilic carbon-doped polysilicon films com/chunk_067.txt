@@ -1,0 +1,12 @@
+, 2000474. 
+Fig. 6.(a) Schematic diagram of the TOPCon solar cell featuring a double-layer polysilicon structure. (b) Current-voltage (J-V) characteristic curves, and (c) the corresponding EQE and Ref. spectra of the TOPCon SCs. 
+Table 1 Photovoltaic parameters of the TOPCon SCs featuring the C-free polysilicon and the double-layer polysilicon.  
+Samples V
+oc 
+(mV) J
+sc 
+(mA/cm
+2
+) FF (%) 
+ 
+(%) Controlled 694.7 ±4.1 41.58 ±0.22 80.50 ±0.35 23.25 ±0.36 Double-layer 703.8 ±3.5 41.83 ±0.2 8

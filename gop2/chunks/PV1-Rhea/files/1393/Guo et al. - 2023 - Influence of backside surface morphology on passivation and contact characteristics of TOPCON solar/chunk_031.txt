@@ -1,0 +1,6 @@
+                                                                                                                                                                     
+and the refractive index is 2.05–2.1. Finally, metal contact is achieved by screen printing followed by co-fired annealing. Activation of H passivation is achieved by electron injection annealing. The photoelec
+-
+tric conversion efficiency is determined by measuring the cur
+-
+rent–voltage (I-V) characteristic curve. External qua

@@ -1,0 +1,4 @@
+040–
+Fig.8.Simulateddefectpropertiesof(a)dopeda-Si:Hand(b)i-a-Si:Hlayers.
+Fig.9.(a)BanddiagramofSHJsolarcellsduringa1-sunLS.(b)Thecarrierre-combinationrate(Re)distributioninSHJsolarcellsunder0.02-,0.1-,and1-sun.Thelightisincidentfromthep-a-Si:Hside.E.Kobayashietal.Solar Energy Materials and Solar Cells 173 (2017) 43–4948
+[3]J.Geissbuehler,S.DeWolf,B.Demaurex,J.P.Seif,D.T.L.Alexander,L.Barraud,C.Ballif,Amorphous/crystallinesiliconinterfacedefectsinducedbyhydrogenplasmatreatments,Appl.Phys.Let

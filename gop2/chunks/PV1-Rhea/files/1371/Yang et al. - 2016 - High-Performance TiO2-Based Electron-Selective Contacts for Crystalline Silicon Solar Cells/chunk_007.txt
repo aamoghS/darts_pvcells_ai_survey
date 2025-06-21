@@ -1,0 +1,7 @@
+ation, brush 
+painting, spin-on and spray methods). Sub-stoichiometric 
+molybdenum oxide (MoO  x  ), [ 10–13 ]  nickel oxide (NiO  
+x  ), [ 14 ]  vana-dium oxide (VO  x  ), [ 13 ]  and tungstate oxide (WO  
+x  ) [ 13,15 ]  have been investigated as hole-selective contacts for silicon solar cells. By 
+substituting the boron-doped a-Si:H with a thin MoO  x   ﬁ lm, a SHJ solar cell with a PCE of 22.5% has been achieved with 
+an improved short-circuit current density ( J  sc ). [ 12 ]  Recently,

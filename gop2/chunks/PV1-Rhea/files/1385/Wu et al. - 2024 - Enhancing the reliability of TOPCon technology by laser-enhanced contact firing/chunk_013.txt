@@ -1,0 +1,5 @@
+t reverse voltage [34]. This leads to a high localized current flow, which substantially reduces the contact resistivity between the semi
+-
+conductor and metal electrode in areas where the contact resistance was already relatively low before the process [34–37]. This laser firing method has demonstrated efficacy in enhancing the efficiency of PERC and TOPCon cells by expanding the firing window and preserving sur
+-
+face passivation, particularly on lightly doped emitters. Furthermore, laser-as

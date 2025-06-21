@@ -1,0 +1,3 @@
+ side of the solar cells. Our future work will focus on following the roadmap established in this paper to achieve the foreseen improvements to 
+ 
+experimentally. Furthermore, further simplification of the process used for fabricating n- TOPCon solar cells will be targeted by developing fired passivating contacts based on the in situ P-doped LPCVD poly-Si films used in this work, thereby skipping the post-LPCVD annealing process. CRediT authorship contribution statement Meriç Fırat: Writing �

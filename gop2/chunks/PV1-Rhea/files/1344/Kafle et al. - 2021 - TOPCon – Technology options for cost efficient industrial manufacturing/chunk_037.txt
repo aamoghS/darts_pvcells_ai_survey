@@ -1,0 +1,5 @@
+r to a polycrystalline layer, so called polycrystalline-silicon (poly-Si). The ex-situ doping of the poly-Si layer is also possible to achieve using an ion implantation process [6], how
+-
+ever, we focus on poly-Si doping using the tube furnace as it is more widely established in research and industry leading to a more accessible process parameter dataset availability. The POCl
+3 
+diffusion process is optimized to dope the polysilicon layer with a constant doping concentration. During the ex-situ

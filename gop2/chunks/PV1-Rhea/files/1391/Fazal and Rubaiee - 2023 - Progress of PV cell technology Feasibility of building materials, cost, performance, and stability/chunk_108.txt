@@ -1,0 +1,3 @@
+on, solar radiation, weather, and corresponding module surface tempera
+-
+ture. The actual solar energy yield per year for a particular PV material can vary depending on locations and operating conditions as well. The annual performance ratio (PR) representing the performance of various PV materials is derived by taking the ratio of the actual yield to the expected yield. According to Chandra and Yadav, [128], the PR of various technologies, such as mono-c-Si, m-c-Si, a-Si, CIGS, CdTe, and HIT, h

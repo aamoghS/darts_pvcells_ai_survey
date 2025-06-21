@@ -1,0 +1,6 @@
+Solar Cells 
+journal homepage: www.elsevier.com/locate/solmat 
+https://doi.org/10.1016/j.solmat.2024.113024 Received 7 May 2024; Received in revised form 5 June 2024; Accepted 27 June 2024   
+corresponding to excellent surface chemical passivation and additional field-effect passivation [12], respectively. The key to obtaining the high performance of TOPCon is the preparation of the high-quality tunnel SiO
+x 
+and heavily doped poly-Si. In terms of Tox, there have been many reports on the methods

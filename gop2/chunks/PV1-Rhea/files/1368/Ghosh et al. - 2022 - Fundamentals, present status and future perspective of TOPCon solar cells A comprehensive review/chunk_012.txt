@@ -1,0 +1,11 @@
+ an active cell area of 179.7 cm
+2 
+[12]. Recently, in October 2021 LONGi Solar has announced new record HJT solar cells with 26.3% efficiency based on M6 wafers [13]. In contrast, the highest reported efficiency for con
+-
+ventional PERC and TOPCon solar cells has been found to be 24.06% and 25.7%, respectively [14,15]. In 2018, ISFH, the eminent solar energy research institute located in Germany claimed that they developed 26.1% (V
+oc 
+=726.6 ±1.8 mV, J
+sc 
+=42.62 ±0.4 mA/cm
+2 
+and FF =84.28 

@@ -1,0 +1,13 @@
+ resulting from the PO process primarily manifests in the V
+oc 
+gain, while any changes in I
+sc 
+are not readily discernible. 3.2.Plasma hydrogenation The impact of PH treatment on the distribution of H atoms within both the SiN
+x 
+layer and the polysilicon passivating contact structure is elucidated through SIMS analysis, as showcased in Fig. 4a. Following the completion of SiN
+x 
+deposition, the PH treatment leads to a notable in
+-
+crease in H content within the deposited SiN
+x 
+layer can be m

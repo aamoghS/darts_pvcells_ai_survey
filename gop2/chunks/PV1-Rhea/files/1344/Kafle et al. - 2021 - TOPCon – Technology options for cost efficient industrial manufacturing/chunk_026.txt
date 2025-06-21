@@ -1,0 +1,7 @@
+al process conditions, inclusion of doping gas significantly influences the film growth, i.e. the silicon deposition rate. For instance, depending upon the process conditions, inclusion of PH
+3 
+flux is reported to lower the deposition rate by several times [17] that is further exacerbated by an increase in PH
+3 
+flux [16]. This leads to two approaches of LPCVD a-Si deposition – a) deposition of intrinsic a-Si/poly-Si layers, followed by an ex-situ POCl
+3 
+tube diffusion process to form poly-S

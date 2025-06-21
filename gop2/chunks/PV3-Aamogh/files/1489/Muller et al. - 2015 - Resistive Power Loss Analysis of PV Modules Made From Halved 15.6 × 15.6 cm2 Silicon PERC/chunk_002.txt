@@ -1,0 +1,17 @@
+larcellintwopieces,noadditionalpowerlossis
+introducedbycutting.TheCTMfactorof1.0determinedatthe
+3
+×
+6moduleisexplainedusingananalyticalmodeldescribingthe
+seriesresistanceofthemoduleinterconnection.Usingthismodel,
+weestimateforourcurrentPERCcellgenerationandmodulepro-
+cessanoutputpowerof275Wfor60full-sizecellsand285Wfor
+120halvedcells.
+IndexTerms
+Devicesimulation,moduleinterconnectionpas-
+sivatedemitterandrearcell(PERC)solarcells,resistivepower
+loss.
+I.I
+NTRODUCTION
+T
+HERESISTIVEpowerlossinaph

@@ -1,0 +1,21 @@
+ochemical capacitance- voltage (ECV, WEP Wafer Profile CVP21) was used to measure the dopant concentration profiles of the annealed c-Si/SiO
+x
+/poly-Si(n
++
+) structure samples. 3.Results and discussion 3.1.Kinetics of plasma-assisted N
+2
+O/Ar oxidation(PANAO) SiO
+x 
+The average oxidation thickness of SiO
+x 
+is gradually decreased from 1.76 nm (N
+2
+O/Ar=5:0) to 0.82 nm (N
+2
+O/Ar=5:10) with the decrease of N
+2
+O/Ar flow ratio under the condition of constant N
+2
+O flow, as evi
+-
+denced in Fig. 2(a)

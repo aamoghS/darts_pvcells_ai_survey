@@ -1,0 +1,7 @@
+ity, Nanchang, 330063, China 
+c
+Center of Cell Research, Risen Energy Co., Ltd., Ningbo, 315609, China   
+ARTICLE INFO  
+Keywords: Silicon solar cell TOPCon Plasma oxidation Plasma hydrogenation 
+ABSTRACT  
+This study focuses on enhancing the performance of n-type Tunnel Oxide Passivated Contact (TOPCon) solar cells by exploring the optimization of both front and rear film layers. For the front film, we implement a one-step plasma oxidation process before depositing silicon nitride on alumina, a

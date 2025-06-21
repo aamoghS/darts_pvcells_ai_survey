@@ -1,0 +1,9 @@
+ng MgO and TaO
+x 
+have not broken through the 20-% efficiency mark so far (i.e., for cells without the a-Si:H membrane). Nevertheless, the TiO
+2
+-based film, i.e., with a tunnel-SiO
+2 
+layer inserted between the c-Si and dopant-free contact layer to improve surface passivation, stably withstands industry-standard quick firing conditions so that with further optimization, the adoption of full-area TiO
+2
+-based ECL allowed more than 22-% efficiency within the following year (see Fig. 4) [41]. For 

@@ -1,0 +1,10 @@
+s, the aspect ratio (height/width) is used to indicate the performance of the grid after sintering, higher aspect ratio leads to smaller series resistance. In addition, the higher aspect ratio grids decrease the shiel
+-
+ded area of light.
+The aspect ratio of the grids was measured by a confocal scanning laser microscope (
+Fig. 8
+(a–d)). The Al paste with a low weight per
+-
+centage of silicon formed higher aspect ratio grids, because most silicon reached Al melt from n
++
+-poly-Si, even the temp

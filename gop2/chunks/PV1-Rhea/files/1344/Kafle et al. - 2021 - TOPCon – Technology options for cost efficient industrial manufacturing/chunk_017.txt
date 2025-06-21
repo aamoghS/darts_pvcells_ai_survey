@@ -1,0 +1,7 @@
+an n-type c-Si substrate with boron (p
++
+) emitter on the textured (front) side. The front side is passivated by a dielectric stack of passivation and anti-reflection layer. The rear side with either textured/semi-polished or polished surface features tunnel oxide and doped polysilicon layer acting as passivating carrier-selective contact, stacked with amorphous hydrogenated silicon nitride (a-SiN
+x
+) layer as the source of hydrogenation to passivate the dangling bonds in Si–SiO
+2 
+interface [

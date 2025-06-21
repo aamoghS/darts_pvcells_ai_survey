@@ -1,0 +1,2 @@
+ailed calculation of Voc and FF using an ideal one- diode model from the measured values of Jo, Jo,metal, and ρc.
+Bifacial solar cellStructurePERC (n+pp+)TOPCon (p+nn+)SHJ (n+np+)n++ layer (Ω/sq)1354064n+ layer (Ω/sq)2204064J0,n++ [fA/cm2]6000J0,n+ [fA/cm2]1842J0e,metal (n++ fingers) [fA/cm2]500750Busbar fraction (fbusbar,n+) [%]2.7%0.4%0.4%Heavy doping layer fraction (n++ fingers) (fheavyn+) [%]7.6%0.0%0.0%Metallized fraction (n++ fingers) (fn++) [%]1.6%2.4%1.4%J0,n- layer [fA/cm2]21.33.92

@@ -1,0 +1,19 @@
+ of 1.15 ×10
+19 
+atoms/cm
+3 
+with a higher iV
+oc 
+=721 mV. A decrease of<10 mV in V
+oc 
+was observed at the deep p
++
+-diffused region with 0.8 
+
+m, while for the shallow p
++
+-diffused region with 0.5 
+
+m, the drop exceeds 15 mV on emitter N1and N2. It was indicated that the profile depth of B-doped can minimize the V
+oc 
+losses by effectively shielding the metal contacts from the minority charge carriers. Therefore, the junction depth is important as its calculation considers the effects of m

@@ -1,0 +1,2 @@
+erence,Tempa,Florida,USA
+2013;pp.2247–2249.20.YablonovitchE,GmitterT,SwansonRM,KwarkYH.A720mVopencircuitvoltageSiOx:c-Si:SiOxdoubleheterostructuresolarcell.AppliedPhysicsLetters1985;47:1211–1213.21.ReuschM,BivourM,HermeleM,GlunzSW.Fillfac-torlimitationofsiliconheterojunctionsolarcellsbyjunctionrecombination.EnergyProcedia2013;38:297–304.22.TaoY,OkY-W,ZimbardiF,UpadhyayaA,LaiJ,NingS,UpadhyayaV,RohatgiA.Fullyion-implantedandscreen-printed20.2%efcientfrontjunctionsiliconcellson239cm2N-typeCz

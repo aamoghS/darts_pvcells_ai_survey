@@ -1,0 +1,11 @@
+k concentration Junction depth B-selective emitters 
+ABSTRACT  
+A big challenge to improve the conversion efficiency of n-type solar cell is the recombination and electrical contacting of boron (B)-doped emitters in n-TOPCon solar cells. This work investigates the emitter dark satu
+-
+ration current density under the passivation layer (J
+0e, passivated
+), the metallization-induced recombination cur
+-
+rent density under the metal contact (J
+0e, metal
+), and the I–V parameters, including short-ci

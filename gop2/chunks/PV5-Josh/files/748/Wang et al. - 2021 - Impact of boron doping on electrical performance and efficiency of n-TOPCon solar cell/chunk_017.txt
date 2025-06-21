@@ -1,0 +1,13 @@
+with varying thickness of the AlO
+x 
+capping layer Duttagupta et al., 2012 Homogeneous emitter 92 3 ×10
+19 
+/ 42 606 V
+oc 
+666 mV, E
+ff 
+20.7% 156 mm ×156 mm n- PERT An mechanism for enhanced recombination exists below the Ag/Al paste, which is especially detrimental for lowly doped emitters. Kiefer et al., 2014 Selective TOPCon 120 / / 8 430 V
+oc 
+707.5 mV , E
+ff 
+23.21% 158.75 mm ×158.75 mm Selective n- TOPCon The optimized design of the front surface TOPCon layer on the metal contact Yu et

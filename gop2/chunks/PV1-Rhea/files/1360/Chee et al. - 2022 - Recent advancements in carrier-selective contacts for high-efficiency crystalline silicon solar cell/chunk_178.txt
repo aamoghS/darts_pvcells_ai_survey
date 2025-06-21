@@ -1,0 +1,19 @@
+he minority carrier lifetime to 12.5 and 5.4ms and implied V
+oc 
+to 728 and 727mV, respectively, for 100 and 2cm n-type c-Si substrates. [164] Electron-selective thermal-SiO
+x
+/n
++
+- poly-Si and hole-selective thermal-SiO
+x
+/p
++
+-poly-Si passivated contacts Efficiency ~ 24%; iV
+oc 
+of 690/ 703mV on planar/textured c-Si surface; further improvement in minority carrier lifetime and iVoc, and reduced J
+0 
+when capped with an SiN
+x 
+layer to reduce parasitic absorption. [165] n
++
+-poly-Si contact 

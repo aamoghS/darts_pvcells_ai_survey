@@ -1,0 +1,11 @@
+ontaining BCl
+3 
+gas using LYDOP™ system (Laplace) and Laser doping technology with the width of 90-100 
+
+m (DR laser, 532 nm, >20MKHz). After B diffusion, the rear side was polished by a mixed solution of HF and HNO
+3
+. Due to the boron silicate glass layer formed during the boron doping step, this layer acts as a polishing mask layer to protect the front structure during the pol
+-
+ishing process. The rear side stack, which consists of a SiO
+x 
+(1.6 ±0.2 nm) layer and an intrinsic a-Si (140

@@ -1,0 +1,16 @@
+ity per nanometer, which is thought to be related to the thickness of n
++
+-poly-Si layer about 0.0093 mA/cm
+2 
+per nm. In a word, the n
++
+-poly-Si layers need to satisfy high- quality passivation and low parasitic absorption. While the n
+++
+-poly- Si layers need to satisfy the conditions of corroded depth and 
+
+c 
+of the Ag paste, so the above analysis is proposed to assume 110 nm as n
+++
+-poly-Si layer. The photograph of screen-printing pattern of the n
+++
+-poly-Si layer sample with different 

@@ -1,0 +1,14 @@
+andsubtractedfromtherightsideofequation(A.5)whichallowsforthecalculationoftheimpliedﬁll-factoriFF.12
+TableA.2:Parameterusedforthesimulationifnotstatedotherwise
+parameter
+parameter(bulk)value
+(surface)value
+waferthicknessw160µm
+modeldangling-bonddoping(n-type)2�1015cm=3
+Qg0cm=2˙n10=14cm2
+˙0n1
+20�10�16cm2˙p10=14cm2
+˙0p10=16cm2Nbulktrap109cm=3
+˙+n500�˙0ntrapenergylevelmidgap
+˙�p500�˙0p
+AppendixB.Comparisonofcell-to-modulelossesoftwomulti-wireconﬁgurations:250µmand300µmThi

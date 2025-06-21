@@ -1,0 +1,5 @@
+ In this case, the phosphorus dopant diffusion in the poly-Si layer, and the thickness of the SiO
+x 
+layer, were optimized to obtain a suitably high-performing electrical contact between the screen-printed Ag and the c-Si. A SiO
+x 
+layer thickness exceeding 1.5nm was recommended for high-quality passivation. In lieu of the customary PERC cells, full-area Al-BSF with rear-side Al grid contact is promising in mainstream cell production. Furthermore, SHJ, TOPCon, cost-effective thin wafer c-Si tech

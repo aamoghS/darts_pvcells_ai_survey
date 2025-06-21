@@ -1,0 +1,13 @@
+to a saturation current density of the rear side contact J
+0,LCO 
+of 200–1500 fA/cm
+2
+, respectively. This range in J
+0,LCO 
+equals the findings of Arya et al. [9] on similar poly-Si thicknesses. However, the data of this work suggests that even for 60 nm poly-Si thickness low iV
+oc 
+degradation ≤1 mV (referring to J
+0,LCO 
+≤200 fA/cm
+2
+) are possible. This suggests that even thinner poly-Si thicknesses would be applicable for TOPCon solar cells with a laser structured and plated metalliza

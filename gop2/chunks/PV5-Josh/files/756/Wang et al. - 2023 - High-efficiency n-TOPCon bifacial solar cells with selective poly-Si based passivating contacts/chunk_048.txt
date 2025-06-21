@@ -1,0 +1,13 @@
+ibution number of O and Si
+4+
+content on the growth of the SiO
+x 
+layer. The data analysis of XPS spectra shows that the distribution number of O and Si
+4+
+content which is a key indicator of the quality of SiO
+x 
+layer. The higher the SiO
+2 
+content, the better the passivation quality (Fig. S2). And a thick SiO
+x 
+layer was usually endowed with a relatively high passivation-quality but a poor tunneling selectivity, resulting in low FF. While the sheet resistance on p-type silicon of these three

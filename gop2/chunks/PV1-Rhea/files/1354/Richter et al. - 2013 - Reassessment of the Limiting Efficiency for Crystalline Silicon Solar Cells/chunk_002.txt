@@ -1,0 +1,15 @@
+aticcalculationofthe
+I–V
+parametersasafunctionofthe
+dopingconcentrationandthecellthicknesstogetherwithananal-
+ysisofthelosscurrentatmaximumpowerpointprovidesfurther
+insightintotheintrinsiclimitationsofsiliconsolarcells.
+IndexTerms
+Efﬁciencylimit,silicon,solarcells.
+I.I
+NTRODUCTION
+T
+HEmaximumpowerconversionefﬁciencyofsiliconso-
+larcellsislimitedbytheintrinsicpropertiesofsilicon,
+suchasthebandgapenergyorthechargecarrierrecombination
+properties.ThisintrinsiclimitationisofbasicinterestforPV

@@ -1,0 +1,9 @@
+“120,126,127]. Directly depos
+-
+iting MoO
+x 
+on the p-Si absorber to form the back surface ohmic contact, and atop the front surface a-Si:H(i) passivating film on the n-Si absorber, were shown to improve current density and efficiency [118,119]. Due to the wider bandgap (~ 3eV), the greater optical transparency of the MoO
+x 
+layer results in improved optical gain compared to that of a-Si:H (p) at the hole-selective contact, which in principle, increases J
+sc
+. The optoelectric properties of MoO

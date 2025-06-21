@@ -1,0 +1,14 @@
+ace of ITO on the front side surface, the AZO/SiO
+2 
+bilayer yielded a J
+sc 
+improvement by 0.4mA/cm
+2 
+and a maximum efficiency of 23% for the n-type SHJ solar cell. The AZO was used as the front TCO layer, which was capped with an SiO
+2 
+layer as the anti-reflection coating, so that these samples demonstrated enhanced stability under damp-heat test conditions. Effective passivation was also demonstrated using spin-coated SiO
+x 
+layers having thicknesses exceeding 100nm (
+
+eff 
+>1ms) based on 

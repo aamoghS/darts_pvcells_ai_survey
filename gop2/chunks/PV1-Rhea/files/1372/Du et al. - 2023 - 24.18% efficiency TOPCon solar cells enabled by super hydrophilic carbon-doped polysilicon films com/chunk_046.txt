@@ -1,0 +1,6 @@
+performance. In summary, such a double-layer polysilicon structure shows not only better wettability but also low 
+
+c
+. Finally, the proof-of-concept n-type TOPCon SCs featuring the double-layer polysilicon structure and plated fingers were fabricated. The structure diagram is shown in Fig. 6(a) and the electrical parameters of TOPCon SCs are shown in Table 1. It can be seen from the J-V curves and the corresponding photovol
+-
+taic parameters in Fig. 6(b) that the device performance featuring t

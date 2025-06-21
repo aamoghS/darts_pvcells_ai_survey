@@ -1,0 +1,6 @@
+=0;rV��=0:(2)�Topside:z=0;x2(0;L),n=n2i
+NA�exp�Vbias+V
+VT��1�;�qDprn��=�J0�exp�Vbias+V
+VT��1�:(3)�Bottomside:z=w;x2(0;L),Dnrn��=�Sn;outsidecontact:rV��=�nS1(Dn�Dp)
+�pNADn;insidecontact:V=0;(4)where�istheoutwardnormaltotheside,qistheelectroncharge,VT=kT
+qisthethermalvoltage,SistherecombinationvelocitywithS=s1outsidethecontactandS=s2insidethecontact.Further,nidenotestheintrinsiccarrierconcentration,J0thesaturationcurrentdensityandVbiasistheexte

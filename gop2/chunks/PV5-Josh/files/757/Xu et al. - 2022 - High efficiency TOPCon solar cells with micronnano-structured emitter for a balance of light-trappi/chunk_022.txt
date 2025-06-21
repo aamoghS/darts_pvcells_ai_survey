@@ -1,0 +1,11 @@
+polysilicon at the front-side and the wafer edges was removed by HF/HNO
+3 
+mixed solution and a SiN
+x 
+layer via PECVD was covered on rear surface to intensify passivation performance. Then, to suppress surface recombination and reflectance loss, the ALD-Al
+2
+O
+3 
+(~4 nm)/PECVD-SiN
+x 
+(~75 nm) stacked films were deposited on various texturing emitters. Finally, a metallization pattern with 12 busbars was formed by a screen printing and co-sintered process. It is noteworthy that in view of the ex

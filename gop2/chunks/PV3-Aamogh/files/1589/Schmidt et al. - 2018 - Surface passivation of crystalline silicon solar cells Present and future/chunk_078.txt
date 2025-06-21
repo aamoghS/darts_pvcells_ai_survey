@@ -1,0 +1,14 @@
+ontactofselectivity
+=
+
+SVJρlog
+,
+hch10,h10th0,,
+(17)itispossibletoprovethatthemaximumachievablecombinedse-lectivity
+Seh&,max
+thatdeterminesthemaximumachievableeciencyofthiscellviaEq.(13)isgivenby[64]
+=+()S1.ehSS&,max112eh
+(18)Here,SeandSharebothdenedbyEq.(8)whenappliedtoelectron-andhole-selectivecontacts,respectively.Acellwithtwocontactshastheeectivedeviceparameters(ρc,e/fe,max+ρc,h/fh,max)and(fe,maxJ0,e+fh,maxJ0,h).Contactfractionsfe,maxandfh,maxthatmaximizetheef-ciencyare
+=+
+f
+ρ�

@@ -1,0 +1,5 @@
+ty of combining the high temperature annealing and oxidation of boron emitter in a single step, which makes this approach economically competitive in comparison to the process route featuring ex-situ LPCVD a-Si/poly-Si layers. Meanwhile, alternatives to LPCVD-based process routes are identi
+-
+fied and some of the most promising process routes for industrial TOP
+-
+Con manufacturing are designed and evaluated. A comparison of normalized COO between LPCVD, PECVD and APCVD a-Si deposition technologi

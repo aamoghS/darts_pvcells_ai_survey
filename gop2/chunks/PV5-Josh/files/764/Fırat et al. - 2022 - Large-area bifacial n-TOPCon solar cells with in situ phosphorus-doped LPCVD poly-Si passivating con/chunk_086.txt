@@ -1,0 +1,15 @@
+e corresponding results in Table 3 for t
+poly 
+=150 nm shows that the average 
+ 
+has slightly improved by 0.1%. This is due to the 0.7% jump in FF, which follows from the lower r
+s 
+of 0.6 cm
+2
+, and is attributed to the improved screen-printing process, yielding little to no finger interruptions as found by optical microscopy. The reason for the limited gain in 
+ 
+despite this significant FF increase seems to be the drop in V
+oc 
+by 2.4 mV. To understand this loss in V
+oc
+, PL images of mon

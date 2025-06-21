@@ -1,0 +1,2 @@
+ flow followed for fabricating the solar cells in a). 
+single-side wet-chemical etching of poly-Si in a diluted alkaline solution, eliminating the masking step [12,30,31]. Subsequently, the samples were annealed at 900°C for 60 min [26]. Afterwards, the front surface was passivated with 5 nm thick atomic layer deposited (ALD) AlOx and 70 nm thick PECVD SiNx:H films, the latter of which also acts as an antireflection coating (ARC). A 70 nm thick PECVD SiNx:H film was also applied to the rear sid

@@ -1,0 +1,13 @@
+tact firing, the excess printed metal was etched away in HCl:H
+2
+O
+2
+:H
+2
+O ¼1:1:1 solution, leaving only the embedded metal contact on the sur
+-
+face for the metallized J
+0 
+measurements. 3.Results and discussion Table 1 shows the cell parameters from light I–V measurements when the cell is illuminated from the front side. Cells were measured in-house using the Fraunhofer ISE certificated reference cell. The fire-through busbar cells showed best cell efficiency of 22.1% with V
+oc 
+of 688 mV,

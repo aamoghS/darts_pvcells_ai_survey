@@ -1,0 +1,3 @@
+Modelling TOPCon solar cells Similarly, the method employed in the preceding analysis was extended to a representative n-TOPCon solar cell. In this context, 3D optical simulations were conducted, considering a front structure characterized by a regular upright pyramidal configuration and a rear surface modelled using a Phong factor of 15 coupled with a broadband reflectivity of 88 %. Within the ARC stack, the optimal thickness for SiN
+x
+:H was determined to be 80 nm, with a refractive index of 1

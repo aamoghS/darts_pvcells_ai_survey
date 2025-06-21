@@ -1,0 +1,4 @@
+on the diffusion speed of Si is greater than that of Al, therefore, the silicon in Al-Si alloy transfer to the Al layers occurred in the process, which led to the reduction of the silicon content in the melt, and more and more silicon from n
++
+-poly-Si diffused to the melt to maintain phase balance. So, the voids formed in the alloy when the silicon diffused and the melt flow.
+The shape of metal grids can also affect the performance of solar cells, the aspect ratio (height/width) is used to indi

@@ -1,0 +1,13 @@
+g FLP effects are trivial, MoO
+x 
+typically forms a hole inversion layer at the n-Si surface, or hole accumulation layer at the p-Si surface, thus reducing 
+
+c 
+[128]. Representative current-voltage measurements exhibiting ohmic behavior and the cor
+-
+responding 
+
+c 
+values are extracted for three different contact structures as shown in Fig. 6, for an MoO
+x 
+IL thickness of ~10nm. As the capping layer on a-Si:H(i) for front surface passivation, Paduthol et al. [129] reported that the use of S

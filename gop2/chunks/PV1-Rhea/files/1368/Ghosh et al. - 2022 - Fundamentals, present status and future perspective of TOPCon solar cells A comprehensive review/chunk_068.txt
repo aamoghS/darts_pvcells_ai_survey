@@ -1,0 +1,7 @@
+oriented polished Si wafers demonstrated a very low value of contact resistance of about 0.45 /cm
+2
+. Nevertheless, both-sided TOPCon solar cells based on textured Si wafers outperformed the both-sided TOPCon solar cells fabricated on polished Si wafers due to featuring higher value of J
+sc
+. The highest re
+-
+ported efficiency was 19.1% for the both-sided TOPCon solar cells developed on textured Si surfaces. The other important application of TOPCon structure is to use it as rear emitter in p-t

@@ -1,0 +1,11 @@
+, Zhou et al. reported about the fabrication of large area (244.32 cm
+2
+) bifacial TOPCon solar cells featuring n-type TOPCon structure at the back and boron diffused emitter at the front based onto 180 
+
+m, 0.5 – 1 -cm, n-type CZ Si wafers [122]. In the study, the ultra-thin (1.5 nm) SiO
+x 
+layer and phosphorous doped poly silicon layer (100 nm) were developed by LPCVD tube, followed by a thermal treatment at 850
+◦
+C for 10 min in N
+2 
+atmosphere to improve the passivation quality and dop

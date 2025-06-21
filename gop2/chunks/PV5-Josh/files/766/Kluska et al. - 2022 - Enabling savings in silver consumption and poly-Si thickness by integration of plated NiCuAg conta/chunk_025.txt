@@ -1,0 +1,7 @@
+low. However, the applicable range of LCO pulse energies with no significant iV
+oc 
+degradation is for all poly-Si thicknesses still well above the ablation threshold. The applied LCO pulse energy of the solar cells in Fig. 3 is for all poly-Si thickness in a region of no significant iV
+oc 
+reduction. The LCO design of the PL test structures featured a contact fraction of ~1%. The iV
+oc 
+degradation in Fig. 3 in the range of ~1–8 mV correlates to a saturation current density of the rear side c

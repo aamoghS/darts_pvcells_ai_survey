@@ -1,0 +1,17 @@
+heavierbeneaththemetalcontacts),antireﬂectioncoating,and
+thermaloxidepassivation.Oxidepassivationofthefrontand
+rearsurfacewasimprovedbyaluminumannealingorwetform-
+inggasannealingat400
+°
+C,andthebestvoltageobservedwas
+705mV.
+Theinitialhigh-performancePERCshadnop
++
+layeratthe
+rearcontactpoints.Thiswasasimpledesignthattookadvantage
+ofthefactthatnonalloyedaluminumcanmakelowresistance
+contactdirectlytoalow-resistivityp-typewafer(0.10.5
+Ω
+
+cm)
+withoutsurfacediffusion,whereassimilarlydopedn-sil

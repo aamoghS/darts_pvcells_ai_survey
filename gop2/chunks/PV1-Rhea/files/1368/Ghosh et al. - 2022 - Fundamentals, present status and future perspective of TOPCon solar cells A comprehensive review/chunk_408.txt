@@ -1,0 +1,2 @@
+, CZ Median Best 687.1 689.4 39.92 40 81.09 81.35 22.25 22.43 [43] 242.77 ±0.35 n-type CZ Best 719.8 ±3.6 41.59 ±0.395 83.83 ±0.92 25.09 ±0.35 [125] 267.4 n-type CZ Best - - - 25.25 [126] 244.3 n-type CZ Average (20 cells) Best 688 691 39.4 39.5 79.7 80 21.6 21.8 [85] 267.7 ±1.1 n-type CZ Best 714.6 ±3.6 41.59 ±0.411 83.43 ±0.92 24.8 [110]  
+Table 10 Overview of oxidation technologies to form tunnel oxide layer. The symbols used are qualitative representation of: ‘’ for favourable/

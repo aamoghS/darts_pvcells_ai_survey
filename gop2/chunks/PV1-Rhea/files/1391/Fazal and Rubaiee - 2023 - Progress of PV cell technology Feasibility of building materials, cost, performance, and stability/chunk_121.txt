@@ -1,0 +1,5 @@
+0. The mean power degradation rates of sc-Si, mc-Si, and a-Si cells in Ghana reported by Aboagye et al., [18] are 1.37%/year, 1.44%/year, and 1.67%/year, respectively. The degrada
+-
+tion rate basically helps assess the stability, service lifetime, and war
+-
+ranties of this technology. The service lifetime and warranties of PV modules were only 10–15 years around four decades before [131], but in recent years, they increased to more than 25–30 years [128,132]. However, service life and energy

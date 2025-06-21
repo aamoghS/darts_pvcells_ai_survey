@@ -1,0 +1,5 @@
+t
+EuropeanPhotovoltaicSpecialistsConferenceandExhibition,Hamburg,Germany,
+2015,pp.259–263.[6]K.Masuko,M.Shigematsu,T.Hashiguchi,D.Fujishima,M.Kai,N.Yoshimura,
+T.Yamaguchi,Y.Ichihashi,T.Mishima,N.Matsubara,T.Yamanishi,T.Takahama,M.Taguchi,E.Maruyama,S.Okamoto,Achievementofmorethan25%conversioneciencywithcrystallinesiliconheterojunctionsolarcell,IEEEJ.Photovolt.4(6)
+TableA1PhysicalmodelsandmaininputparametersfortheQuokkadevicesimulations.ParameterValueUncertaintyBulkproperties:WaferthicknessWva

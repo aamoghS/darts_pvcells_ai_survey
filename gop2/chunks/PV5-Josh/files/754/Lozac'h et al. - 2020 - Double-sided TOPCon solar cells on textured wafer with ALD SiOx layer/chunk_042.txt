@@ -1,0 +1,11 @@
+m, 50 sccm, and 5 sccm, respectively, and at 4 �10
+19 
+at/ cm
+3
+, one order of magnitude lower, for the heavy doped (p) poly-Si film. 4.Discussions The advantages of the ALD technique are well underlined in Fig. 1 with an excellent conformal SiO
+x 
+layer, even at the valleys of the tex
+-
+turization. Interestingly, we do not observe any pinhole in the TEM images, which can suggest a current flow via tunneling effect through the SiO
+x 
+layer [36]. Another advantage of the ALD technique concerns 

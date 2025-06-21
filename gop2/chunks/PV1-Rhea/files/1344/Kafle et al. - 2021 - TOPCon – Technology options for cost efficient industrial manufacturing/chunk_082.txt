@@ -1,0 +1,5 @@
+BSG processes, UV-TO is grown. After
+-
+wards, a 150 nm thick in-situ phosphorous doped a-Si layer is deposited on the rear-side either by using PECVD (batch-type) or APCVD tech
+-
+nology, with undesired wrap-around of a-Si layer on the front-side. The SSE process is performed to remove the wrap-around of a-Si, followed by BSG etching and subsequent ozone cleaning in the same wet-chemical tool. Here, it is assumed that the high temperature annealing process can be optimized in such a way that a th

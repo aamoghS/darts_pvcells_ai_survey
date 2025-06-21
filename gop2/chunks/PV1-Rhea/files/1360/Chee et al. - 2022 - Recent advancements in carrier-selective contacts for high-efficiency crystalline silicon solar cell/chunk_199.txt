@@ -1,0 +1,25 @@
+rect an effusion barrier to retain the hydrogen in the underlying film [191]. Mewe et al. [192] compared the passivating quality of the capping layer (SiN
+x
+, Al
+2
+O
+3
+, Al
+2
+O
+3
+/SiN
+x, 
+or an Al
+2
+O
+3
+/SiN
+x
+-based dielectric stack) on 200-nm-thick LPCVD-p-/n-poly-Si on textured surfaces of the IBC cell. It was observed that whereas the application of a single SiN
+x 
+layer with p-poly-Si resulted in interface passivation only after a firing step, the application of a single Al
+2
+O
+3 
+layer ini

@@ -1,0 +1,2 @@
+ectedinthecomingyears[1,2].Theuniquefeatures,suchasnon-toxicity,abundance,andlong-termstabilityofcrystallinesilicon(c-Si),havemadeitamarket-dominanttechnologysincetheverybeginning,withanalmost95%marketshare[3].Thecostofac-SiPVmoduleisapproximatelyone-halfofthePVsystemcostandismainlydominatedbymaterialcosts,especiallybythecostsoftheSiwafer[4].Ontheotherhand,thecellmanufacturingcostisaboutone-quarterofthemodulecost,makingitaboutone-eighthofthecomplete
+Energies2023,16,715.https://doi.org/10.3390/en

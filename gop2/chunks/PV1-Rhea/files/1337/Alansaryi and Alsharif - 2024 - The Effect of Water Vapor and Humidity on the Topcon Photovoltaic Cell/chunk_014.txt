@@ -1,0 +1,9 @@
+ bond in the suboxide region, which enhances 
+passivation quality. [1] On a p
+-
+type wafer, an oxide tunnel junction structure with a passivation characteris
+tic of 
+700 mV or more (Voc) could be achieved to control the surface morphology, annealing profile, and acceleration 
+rate. When samples were exposed to RTP annealing at temperatures higher than 900°C, the quality of their 
+passivation quickly decre
+ased. The physical characteristics and thermal stability of the thin layer must be taken 

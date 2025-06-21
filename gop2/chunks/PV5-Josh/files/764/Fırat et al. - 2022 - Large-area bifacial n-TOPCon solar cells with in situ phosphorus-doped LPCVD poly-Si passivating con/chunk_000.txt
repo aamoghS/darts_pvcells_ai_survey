@@ -1,0 +1,36 @@
+
+Large-area bifacial n-TOPCon solar cells with in situ phosphorus-doped LPCVD poly-Si passivating contacts 
+Meriç Fırat
+a
+,
+b
+,
+*
+, Hariharsudan Sivaramakrishnan Radhakrishnan
+b
+, María Recam´an Payo
+c
+, Patrick Choulat
+b
+, Hussein Badran
+d
+, Arvid van der Heide
+b
+, Jonathan Govaerts
+b
+, Filip Duerinckx
+b
+, Loic Tous
+b
+, Ali Hajjiah
+d
+, Jef Poortmans
+a
+,
+b
+,
+e 
+a
+KU Leuven, Department of Electrical Engineering, Kasteelpark Arenberg 10, 3001, Leuven, Belgium 
+b
+Imec (Partner in EnergyVille), 

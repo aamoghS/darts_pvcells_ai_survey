@@ -1,0 +1,7 @@
+, the minority carrier lifetime is the smallest (1663 
+
+s), and the iVoc is also the smallest (735 mV). The passivation quality of the acid-polished samples was intermediate between the other two. However, acid 
+Table 1 Three etching processes for the preparation of double-sided symmetrical struc
+-
+ture samples and solar cells.    
+Process I Process II Process III Texture double-sided symmetric sample Texture- double side  / / solar cell HF-single side  Texture 2- single side  Acidpolishing dou

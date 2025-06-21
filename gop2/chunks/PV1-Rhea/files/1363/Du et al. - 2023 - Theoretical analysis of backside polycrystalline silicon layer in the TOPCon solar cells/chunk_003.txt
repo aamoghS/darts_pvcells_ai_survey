@@ -1,0 +1,4 @@
+tration and recombination rate were used to deeply explore the defect in poly-Si and the influence of poly-Si with different band gap on the performance of TOPCon solar cells.   
+1.Introduction For crystalline silicon solar cells, the key to improving E
+ff 
+is to reduce the recombination loss between silicon and electrode. The quality of passivation has a decisive impact on the quality of the cell, and it can even be said that the development of cell technology can be attributed to the developme

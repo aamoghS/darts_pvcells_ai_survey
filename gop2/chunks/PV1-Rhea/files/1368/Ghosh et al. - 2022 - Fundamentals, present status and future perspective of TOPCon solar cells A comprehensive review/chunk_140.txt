@@ -1,0 +1,9 @@
+he formation of TOPCon structure was kept at 1050
+◦
+C to facilitate the production of more pinholes at higher annealing temperature. In contrast, “tunneling samples” featuring (1.7 ±0.1) nm SiO
+x 
+layer grown by thermal oxida
+-
+tion process were annealed at relatively low temperature of 700
+◦
+C so that possibility of pinhole formation could be minimized. Eventually, the study revealed that the maximum current transport through pinholes was ∼94 and ∼35% for “pinhole samples” and 

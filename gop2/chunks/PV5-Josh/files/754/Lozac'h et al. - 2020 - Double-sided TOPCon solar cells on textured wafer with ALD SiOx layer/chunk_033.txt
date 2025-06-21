@@ -1,0 +1,3 @@
+ at 50 sccm. The corresponding pseudo PCE (pPCE) reaches 20.8% under the optimized condition. The solar cell performance is improved by the insertion of an addi
+-
+tional DHF step of 30 s prior to the ITO sputtering, shown in Fig. 2a (star points). This DHF step is used to etch a possible oxide layer and/or defective layer at the surface of the poly-Si. The iFF and pFF are measured at 0.84 and 0.81, and the FF reaches 0.78. This yields an improvement of the PCE at 18.8% even if the pPCE decreases

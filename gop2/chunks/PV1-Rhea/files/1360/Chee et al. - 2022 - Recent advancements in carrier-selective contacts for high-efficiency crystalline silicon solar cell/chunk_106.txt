@@ -1,0 +1,13 @@
+tential model (Eq. 7) in semiconductor engineering for an idealized, abrupt p-n junction. The J
+sc 
+of the SHJ solar cell de
+-
+pends on the extent of the built-in voltage V
+bi 
+between the a-Si:H(i) layer and c-Si as a mechanism for charge separation and extraction, but which may be impeded by a high sheet resistance of the TCO. The maximum voltage that the solar cell can provide (V
+bi 
+=V
+oc
+) is subjected to the generation rate of excess electrons (n) or holes (p) in the active re
+-
+gions in

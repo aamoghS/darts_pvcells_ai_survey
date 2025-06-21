@@ -1,0 +1,4 @@
+35
+Ann,for1-sunSE5.450.140.35
+0.02-sunw/oannPL7.708×10−20.121.0560000.02-sunw/annPL7.601×10−70.150.459000.05-sunw/oannPL7.709×10−20.100.7090000.05-sunw/annPL7.901×10−50.140.607001-sunw/oannPL8.309×10−20.101.1030001-sunw/annPL6.901×10−50.110.75300
+Fig.6.Measuredvaluesforτeasafunctionofthecarrierinjectionlevelofpre-annealedsolarprecursorsduringLSwithsamplesetE.Symbolsindicatethemeasureddata.Theinjectionlevelscorrespondingtothemaximumpowerpoints(MPPs)aremarkedbysolidarrows.Auger

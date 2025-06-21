@@ -1,0 +1,13 @@
+7, Zeng et al. reported about using AFORS- HET (Automat FOR Simulation of HETerostructures) software to inves
+-
+tigate the path for achieving higher power conversion efficiency of TOPCon solar cells by obtaining excellent surface passivation and effi
+-
+cient charge carrier collection [101]. According to the result obtained by the study, high iV
+oc 
+of 745 mV and low recombination current density of 9.5 fA/cm
+2 
+for an injection level (n) =5 ×10
+15 
+cm
+�3 
+may be realized by developing high q

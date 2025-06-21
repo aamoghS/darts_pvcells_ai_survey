@@ -1,0 +1,15 @@
+vely, after that, the cells were sintered in a belt furnace with the curve shown in 
+Fig. 3
+. The addition of silicon in Al paste can inhabit the violent reaction between Al paste and n
++
+-poly-Si, but also decreased the grids conductivity. Thus, the Al paste with different weight percentages of silicon was applied in metallization (
+Table 2
+).
+2.2.Solar cell characterization
+The open-circuit voltage (V
+oc
+), short-circuit current (I
+sc
+), series resistance (R
+s
+), fill factor (FF), and efficien

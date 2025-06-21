@@ -1,0 +1,5 @@
+ oxidized Si is strongly prone to blistering, both during deposition and thermal annealing, due to some of the hydrogen from the film accumulating at the film/SiO
+x 
+interface and growing into pressurized pockets causing the blistering. Blistering deteriorates the properties of the poly-Si/SiO
+x 
+interface due to the blistered areas being severely hampered, leading to the prevention of charge-carrier collection. In the worst case, blisters may rupture from the surface of poly-Si, resulting in di

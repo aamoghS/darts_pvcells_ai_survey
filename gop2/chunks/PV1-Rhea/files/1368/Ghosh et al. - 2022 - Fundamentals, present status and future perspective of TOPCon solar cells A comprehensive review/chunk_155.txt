@@ -1,0 +1,9 @@
+implanted doped poly-Si layer.Plasma enhanced chemical vapor deposition (PECVD) and low pressure chemical vapor deposition (LPCVD) techniques are widely used for the development of a-Si layer or a-Si:H layer and different types of impurities into this a-Si or a-Si:H layer may be introduced by two processes, namely in-situ doping [15,20,21, 25–32,34–37,39,44,45,47,59] (where different types of doping gases such as PH
+3 
+for n poly-Si and B
+2
+H
+6 
+or B(CH)
+3 
+for p poly-Si are added during the

@@ -1,0 +1,11 @@
+d
+ManuscriptreceivedSeptember21,2020;revisedDecember3,2020;accepted
+January8,2021.DateofpublicationFebruary11,2021;dateofcurrentversion
+April21,2021.ThisworkwassupportedinpartbytheGermanFederalMinistry
+forEconomicAffairsandEnergywithintheProjectsGENESISunderGrant
+0324274VCandTALERunderGrant03EE1021B.
+(Correspondingauthor:
+BenjaminGrübel.)
+BenjaminGrübel,GiselaCimiotti,ChristianSchmiga,VarunArya,Bernd
+Steinhauser,MarkusGlatthaar,andSvenKluskaarewiththeFraunhoferInstitute
+forSolarEnergyS

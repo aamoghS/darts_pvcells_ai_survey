@@ -1,0 +1,8 @@
+oxidelayersforsil-
+iconsolarcells.SolEnergyMaterSolCells.2016;158:2-10.
+https://doi.org/10.1016/j.solmat.2016.06.040
+100.FeldmannF,MüllerR,ReichelC,HermleM.IonimplantationintoamorphousSilayerstoformcarrier-selectivecontactsforSisolar
+cells.PhysStatusSolidiRRL.2014;08(09):767-770.
+https://doi.org/10.1002/pssr.201409312
+101.InoueK,YanoF,NishidaA,etal.Dopantdistributioningateelec-trodeofn-andp-typemetal-oxide-semiconductorfieldeffecttran-
+sistorbylaser-assistedatomprobe.ApplPhysLett.2009;95(4):435

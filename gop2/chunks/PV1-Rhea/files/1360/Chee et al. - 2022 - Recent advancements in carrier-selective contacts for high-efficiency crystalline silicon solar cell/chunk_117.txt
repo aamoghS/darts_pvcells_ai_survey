@@ -1,0 +1,11 @@
+alleviating FLP, the implementation of a tunnel bar
+-
+rier introduces a tunneling resistance at the contact. It is imperative to understand the trade-off between the additional tunneling resistance and the reduced Schottky barrier resistance. In this way, 
+
+c 
+reduction can be optimized, in turn achieving a high FF and efficiency. It is noteworthy that while a thinner TCD layer permits quantum mechanical tunneling, and hence reduces 
+
+c
+, atomic passivation may suffer, thereby increasing J
+0
+.

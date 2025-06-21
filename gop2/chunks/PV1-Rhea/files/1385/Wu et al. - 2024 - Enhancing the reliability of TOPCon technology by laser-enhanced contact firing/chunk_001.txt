@@ -1,0 +1,5 @@
+hina   
+ARTICLE INFO  
+Keywords: TOPCon solar cells Reliability Damp-heat stability Laser-assisted firing Metallization Glass-backsheet module 
+ABSTRACT  
+Tunneling oxide passivated contact (TOPCon) solar cells have made a considerable impact on the global photovoltaic (PV) market. Yet, its relatively poorer reliability compared to Passivated Emitter and Rear Contact (PERC) solar cells puts costly limitations on the module bill of materials that can be used. The use of silver/ aluminum (Ag/Al) p

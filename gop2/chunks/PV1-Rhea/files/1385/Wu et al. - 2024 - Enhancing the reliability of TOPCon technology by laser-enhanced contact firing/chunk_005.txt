@@ -1,0 +1,5 @@
+) increase in series resistance (R
+s
+) when exposed to sodium chloride (NaCl). Conversely, JSIM cells showcased remarkable resilience, displaying only a modest drop in PCE (~3.6%
+rel
+) under similar conditions. This work clearly shows that laser- assisted firing processes such as JSIM also significantly improve the reliability of TOPCon solar cells. This improvement is due to the compatibility of these processes with screen printing pastes that have low or zero Al concentration for the TOPCon fr

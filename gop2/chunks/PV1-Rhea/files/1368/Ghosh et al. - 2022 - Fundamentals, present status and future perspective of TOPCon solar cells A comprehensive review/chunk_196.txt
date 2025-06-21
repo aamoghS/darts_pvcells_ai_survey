@@ -1,0 +1,15 @@
+o higher doping efficiency of thin microcrystalline silicon layer. [Group A and Group B represent the two groups of Si layers which were deposited onto quartz substrates in PECVD chamber by varying the gas mixture. The gas flow ratio for Group A samples were SiH
+4
+:H
+2
+:PH
+3 
+=40:10:16 and for group B it was SiH
+4
+:H
+2
+:PH
+3 
+=10:200:4]. However, Tao et al. observed that tunnel oxide passivated contact featuring ultra-thin SiO
+x 
+layer and doped a-Si:H layer showed better passivation quality [76

@@ -1,0 +1,8 @@
+y and SRH lifetimes were aligned with the values for PERC. On the rear side, the boron concentration within the p
++
+poly region was set to 6 ×10
+19 
+cm
+�3 
+and the in-diffusion profile followed a Gaussian distribution as in Ref. [25]. The resulting sheet resistance was 76 /sq, the same as phosphorus doped poly. Subsequent electrical simulations were carried out 
+Fig. 1.(A) sketch of 2D unit cell of the PERC cell and (b) reasonable agreements between measured EQE and R curves and simulated re

@@ -1,0 +1,31 @@
+-Si 3D printing mask technology Clean 1 and polishing process SiO
+x 
++i-Poly n
++
+doped poly-Si Clean 2 AlO
+x
+/SiN
+x 
+passivation Screen printing and sintering  
+Fig. 2.ECV profiles of the change in the t
+pressure 
+under a constant t
+oxidation 
+(a) Condition 1 (t
+oxidation 
+=5 min, t
+pressure 
+=5/10/20 min), (b) Condition 2 (t
+oxidation 
+=10 min, t
+pressure 
+=5/10/20 min); the change in t
+oxidation 
+under the same t
+pressure 
+(c) Condition 3 (t
+pressure 
+=10 min, t
+oxidation 
+=5/10/20/40 min). 
+Q

@@ -1,0 +1,7 @@
+erization The surface microscopy of samples was investigated by OM (LEICA DM 4000) and SEM (JSM-7800F). The active dopant depth profile was measured by ECV profiling (WEP, CVP21). Samples with symmetrical structures were prepared to investigate the effective minority carrier lifetime, which was measured by a quasi-steady-state photoconductance method (WCT-120, Sinton Instruments) at an injection density of 1 ×10
+15 
+cm
+�3
+. The single-side J
+0 
+was determined according to the high- injection 

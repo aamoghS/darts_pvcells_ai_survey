@@ -1,0 +1,17 @@
+ the so
+-
+called forming gas annealing, the wet nitrogen
+ 
+significantly reduces the single
+-
+side reverse saturated recombination current density (J0) to 3.8 fA/cm³ and improves the implied open circuit 
+voltages (iVoc) from 700
+–
+710 mV to approximately 730 mV on average. Furthermore, it is ensured that the 
+contact 
+resistivity will be used in the high
+-
+efficiency c
+-
+Si solar cell by its continued low values of approximately 
+5 mΩ.cm². The enhanced surface passivation resulting from wa

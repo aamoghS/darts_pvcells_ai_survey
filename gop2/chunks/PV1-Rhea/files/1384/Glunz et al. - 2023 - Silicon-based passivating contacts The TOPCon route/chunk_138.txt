@@ -1,0 +1,7 @@
+Identifying
+sourcesforefficiencylimitationsbywaferthicknessandresistivityvariation.SolEnergyMaterSolCells.2017;173:96-105.
+https://doi.org/10.1016/j.solmat.2017.05.042
+40.GlunzSW,FeldmannF.SiO2surfacepassivationlayers–akeytech-nologyforsiliconsolarcells.SolEnergyMaterSolCells.2018;185:260-269.
+https://doi.org/10.1016/j.solmat.2018.04.029
+41.RichterA,MüllerR,BenickJ,etal.Designrulesforhigh-efficiencyboth-sides-contactedsiliconsolarcellswithbalancedchargecarrier
+transportandrecombinationlosses.

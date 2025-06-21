@@ -1,0 +1,3 @@
+al FSF layer) solar cells fabricated onto high quality 250 
+
+m thick, p-type, FZ Si wafers [33]. The realization of such high efficiency may pave the path for its commercialization process in coming years. 6.Advancement of different layers present in TOPCon solar cells From the above discussions, it can be realized that similar to other high efficiency solar cells, the performance of TOPCon solar cells is highly dependent on efficient generation of electron-hole pairs upon light exposure and ea

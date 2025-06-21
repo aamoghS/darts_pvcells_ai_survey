@@ -1,0 +1,2 @@
+cts(including75nmTCO)vs.poly-Silmthickness.Moreover,thetheoreticalabsorptionlossesinP-dopedpoly-Si,c-Si,anda-Si:H(i)simulatedbyOPALusingthenandkdataofSection3aregiven.F.Feldmannetal./SolarEnergyMaterials&SolarCells159(2017)265–271270
+absorptionloss).Byassuminganabsorptionlossof0.4mA/cm2intheTCOlayerstack,theupperboundfortheabsorptionlossinP-dopedpoly-Siisabout0.5mA/cm2per10nmpoly-Si.ThisvalueisstillsignicantlylowerthantheJsclossina-Si:H(1.0–1.5mA/cm2per10nma-Si:H[35]).Inthelongwavelengthr

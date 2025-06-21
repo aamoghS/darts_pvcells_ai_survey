@@ -1,0 +1,9 @@
+en circuit conditions associated with a solar cell are dened as the load resistance equal to zero or innitely large, respectively. ce current and voltage values at short-circuit and open-circuit conditions are called short-circuit current ( 
+Isc
+ ) and open-circuit voltage ( 
+Voc
+ ), respectively. cere is one specic point where the amps ( 
+Imp)
+ times volts ( 
+Vmp)
+ generate the greatest wattage. is point on the IV characteristic curve of an illuminated solar cell is called the maximum pow

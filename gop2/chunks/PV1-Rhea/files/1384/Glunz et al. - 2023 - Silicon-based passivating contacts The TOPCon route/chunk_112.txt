@@ -1,0 +1,8 @@
+queforthefrontsidegridwithapitchof800mm.TheilluminatedJ–Vcharacteristicsweremeasuredwiththeactivecellareasetto2.02.0cm2usingashadowmask.Figure
+15
+depictsthesolarcellparametersofthedifferentgroups.Overall,verysimilarresultswereobtainedforbothSiTJsgroupscomparedwiththereferencewithoutSiTJ.Thus,theaddi-
+tionalpoly-Si(p+)layerattherearsidedidneitherincreasethecell's
+FIGURE14
+SketchofSisingle-junctionsolarcellstructuresused(A)withand(B)withoutSi-
+basedtunnelingjunction(SiTJ).Forthefired-SiTJ
+solar

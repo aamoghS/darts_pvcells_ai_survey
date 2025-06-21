@@ -1,0 +1,3 @@
+ure. Most of the recombination loss of traditional Si solar cells is due to metal contact and therefore, passivation is preferred to avoid this efficiency loss. SunPower Corporation in 2015, fabricated IBC using passivating contacts instead of metal contact [62]. In recent times, TOPCon, SHJ, and POLO (poly-Si on oxide)-IBC are gaining much interest. The re
+-
+ported efficiencies of TOPCon and POLO-IBC are 25.8% [63,64] and 26.1% [65] respectively. Like PERC, the TOPCon [24,66] and HJS [58] in th

@@ -1,0 +1,25 @@
+of 30 nm, the paste might have spiked at the interface of SiO
+x
+/n
++
+-poly-Si. Based on the simulation results, we prepared Poly-SEs with J
+0, n+
+≈5 fA/cm
+2 
+(n
++
+-poly-Si layer ≈50 nm) and J
+0, metal,n++
+≈73.8 fA/cm
+2 
+(n
+++
+- poly-Si layer ≈110 nm), using 3D printing mask technology and sec
+-
+ondary LPCVD/phosphorus diffusion. There was an efficiency gain of 0.12% owing to the increase in J
+sc 
+value of 0.28 mA/cm
+2
+, mainly owing to the thin thickness of n
++
+-poly-Si layer. The overal

@@ -1,0 +1,3 @@
+evolution of TOPCon solar cells The historical progression of Tunnel Oxide Passivated Contact (TOPCon) solar cells has marked a significant journey in solar cell technology, aimed at enhancing efficiency and performance. The evo
+-
+lution of TOPCon cells has seen distinct phases, starting with the emergence of passivating contacts to mitigate recombination losses at the semiconductor surface, leading to the conception of TOPCon solar cell concepts [6]. Subsequent stages witnessed the emergence of

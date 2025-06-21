@@ -1,0 +1,7 @@
+ling oxide layer and hence lower iV
+oc 
+was realized as shown in the Table 4. Furthermore, the presence of pinholes in ultra-thin SiO
+x 
+layer and its impact on the charge carrier transport mechanism were investigated experimentally and by simulation [59]. From dark J-V and c-AFM measurements, the transportation of charge carriers through pinholes was confirmed. Besides, simulation study revealed some useful obser
+-
+vations: (i) if the transportation of charge carriers occurs due to the tunnelin

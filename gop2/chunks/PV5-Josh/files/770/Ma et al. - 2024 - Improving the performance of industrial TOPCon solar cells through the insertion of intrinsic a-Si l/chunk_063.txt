@@ -1,0 +1,5 @@
+i (i) layer with a carefully determined thickness, yielding multiple beneficial ef
+-
+fects on the performance of TOPCon solar cells. This strategy effectively controlled the doping profile, mitigating the excessive diffusion of phosphorus dopants into the c-Si substrate and consequently reducing recombination losses. Detailed characterizations were carried out to uncover the underlying mechanisms. OM and SEM analyses demon
+-
+strated the occurrence of blistering when the a-Si (i) layer thickness 

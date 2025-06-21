@@ -1,0 +1,9 @@
+s are introduced in the p-type PERC and TOPCon solar cells and their performance is modelled for wide range of acceptor densities and electron fluences. Across a substrate doping range spanning from 10
+14 
+to 10
+16 
+cm
+�3
+, both PERC and p-TOPCon cells exhibited improved BOL power con
+-
+version efficiency with substrate resistivity. However, this enhanced BOL efficiency did not necessarily translate into superior EOL efficiency. This performance gap could be attributed to two predominant effec

@@ -1,0 +1,3 @@
+p narrowing losses, are the main loss mechanisms. Therefore, alternative dopant-free CSC designs have been addressed. Compared with mainstream c-Si technology, field-effect passivated IBC architectures, new IBC-SHJ and POLO junction or TOP
+-
+Con structures, are realizing a lot of industrial potential. Charge carrier asymmetry due to accumulation or inversion at the surface induced by field-effect passivation through fixed charges in the thin dielectric passivating layer has been known to increas

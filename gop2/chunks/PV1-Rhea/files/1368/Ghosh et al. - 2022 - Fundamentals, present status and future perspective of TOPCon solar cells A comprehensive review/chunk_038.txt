@@ -1,0 +1,13 @@
+4 mA/cm
+2
+, an open-circuit voltage (V
+oc
+) of 690.8 mV and a fill factor (FF) of 82.1%. In contrast, the best power conversion efficiency of 19.6% with V
+oc 
+of 638.3 mV, J
+sc 
+of 37.8 mA/cm
+2 
+and FF of 81.1% was achieved for the identical solar cells without TOPCon structure at the rear side. There
+-
+fore, the importance of incorporating TOPCon structure at the rear side of the crystalline Si solar cells may be well understood. The process flow of TOPCon solar cell reported by Feldmann et al 

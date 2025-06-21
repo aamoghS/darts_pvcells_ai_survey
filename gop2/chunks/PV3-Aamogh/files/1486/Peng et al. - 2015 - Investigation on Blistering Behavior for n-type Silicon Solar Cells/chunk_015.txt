@@ -1,0 +1,5 @@
+ Al
+2O3
+ layer due to the high firing temperature. If the oxide layer is thick enough to trap or “dissolve” the hydrogen species, the hydrogen will not out-diffuse to the ARC layer and stuck on the top of the surface, resulting in blistering. 3.2.
+ 
+Electrical properties In the following part, we compared the implied VOC between the two annealing recipes just after the simulated firing process. Fig. 4 shows that the thermal treatment B has a higher implied Voc than A. This is because the fir

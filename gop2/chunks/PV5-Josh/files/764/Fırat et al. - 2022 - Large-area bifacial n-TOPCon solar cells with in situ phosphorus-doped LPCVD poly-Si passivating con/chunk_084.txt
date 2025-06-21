@@ -1,0 +1,13 @@
+ombination current density in passivated (J
+0,p
+) and in screen-printed (J
+0,m
+) regions of rear monitors (index “r”) as a function of the poly-Si thickness (t
+poly
+), and of the front monitors (index “f”). b) Contact resistivity (
+
+c
+) of rear monitors (index “r”) as a function of t
+poly 
+and of front monitors (index “f”). 
+M. Fırat et al.                                                                                                                                            

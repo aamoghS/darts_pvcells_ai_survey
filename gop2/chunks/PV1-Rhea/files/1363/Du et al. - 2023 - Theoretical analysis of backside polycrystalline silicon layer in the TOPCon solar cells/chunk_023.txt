@@ -1,0 +1,8 @@
+s 
+is the defective energy level. 3.Results and discussion The simulation results show that with the increase of band gap, the V
+oc
+, J
+sc 
+and E
+ff 
+of solar cells are improved. The increase of defect states concentration will lead to the deterioration of solar cell performance. Among them, the acceptor-like defect states have the ability to capture electrons, so the impact on the solar cells is more obvious. 3.1.Effect of band gap width on TOPCon solar cells In TOPCon solar cells, poly-Si laye

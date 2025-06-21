@@ -1,0 +1,3 @@
+1757, https://doi.org/10.1116/1.591467. [30]G. Lucovsky, D.V. Tsu, R.J. Markunas, in: S.M. Roesnagel, J.J. Cuomo, W. D. Westwood (Eds.), Handook of Plasma Processing Technology, vol. 87, Noyes, Park Ridge, NJ, 1990. [31]S.R. Kaluri, D.W. Hess, Constant current N
+2
+O plasma anodization of silicon, J. Electrochem. Soc. 144 (1997) 2200, https://doi.org/10.1149/1.1837765. [32]L.M. Landsberger, R. Ghayour, M. Sayedi, M. Kahrizi, D. Landheer, J.A. Bardwell, Y. Riopel, C. Jean, V. Logiudice, Electrical

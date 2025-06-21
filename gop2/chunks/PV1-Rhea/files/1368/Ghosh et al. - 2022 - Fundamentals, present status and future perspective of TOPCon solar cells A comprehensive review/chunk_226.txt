@@ -1,0 +1,9 @@
+ture demonstrated a power con
+-
+version efficiency of 22.15% (V
+oc 
+=681.04 mV, J
+sc 
+=40.36 mA/cm
+2
+, FF =80.60%) with an active cell area of 2 cm ×2 cm. In addition, quite reasonable conversion efficiency of 21.4% was achieved for relatively large area (15.6 cm ×15.6 cm) solar cells. Screen printing and co-firing in the fabrication process of large area TOPCon solar cells is an important step to achieve the cost-effectiveness, high throughput, industrial viability etc. [85,86]. Hence, mainta

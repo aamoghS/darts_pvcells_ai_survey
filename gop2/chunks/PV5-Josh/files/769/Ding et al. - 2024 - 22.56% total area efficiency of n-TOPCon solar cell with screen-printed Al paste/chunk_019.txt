@@ -1,0 +1,25 @@
+he elec
+-
+trode. 
+Fig. 4
+shows the schematic diagram of the TLM method, and the results can be obtained based on Formula (2): 
+R
+measured
+=2R
+tip
++2R
+c
++R
+s
+(2) 
+Rs is the bulk resistance of the n +-poly-Si layer. The Rtip which represents the resistance between the probe and the metal grids, is the same on the same grid. Meanwhile, bulk resistance Rs can be repre
+-
+sented by sheet resistance Rsheet, so Formula (2) can be simplified as Formula (3): 
+R
+measured
+=2R
+c
++(R
+sheet
+×d)/w(3) 
+Photolum

@@ -1,0 +1,19 @@
+tes. The MSD data collected during the sampling interval are used to generate a curve depicting how MSD changes over time. When this curve exhibits a linear increase, the diffusion coefficient of the B atom can be calculated uti
+-
+lizing the Einstein formula. MSD represents the mobility of particles, in- unit Å
+2
+, and its calculation method is as follows: MSD=〈r
+2
+(t)〉=
+1N∑
+Ni=1
+�|r
+i
+(t)�r
+i
+(0)|
+2
+)(1) 
+Fig. 3.Comparison of the TOPCon +and TOPCon battery prepara
+-
+tion processes. 

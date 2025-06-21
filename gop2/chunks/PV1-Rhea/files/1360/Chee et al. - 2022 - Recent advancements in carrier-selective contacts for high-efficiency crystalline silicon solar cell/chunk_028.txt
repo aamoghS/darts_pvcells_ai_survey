@@ -1,0 +1,5 @@
+sivation interface layer (IL) between the rear silicon surface and doped poly-Si contact layer. This temperature stability is compatible with mainstream high- temperature screen-print metallization [21]. Alternatively, tunnel oxide passivated contact (TOPCon) cells adopt ultrathin (~ 1nm) tunnel SiO
+2
+/n
++
+-poly-Si at the rear contact region to attain full-area passivation, carrier selectivity, and low contact resistivity [22,23]. The rear side TOPCon and BSF design complement the screen-printed

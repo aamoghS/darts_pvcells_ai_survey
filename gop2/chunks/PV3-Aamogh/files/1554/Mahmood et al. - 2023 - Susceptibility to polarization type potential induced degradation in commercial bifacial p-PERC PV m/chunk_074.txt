@@ -1,0 +1,6 @@
+doi:
+10.1016/j.solmat.2013.06.015
+24.YamaguchiS,VanAkenBB,StodolnyMK,LöfflerJ,MasudaA,OhdairaK.Effectsofpassivationconfigurationandemittersurface
+MAHMOODETAL.1089
+dopingconcentrationonpolarization-typepotential-induceddegrada-tioninn-typecrystalline-siliconphotovoltaicmodules.SolEnergyMatersolCells.2021;226(February):111074.25.SporlederK,BauerJ,GroserS,etal.Potential-induceddegradationofbifacialPERCsolarcellsunderillumination.IEEEJ.Photovoltaics.2019;9(6):1522-1525.doi:
+10.1109/JPHOTOV.2019.293

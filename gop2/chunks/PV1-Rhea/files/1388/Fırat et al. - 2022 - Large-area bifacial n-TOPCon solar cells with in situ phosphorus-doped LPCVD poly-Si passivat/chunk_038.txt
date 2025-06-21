@@ -1,0 +1,2 @@
+ughness [29]. Moreover, on four of the best solar cells of the rear surface morphology screening experiment, selected from the group with the polished rear surface, an additional 90 nm thick SiOx layer was deposited by PECVD (in a 
+single-wafer system unlike the previous PECVD steps) on top of the front SiNx:H film and the metal grid to create a double ARC (DARC) and to further reduce the front reflectance [32,33].  The solar cells of both experiments were characterized by current-voltage (I-V) 

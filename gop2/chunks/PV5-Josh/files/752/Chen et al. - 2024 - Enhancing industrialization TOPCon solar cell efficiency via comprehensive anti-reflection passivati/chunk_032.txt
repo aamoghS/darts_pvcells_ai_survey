@@ -1,0 +1,5 @@
+ is the higher V
+oc 
+due to better surface passivation quality which helps to increase the FF, and the other is that the PO treated AlO
+x 
+film may be more easily penetrated by the metal paste to obtain lower contact resistivity. The overall effect on the cell conversion efficiency is an absolute average efficiency gain of 0.06%. The comparative analysis of QE and reflectance in Fig. 3 reveals that the PO treatment induces a marginal increase in reflectance within the 300–400 nm wavelength ran

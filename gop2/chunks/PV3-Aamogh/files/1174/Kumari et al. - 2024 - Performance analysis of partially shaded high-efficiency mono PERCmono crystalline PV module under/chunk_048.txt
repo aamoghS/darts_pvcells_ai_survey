@@ -1,0 +1,14 @@
+calculated as:(5)
+ISCD<IC
+(6)
+Vdf=−(n−1)Vndf+V
+6
+Scientific Reports |        (2024) 14:21587  | https://doi.org/10.1038/s41598-024-72502-z
+where A is the surface area of the cell, 
+CT
+ denotes the thermal dissipation coeCcient. 
+CT
+ can be calculated using Eq.T4. e NOCT is the nominal operating cell temperature.Electro-thermal modelling of a PV cell under hotspot conditionermal modeling provides clarity in nding the temperature of the shaded area ( 
+THS
+ ) of the module under hotspot 
+(Ar

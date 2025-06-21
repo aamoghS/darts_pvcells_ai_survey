@@ -1,0 +1,9 @@
+E solar cells, the current loss analysis was carried out using the Current Loss Analysis Calculator V1.4 software (based on the Yablonovitch limit of 46.43 mA/cm
+2
+) as shown in Fig. 14. Here, there are three primary advantages of Poly-SE from BKM, the one is "NIR parasitic absorption loss", the J
+sc 
+is increased by 0.59 mA/cm
+2
+, which is related to the rear polished surface and the thin thickness of the n
++
+-poly-Si layer. It is consistent with the result of simulation. The others are “blue

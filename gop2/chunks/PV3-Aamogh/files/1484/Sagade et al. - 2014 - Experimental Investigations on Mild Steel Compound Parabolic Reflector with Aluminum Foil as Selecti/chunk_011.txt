@@ -1,0 +1,7 @@
+Area of receiver(m2) 
+ 1.1 Literature Survey  
+Kamal Skeiker explains about the important parameter that affect the performance of a solar collector is 
+its tilt angle with the horizon. This is because of the variation of tilt angle changes the amount of solar 
+radiation reaching the collector surface. Kamal Skeiker has developed a mathematical model for 
+estimating the solar radiation on a tilted surface, and to determine the optimum tilt angle and orientation 
+(surface azimuth angle) for the s

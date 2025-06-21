@@ -1,0 +1,5 @@
+f this work. This paper reports on the integration of passivating contacts based on in situ P-doped poly-Si films by LPCVD at the rear side of large-area bifacial n-TOPCon solar cells. The devices were fabricated relying on industrial methods, using a homogeneous boron-diffused front emitter and screen-printed metallization. Impact of t
+poly 
+on the passivating contact and the solar cell properties is presented. Moreover, perfor
+-
+mance of the passivating contacts and the solar cells are reporte

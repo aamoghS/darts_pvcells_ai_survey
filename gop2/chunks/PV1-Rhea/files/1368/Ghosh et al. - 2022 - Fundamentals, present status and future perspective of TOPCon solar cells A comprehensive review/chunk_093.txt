@@ -1,0 +1,23 @@
+O
+3 
+reference process corresponding to an optimized annealing temperature of 800
+◦
+C for the formation of TOPCon structure. In contrast, 24.9% efficient TOPCon solar cells with slightly more V
+oc 
+of 719 mV were developed for DIO
+3 
+and UV/O
+3 
+oxidation process with an optimized annealing temperature of 900
+◦
+C. On the other hand, in 2018, Tong et al. reported that ultra-thin SiO
+x 
+layer grown by three volumes of HNO
+3 
+(68 wt%) acid and one volume of H
+2
+SO
+4 
+(98 wt%) acid at 60
+◦
+C d

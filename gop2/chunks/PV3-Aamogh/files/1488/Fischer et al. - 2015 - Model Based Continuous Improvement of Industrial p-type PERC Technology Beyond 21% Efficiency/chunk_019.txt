@@ -1,0 +1,2 @@
+rworld Innovations GmbH with the above discussed optimized processes has reached 21.1% with a very small 
+standard deviation of only 0.12%abs (see Table 1). Our best cell has a conversion efficiency of 21.51% which has been independently measured at the Fraunhofer ISE calibration laboratory. This is to our knowledge the highest efficiency reported so far for industrial-size silicon solar cells with screen printed metal front and rear contacts. For the module assembly we chose a half cell design 

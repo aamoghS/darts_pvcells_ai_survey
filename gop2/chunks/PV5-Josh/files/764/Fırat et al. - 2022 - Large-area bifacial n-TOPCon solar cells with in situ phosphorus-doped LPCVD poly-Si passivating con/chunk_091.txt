@@ -1,0 +1,5 @@
+y from 81.2 ±0.3%, in the case of the semi-textured rear, to 78.7 ±0.5%. This is because of the J
+sc 
+under rear illumination decreasing by 0.8 mA/cm
+2 
+due to an increased R in the case of the polished rear surface. The impact of this drop in bifaciality on the energy yield at the PV system level requires further investigation, which is beyond the scope of this work. Concerning the impact of rear surface morphology on the FF, the analysis in Fig. 8b) shows that the dominant loss mechanism rem

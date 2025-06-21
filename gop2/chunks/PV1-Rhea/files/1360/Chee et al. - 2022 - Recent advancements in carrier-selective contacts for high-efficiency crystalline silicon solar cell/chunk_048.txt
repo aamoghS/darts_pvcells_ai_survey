@@ -1,0 +1,13 @@
+stack passivation is a widely preferred strategy to improve the effective minority carrier lifetime (
+
+eff
+), implied open-circuit voltage (iV
+oc
+), and efficiency. Reduced recombination current densities (J
+o
+), and improved carrier-selectivity performance have been linked to the su
+-
+perior passivation properties of the dielectric stack. MOs or doped poly- Si can also minimize 
+
+c
+, thus providing two-fold benefits. Furthermore, cost-effective TCOs can play a vital role in the solar cell str

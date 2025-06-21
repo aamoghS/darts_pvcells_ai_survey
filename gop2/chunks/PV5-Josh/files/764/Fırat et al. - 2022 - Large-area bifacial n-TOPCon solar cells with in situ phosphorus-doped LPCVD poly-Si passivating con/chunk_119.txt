@@ -1,0 +1,6 @@
+nterconnections is not well-understood. 4.Roadmap for improving the n-TOPCon solar cells While a high certified 
+ 
+of 23.01% is demonstrated in this work, it is important to assess the ultimate potential of the n-TOPCon solar cells 
+Fig. 10.Result of the certified I–V measurement of the best n-TOPCon solar cell fabricated in this work. 
+Fig. 11.Reflectance (R) and external quantum efficiency (EQE) spectra of n- TOPCon solar cells with single and double antireflection coating (ARC). 
+Fig. 12.a

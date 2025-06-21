@@ -1,0 +1,11 @@
+osphere to improve the passivation quality and dopant activation. However, despite of its ne
+-
+cessity only at the back side, the deposition of LPCVD coated poly-silicon layer took place at the edges and at the front side of the wafers due to the wrap-around. Consequently, a path for the flow of leakage current was formed. As a result, the cell suffered with low shunt resistance (R
+sh
+) value and hence very low power conversion efficiency of 18.16% with V
+oc 
+=665.7 mV, J
+sc 
+=38.74 mA/cm
+2 
+and

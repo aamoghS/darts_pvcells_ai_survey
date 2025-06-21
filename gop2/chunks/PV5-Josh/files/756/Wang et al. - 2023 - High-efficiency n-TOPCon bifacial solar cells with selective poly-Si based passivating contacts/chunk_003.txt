@@ -1,0 +1,20 @@
+ive poly-Si based passivating contacts, and studied the influences of key process parameters of the SiO
+x 
+layer formation process (the oxidation duration (t
+oxidation
+) and the constant pressure duration (t
+pressure
+)), and POCl
+3 
+tube diffusion process parameters (the POCl
+3
+-N
+2 
+carrier gas flow rate at the deposition, deposition temperature, drive-in temperature) on the n
++
+-poly-Si profiles, recombination current density (J
+0
+), contact resistivity (
+
+c
+) of n-TOPCon solar cells. The res

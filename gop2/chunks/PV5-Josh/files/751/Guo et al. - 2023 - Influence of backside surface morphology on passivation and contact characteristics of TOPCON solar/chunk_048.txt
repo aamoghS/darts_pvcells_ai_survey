@@ -1,0 +1,5 @@
+ of the high pyramid tip can significantly and effectively improve the passivation characteristics of the tunnel oxide polysilicon structure. Fig. 6(c) shows the phosphorus doping concentrations of the samples with different backside morphologies after POCl
+3 
+diffusion. For the doping concentration in polysilicon, there is a difference between the samples with different surface topography, which is caused by the dif
+-
+ference in surface area. For the doping concentration in c-Si, it can be show

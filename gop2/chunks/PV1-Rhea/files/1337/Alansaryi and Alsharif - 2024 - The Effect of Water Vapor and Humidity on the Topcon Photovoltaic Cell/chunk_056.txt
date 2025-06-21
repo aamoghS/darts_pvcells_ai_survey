@@ -1,0 +1,9 @@
+e. The effect of haze on the amount of 
+irradiance is explained by the exponential
+-
+linear 
+model. Additionally, the quantitative loss of PV power due to haze is the main focus of the PV system model. It 
+is possible to determine the losses resulting from haze on PV power generation in 2017 and 201
+8 by modeling 
+and analyzing data samples of PV power generation in Hangzhou, China. In 2017 the losses were 5.25 ± 1.19 % 
+and 6 ± 1.16 % of the original PV power generation, respectively. In addi

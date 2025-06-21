@@ -1,0 +1,7 @@
+. Moreover, the temperature stability of passivation is improved owing to the presence of a thermally grown SiO
+2 
+layer, resulting in a broad thermal processing window. A wide bandgap material, nc-SiO
+x
+, was introduced to reduce optical absorption. The optical and electrical characteristics could be varied by changing the oxygen content. The conductive properties of the n-doped nc-SiO
+x 
+were found at low oxygen concentrations with phosphorus doping. The annealing process is an important proce

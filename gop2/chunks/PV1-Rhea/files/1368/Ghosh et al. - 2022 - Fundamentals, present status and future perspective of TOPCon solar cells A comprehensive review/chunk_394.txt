@@ -1,0 +1,23 @@
+[83] n-type CZ, 1–7 -cm Wet chemical oxidation PECVD ALD Al
+2
+O
+3 
++PECVD SiN
+x 
+747 1.9 [84] n-type CZ, 3.6 -cm Thermal oxidation APCVD AlO
+x
+/SiN
+x 
+730 6 [67] n-type FZ, 100 -cm Thermal oxidation - ALD Al
+2
+O
+3 
++FGA - 0.2 [88] n-type CZ, 4 -cm Oxidation in UV/O
+3 
+atmosphere LPCVD FGA 743 0.5 [89] n-type CZ, 1–7 -cm Wet chemical oxidation PECVD* ALD Al
+2
+O
+3 
++thermal treatment 750 1.7 [78] n-type CZ, 4–5 -cm Plasma assisted oxidation PECVD PECVD SiN
+x 
+730 3 [86] n-type FZ, 1 -

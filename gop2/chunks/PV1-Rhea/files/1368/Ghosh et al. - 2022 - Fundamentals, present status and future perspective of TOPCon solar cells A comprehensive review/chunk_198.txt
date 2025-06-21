@@ -1,0 +1,9 @@
+ished, n-type CZ Si wafers. This resulted an improvement in the passivation quality and contact properties by realizing an excellent minority carrier lifetime (
+
+) of 3.2 ms and an iV
+oc 
+of 716 mV. A significant improvement on the cell performance was also noted for the TOPCon solar cells featuring a-Si/
+
+c-Si:H hybrid layer at the back contact in comparison with the cells having only 
+
+c-Si:H layer at the rear contact. Furthermore, simulation study revealed that a drastic improvement in the

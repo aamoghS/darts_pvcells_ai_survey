@@ -1,0 +1,5 @@
+ via boron-doped silicon paste [J], Sol. Energy 247 (2022) 115–122. [13]S. Babak, J. Thomas, Lenosky, et al., Mechanism of boron diffusion in silicon: an ab initio and kinetic Monte Carlo study [J], Phys. Rev. Lett. 83 (21) (1999) 4341–4344. 
+Table 1 Electrical I-V parameters of the TOPCon cell.  
+Cell Group Eff (%) Voc (mV) Jsc(mA/cm
+2
+) FF (%) Rs() TOPCon+Av. 24.93 719.1 40.84 84.89 0.00144 Max 25.17 719.3 41.19 84.95 0.00142 TOPCon Av. 24.81 719.1 40.79 84.58 0.00148 Max 24.94 720.4 40.9

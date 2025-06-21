@@ -1,0 +1,8 @@
+the sintering process, and led to the grids collapsing, which decreased the aspect ratio. The wafers almost not participate in the reaction, therefore, no silicon diffusion occurred in n
++
+-poly-Si, and no voids formed in the Al-Si alloy. As a result, the size of the metal particles in high silicon weight percentage paste (
+Fig. 7
+(c) (d)) is larger than that of the metal particles in lower silicon weight percentage paste (
+Fig. 7
+(a) (b)) after sintering.
+3.3.Impact of different silicon weight 

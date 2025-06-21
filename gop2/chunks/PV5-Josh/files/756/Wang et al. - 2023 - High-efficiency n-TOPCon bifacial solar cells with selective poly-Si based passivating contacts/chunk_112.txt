@@ -1,0 +1,3 @@
+eters for high-efficiency n-TOPCon solar cells with selective boron emitters, Sol. Energy Mater. Sol. Cells 253 (2023), 112231, https://doi.org/10.1016/j.solmat.2023.112231. [9]Y. Zhou, K. Tao, A. Liu, R. Jia, S. Jiang, J. Bao, S. Yang, Y. Cao, H. Qu, Study of boron diffusion for p 
++
+emitter of large area N-type TOPCon silicon solar cells, Appl. Phys. A 126 (2020) 671, https://doi.org/10.1007/s00339-020-03851-5. [10]J. Hong, X. Liu, J. Ge, J. Sun, S. Liu, W. Yang, S. Jaffer, J. Lu, T. Qin, R. C

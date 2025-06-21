@@ -1,0 +1,4 @@
+ut parameters varied in each step are listed in Table 2. It is important to note that in each step the optimum values determined in preceding steps were used.  Table 2. Input parameters varied in each step of Quokka 2 simulations to improve the solar cell efficiency. Step Number Input Parameters 
+1 Bulk background lifetime: 1-8 ms 
+2 Bulk resistivity: 1.0-2.3 Ω∙cm; Front and rear contact resistivity: 1.0-2.1 mΩ∙cm2 
+3 Front and rear contact half width: 10-35 µm; Shading width: 6.5-19.5 µ

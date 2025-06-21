@@ -1,0 +1,5 @@
+h step are listed in Table 2. It is important to note that in each step the optimum values determined in preceding steps were used. 
+Fig. 2.Schematics (not drawn to scale) of the symmetrically passivated monitor samples used for assessing the passivation and contact properties of a) the rear side, and b) the front side of the n-TOPCon solar cells. 
+Table 1 Input parameters for Quokka 2 simulations to match the best solar cell fabricated in this work with a t
+poly 
+of 150 nm, polished rear surfac

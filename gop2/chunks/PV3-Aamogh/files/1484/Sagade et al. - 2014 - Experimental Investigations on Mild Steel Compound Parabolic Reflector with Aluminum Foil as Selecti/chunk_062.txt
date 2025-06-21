@@ -1,0 +1,22 @@
+.03.33.63.94.24.54.85.1100200
+300400500
+600
+700
+800
+9001000
+1100
+1200
+ Solar Radiation (W/m2)
+ Heat gained by water (W)
+ Collector Efficiency (%)Wind velocity (m/s)Solar Radiation (W/m2)Heat gained by water (W)50
+51
+525354
+55
+56
+57
+585960
+61
+Collector Efficiency (%)
+3070   Atul A. Sagade et al.  /  Energy Procedia   57  ( 2014 )  3058 – 3070 
+3. Guangjie Gong, Xinyan Huang, Jun Wang, Menglong Hao, An optimized model and test of the 
+China’s first high temperature parabolic trough solar recei

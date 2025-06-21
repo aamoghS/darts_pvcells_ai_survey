@@ -1,0 +1,7 @@
+ifferent angles for one day due to the earth rotation. Here, the NPP cells at the P
+RF 
+of 600 W are selected to illustrate high-efficiency solar spectrum absorption performance for a wide  because they exhibit better photoelectric properties. Fig. 7a and b shows the EQE spectra of NPP cells and conventional cells with increasing  from 0
+◦
+to 70
+◦
+, respectively. The EQE spectra of NPP cells decreases slowly with increasing , which benefits from spectral response independent of the direct

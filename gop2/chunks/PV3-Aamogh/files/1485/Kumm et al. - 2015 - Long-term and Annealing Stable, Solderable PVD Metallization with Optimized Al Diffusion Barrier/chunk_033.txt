@@ -1,0 +1,2 @@
+oxygen available for a stuffing process after TiN deposition in-situ (without vacuum breakage). The barrier results in Table 4 show that the in-situ stuffed barrier is more stable than the unstuffed 
+version, but significantly less stable than the atmospherically stuffed TiN layer. The reduction of the stuffing effect by in-situ stuffing is not surprising since the diffusion of oxygen into the grain boundaries is driven by Fick’s law and thus the concentration gradient. Table 4: Results of sol

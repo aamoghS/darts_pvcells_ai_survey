@@ -1,0 +1,7 @@
+ickness value of ALD coated ultra-thin SiO
+x 
+layer was 1.1 ±0.1 nm, irrespective of nature and orientation of the bulk Si surfaces. However, a gain in V
+oc 
+of almost 10 mV was realized when polished <100>oriented Si wafers were used for the development of double-sided TOPCon solar cells. This gain may be attributed to the presence of lower number of defect states at bulk c-Si/SiO
+x 
+interface. On the other hand, TOPCon structure based on <111>oriented polished Si wafers demonstrated a very lo

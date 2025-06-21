@@ -1,0 +1,5 @@
+ constant doping concentration. During the ex-situ doping of poly-Si, the interfacial tunnel oxide acts like a barrier layer and helps in uniform distribution of dopants within the entire thickness of the poly-Si layer [20]. Consequently, there is a strong reduction in phosphorus doping concentration at SiO
+x
+-Si interface, although some dopants typi
+-
+cally also diffuse through the tunnel oxide into the silicon base to form a so called ’diffusion-tail’. The thermal tunnel oxide formed insid

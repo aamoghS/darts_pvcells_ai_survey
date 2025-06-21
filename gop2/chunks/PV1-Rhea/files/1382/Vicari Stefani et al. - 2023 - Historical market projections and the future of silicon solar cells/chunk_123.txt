@@ -1,0 +1,6 @@
+nz,S.W.(2014).Siliconheterojunctionrearemittersolarcells:lessrestrictionson
+ll
+2698Joule7,26842699,December20,2023
+Perspective
+theoptoelectricalpropertiesoffrontsideTCOs.Sol.EnergyMater.Sol.Cells122,120–129.88.Min,B.,Wehmeier,N.,Brendemuehl,T.,Haase,F.,Larionova,Y.,Nasebandt,L.,Schulte-Huxel,H.,Peibst,R.,andBrendel,R.(2021).716mVopen-circuitvoltagewithfullyscreen-printedp-typebackjunctionsolarcellsfeaturinganaluminumfrontgrid
+andapassivatingpolysilicononoxidecontactattherearside.Sol.RRL5,200

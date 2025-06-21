@@ -1,0 +1,18 @@
+                                                                                                                                                                                                                 
+Solar
+ 
+Energy
+ 
+280
+ 
+(2024)
+ 
+112862
+ 
+5
+ 
+TLM.
+The table values indicate that more silicon addition decreased the conductivity of grids, but reduced the contact resistivity. However, the contact resistivity trend is contradictory to the cross-section images in 
+Fig. 7
+.
+As we know, ohmi

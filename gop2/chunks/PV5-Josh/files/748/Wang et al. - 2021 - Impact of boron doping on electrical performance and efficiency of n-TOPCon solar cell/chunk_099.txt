@@ -1,0 +1,7 @@
+ccurs due to unremoved the wraparound of rear B layer with a higher peak concen
+-
+tration on the deep junction in the same rear-etching condition. There
+-
+fore, a good rear planarization could reduce the NIR parasitic absorb loss and improve the efficiency of the solar cells. We must consider all these factors to optimize the front side passivation. The optimization of the B-doped process and front passivation could improve the efficiency and opticalproperties of the solar cells. Mean
+-
+while, B

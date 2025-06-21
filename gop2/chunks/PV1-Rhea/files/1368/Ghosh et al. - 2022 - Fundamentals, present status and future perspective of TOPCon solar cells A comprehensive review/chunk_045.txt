@@ -1,0 +1,19 @@
+he best cell fabricated on n-type FZ c-Si wafer with an active cell area of 2 cm ×2 cm provided a power conversion efficiency of 24.9% with V
+oc 
+=718 mV, J
+sc 
+=41.5 mA/cm
+2 
+and FF =83.4%. The incorporation of selective emitter struc
+-
+ture underneath the metallic contact resulted in a very low front sided recombination current density (J
+0_front
+) of 16 fA/cm
+2 
+[14 fA/cm
+2 
+due to the 150/sq p
++
+-emitter and 2 fA/cm
+2 
+due to the selective emitter structure]. The authors further revealed t

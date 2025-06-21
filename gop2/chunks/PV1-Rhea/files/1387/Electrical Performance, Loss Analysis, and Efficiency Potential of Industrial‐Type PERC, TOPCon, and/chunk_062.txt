@@ -1,0 +1,49 @@
+assivation performance on the three types of solar cells. The results are shown in Figure5. Compared to PERC (1)
+J
+0,total={[
+
+J0,metal×f
+
++(J0,p+×
+
+1−fheavy,p++
+
+(J0,p++×fheavy,p++−fp++](p−layer)+[J0,metal×fn++)+(J0,n+×1−fheavy,n+++(J
+0,n++
+×
+
+f
+heavy,n++
+−f
+
+](n−layer)+J
+0,bulk}
+(2)
+J0,p−layer
+=
+
+1−f
+p++
+×J
+0,p+
++(
+
+f
+heavyp++
+−f×J
+0,p++
+(3)
+J0,n−layer
+=
+1
+,
+fn++
+
+J0,p+
++
+(fheavyn++
+−
+f
+p
+J0,n++
+TABLE     |    Preparation process of the three

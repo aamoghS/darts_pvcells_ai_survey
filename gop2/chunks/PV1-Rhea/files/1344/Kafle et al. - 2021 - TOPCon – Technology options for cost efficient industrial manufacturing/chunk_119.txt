@@ -1,0 +1,20 @@
+                                                                                                                                                                                                                 
+Table 6 Balance of system (BOS) costs  
+Cost category Utility case Inverter costs Area proportional ВOS costs Power proportional BOS costs Soft BOS costs Annual costs 4.0 
+
+ct/W
+p 
+43 
+
+/m
+2 
+9.0 
+
+ct/W
+p 
+4.1 
+
+ct/W
+p 
+1.0% of system CAPEX   
+Table 7 Financial parameters. Please note

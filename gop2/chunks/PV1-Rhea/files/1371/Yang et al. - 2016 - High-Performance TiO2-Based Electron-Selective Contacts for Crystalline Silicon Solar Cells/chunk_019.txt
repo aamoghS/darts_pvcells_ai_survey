@@ -1,0 +1,3 @@
+mited by a relatively low  V  oc  (585 mV) as well as FF (78.2%). This can be attributed to a high recombination at the Al/Si surface (as 
+high as 10 6 –10 7  cm s −1 ) and a non-Ohmic contact between Al and n-Si. [ 21 ]  By insertion of a 4.5 nm TiO 2  ﬁ lm between Al and n-Si interface, the cell efﬁ ciency is signiﬁ cantly improved to 19.8%. All the solar cell parameters, especially the  V  oc  (from 585 to 638 mV) and FF (from 78.2% to 79.1%), are improved 
+obviously. This indicates

@@ -1,0 +1,12 @@
+icating that any change in field-effect passivation was greatly offset by chemical passivation [179]. Earlier, Laades et al. [180] reported that when capping the PECVD-AlO
+x
+/SiN
+x 
+stack with SiO
+x
+, not only can a high degree of chemical passivation be achieved through saturation of dangling bonds by H atoms, but post-deposition thermal treatment and firing can increase the negative fixed charge density. Thus, notable gains in 
+
+eff 
+and iV
+oc 
+can be realized. Meanwhile, it should be conside

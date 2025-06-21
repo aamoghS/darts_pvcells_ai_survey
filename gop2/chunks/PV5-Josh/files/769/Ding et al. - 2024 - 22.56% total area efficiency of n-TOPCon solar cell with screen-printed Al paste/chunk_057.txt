@@ -1,0 +1,22 @@
+y formula 5. According to calculations, the J
+0,metal 
+values are 4955.16fA/cm
+2
+, 4575.42fA/cm
+2
+, 3739.97fA/cm
+2 
+and 3233.65fA/cm
+2 
+respectively.
+The V
+oc 
+enhanced with the increase of the weight percentage of sil
+-
+icon in Al paste, but the champion V
+oc 
+was much worse than that of the cells printed Ag paste on the rear side 
+[26]
+. This is because, the appearance of BSF built an electric field, which weakened the electric field passivation of n
++
+-poly-Si and inhibited the transfer of ma

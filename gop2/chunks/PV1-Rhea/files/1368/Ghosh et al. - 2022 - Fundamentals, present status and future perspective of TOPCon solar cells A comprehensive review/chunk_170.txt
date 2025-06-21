@@ -1,0 +1,13 @@
+t solar cells with higher power conversion efficiency. The study revealed that superior surface passivation quality with very low recombination current density (J
+0
+) of 4.5 fA/cm
+2 
+was realized for n-type poly-Si contacts and the corre
+-
+sponding thickness of the poly-Si layer was 34 nm. On the other hand, significantly higher recombination current density (J
+0
+) of 22 fA/cm
+2 
+was obtained for p-type poly-Si contacts. The corresponding iV
+oc 
+value was 696 mV and the doped poly-Si layer was 3

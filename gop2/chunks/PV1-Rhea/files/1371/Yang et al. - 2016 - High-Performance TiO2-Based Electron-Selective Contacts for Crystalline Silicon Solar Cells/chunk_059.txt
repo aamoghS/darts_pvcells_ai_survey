@@ -1,0 +1,6 @@
+itanium oxide shows a higher conduc-tivity as the concentration of oxygen vacancies increases. [ 30,33 ]  The effect of titanium oxide composition change on cell 
+parameters can be described in two aspects. First, the contact 
+resistivity at the Si/TiO 2  and Si/SiO 2 /TiO 2  heterojunctions decreases due to a higher conductivity of titanium oxide with 
+high concentration of oxygen vacancies, and hence cell’s FF 
+improves. Agrawal et al. reported that high conductivity inter-
+facial layer is o

@@ -1,0 +1,5 @@
+td, Haining, China  
+ABSTRACT  
+Plated Ni/Cu/Ag contacts offer the possibility to significantly reduce silver consumption for tunnel oxide passivated contact (TOPCon) solar cells. This work demonstrates industrial bifacial TOPCon solar cells with plated Ni/Cu/Ag metallization achieving champion solar cell efficiencies of up to 24.0%. The influence of reduced poly-Si thickness down to 60 nm of the TOPCon rear side on the open circuit voltage (V
+oc
+) is analysed and the impact of laser-induced dam

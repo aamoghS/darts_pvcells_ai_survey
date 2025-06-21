@@ -1,0 +1,7 @@
+ a V
+oc 
+of 698.8 mV, a J
+sc 
+of 41.80 mA/cm
+2
+, and an FF of 80.85%. Here, we find that although the samples based on C-free polysilicon and double-layer structure exhibit the same level of passivation, as shown in Fig. 4, the final device based on the double- layer structure shows better performance. Metallization is well known to reduce the passivation performance of the device due to factors such as metal diffusion, while the polysilicon film for the device in this work is only 30 nm, which 

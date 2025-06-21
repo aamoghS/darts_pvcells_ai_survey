@@ -1,0 +1,37 @@
+d measured V
+oc 
+values are shown in Table 4. The results show that there is a close match between the calculated V
+oc 
+and the cell’s measured V
+oc
+, except the peak concentration of 2.89 ×10
+19 
+atoms/cm
+3 
+at d
+1 
+=0.5 
+
+m. J
+0e,total
+={(J
+0e,metal
+×f
+f
+)+(J
+0e,passivated
+×(1�f
+f
+)}(front)+{(J
+0e,metal
+×fr)+(J
+0e,passivated
+×(1�fr)}(rear)+J
+0,bulk
+(1)  Fig. 9c illustrates a negative correlation between J
+sc 
+and the peak con
+-
+centration/junction depth. To obtain a higher J
+sc
+, a

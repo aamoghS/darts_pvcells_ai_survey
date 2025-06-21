@@ -1,0 +1,9 @@
+oping. The annealing process is an important process for activating the dopant and developing films required for emitter contact. During the annealing process, the surface morphology varied throughout. The Si precipitates into small grains of nano-Si, while the O
+2 
+acts as insulation and forms SiO
+2 
+on the grain boundaries [23]. The consequences of O
+2 
+assimilation are the result of a reduction in grain growth. For higher O
+2 
+concentrations, Carrier transport is resulted by tunneling via thi

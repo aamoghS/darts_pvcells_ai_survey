@@ -1,0 +1,11 @@
+ featuring sputter deposited doped Si layer were fabricated onto 200 
+
+m, 1 -cm, monocrystalline, p-type FZ Si wafers; the best conversion efficiency was found to be as high as 23.0% with V
+oc 
+=701 mV, J
+sc 
+=41.1 mA/cm
+2 
+and FF =79.9%. On the other hand, David et al. developed phosphorous doped silicon layers onto ultra-thin SiO
+x 
+layer by using dc sputtering unit to form the n-type passivated contact [70]. Furthermore, symmetric lifetime samples based onto n-type c-Si wafers were fabricat

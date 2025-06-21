@@ -1,0 +1,25 @@
+icknesses exceeding 100nm (
+
+eff 
+>1ms) based on the low-temperature perhydropolysilazane (PHPS) precursor, and when capped with an AlO
+x
+:H or SiN
+x
+:H layer, further increases 
+
+eff 
+to levels above 2ms [155]. Underpinning the high 
+
+eff 
+compared to that due to passivation by a single AlO
+x 
+or SiN
+x 
+layer (
+
+eff 
+~ 500 – 750
+
+s), the synergy of chemical and field-effect passivation was considered to have been achieved by the SiO
+x 
+layer containing a high density of positive fixed ch

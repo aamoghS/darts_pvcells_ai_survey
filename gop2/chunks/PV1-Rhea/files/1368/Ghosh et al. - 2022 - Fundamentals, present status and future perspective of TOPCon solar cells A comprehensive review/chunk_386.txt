@@ -1,0 +1,5 @@
+ To the best of our knowledge, an intensive study on the development of TOPCon solar cells based on thin Si wafers is yet to be made. However, there are certain areas where we should look into during the develop
+-
+ment process of thin TOPCon solar cells. Firstly, thin wafers are not commercially available. Therefore, proper etching methods (mainly chemical) must be applied to cut down the wafer thickness so that for
+-
+mation of cracks on the surface of the wafers can be avoided. Secondly, thin w

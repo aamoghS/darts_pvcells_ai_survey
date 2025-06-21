@@ -1,0 +1,3 @@
+OPCon. Grübel et al. [6,7] introduced a process sequence to realize bifacial TOPCon solar cells with plated Ni/Cu/Ag contacts. This sequence is applied in this work to metallize industrial TOPCon solar cells. This allowed to reduce the silver consumption to 4 mg per wafer or 0.6 mg/W compared to 130 mg for screen printed TOPCon solar cells in 2022 according to the International Technology Roadmap for Photo
+-
+voltaic (ITRPV) [8]. The works of Arya [9] and Grübel [10] also indicate that the appl

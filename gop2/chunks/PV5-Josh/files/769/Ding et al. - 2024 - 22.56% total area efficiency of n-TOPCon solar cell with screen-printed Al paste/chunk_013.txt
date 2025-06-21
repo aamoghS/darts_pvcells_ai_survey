@@ -1,0 +1,10 @@
+ the rear side.
+As shown in the flowchart, the wafers were textured in KOH solution to reduce the reflection of light in the front side firstly, then the front boron emitter (p
++
+emitter, 120 /sq) was formed in a quartz tube furnace in the atmosphere of BCl
+3 
+gas. After the p
++
+emitter was fabricated, the rear side of the wafers was polished by HF and HNO
+3 
+mixed solution to remove the boron silicate glass (BSG) and the emitter on the rear side and the edges formed during boron diffusion. The

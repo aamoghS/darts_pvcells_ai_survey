@@ -1,0 +1,2 @@
+rmal probability plot, Standardized Pareto chart, main effects plot for pH and estimated response surface for variables. The used validation methods show that there is strong correlation between 
+pH value and used sample mixture in the experiment. References [1]Zhang, J., Zhang, L., & Lei Liu, H. Electrochemical Technologies for Energy Storage and Conversion (1st ed.). Somerset, NJ, USA: Wiley-VCH, 2011. [2]Pera, M.C. H., Hissel, D., Gualous, H., & Turpin, C. Electrochemical Components. London: 

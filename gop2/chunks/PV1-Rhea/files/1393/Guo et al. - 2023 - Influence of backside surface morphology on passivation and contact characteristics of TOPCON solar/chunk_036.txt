@@ -1,0 +1,3 @@
+olu
+-
+tions. The weight loss of alkali-polished samples is mainly controlled by changing the chemical reaction time. Fig. 5(a) shows the alkali polishing weight loss as a function of time, indicating that no reaction occurred during the first 40 s due to the presence of the surface oxide layer. After polishing for 40 s, a violent reaction begins accompanied by smoothing of the surface and weight loss. After polishing for 90 s, the weight loss reaches 0.1 g, 170 s reaches 0.2 g, 285 s reaches 0.3

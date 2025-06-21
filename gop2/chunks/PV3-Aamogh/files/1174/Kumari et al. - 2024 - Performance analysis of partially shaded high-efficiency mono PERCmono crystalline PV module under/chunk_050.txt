@@ -1,0 +1,9 @@
+o estimate the time dependence of the temperature of the portion of PV cell 
+(ArHS
+ ) under hotspot conditions. Two series of interconnected RC circuits are present in the thermal model. He upper RC circuit in Fig.r4 demonstrates the temporal functioning 
+ArHS
+ during full or partial shading as a function of 
+Pdiss,
+ the power dissipated in the shunt resistor 
+Rsh
+ , shunt resistor. he lower RC circuit explanation the temporal functioning of the PV cell temperature as a function of Solar irradia

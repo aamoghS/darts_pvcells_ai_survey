@@ -1,0 +1,4 @@
+                                                                                                                                                                    
+interface of c-Si. Additionally, the Fourier transform of the poly-Si film displayed distinct diffraction spots, indicating pronounced crystalliza
+-
+tion behaviors. Moreover, supplementary elemental studies conducted using EDS and SIMS further confirmed that the in-diffusion phosphorus concentration within the optimal group (G2) was 

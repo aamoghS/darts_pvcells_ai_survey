@@ -1,0 +1,11 @@
+0
+19 
+atoms/cm
+3 
+and 6.6 ×10
+18 
+atoms/cm
+3
+, respectively. This effectively mitigated the electron concentration at the effective surface, thereby reducing recombination. Cheng et al. [17] deposited a PECVD B-doped a-SiOx: H layer onto an n-type c-Si wafer as a doping source. Subse
+-
+quently, through the optimization of PECVD deposition and subsequent annealing/etching processes, they achieved a B diffusion zone with sheet resistance ranging from 60 to 100 / and a junction depth of 1.2–1.

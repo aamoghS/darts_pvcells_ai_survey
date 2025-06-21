@@ -1,0 +1,12 @@
+llinesilicon,
+however,therearealsoconsiderablenonradiativeintrinsicloss
+processes,inparticularAugerrecombinationorparasiticfree-
+carrierabsorption(FCA).Bycalculatingthelimitingefﬁciency
+includingnonradiativelosses,bothGreen[3]andTiedje
+etal.
+[4]
+showedthatactuallyAugerrecombinationisthedominantin-
+trinsiclossmechanismforc-Sisolarcellsat1-sunillumination.
+BothevenunderestimatedtheAugerrecombinationastheyused
+ManuscriptreceivedApril9,2013;revisedMay17,2013;acceptedMay30,
+2013.DateofpublicationJu

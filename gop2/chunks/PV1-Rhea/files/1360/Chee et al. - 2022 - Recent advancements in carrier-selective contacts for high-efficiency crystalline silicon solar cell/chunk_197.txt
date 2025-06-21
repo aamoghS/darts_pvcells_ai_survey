@@ -1,0 +1,13 @@
+ 
+increased to 50.7 fA/ cm
+2 
+on the textured c-Si surface; median efficiency of 23.91%. [168] TOPCon on n-type c-Si wafer featuring a boron-diffused emitter and SiN
+x
+/AlO
+x 
+passivation stack on the front side, and a passivating rear contact consisting of a SiN
+x
+/n-poly-Si/ SiOx stack; fully screen-printed metal contacts on front/rear side. V
+oc 
+~ 689.4mV, FF ~ 81.35%, efficiency ~ 22.43%. [169]  
+Fig. 9.Schematic illustrating an i-TOPCon solar cell on n-type c-Si wafer. (Used with permissio

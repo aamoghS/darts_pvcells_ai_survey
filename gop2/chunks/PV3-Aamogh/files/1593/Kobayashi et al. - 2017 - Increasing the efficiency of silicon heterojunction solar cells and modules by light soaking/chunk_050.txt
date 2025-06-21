@@ -1,0 +1,2 @@
+mtheτedatacollectedfromadevicekeptatopencircuit[49],whichissimilartoSuns-Vocmeasurements[50].TheimpliedFFvaluesexcludeseriesresistanceandissuesrelatedtotransportandextractionofcarriersthroughthecontacts.Fig.7showsthe“impliedVoc”andthe“impliedFF”calculatedfromtheτedataofapre-annealedprecursor,subsequentlyexposedto1-sunLS(seeFig.5b),leadingtoanincreaseof2.4mVand0.72%,respectively,after
+9960minofexposure.Thesevaluescorrespondtotheabsolute0.28%gain(0.08%and0.2%gain,respectively),whichisc

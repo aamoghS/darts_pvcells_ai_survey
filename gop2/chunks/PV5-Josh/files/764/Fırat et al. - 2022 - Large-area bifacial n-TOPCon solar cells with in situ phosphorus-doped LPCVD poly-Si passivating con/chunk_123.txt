@@ -1,0 +1,9 @@
+imulated FF and 4.5 mV higher simulated V
+oc
+, while the simu
+-
+lated and the measured J
+sc 
+are perfectly matched. This is expected, since (i) accurately measuring the FF of zero-busbar devices is difficult and the measured FF can be an underestimation, particularly given the 1.1% difference between the FF determined in-house and at ISFH CalTeC as discussed in Section 3.3, and (ii) the V
+oc 
+of the best solar cell suffered a 2–3 mV loss due to the contamination at the edges as discussed in Se

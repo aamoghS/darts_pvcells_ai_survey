@@ -1,0 +1,9 @@
+at 140 nm in this study, and the thickness of a-Si (i) and a-Si (n) varied with the respective process time. The annealing process was carried out under nitrogen (N
+2
+) ambient (AS-300E, S.C.) at the temperature of 900 
+◦
+C for 45 min to transform a-Si to poly-Si and activate the dopants. Lastly, a hydrogenation process was implemented by capping a 100 nm SiN
+x 
+layer deposited through the PECVD system at 450 
+◦
+C (PD-405C, S.C.). 2.2.Characterization The surface microscopy of samples was in

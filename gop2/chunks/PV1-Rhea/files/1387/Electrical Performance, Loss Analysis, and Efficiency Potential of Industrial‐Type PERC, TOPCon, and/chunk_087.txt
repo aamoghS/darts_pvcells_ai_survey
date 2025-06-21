@@ -1,0 +1,12 @@
+891
+
+−1.085
+
+−
+1
+1.085.cm
+2
+TABLE     |    IV parameters of PERC, TOPCon, and SHJ cell.
+Cell typeVocJscFFEffCell area(mV)(mA/cm2)(%)(%)(cm2)PERC0.69641.1682.3723.59333.05TOPCon0.72841.5985.4525.87SHJ0.74839.9985.8325.67TABLE     |    SunsVoc parameters of PERC, TOPCon, and SHJ cells.
+Cell typeVocpFFpEfficiencyJ01(mV)(%)(%)(fA/cm2)PERC0.69683.523.970TOPCon0.728862622SHJ0.74887.726.214
+FIGURE     |    IQE and reflection (A) and current loss analysis (B) of PERC, TOPCon, and SHJ cells

@@ -1,0 +1,29 @@
+8b). For T
+drive in
+, J
+0 
+shows a slight decrease from 10 to 4.9 fA/cm
+2 
+as T
+drive in 
+increases from 860 to 900 
+◦
+C (Fig. 8c), while the T
+drive in 
+achieved to 905 
+◦
+C, the J
+0 
+increased to 9 fA/cm
+2
+, which is consistent with the ECV profiles, which is owing to destroying the quality of SiO
+x 
+layer and leading to the poor passivation. From the above J
+0 
+data analysis, it can be concluded that the drive-in temperature had the greatest impact on J
+0
+, followed by the POCl
+3 
+-N
+2 
+c

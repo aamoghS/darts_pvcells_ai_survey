@@ -1,0 +1,7 @@
+he absorbing layer as much as possible from the rear side metallic contact. But as Titanium is a very loose metal, it can’t reflect back the evanescent light in the longer wavelength region. Consequently, the authors used either a stack of lowly doped 200 nm ITO and 1 
+
+m Ag or single 1 
+
+m Ag layer as the rear side metallic contact to offer better reflection of the light in the higher wavelength region. Significant improvement in J
+sc 
+was thus observed in both the cases. However, the solar

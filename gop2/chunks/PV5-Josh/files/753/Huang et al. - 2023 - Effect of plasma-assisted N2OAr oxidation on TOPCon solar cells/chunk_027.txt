@@ -1,0 +1,12 @@
+d of transmission line method (TLM, Pvtools, TLM-SCAN), The single-sided SiO
+x
+/poly-Si(n
++
+)/SiN
+x
+:H structure was designed with 5 busbars and 236 fingers, as shown in Fig. 1 (d). The 
+
+contact 
+between metal and poly-Si(n
++
+) was calculated using the I–V data measured at different gap widths between two electrodes, by which the contribution from the poly-Si layer was removed, and the accurate contact resistivity could be obtained. An electrochemical capacitance- voltage (ECV, WEP Wafer Pro

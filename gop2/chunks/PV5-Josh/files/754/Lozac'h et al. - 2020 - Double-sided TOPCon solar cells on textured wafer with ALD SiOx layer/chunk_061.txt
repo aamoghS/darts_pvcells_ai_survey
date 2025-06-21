@@ -1,0 +1,8 @@
+. The ALD process was performed at the AIST Nano- Processing Facility, supported by “Nanotechnology Platform Program” 
+Fig. 4.Figure from J. Melskens et al. [41] with the recombination current density prefactor (J
+0
+) and the contact resistivity (
+
+ 
+contact
+) for various c-Si solar cell concepts. Our best result (PCE of 18.8%) using the double-sided, front (p) and rear (n), TOPCon structure on textured c-Si wafer is plotted by red star. (For interpretation of the references to colour in thi

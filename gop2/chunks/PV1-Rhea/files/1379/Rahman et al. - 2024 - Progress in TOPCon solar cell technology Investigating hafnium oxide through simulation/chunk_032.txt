@@ -1,0 +1,5 @@
+rformance and longevity of TOPCon solar cells. In this research, we are deeply rooted in predictive analysis through ATLAS Silvaco simulations, rep
+-
+resenting a considerable progression beyond the broader literature that has largely focused on the theoretical benefits and material properties of HfO2. The study advocates for subsequent experimental validation of these simulation results, further refinement of the HfO2-silicon inter
+-
+face, and exploration of the scalability of HfO2’s applicati

@@ -1,0 +1,13 @@
+may provide different passivation properties depending on whether they are grown by thermal or wet chemical processes. Typi
+-
+cally, the SiO
+x 
+layer endows limited chemical passivation but enacts effective field-effect passivation due to the inherent +Q
+f
+. Finally, the passivation properties may depend on the deposition- and processing-related fixed charge polarity, which differ at the c-Si/ SiO
+x 
+and c-Si/AlO
+x 
+interfaces. Thinner ALD-AlO
+x 
+layers allow greater field-effect passivation tha

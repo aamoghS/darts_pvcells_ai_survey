@@ -1,0 +1,3 @@
+a-Si layers remains a technological milestone for equipment manufac
+-
+turers. Industrial tools allowing depositions in either batches [10,31,43] or inline mode [30,34] are available, and cell integration results are also published in literature [10,30]. In this paper, we assume batch-type PECVD tool for a-Si(n) deposition in all our calculations. PECVD-deposited a-Si layers require an additional high temperature annealing step to crystallize into poly-Si layers. Atmospheric pressure chemical vap

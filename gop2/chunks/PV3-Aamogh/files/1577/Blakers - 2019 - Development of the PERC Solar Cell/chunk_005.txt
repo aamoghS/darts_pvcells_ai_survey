@@ -1,0 +1,13 @@
+2019.DateofpublicationFebruary26,2019;dateofcurrentversion
+April19,2019.
+TheauthoriswiththeAustralianNationalUniversity,Canberra,ACT0200,
+Australia(e-mail:
+,
+andrew.blakers@anu.edu.au).
+DigitalObjectIdentiﬁer10.1109/JPHOTOV.2019.2899460
+Fig.1.PVhasexperiencedsustainedrapidexponentialgrowthoverdecades,
+whileothergenerationtechnologiesarecurrentlyexperiencingstaticornegli-
+giblesales[1][7].
+Thecostofasolarcellasaproportionofthecostofacom-
+pletePVsystemcontinuestofall.Thisisbecausemostsys-
+temc

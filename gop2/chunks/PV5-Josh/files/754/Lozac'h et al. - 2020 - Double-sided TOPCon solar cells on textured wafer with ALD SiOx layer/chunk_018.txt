@@ -1,0 +1,8 @@
+ of the passivation The effective lifetime (
+
+eff
+) of minority carriers, the implied open- circuit voltage (iV
+oc
+), and the saturation current density (J
+0
+), are measured on symmetric structures and non-symmetric structures on polished and textured c-Si surfaces. The passivation is characterized at room temperature by using the quasi-steady-state photoconductance method (QSSPC, Sinton WTC-120) [31]. The passivation property is evaluated by the effective lifetime of minority carriers at an in

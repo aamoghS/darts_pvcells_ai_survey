@@ -1,0 +1,15 @@
+dditional weather
+-
+rel
+ated stresses can cause various types of 
+degradation in the module's components as well as other packing materials.  Figure(1) displays the most prevalent 
+failure modes and defects among these. A PV module impacted by moisture intrusion is depicted in Figu
+re( 2) 
+[12]. 
+ 
+ 
+Figure
+ 
+1: 
+Defects and failure modes associated with moisture ingress in PV devices. Under environmental 
+and/or climatic stressors (e.g., high humidity, temperature, and UV radiation), PV modules

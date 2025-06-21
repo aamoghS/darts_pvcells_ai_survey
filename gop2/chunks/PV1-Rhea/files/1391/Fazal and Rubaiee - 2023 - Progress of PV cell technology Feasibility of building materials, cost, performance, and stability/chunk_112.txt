@@ -1,0 +1,5 @@
+ustrial production and commercial usage. However, CIGS is expected to be outdated by 2030 as noncom
+-
+petitive PV cell technologies. According to Smith et al., [8], c-Si and CdTe technologies will likely achieve higher efficiency by 2030 because they can increase the annual energy yield and alleviate the system cost. The efficiency achieved for single junction c-Si approaches the theo
+-
+retical value and therefore, multijunction or tandem cells have recently received greater attention as next-ge

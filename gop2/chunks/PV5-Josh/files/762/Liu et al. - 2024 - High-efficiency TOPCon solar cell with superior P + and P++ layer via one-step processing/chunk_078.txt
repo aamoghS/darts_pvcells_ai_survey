@@ -1,0 +1,3 @@
+aching the surface. The higher surface recombination rate leads to an increase in the loss of photogenerated carriers. The increase of B doping concentration on the surface of the solar cell increases its recombination rate, resulting in more loss of photogenerated carriers when they reach the surface, thereby increasing the current loss in the solar cell. In addition, the high surface B doping concentration will also affect the electric field distri
+-
+bution on the surface of the solar cell, th

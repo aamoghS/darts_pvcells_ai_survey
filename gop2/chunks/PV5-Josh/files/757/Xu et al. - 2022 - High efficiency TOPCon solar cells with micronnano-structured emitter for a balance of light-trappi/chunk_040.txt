@@ -1,0 +1,11 @@
+f EML [37]. 3.2.Emitter passivation properties The difficulty of integrating RIE b-Si textures into solar cell pro
+-
+duction lies in severe Auger recombination and surface Shockley-Read- Hall (SRH) recombination of photo-generated carriers, caused by high surface doping concentration (N
+s
+) and high A
+F
+/A
+proj 
+of nano-structured surfaces, respectively. In order to suppress Auger recombination, the doping characteristics of NPP emitter based on the P
+RF 
+of 100 W were investigated and discussed

@@ -1,0 +1,28 @@
+ion
+: post-oxidation duration. t
+pressure
+: constant pressure duration. G
+SiH4
+: SiH
+4 
+gas flow rate. T
+deposition
+: deposition temperature. G
+POCl3
+: POCl
+3
+-N
+2 
+carrier gas flow rate. T
+drive-in
+: drive in temperature. J
+0
+: emitter dark saturation current density. iV
+oc
+: implied open circuit voltage. J
+0
+: emitter dark saturation current density. 
+
+c
+: the contact resistivity. 
+Q. Wang et al.                                                                                                  

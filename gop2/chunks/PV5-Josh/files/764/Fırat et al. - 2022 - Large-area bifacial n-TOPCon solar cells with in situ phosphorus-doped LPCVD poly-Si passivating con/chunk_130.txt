@@ -1,0 +1,18 @@
+
+and 0.1% higher 
+
+. In step 7, recombi
+-
+nation losses in the metallized regions are reduced by introducing a selective emitter. The selective emitter is assumed to reduce J
+0,m,f 
+down to 50 fA/cm
+2
+, a value possibly achievable with p-type passivating con
+-
+tacts, yielding 7 mV higher V
+oc 
+and 0.3% higher 
+
+, thus reaching 
+ 
+=25%. While the improvements to the emitter considered in steps 6 and 7 are available technologies and can be used for fabricating solar cells with record efficienci

@@ -1,0 +1,11 @@
+ J
+sc 
+loss under 4.5% for the  below 70
+◦
+. This paper provides a reference for the application of RIE b-Si technique in industrial n-type bifacial TOPCon solar cells. 2.Experimental 2.1.Surface textures For NPP TOPCon solar cells, n-type Czochralski (CZ) silicon wafers with 158.75 ×158.75 mm
+2 
+size, (100) grain orientation, 1–3 cm-re
+-
+sistivity, and 170 
+
+m-thickness were applied as substrates. Different from pure b-Si textures prepared from a planar silicon wafer, the first step in 

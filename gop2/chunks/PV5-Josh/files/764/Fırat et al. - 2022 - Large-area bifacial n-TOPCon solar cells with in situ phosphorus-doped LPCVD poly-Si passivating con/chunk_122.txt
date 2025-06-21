@@ -1,0 +1,15 @@
+with 
+ 
+of 25.5% can be achieved using in situ P-doped LPCVD poly-Si passivating contacts. Fig. 13 shows that the initial simulation to match the best solar cell using the parameters in Table 1 yields 
+ 
+=22.8%, along with V
+oc 
+=694.7 mV, J
+sc 
+=40.4 mA/cm
+2
+, and FF =81.1%. Comparison of these simulation results with the measured I–V parameters in Table 4 of the modeled best solar cell indicate 0.4% higher simulated 
+ 
+due to 0.7% higher simulated FF and 4.5 mV higher simulated V
+oc
+, whi

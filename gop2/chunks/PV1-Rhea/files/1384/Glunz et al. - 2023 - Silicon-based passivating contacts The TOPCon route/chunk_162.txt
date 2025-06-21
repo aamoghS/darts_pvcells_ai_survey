@@ -1,0 +1,6 @@
+N,RodriguezJ,KlugeT,etal.Approaching23%withlarge-areamonoPolycellsusingscreen-printedandfiredrearpassiv-
+atingcontactsfabricatedbyinlinePECVD.ProgPhotovoltResAppl.2018;107-112.
+https://doi.org/10.1002/pip.3097
+92.HuangY,LiaoM,WangZ,etal.Ultrathinsiliconoxidepreparedbyin-lineplasma-assistedN2Ooxidation(PANO)andtheapplica-tionforn-typepolysiliconpassivatedcontact.SolEnergyMaterSolCells.2020;208:110389.
+https://doi.org/10.1016/j.solmat.2019.110389
+93.StöhrM,AprojanzJ,BrendelR,DullweberT.Firing-sta

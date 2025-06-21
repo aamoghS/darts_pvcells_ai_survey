@@ -1,0 +1,3 @@
+the double-layer structure and C-free polysilicon are shown in Fig. 6(c), which is consistent with the J-V curves in Fig. 6(b). In a word, the double-layer structure combined with the plated fingers can effec
+-
+tively improve the performance of TOPCon SCs. 4.Conclusion In this work, we proposed a double-layer polysilicon structure (i.e., C-doped/C-free polysilicon) for TOPCon SCs with the purpose of improving the wettability of the polysilicon films for plating the Ni seed layer while maintainin

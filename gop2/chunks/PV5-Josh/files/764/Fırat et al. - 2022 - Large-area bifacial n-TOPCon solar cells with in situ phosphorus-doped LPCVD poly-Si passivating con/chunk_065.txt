@@ -1,0 +1,9 @@
+othesis, R and EQE measurements were performed, yielding the results in Fig. 3. The plot on the left shows that the solar cells with different t
+poly 
+have very similar optical properties at short and visible wavelengths, while R seems to decrease with increasing t
+poly 
+at long wavelengths, attributed to increased absorption in the poly-Si at the solar cell rear. The impact of higher t
+poly 
+on EQE and thus on J
+sc 
+is more clearly seen in the second, zoomed-in plot, which indicates a clear dro

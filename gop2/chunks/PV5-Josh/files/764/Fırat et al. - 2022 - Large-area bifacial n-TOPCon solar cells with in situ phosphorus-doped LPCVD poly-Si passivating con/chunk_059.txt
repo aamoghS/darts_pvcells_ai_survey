@@ -1,0 +1,21 @@
+t resistivity: 1.0–2.1 m cm
+2 
+3 Front and rear contact half width: 10–35 
+
+m; Shading width: 6.5–19.5 
+
+m; Front unit cell width: 250–1125 
+
+m; Rear unit cell width: 100–700 
+
+m 4 BSF: 38–76 /, 150-75 nm deep; Fixed Z: 12.82–16.72 5 Transmission for DARC: Calculated with OPAL 2 (PV Lighthouse optical simulator) for 50 nm SiN
+x 
+& 90 nm SiO
+x 
+6 Advanced emitter: 130 /, 2 
+
+m depth, 94% collection efficiency Front side non-contacted region: J
+0,E 
+=16 fA/cm
+2 
+7 Front sid

@@ -1,0 +1,9 @@
+or decreased R
+s 
+correlating to slight decrease in pFF in the range of up to 0.15%
+abs 
+(not shown here). These results indicate that the origin of the series resistance/FF im
+-
+provements also lead to an increased recombination activity (decreased V
+oc
+/pFF). Further local imaging techniques are used to analyse local changes in electroluminescence (EL) and photoluminescence (PL) before/after LECO. Fig. 7 shows EL and PL measurements before and after LECO for 3 representative solar cells with p

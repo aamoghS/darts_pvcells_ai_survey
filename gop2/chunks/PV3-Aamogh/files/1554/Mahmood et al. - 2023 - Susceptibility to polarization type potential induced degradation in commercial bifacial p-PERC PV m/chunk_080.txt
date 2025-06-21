@@ -1,0 +1,6 @@
+sofpotentialinduceddegradationinc-Sisolarcells.EnergyProcedia.2012;27:1-6.doi:
+10.1016/j.egypro.2012.07.020
+38.HackeP,SmithR,TerwilligerK,PerrinG,SekulicB,KurtzS.Develop-mentofanIECtestforcrystallinesiliconmodulestoqualifytheirresistancetosystemvoltagestress.ProgPhotovoltaicsResAppl.2014;22(7):775-783.doi:
+10.1002/pip.2434
+39.ColvinDJ,SchnellerEJ,DavisKO.Celldarkcurrent–voltagefromnon-calibratedmoduleelectroluminescenceimageanalysis.Sol.Energy.2022;244:448-456.doi:
+10.1016/j.solener.2022.08.04

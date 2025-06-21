@@ -1,0 +1,3 @@
+cy gain by PH processing. 4.Conclusions In conclusion, our study has highlighted significant achievements in the optimization of TOPCon solar cells, with two key approaches on the anti-reflection passivation films. Firstly, for the front side film, we implemented a one-step PO process utilizing N
+2
+O plasma. This process remarkably enhanced the quality of the in-line ALD-deposited AlOx film by repairing the oxygen vacancy defects within it. The disruption of O–H bonds during this process addit

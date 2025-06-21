@@ -1,0 +1,13 @@
+ct density. However, as shown in Fig. 6b, after sintering at 735 ±5 
+◦
+C, the order of change in iV
+oc 
+for sintering samples compared to unsintering samples is Poly-annealed (40 mV) >Poly-unannealed (15 mV) >n
++
+- poly-Si (8 mV). This high decreased iV
+oc 
+of Poly-annealed samples are partly owing to in the poor stability at high temperature. However, after phosphorus doping process, n
++
+-poly-Si sample has a small change in iV
+oc
+, which is related to high temperature doping process fixing 

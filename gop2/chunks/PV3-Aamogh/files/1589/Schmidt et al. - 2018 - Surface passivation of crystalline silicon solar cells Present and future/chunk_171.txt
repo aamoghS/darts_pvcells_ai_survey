@@ -1,0 +1,2 @@
+er-depositedAl2O3,Prog.Photovolt.:Res.Appl.16(2008)461–466.[54]T.Dullweber,C.Kranz,B.Beier,B.Veith,J.Schmidt,B.F.P.Roos,O.Hohn,
+T.Dippell,R.Brendel,InductivelycoupledplasmachemicalvapourdepositedAlOx/SiNylayerstacksforapplicationsinhigh-eciencyindustrial-typesiliconsolarcells,Sol.EnergyMater.Sol.Cells112(2013)196–201.[55]B.Veith,F.Werner,D.Zielke,R.Brendel,J.Schmidt,ComparisonofthethermalstabilityofsingleAl2O3layersandAl2O3/SiNxstacksforthesurfacepassivationofsilicon,EnergyProcedia8(2011)30

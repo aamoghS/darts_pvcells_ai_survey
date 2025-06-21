@@ -1,0 +1,12 @@
+nO, etc., [90] would find applications as hole-transport layers, they are less common due to stability issues [89] as well as inferior electrical properties arising from the lower carrier mobility with values typically less than 5cm
+2
+V
+�1
+s
+�1
+. The key features of the high-performance thin TCO film include a 
+
+c 
+value as low as <10
+�5 
+-cm and optical transparency as high as >90% [91], but accompanied by a need to negotiate a trade-off relationship for specific applications. For examp

@@ -1,0 +1,18 @@
+ low thermal budget, convenient waste disposal, and single component, safe chemical (unlike acids) solution preparation [175]. Surface treatment of the n
++
+-poly-Si/SiO
+x 
+passivating contacts, such as with forming gas annealing (FGA), ALD-AlO
+x
+:H, and PECVD-SiN
+x
+:H, increased 
+
+eff 
+and iV
+oc
+, through H-termination defect passivation at the c-Si/SiO
+x 
+and SiO
+x
+/poly-Si interfaces (Table 2) [164]. Highly effective passivation was demonstrated when industry-relevant ultrathin (<1.5nm) tunne

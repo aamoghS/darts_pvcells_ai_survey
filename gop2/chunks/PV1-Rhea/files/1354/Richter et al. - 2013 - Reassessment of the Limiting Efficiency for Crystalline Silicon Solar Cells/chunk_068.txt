@@ -1,0 +1,16 @@
+osedbyintrinsicAugerprocesses,”
+IEEETrans.Electron
+Devices
+,vol.ED-31,no.5,pp.671–678,May1984.
+[4]T.Tiedje,E.Yablonovitch,G.D.Cody,andB.G.Brooks,“Limit-
+ingefﬁciencyofsiliconsolarcells,”
+IEEETrans.ElectronDevices,
+ED-31,no.5,pp.711–716,May1984.
+[5]A.HangleiterandR.H
+¨
+acker,“Enhancementofband-to-bandAugerre-
+combinationbyelectron-holecorrelations,”
+Phys.Rev.Lett.
+,vol.65,
+pp.215–18,1990.
+Authorized licensed use limited to: University of Central Florida. Downloaded on June 06,2

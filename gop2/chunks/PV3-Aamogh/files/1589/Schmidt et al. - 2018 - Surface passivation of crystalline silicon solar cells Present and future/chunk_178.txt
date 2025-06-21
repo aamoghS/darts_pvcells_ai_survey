@@ -1,0 +1,5 @@
+edingsofInternational
+ElectronDev.Meeting,WashingtonDC,USA,IEEE,NewYork,1980,pp.280–283.[72]F.Lindholm,A.Neugroschel,M.Arienzo,P.Iles,Heavilydopedpolysilicon-con-
+tactsolarcells,IEEEElectronDev.Lett.6(1985)363–365.[73]E.Yablonovitch,T.Gmitter,R.M.Swanson,Y.H.Kwark,A720mVopencircuit
+voltageSiOx:c-Si:SiOxdoubleheterostructuresolarcell,Appl.Phys.Lett.47(1985)1211–1213.[74]N.G.Tarr,Apolysiliconemittersolarcell,IEEEElectronDev.Lett.6(1985)
+655–658.[75]J.Y.GanandR.M.Swanson,Polysiliconemitters

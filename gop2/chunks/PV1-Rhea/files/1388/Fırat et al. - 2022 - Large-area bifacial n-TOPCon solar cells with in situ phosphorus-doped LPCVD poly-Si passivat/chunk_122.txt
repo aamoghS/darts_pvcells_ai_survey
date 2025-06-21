@@ -1,0 +1,6 @@
+ing. b) Evolution of the relative 
+Pout and the fill factor (FF
+) of the laminate subjected to thermal 
+cycling, as a function of the number of cycles.
+ 
+itself is not expected to change during thermal cycling. Nevertheless, the physical mechanism behind the change in the properties of the interconnections is not well-understood. 4 Roadmap for Improving the n-TOPCon Solar Cells While a high certified η of 23.01% is demonstrated in this work, it is important to assess the ultimate potential of t

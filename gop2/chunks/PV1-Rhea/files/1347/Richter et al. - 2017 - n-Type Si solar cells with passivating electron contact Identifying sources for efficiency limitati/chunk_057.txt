@@ -1,0 +1,2 @@
+FFsim(ρb)inred).ThehorizontallinesforFFexp(W)andFFexp(ρb)representthecorrespondingdierencesobservedexperimentally.ThedevicesimulationswereperformedwithQuokkafora2Dunitcell,asdescribedinthetext.
+Fig.9.(a)showsthesimulatedeciencyasafunctionofFeconcentrationNFeexemplarilyforthe200µmthick5cmmaterial(withoutaJ02,p+contribution).(b)showsthesimulatedFFdierencesfortheW-variation(FFsim(W)inblue)andρb-variation(FFsim(ρb)inred)analogouslytoFig.8.FortheWvariation,simulationsresultsareshowforaW-

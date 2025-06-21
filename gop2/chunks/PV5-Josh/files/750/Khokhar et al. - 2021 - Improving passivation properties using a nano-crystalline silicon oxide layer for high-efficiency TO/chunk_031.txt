@@ -1,0 +1,11 @@
+ 400 cm
+�1 
+and 510 cm
+�1
+, which can be attributed to amorphous Si. After 1-hour higher annealing temperature at 950 
+◦
+C, the amorphous fraction is decreasing further and lateral inhomogeneities vanish (not shown here). The amorphous contribution almost disappears for a dwell temperature of 950 
+◦
+C, meaning that the layer is almost fully crystalline. The annealing temperature plays significant role in prompting the rapid growth of crystalline phase in the nc-SiO
+x 
+layer even with a l

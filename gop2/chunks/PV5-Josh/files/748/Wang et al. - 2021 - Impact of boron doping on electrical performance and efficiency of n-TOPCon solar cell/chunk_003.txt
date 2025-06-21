@@ -1,0 +1,24 @@
+al
+), and the I–V parameters, including short-circuit current density (J
+sc
+), open circuit voltage (V
+oc
+), fill factor (FF) and efficiency (E
+ff
+) as functions of the peak concentration (N
+max
+) and junction depth of B-doped profile. We introduced the profile with the peak concentration of 1–1.5 ×10
+19 
+atoms/cm
+3 
+and a junction depth of 0.75–1.0 
+
+m to improve the conversion efficiency of 23.4%. The results revealed that J
+sc, 
+implied V
+oc 
+(iV
+oc
+) and the contact resistance (
+
+c

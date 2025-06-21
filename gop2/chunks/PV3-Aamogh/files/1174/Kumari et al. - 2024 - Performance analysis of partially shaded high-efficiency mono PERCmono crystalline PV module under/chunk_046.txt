@@ -1,0 +1,7 @@
+lerate ageing and increase failure rates in PV  module40. e hotspot temperature can be estimated as described  below41 through result could be technol-ogy specic as  well42:For m number of PV cells in a string protected by a diode of a PV module operating under S irradiance with 
+Tcell
+ be the cell temperature, Voltage be V and Current be 
+IC
+ , a condition of hotspot develops in a cell when its 
+ISCD
+ that is short circuit current decreases due any internal and external factors as shown in Eq

@@ -1,0 +1,4 @@
+ure of the shaded cell (°C)Maximum eciency (%)Maximum ambient temperature recorded (°C)Maximum module temperature (°C)05916.23250207015.132604085.813.534616090.112.63562806511.334651006311.93462
+15
+Scientific Reports |        (2024) 14:21587  | https://doi.org/10.1038/s41598-024-72502-z
+Similar observations are recorded in an experimental investigation wherein single cell shading causes hotspot to develop and temperature of the shaded cell got elevated to 70.1°C in case of single string co

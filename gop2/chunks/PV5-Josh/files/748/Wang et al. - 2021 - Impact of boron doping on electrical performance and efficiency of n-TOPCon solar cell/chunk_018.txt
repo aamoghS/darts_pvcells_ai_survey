@@ -1,0 +1,11 @@
+nt surface TOPCon layer on the metal contact Yu et al., 2021 Homogeneous emitter 200 3 ×10
+19 
+0.25 13 / iV
+oc 
+700 mV, iFF 84.7% / n-TOPCon The boron emitter diffusion was formed by rapid vapour phase direct doping (B-RVD) Drieen et al., 2020 Homogeneous emitter 90 / / / 446 / / BBr
+3
+-based B emitters with AlO
+x
+/SiN
+x
+:H The deeper junctions effectively minimize the metal Li et al., 2018 (continued on next page) Q. Wang et al.                                                                  

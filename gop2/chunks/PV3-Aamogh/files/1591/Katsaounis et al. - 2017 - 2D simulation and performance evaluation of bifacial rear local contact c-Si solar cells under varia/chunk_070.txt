@@ -1,0 +1,2 @@
+guchi,Y.Imazu,I.Araki,T.Uematsu,andK.Matsukuma.Applicationsand�eldtestsofbifacialsolarmodules.InProc.29thIEEEPVSpecialistsConference,pages1549{1552,2002.[4]T.Warabisako,K.Matsukuma,S.Kokunai,Y.Kida,T.Uematsu,andH.Yagi.Bifacialmulticrys-tallineSiliconsolarcells.InProc.23rdIEEEPVSpecialistsConference,pages248{251,1993.12
+[5]A.Moehlecke,I.Zanesco,andA.Luque.Practicalhighe�ciencybifacialsolarcells.InProc.24thIEEEPVSpecialistsConference,pages1663{1666,1994.[6]SolarWorld.SunModule,BiSun,http://www

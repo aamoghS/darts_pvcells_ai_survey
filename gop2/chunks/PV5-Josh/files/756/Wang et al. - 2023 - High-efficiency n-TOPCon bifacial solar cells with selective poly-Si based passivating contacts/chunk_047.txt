@@ -1,0 +1,23 @@
+om 5.6 to 6.9 fA/cm
+2 
+as oxidation duration increases from 5 to 20 min (Fig. 4c), while the t
+oxidation 
+=40 min, the J
+0 
+had a high value of approximately 11 fA/cm
+2
+, which is more than 2 times than that of t
+oxidation 
+=5 min. From the above J
+0 
+data analysis compared with the conditions 2 and 3, it can be concluded that t
+pressure 
+and t
+oxidation 
+had a significant impact on J
+0 
+in the same total time of SiO
+x 
+process owing to the distribution number of O and Si
+4+
+content on the growt

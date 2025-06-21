@@ -1,0 +1,3 @@
+soling of glass. The efficiency degradation rate (% per year) of different cell technolo
+-
+gies, including PERC, SHJ, CdTe, CIGS, and III–V observed by Smith et al., [8] under the standard test condition, is presented in Fig. 12. Perovskite cells showed the highest degradation rate of 80%/year in 2010, which is expected to be reduced to 0.5%/year by 2030. According to Wu et al., [130], the instability of organic–inorganic hybrid halide lead perovskite can be attributed to humidity, phase ins

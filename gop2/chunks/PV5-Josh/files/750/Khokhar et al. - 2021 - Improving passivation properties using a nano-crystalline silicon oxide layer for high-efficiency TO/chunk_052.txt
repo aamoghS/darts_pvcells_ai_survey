@@ -1,0 +1,19 @@
+erall quality was achieved. Thermal annealing at 950 
+◦
+C and FGA at 400 
+◦
+C resulted in the lowest values of J
+o 
+and 
+
+, but at 1000 
+◦
+C thermal annealing and FGA at 400 
+◦
+C resulted in the lowest values of 
+ 
+and the highest value of J
+o
+. The results presented in Fig. 7(a) demonstrate that the total contact resistance declined gradually with increasing annealing temperature, whereas the drop was precipitous for the sample annealed around 1000 
+◦
+C. Thus, this is considered ind

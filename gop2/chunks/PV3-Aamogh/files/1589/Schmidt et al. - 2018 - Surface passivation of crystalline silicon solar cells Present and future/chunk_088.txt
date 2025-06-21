@@ -1,0 +1,3 @@
+iscanbeconcludedfromthefactthatfordopedpolycrystallinesilicon
+placeddirectly(i.e.,withoutinterfacialoxide)onthec-Sisurface,highJ0valuesaremeasured(e.g.>500fA/cm2inRef.[94],oreven1138fA/cm2inRef.[87]).Thiscomparesto1fA/cm2inthecasewithinterfacialoxide[94],althoughthein-diusedregionispresentinbothcases.Therefore,thepassivationofpoly-Sijunctionsreliesonalow
+recombinationvelocityattheinterfacebetweenthec-Sisurfaceandtheinterfacialsiliconoxide[77].Indeed,thesurfacerecombinationvelo-citiesSn0andSp0at

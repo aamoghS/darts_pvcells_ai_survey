@@ -1,0 +1,2 @@
+ of Figure  3 a, was prepared by depositing TiO 2  or SiO 2 /TiO 2  on the top side, following which Al/Ag metal stack circles with different diameters were evaporated through a shadow mask. An Ohmic 
+rear contact ( ρ  c  < 10 −4  Ω cm 2 ) was prepared using evaporated Al on a phosphorus diffused (≈60 Ω sq −1 ) rear surface, in order to minimize the resistance associated with the rear contact. Current–voltage ( I – V ) measurements in the dark were performed before and after FGA 

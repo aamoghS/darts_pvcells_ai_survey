@@ -1,0 +1,3 @@
+ were more susceptible to corrosion, while JSIM sam
+-
+ples exhibited a substantial higher tolerance against NaCl-induced damage. Consequently, laser enhanced firing processes such as JSIM may enable TOPCon solar cells with a materially improved corrosion reliability. 3.4.FIB-SEM cross-section images To further investigate the contact failure mechanisms, we employed focused ion-beam techniques to acquire polished sections of the metal contacts. Alongside capturing SEM images, we utilized EDS for 

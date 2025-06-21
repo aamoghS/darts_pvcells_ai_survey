@@ -1,0 +1,4 @@
+rectly Si/Al contact at the rear side was fabri-cated for comparison.   The current density–voltage ( I – V ) characteristics of silicon solar cells with different rear contact structures under the 
+AM1.5 conditions are shown in Figure  1 b, and the photo-
+voltaic parameters of champion devices are summarized in 
+ Table    1  . The control cell without a TiO 2 -based contact exhibits a moderate efﬁ ciency ( η ) of 17.6%, which is mainly limited by a relatively low  V  oc  (585 mV) as well

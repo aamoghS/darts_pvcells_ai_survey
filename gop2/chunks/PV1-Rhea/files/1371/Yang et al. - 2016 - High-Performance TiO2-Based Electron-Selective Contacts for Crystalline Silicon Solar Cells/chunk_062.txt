@@ -1,0 +1,5 @@
+ectional TEM images of (e) Si/TiO 2 /Al and (f) Si/SiO 2 /TiO 2 /Al contacts after FGA annealing. The elemental maps obtained by EFTEM are shown on the right (red for oxygen and green for titanium).
+5896
+wileyonlinelibrary.com© 2016 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim
+COMMUNICATIONand improved FF shown in Table  1 . Meanwhile, the surface pas-sivation quality of titanium oxide on silicon surface degrades, 
+resulting in a reduced  V  oc  of the cells with a Si/TiO 2 /Al con-tact. Due to t

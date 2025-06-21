@@ -1,0 +1,11 @@
+n of n
++
+-poly-Si and inhibited the transfer of major car
+-
+riers (electrons) to the rear side grids. 
+Fig. 10
+describes the transfer of charge carriers in the cells, n
++
+-poly-Si provided a built-in field with the direction from n
++
+-poly-Si to silicon bulk, which was beneficial for the rear side electrode to collect charge carriers. However, the appearance of BSF weakened the ability of electrodes, because the BSF showed p- type semiconductor properties, so a built-in field with the direction 

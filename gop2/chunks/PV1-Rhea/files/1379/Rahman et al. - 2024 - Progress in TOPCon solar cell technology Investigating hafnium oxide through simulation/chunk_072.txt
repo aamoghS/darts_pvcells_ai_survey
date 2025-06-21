@@ -1,0 +1,5 @@
+ow each layer contributes to the cell’s functionality, particularly focusing on the role of HfO
+2 
+in enhancing the cell’s effi
+-
+ciency. Comparing the simulation results of SiO2 and HfO2 passivated TOPCon solar cells helps in understanding the strengths and weaknesses of each material [25]. It allows for optimizing parameters like layer thickness, interface quality, and electrical properties to achieve the highest efficiency. It also aids in identifying the material that provides superior p

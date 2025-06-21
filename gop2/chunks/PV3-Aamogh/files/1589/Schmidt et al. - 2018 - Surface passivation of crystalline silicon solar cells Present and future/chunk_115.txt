@@ -1,0 +1,2 @@
+hinlayer’)cellconcept[137]withonlyreplacingthea-Si:H(p)layerbya6nmthickthermallyevaporatedMoOxlayer.ThemajorbenetofthisreplacementisthatduetothelargerbandgapofMoOx(~3eV)comparedtoa-Si:H(p)(~1.7eV),theopticallossesarereduced,whilemaintainingtheexcellentpassivation
+[128].FromtheexcellentVocof725.4mVofthe22.5%ecientcell,weestimatethattheJ0ofthea-Si:H(i)/MoOx/ITOhole-selectivelayerstackisintheorderof10fA/cm2.Duetothefactthatreplacingthea-Si(p)layerwiththeMoOxresultedinpracticallythesameFFsande-

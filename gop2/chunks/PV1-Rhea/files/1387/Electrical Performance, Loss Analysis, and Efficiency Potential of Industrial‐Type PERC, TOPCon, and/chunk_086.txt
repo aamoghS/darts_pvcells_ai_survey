@@ -1,0 +1,43 @@
+ayer has the lowest value of ~13.3, and the corresponding ηe,max value is about 27.77%. This corresponds to earlier find-ings that a p- type 21.2%- efficient PERC cell with local screen- printed BSF contacts with Jo = 550 fA/cm2 and ρc = 5 mΩ·cm2 has a high limiting efficiency of 27.6% [31].(4)
+S
+10,e=log10
+V
+th
+J
+0,e
+
+c,e
+(5)
+S
+10,h=log10
+V
+th
+J
+0,h
+
+c,h
+(6)
+f
+max
+=
+c
+
+max
+S
+10
+(7)
+
+max=
+
+0.6271−1.085+
+
+1.620×106e−S10
+0.8891
+
+−1.085
+
+−
+1
+1.085.cm
+2
+TABLE     |   

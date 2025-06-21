@@ -1,0 +1,3 @@
+ significantly contributes to enhanced passivation quality. Through separate opti
+-
+mization of these film layers, we aim to harness the full potential of TOPCon solar cells, achieving remarkable improvements in passivation quality and overall performance. With the help of XRD, SIMS, QSSPC, ellipsometry and other characterization tools, the underlying reasons for the improved passivation quality due to plasma oxidation and plasma hydrogenation were explored. Finally, plasma oxidation and hydroge

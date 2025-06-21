@@ -1,0 +1,9 @@
+PCon solar cells is as follows: Step 1: Double-sided texturization of wafers in alkaline solution to form the pyramid shape structure. Step 2: Diffusion of p
++
+boron. Step 2: Removal of p
++
+boron from the rear side of the wafers with the help of single-side inline wet bench. Step 4: Realization of (thermal oxidation +in-situ i-poly with a thickness value of 200 to 300 nm) by LPCVD method. Step 5: Doping of in-situ i-poly layer to convert it into n
++
+poly layer by POCl
+3 
+diffusion. Step 6: Remov

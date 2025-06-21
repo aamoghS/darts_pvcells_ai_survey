@@ -1,0 +1,3 @@
+€“voltage (I-V) characteristic curve. External quantum efficiency (EQE), internal quantum efficiency (IQE), and light reflection were measured using the PVE300-IVT. The optical loss analysis results are from the Current Loss Analysis Calculator V1.4 Optical Loss provided by the Solar Energy Research Institute of Singapore [49]. 3.Results and discussion 3.1.Influence of surface morphology on passivation and contact characteristics of SiO
+X
+/n +poly Si structures According to the weight loss of po

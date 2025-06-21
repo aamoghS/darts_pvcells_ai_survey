@@ -1,0 +1,11 @@
+ly [26]. All samples synthesized in this study were exposed to post-deposition annealing (PDA) at 850, 900, 950, or 1000 
+◦
+C for more crystallization. Finally, FGA was performed for 2 h at 400 
+◦
+C. The parameters used to obtain passivated nc-SiO
+x 
+contacts are listed in Table 1. The procedure is described in detail below. The symmetric structures synthesized through these two approaches are shown in Fig. 1. The ultrathin SiO
+2 
+tunnel oxide layer and nc-SiO
+x 
+layer with various thickness

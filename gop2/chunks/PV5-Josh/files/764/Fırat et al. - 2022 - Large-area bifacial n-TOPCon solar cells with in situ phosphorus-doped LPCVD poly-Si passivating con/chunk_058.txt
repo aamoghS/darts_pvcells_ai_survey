@@ -1,0 +1,8 @@
+culator of PV lighthouse and using experimentally determined internal reflectance data [26,38]); Transmission: User-defined (based on measured R) External Circuit Series resistance: 0; Shunt resistance: 10
+5 
+ cm
+2  
+Table 2 Input parameters varied in each step of Quokka 2 simulations to improve the solar cell efficiency.  
+Step Number Input Parameters 1 Bulk background lifetime: 1–8 ms 2 Bulk resistivity: 1.0–2.3  cm; Front and rear contact resistivity: 1.0–2.1 m cm
+2 
+3 Front and rear

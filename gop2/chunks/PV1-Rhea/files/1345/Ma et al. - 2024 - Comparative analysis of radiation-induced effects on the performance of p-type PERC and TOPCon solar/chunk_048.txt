@@ -1,0 +1,3 @@
+are listed in Table 4 for both PERC and TOPCon cells. 3.3.Higher bulk lifetime Both the PERC as well as the TOPCon structures hold the potential for high efficiencies. As deduced from the preceding two sections, the pre
+-
+vailing loss mechanism in both cell types stems from SRH recombination in the bulk. Subsequent elimination of BO defects led to a quintupling of the electron lifetime, a value that can be further increased by increasing the substrate resistivity, as outlined in Table 2. Advance

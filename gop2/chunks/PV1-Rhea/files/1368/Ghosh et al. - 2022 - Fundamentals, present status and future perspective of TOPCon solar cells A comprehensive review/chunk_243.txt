@@ -1,0 +1,3 @@
+ue of J
+sc 
+which in turn provides more power output. However, the other major issue which needs to be addressed during the rear side light management of TOPCon solar cells is to reduce the parasitic absorption of the evanescent light inside the TOPCon structure, specifically, inside the heavily doped poly-Si layer [80,93,94]. As mentioned earlier in the Section 6.2.3, the thickness and the doping concentration of doped poly-Si layer should be optimized wisely in order to preserve a proper balan

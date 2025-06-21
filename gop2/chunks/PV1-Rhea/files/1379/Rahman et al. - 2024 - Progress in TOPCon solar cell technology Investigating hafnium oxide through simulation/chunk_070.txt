@@ -1,0 +1,7 @@
+tive index, band alignment with silicon, electrical characteristics, and its impact on carrier transport and recombination rates [23]. The simula
+-
+tion aims to understand how the higher refractive index of HfO2 in
+-
+fluences light confinement and absorption within the cell [24]. It also evaluates how HfO2 mitigates recombination losses at the silicon sur
+-
+face, improving charge carrier lifetime and enhancing overall efficiency. Parameters like the quality of the HfO2-Silicon interface, interfa

@@ -1,0 +1,4 @@
+ld (Al-BSF) has a PCE limit of ≈19% with the current passivation and metallization concepts. A route toward higher PCE is the implementation 
+of selective emitter (SE) or/and local back surface ﬁ eld (LBSF) structures into silicon solar cells. State-of-the-art high-efﬁ ciency silicon solar cells (>23%), such as the passivated-emitter rear locally diffused (PERL) and passivated emitter with rear totally 
+diffused (PERT) cells, have been fabricated with locally doped 
+or/and contact regions 

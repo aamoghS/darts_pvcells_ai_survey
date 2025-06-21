@@ -1,0 +1,5 @@
+ce of process parameters on the SiO
+x 
+layer Condition 1 5 5 600 44 500 125 790 1800 900 50.1 1.4 3160 5.2 736 The distribution number of O and Si
+4+
+content which is a key indicator of the quality of SiOx layer 10 52.4 2.5 2844 5.8 734 20 49.8 4.2 2246 7.7 729 Condition 2 10 5 50.7 1.8 2864 5.6 734 10 48.8 2.9 3118 5.6 735 20 48.9 4.1 2110 7.8 729 Condition 3 5 10 52.4 2.5 2844 5.8 734 10 48.8 2.9 3078 5.6 735 20 50.7 3.5 2514 6.9 732 40 51.6 3.9 1678 11 722 (ii)：Influence of process paramete

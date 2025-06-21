@@ -1,0 +1,27 @@
+ confidence interval for the median of 
+
+c 
+is illustrated by the diamond-box plot. The 
+
+c 
+increased significantly from 1.4 to 1.8 m cm
+2 
+to 4.2 m
+cm
+2 
+by increasing the t
+pressure 
+from 5 to 20 min at t
+oxidation 
+=5 and 10 min, respectively (Figs. 5a and 5b). And for the varying t
+oxidation 
+process parameters, 
+
+c 
+can also be increased slightly from 2.5 to 3.9 m cm
+2 
+as oxidation duration increased from 5 to 40 min, as shown in Fig. 5c. Both t
+pressure 
+and t
+oxidation 
+had a sign

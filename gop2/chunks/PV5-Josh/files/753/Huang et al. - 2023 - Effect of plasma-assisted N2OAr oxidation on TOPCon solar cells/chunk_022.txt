@@ -1,0 +1,15 @@
+on time, deposition pressure and deposition RF power were fixed at 120 s, 150 Pa and 9000 W respectively. Subsequently, about 120 nm a-Si(n
++
+) was deposited in the same chamber (deposition conditions: SiH
+4
+/Ar/PH
+3
+=1:5:1, time=900 s, pressure=150 Pa, temperature=480 
+◦
+C, RF power=10000 W). The thickness of SiO
+x 
+films deposited under different N
+2
+O/Ar gas flow ratios 
+Fig. 1.Flowchart of experimental details and schematic diagram of passivated contact structure.  
+J. Huang et al.        

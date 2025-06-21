@@ -1,0 +1,15 @@
+y ionized oxygen atoms to penetrate deeper in the SiO
+x
+, both of which contributes to increasing SiO
+x 
+saturation thickness [25]. Fig. 3 shows the spectra of the in-situ OES under the condition of 480 
+◦
+C, 150 Pa and 9000 W RF power with different N
+2
+O/Ar flow ratios. Many narrow Ar* emission lines are observed in the near infrared be
+-
+tween 700 and 900 nm, corresponding to the 3p
+5
+4p 3p
+5
+4s transition [39], as denoted by the asterisks in Fig. 3(a). The intensity of Ar* emission lines 

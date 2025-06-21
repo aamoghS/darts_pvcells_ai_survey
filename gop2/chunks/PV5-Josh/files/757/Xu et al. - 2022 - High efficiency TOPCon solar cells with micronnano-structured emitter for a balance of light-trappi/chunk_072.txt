@@ -1,0 +1,3 @@
+, it is significant that NPP cells can generate higher total power and energy than conventional cells. 4.Conclusions In summary, we have successfully demonstrated the high-efficiency NPP bifacial TOPCon solar cell with the highest PCE of 23.79% by integrating the RIE b-Si technique into industrial solar cell production. In this work, to ascertain the appropriate feature sizes and surface morphologies, we have systematically studied and analyzed the effects of different P
+RF 
+on photoelectric pro

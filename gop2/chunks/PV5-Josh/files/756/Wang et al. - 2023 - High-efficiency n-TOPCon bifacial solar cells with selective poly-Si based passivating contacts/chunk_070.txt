@@ -1,0 +1,28 @@
+ 
+◦
+C (Fig. 9b). For the change of T
+drive-in 
+process parameter, the 
+
+c 
+also decreased significantly from 2.0 to 1.3 m cm
+2 
+as T
+drive-in 
+increased from 860 to 905 
+◦
+C, as shown in Fig. 9c. For the three char
+-
+acteristics observed, the sequence of their impact on the 
+
+c 
+is as follows: T
+dep 
+>T
+drive-in 
+>G
+POCl3
+. From the above 
+
+c 
+analysis, the influence of the contact resistivity is still related to the total doping level, which is consistent with the ECV profiles. The flow

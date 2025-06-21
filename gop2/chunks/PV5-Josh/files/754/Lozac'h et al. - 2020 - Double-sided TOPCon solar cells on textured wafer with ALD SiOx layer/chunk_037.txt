@@ -1,0 +1,23 @@
+ffusion into c-Si, where the boron concentra
+-
+tion is measured at 10
+21 
+at/cm
+3 
+for the first 22 nm and steeply decreases to 10
+16 
+at/cm
+3 
+at 40 nm depth. After high-T annealing and HPT, for the heavy doped (p) poly-Si (22 nm)/SiO
+x 
+reference, boron accumulates at the surface and at the SiO
+x 
+interface [13,15], with a peak at 2.8 �10
+21 
+at/cm
+3
+, and the boron concentration diffused inside c-Si is measured about 2 �10
+19 
+at/cm
+3 
+with a junction depth about 150 nm, as shown by the (

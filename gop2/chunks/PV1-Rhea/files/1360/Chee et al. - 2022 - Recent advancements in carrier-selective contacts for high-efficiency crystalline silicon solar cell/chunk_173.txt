@@ -1,0 +1,20 @@
+gain <1%. [22] MoO
+x
+/Al layer stack deposited as hole-selective rear contact for p-Si solar cell. Ultra-thin sub-stoichiometric SiO
+x 
+interlayer formed at the MoO
+x
+/c-Si interface allows conduction of charge carriers; MoO
+x
+/Al contact layer exhibits minimal 
+
+c 
+as low as 32m.cm
+2 
+and is stable upon annealing up to 200
+◦
+C. [148] ITO replaced by multifunctional ALD-Al
+2
+O
+3
+/ sputter-deposited ZnO window layer on the front side and Cu-plated contacts (with IBC design). Huge reduction in

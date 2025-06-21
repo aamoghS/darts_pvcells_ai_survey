@@ -1,0 +1,15 @@
+d deposition rate of the ultra-thin tunneling SiO
+x 
+layer. PECVD has a faster growth rate (i.e. >1 nm SiO
+x 
+was formed in 2 min by plasma-assisted N
+2
+O/Ar oxidation in this paper) than thermal oxidation methods (i.e. a 1.8 nm SiO
+x 
+was formed in ~20 min at 650 
+◦
+C by thermal oxidation of LPCVD [18]). In this work, the types of atoms and molecules excited by electrons during N
+2
+O/Ar plasma discharge are detected by in-situ optical emission spectroscopy (OES), and the relationship be
+-
+twe

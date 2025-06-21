@@ -1,0 +1,3 @@
+went an alkali polishing process to remove the boron emitter on the rear and edge. On the polished surface, an ultra-thin tunneling oxide layer, ~1.5 nm, was generated through oxidation with O
+2 
+plasma. This was followed by the deposition of an in-situ phosphorus-doped amorphous silicon layer, ~115 nm thick, using an in-line magnetron sputtering system (JT8000 POPAID, Belightech). Phosphorus-doped silicon targets are used for phosphorus-doped a-Si deposition, and the plasma excited from Ar and 

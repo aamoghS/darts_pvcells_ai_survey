@@ -1,0 +1,2 @@
+ighTannealing,thestructurebecomes(p)poly-Si(22±1nm)/SiOx/c-Si/SiOx/(n)poly-Si(22±1nm)(Figure1),wherethe(p)a-Si:H/(i)a-Si:Hstackisusedasaprecursorofthefront(p)polya-Si:HlayertocontroltheborondiffusionthroughtheultrathinSiOxlayer.36Hereafter,wedenotethe(p)and(n)poly-Si/SiOxstacksas(p)and(n)stacks,respectively.The(p)stackisabout22nmtoavoidsevere
+ITOsputteringdamage.37ThesolarcellstructuresareannealedwithasinglehighTannealingstep,thusmakingaTOPCon-typestructureforbothfrontandbacksurfaces.Afterhigh

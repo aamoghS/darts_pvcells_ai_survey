@@ -1,0 +1,5 @@
+y, most of the thin-film technologies are involved with various losses (bulk, surface, interface, recombination, voltage, fill factor, and optical loses). They face different critical chal
+-
+lenges including choice of materials, structural and material de
+-
+signs, coating, absorbers, performance monitoring, system optimization, control, reliability, stability and so forth.  iv) The behavior of new PV technologies is less straightforward owing to the variation of building materials and processing

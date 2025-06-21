@@ -1,0 +1,3 @@
+ontact effect, and only when the two structures are better matched together can the desired passivation effect be achieved [15,16]. According to the study, it is known that there is a pinhole structure in the silicon oxide, which has an auxiliary role in carrier transport and even plays a dominant role at higher pinhole densities. In addition to the pinhole structure, on the surface of silicon oxide, there exists a kind of subnanometer pits. Ac
+-
+cording to Liu et al. [17], these subnanometer pi

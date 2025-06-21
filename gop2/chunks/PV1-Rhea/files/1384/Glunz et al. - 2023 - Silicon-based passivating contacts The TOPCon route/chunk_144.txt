@@ -1,0 +1,8 @@
+nocrystallineSijunctions.IEEEJ.Photovoltaics.2014;4(3):841-850.
+https://doi.org/10.1109/JPHOTOV.2014.2310740
+53.FolchertN,PeibstR,BrendelR.Modelingrecombinationandcon-tactresistanceofpoly-Sijunctions.ProgPhotovoltResAppl.2020;28(12):1289-1307.
+https://doi.org/10.1002/pip.3327
+54.SteinkemperH,FeldmannF,BivourM,HermleM.Numericalsimula-tionofcarrier-selectiveelectroncontactsfeaturingtunneloxides.
+IEEEJ.Photovoltaics.2015;5(5):1348-1356.
+https://doi.org/10.1109/JPHOTOV.2015.2455346
+55.FellA,Feldmann

@@ -1,0 +1,6 @@
+were laser-diced from the monitor samples for measuring 
+
+c 
+by the transfer length method (TLM). In the following sections, each of these parameters are reported with an extra index “r” or “f” to indicate that these belong to the rear or the front surface, respectively. 2.2.Damp heat and thermal cycling tests on 1-cell n-TOPCon solar laminates 1-cell laminates of the n-TOPCon solar cells with a t
+poly 
+of 150 nm and polished rear surface were fabricated in a glass-glass configuration, 

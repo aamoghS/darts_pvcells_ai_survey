@@ -1,0 +1,9 @@
+he laser energy density was 0.431 J/cm
+2
+. We got the best electrical performance of TOPCon cells printed with Al paste (25 wt%-29 wt% silicon). The open-circuit voltage (V
+oc
+) and the conversion efficiency (E
+ff
+), have reached 663.60 mV and 22.56 % respectively. Although the efficiency was 9.40 % relative lower than that of TOPCon cells printed with Ag paste, but the cost of Al paste only accounted for 10 % of Ag paste. In the future, the highest E
+ff 
+of TOPCon solar cells printed with Al pa

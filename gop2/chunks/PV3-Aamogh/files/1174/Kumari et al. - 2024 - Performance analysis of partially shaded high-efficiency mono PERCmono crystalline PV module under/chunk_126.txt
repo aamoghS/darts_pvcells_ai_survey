@@ -1,0 +1,6 @@
+PERC PV Module
+Pmax
+Power loss (% )EPciency (ɳ)Shading percentageIndoorOutdoorIndoorOutdoorIndoorOutdoor20322.317295.8611.615.0016.4215.140253.555210.530.439.5212.8913.560232.474201.8936.2742.0011.8412.680232.825202.7836.1841.7511.8311.3100231.884237.0836.4331.8911.7911.9
+16
+Scientific Reports |        (2024) 14:21587  | https://doi.org/10.1038/s41598-024-72502-z
+Data availabilitye datasets used and/or analyzed during the current study are available from the corresponding author upon reasonabl

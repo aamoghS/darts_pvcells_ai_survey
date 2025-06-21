@@ -1,0 +1,2 @@
+factors which are used in the experiment. From the data it is seen that the factor with the biggest impact is the mixture type used in sample preparation. Prepared samples have an alkaline environment, so they can be used as catalysts in electrolysis process to reduce or replace chemical catalyst in electrolysis process. The best sample for electrolysis was determined to be with 25 % 
+mixture (with closeness to the ideal solution of 87, where 1 is the ideal solution). The experiments did not yie

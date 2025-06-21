@@ -1,0 +1,2 @@
+ifacial; glass-glass module 
+1. Introduction The glass-glass module is featured by better reliability, lower PID and better mechanical strength. Thus, it is suitable for extreme environments, such as high humidity, high temperature, high windy conditions, and also BIPV. The lifetime of glass-glass module should be greater than 30 years. Compared with the p-type solar cell, n-type solar cell features high performance and low LID. Besides, recently, n-type solar cell technology has been drawing mo

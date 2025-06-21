@@ -1,0 +1,5 @@
+6
+5893
+wileyonlinelibrary.com© 2016 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim
+COMMUNICATIONbetween n-Si and TiO 2  ﬁ lm. The champion device featuring a full-area SiO 2 /TiO 2  contact exhibits a high  V  oc  of 676 mV, a  J  sc  of 39.6 mA cm −2  and a FF of 80.7%, resulting in a very high  η  of 21.6% that represents an absolute efﬁ ciency gain of 4.0% com-pared with the control device. The champion cell batch (four 
+cells on one wafer) shows an average efﬁ ciency above 21.0%, a tes

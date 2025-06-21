@@ -1,0 +1,11 @@
+(w
+f
+, w
+r
+) and pitches (p
+f
+, p
+r
+), (iv) t
+poly
+, (v) reflectance R by the use of DARC, (vi) the passivation of the non-contacted regions of the front side by the use of an advanced emitter, (vii) the passivation of the contacted regions of the front side by the use of a selective emitter, and (viii) again the front surface passivation in non-contacted regions using a transparent passivating contact. The Quokka 2 input parameters varied in each step are listed in Table 2. It is important to n

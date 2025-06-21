@@ -1,0 +1,5 @@
+B source region) diminishes over time, while the concentration at deeper levels (the doping region) increases with time. Moreover, at the same diffusion duration, higher tempera
+-
+tures result in lower surface B concentrations and deeper diffusion depths of B atoms. This observation signifies that B atoms continue to diffuse into the Si matrix over time, and higher temperatures lead to lower surface B concentrations and greater diffusion depths. However, when temperatures reach 950 
+◦
+C and 10

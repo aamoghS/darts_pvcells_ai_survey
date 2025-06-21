@@ -1,0 +1,3 @@
+tilization of some PV tech
+-
+nologies is reported as technically feasible but economically it still seems unfeasible. 4.PV cell performance The rapid development of PV building materials has introduced different potential cell technologies with interest to ensure quality products with high performance and reliability at a minimal cost. This section presents the performance of different PV cell technologies in terms of power output, power degradation, annual performance ratio (PR), merits and dem

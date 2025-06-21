@@ -1,0 +1,26 @@
+e first method involves the Einstein relation, which is calculated using the MSD: D=lim
+t
+16t〈|r
+i
+(t)�r
+i
+(0)|
+2
+〉=
+16
+d(MSD)dt(2) The other is the Green Kubo formula calculated by the velocity autocorrelation function. D=
+13∫
+0
+〈v
+i
+(t)ˆAv
+i
+(0)〉dt(3)  where r
+i
+(t), r
+i
+(0)and v
+i
+(t), v
+i
+(0)correspond to the displacement vector and velocity vector of the particle at time t and time 0, respectively. The Green Kubo formula necessitates extensive statistical integration of the

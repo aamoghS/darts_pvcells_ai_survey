@@ -1,0 +1,9 @@
+ity at relatively low annealing temperature (around 600
+◦
+C) as depicted in Fig. 15. Therefore, to overcome the damage caused by high temperature annealing such as blistering or balling up of ultra-thin SiO
+x 
+layer, use of thin microcrystalline silicon layer was proposed instead of thin amor
+-
+phous layer for the formation of TOPCon structure. Besides, improve
+-
+ment in the solar cell performance was also realized in the simulation study due to higher doping efficiency of thin microcrystallin

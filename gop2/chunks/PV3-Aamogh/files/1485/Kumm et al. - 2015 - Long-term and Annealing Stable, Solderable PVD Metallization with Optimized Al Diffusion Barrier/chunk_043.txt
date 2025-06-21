@@ -1,0 +1,19 @@
+eference group, see Table 1. The efficiencies 
+�D�‰
+ of all i=1..32 cells are measured and the median efficiencies of the different metallization groups are calculated. All 
+results are depicted in Fig. 3 in relation to the median efficiency of the Al reference group 
+�Dm
+, i.e. the difference 
+�û�D
+i = 
+�D
+i - 
+�D�‘
+ in absolute percent.  
+Group III  'Ref.' Screen-printedGroup I'Stack 1' TiN/Ti/AgGroup II 'Stack 2' TiN/NiV/Ag-0,5-0,4
+-0,3
+-0,2-0,10,0
+0,1
+0,2
+0,3
+ Cell measu

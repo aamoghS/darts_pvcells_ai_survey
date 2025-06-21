@@ -1,0 +1,8 @@
+vation, high-k dielectrics are highly effective passivation layers, as according to: Q
+eff
+
+Ad(1)  where Q
+eff 
+is effective charge density, 
+ 
+is dielectric permittivity, d is thickness, and A is area. Structural parameters such as the ratio of the contact area to passivation area, and the physical properties of the passivation material stack, have a tremendous influence on charge carrier selectivity. These parameters have been carefully accounted for together with CSCs with or without dopin

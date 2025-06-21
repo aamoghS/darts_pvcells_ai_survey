@@ -1,0 +1,16 @@
+layers diffusion process, we fabricated five types of n
++
+-poly-Si layers on the polished surface by the change of the LPCVD deposition time and diffusion process parameters (Table 1(iii)). The ECV profiles, sheet resistance, J
+0
+, 
+
+c
+, and near- infrared (NIR) parasitic absorbance current loss analysis of the n
++
+- poly-Si layers are shown in Fig. 11. Generally, as shown in Fig. 11a, all of n
++
+-poly-Si layers have nearly the same surface concentration of more than 1 ×10
+20 
+atoms/cm
+3 
+and 

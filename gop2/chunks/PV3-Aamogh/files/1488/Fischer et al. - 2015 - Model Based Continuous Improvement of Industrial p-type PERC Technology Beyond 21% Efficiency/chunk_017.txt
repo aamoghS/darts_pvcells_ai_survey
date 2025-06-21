@@ -1,0 +1,5 @@
+by TÜV Rheinland 
+  
+We used the standard wafer format of a 156.5x156.5 mm
+2
+ p-type wafer with an as-cut thickness of 180 μm. Saw damage removal and texturing were done using alkaline solutions. The rear side passivation stack was adjusted in respect of low surface recombination velocity Srear, high internal reflection and thermal stability. The rear contacts were implemented with a local BSF underneath. In terms of contacting the emitter and base we used standard screen printing technologies

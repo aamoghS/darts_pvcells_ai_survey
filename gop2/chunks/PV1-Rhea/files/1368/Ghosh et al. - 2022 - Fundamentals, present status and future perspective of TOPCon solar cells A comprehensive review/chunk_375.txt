@@ -1,0 +1,15 @@
+O
+3 
+atmosphere n-type, solar grade CZ 718 [39] Plasma assisted oxidation in N
+2
+O atmosphere n-type, solar grade CZ 703 Thermal oxidation in N
+2 
+and O
+2 
+atmosphere n-type, solar grade CZ 722  
+Table 2 Thickness data measured by different methods on one identical sample without thermal annealing [42].  
+Method Thickness average d (nm) Thickness error (nm) TEM 1.1 0.35 Ellipsometry 1.36 0.3 XPS 0
+ 
+0.61 0.15 XPS 70
+ 
+0.72 0.15 ToF-SIMS depth profiling <2 0.5  D.K. Ghosh et al.                

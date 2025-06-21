@@ -1,0 +1,11 @@
+ation step, which is otherwise required to realize high quality passivation of the boron emitter before deposition of PECVD AlO
+x
+/
+-
+a-SiN
+x 
+stack. It should be mentioned that the high temperature steps performed after a-Si/poly-Si deposition (POCl
+3 
+diffusion for LPCVD TOPCon exsitu, and annealing for LPCVD TOPCon insitu) should be carefully developed not to substantially alter the boron emitter profile on the textured-side of the solar cell. Afterwards, front and rear metal
+-
+lization is pe

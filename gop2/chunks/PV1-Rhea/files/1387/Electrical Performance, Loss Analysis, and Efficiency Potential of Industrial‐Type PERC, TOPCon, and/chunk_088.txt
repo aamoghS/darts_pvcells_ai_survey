@@ -1,0 +1,3 @@
+t loss analysis (B) of PERC, TOPCon, and SHJ cells.
+898
+We now evaluate the efficiency potential of the six types of solar cells. From the data of electron- selective contacts and hole- selective contacts in Tables5 and 6, we calculate the maximum selectivity S10,e&h,max using Equation(9), as shown in Table7.The current PERC solar cell with an efficiency of 23.59% fea-tures an Al- BSF hole- selective layer and a P- diffused n++ electron- selective layer. The corresponding combined selectiv-it

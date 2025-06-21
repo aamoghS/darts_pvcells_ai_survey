@@ -1,0 +1,13 @@
+n silicon substrate, finally resulting in a sharp decline of R
+sh 
+and poor passivation quality. This indicates that there is an optimal annealing temperature for the PANAO SiO
+x 
+layer to achieve a balance between passivation quality and carrier transport. 3.3.Effects of PANAO SiO
+x 
+on passivation quality Fig. 6 shows the electrical properties such as minority lifetime (
+
+), implied open circuit voltage (iV
+oc
+), single-side saturated recombination current density (J
+0
+) and contact resistivi

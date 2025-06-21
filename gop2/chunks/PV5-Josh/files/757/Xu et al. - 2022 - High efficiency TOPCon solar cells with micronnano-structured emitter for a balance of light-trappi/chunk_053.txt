@@ -1,0 +1,13 @@
+amount of emitter Auger recombination (J
+0e, Auger
+) and surface SRH recombination (J
+0e, surface
+) [41], respectively. Therefore, analyzing the occupation ratio of different recombination channels in NPP emitters can provide guidance for optimizing the preparation process of NPP solar cells. Based on the measured ECV profiles and J
+0 
+extraction values, we disassemble the J
+0e 
+of NPP emitters and conventional micron-pyramid emitters into J
+0e, auger 
+and J
+0e, surface 
+using ENDA 2 software [4

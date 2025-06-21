@@ -1,0 +1,5 @@
+vel method to achieve selective emitter using surface morphology for PERC silicon solar cells, Energies 13 (2020) 5207, https://doi.org/10.3390/en13195207. [19]N. Chhetri, G. Das, A. Kole, H. Saha, S. Haldar, S. Chatterjee, P-type polycrystalline silicon seed layer fabrication using RF-PECVD for thin film solar cells, Mater, Today Proc 58 (2022) 665–667, https://doi.org/10.1016/j.matpr.2022.02.126. [20]M. St¨ohr, J. Aprojanz, R. Brendel, T. Dullweber, Firing-stable PECVD SiO
+x
+N
+y
+/n- Poly-Si

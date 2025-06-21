@@ -1,0 +1,5 @@
+ consequences of high-energy particle irradiation on p-type silicon solar cells. 1 MeV electron irradiation was considered since damage is rela
+-
+tively uniform throughout the thickness of the solar cell device and it is also one of the standard energies for which detailed characterization are performed. Particularly, defects under 1 MeV electron irradiation were characterized by Yamaguchi et al. through deep-level transient spec
+-
+troscopy (DLTS) measurements [21], revealing the presence of two

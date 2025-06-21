@@ -1,0 +1,9 @@
+re dependent. The optimal temperature range for boron diffusion in silicon is identified as 950 
+◦
+C to 1050 
+◦
+C. Using boron-doped silicon paste and boron trichloride as dopants, thermal diffusion experiments were conducted to fabricate the front-field PN junction (p
++
+layer) and selective emitter (p
+++
+layer) by one step. Subsequent processing and performance evaluation were performed on a production line. Experimental findings reveal a decrease in boron diffusion at higher temperatures, 

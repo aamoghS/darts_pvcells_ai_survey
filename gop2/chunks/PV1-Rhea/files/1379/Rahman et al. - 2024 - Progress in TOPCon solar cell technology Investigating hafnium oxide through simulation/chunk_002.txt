@@ -1,0 +1,7 @@
+n and Communication Engineering, Sungkyunkwan University, Suwon, 16419, Gyeonggi-do, South Korea   
+ARTICLE INFO  
+Keywords: Hafnium oxide TOPCon solar cells Solar cell efficiency ATLAS silvaco software simulations Charge carrier lifetime 
+ABSTRACT  
+In the realm of solar energy technology, exploring hafnium oxide (HfO2) in Tunnel Oxide Passivated Contact (TOPCon) solar cells is pivotal. This study delineates HfO2’s evolution from semiconductor applications, high
+-
+lighting its crucial role in

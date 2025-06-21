@@ -1,0 +1,16 @@
+                     
+which exposed to post-deposition annealing (PDA) at 950 
+◦
+C, when FGA treatment was performed for nc-SiO
+x 
+layers with thicknesses of 30–50 nm. The measured lifetime and the i-V
+OC 
+were extracted at the injection level (1.0E
++15 
+cm
+�3
+). in that case, our value highest passivation value of lifetime comes around 2.918 ms and of 739 mV at 50 nm, as shown in lifetime spectrum diagram Fig. 6(c). A substantial reduction in J
+o 
+to 1.1 fA/cm
+2 
+was observed at the 50 nm

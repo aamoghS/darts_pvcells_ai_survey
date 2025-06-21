@@ -1,0 +1,9 @@
+or 10 min [24]. A 25–35 nm phosphorus-doped a-Si:H layer followed by a 5 nm C-doped a-Si:H layer with an R-value of 0.75 was deposited successively using the PECVD system. Subsequently, the samples were annealed at 800
+◦
+C–860 
+◦
+C for 30 min for amorphous silicon crystallization and dopant diffusion to form the TOPCon structure. The front side boron diffusion emitters were covered by AlO
+x
+/SiN
+x 
+stack by using atomic layer deposition (ALD) and PECVD, respectively. After defining the f

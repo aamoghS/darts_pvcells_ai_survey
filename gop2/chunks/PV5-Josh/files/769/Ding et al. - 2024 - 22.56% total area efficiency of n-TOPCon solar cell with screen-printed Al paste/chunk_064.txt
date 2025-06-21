@@ -1,0 +1,12 @@
+ paste with a high weight percentage of silicon hardly had these situations, so the cells printed with high Si-wt.% added Al paste showed better electrical per
+-
+formance, the champion TOPCon cell obtained when printed with the Al paste which has 25-29 wt% silicon, and the cell with V
+oc 
+663.6 mV, J
+sc 
+40.73 mA/cm
+2
+, FF 83.48 %, and E
+ff 
+22.56 %.
+Although there is a significant gap in efficiency between TOPCon cells printed with Al paste and Ag paste on the rear side, the use of Al paste on 

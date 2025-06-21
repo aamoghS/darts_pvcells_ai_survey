@@ -1,0 +1,2 @@
+ion losses in rear side N-type polycrystalline silicon passivating contacts, AIP Conf. Proc. 2147 (2019). https://doi.org/10.1063/1.5123831. 
+[39] F. Feldmann, M. Nicolai, R. Müller, C. Reichel, M. Hermle, Optical and electrical characterization of poly-Si/SiOx contacts and their implications on solar cell design, in: Energy Procedia, Elsevier Ltd, 2017: pp. 31–37. �https://doi.org/10.1016/j.egypro.2017.09.336. [40] S. Reiter, N. Koper, R. Reineke-Koch, Y. Larionova, M. Turcu, J. Krügener,

@@ -1,0 +1,10 @@
+s offered more resistance for B-diffusion during the thermal annealing process and due to which higher annealing temperature was required to optimize the B-diffusion profiles. In contrast, the authors assumed that the penetration of N into the ultra-thin SiO
+x 
+layer during the plasma assisted N
+2
+O oxidation process resulted in realizing relatively poor passivation quality. Moreover, from the contact resistivity measure
+-
+ment, it was observed that the contact resistivity (
+
+c
+) value of Ther

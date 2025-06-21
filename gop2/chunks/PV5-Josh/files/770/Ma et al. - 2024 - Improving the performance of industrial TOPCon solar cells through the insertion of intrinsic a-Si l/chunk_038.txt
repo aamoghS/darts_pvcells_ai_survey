@@ -1,0 +1,5 @@
+s did not exhibit any instances of burst phenomena, suggesting that the presence of phos
+-
+phorus doping close to the c-Si interface played a role in preventing the a-Si film from bursting during the annealing process. However, as the thickness of the a-Si (i) layer reached a certain value (G3), the surface began to manifest unevenly sized bubbles, which indicated the occur
+-
+rence of poly-Si film cracking or peeling off from the Si substrate. Comparing the appearance of the film before and afte

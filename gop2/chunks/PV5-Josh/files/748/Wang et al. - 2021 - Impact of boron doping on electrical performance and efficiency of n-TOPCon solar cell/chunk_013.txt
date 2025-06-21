@@ -1,0 +1,14 @@
+
+651 mV, E
+ff 
+20.31% 156 mm ×156 mm n- PERT The bulk lifetime of the wafers improved from 1.2 ms to 1.5 ms as a result of the co-diffusion process Ryu et al., 2017 Homogeneous emitter 50 3.4 ×10
+19 
+0.6   Specific contact resistances well below 10 mohm.cm
+2 
+156 mm ×156 mm BBr
+3
+-based B emitters with SiO
+x
+/SiN
+x
+:H passivation layer on n-type c-Si The addition of Te to the paste can change the temperature range where low specific contact resistances can be reached. Fritz et al., 2016b Homo

@@ -1,0 +1,9 @@
+c-Si/SiO
+x 
+(0.6 �0.1 nm)/(n) a-Si:H (22 �1 nm). After high-T annealing at 820 
+�
+C, the (p)/(i) a-Si:H stack is converted to a single (p) poly-Si layer with the same thickness. The (p) poly-Si layer is about 22 nm to minimize the ITO sputtering damage [32]. Hereafter, we denoted the (p) and (n) poly-
+-
+Si/SiO
+x 
+stacks as (p) and (n) stacks, respectively. After high-T annealing and HPT steps, ITO films are deposited by sputtering technique at the front and rear surfaces as an anti-reflect

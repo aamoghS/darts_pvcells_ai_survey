@@ -1,0 +1,3 @@
+ulatedfromitsmeasuredVocandshort-circuitcurrentdensity,Jsc,as:
+JJqVkT/exp11oscoc=[−]()
+whereTistheabsolutetemperatureandkT/qisthethermalvol-tage(25.693mVat298.15Kor25°C).ThiscellhadacreditableJoof270fA/cm2at25°C,almostevenlydividedbetweencontribu-tionsfromthecombinationoftopsurfaceandcontactrecombi-nationandfrombulkandrearcontactrecombination[7].Apparentlytherstpublishedsuggestionofreducedcontactareaasawayofreducingcontactrecombinationanditscon-tributiontoJowasmadeatUNSWalmostadecadee

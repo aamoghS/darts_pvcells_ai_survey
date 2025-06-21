@@ -1,0 +1,8 @@
+ssing 
+journal homepage: www.elsevier.com/locate/mssp 
+https://doi.org/10.1016/j.mssp.2023.107874 Received 14 August 2023; Received in revised form 10 September 2023; Accepted 29 September 2023   
+stacked passivation films independently for TOPCon solar cells, with the aim of enhancing their overall passivation quality. The passivation film on the front side of the TOPCon solar cell consists of five distinct layers, arranged from bottom to top as follows: AlO
+x
+, two layers of SiN
+x 
+with differ

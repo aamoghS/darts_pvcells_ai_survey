@@ -1,0 +1,2 @@
+itional SiOx layer on top of the SiNx layer, which resulted in a broadband reduction in R. This resulted in η being higher by 0.2% on average, and the best solar cell had a calibrated η of 23.01%, accompanied by a high Voc of 691.7 mV, and a high Jsc of 40.95 mA/cm2. 
+ The fabricated n-TOPCon solar cells were also incorporated in 1-cell laminates, which were subjected to 1000 h of damp heat testing and 400 cycles of thermal cycling. Upon both tests, Pout of the laminates did not degrade but in

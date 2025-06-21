@@ -1,0 +1,9 @@
+side over the textured c-Si. The boron and hydrogen distributions near the (p) poly-Si/SiO
+x 
+stack are controlled by the boron doping rate in the precursor film of hydroge
+-
+nated amorphous silicon (a-Si:H). The solar cell characteristics are dis
+-
+cussed in term of boron and hydrogen distributions, measured by secondary ion mass spectrometry (SIMS). 2.Experimental 2.1.Wafer texturing and cleaning Floating zone (FZ) silicon wafers (n-type phosphorus-doped, 1–5 cm, 280 
+
+m-thick, 100- orie

@@ -1,0 +1,3 @@
+rating film density, which may originated from the increasing of Ar
++
+bombardment in the process of plasma deposition (Ar atomic emission intensity was increased as the Ar flow increased, as shown in Fig. 2), thus resulting in a decline in its ability to prevent the phosphorus diffusion, as a result, there are more impurities penetrated into the silicon substrate, which lead to the increasing of recombination center, and the decreasing of passivation quality. We also have to ensure that the low 

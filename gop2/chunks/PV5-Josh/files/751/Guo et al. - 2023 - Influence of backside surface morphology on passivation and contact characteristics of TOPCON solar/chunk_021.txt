@@ -1,0 +1,5 @@
+investigate the properties of the tunnel oxide/phosphorus- doped polysilicon passivation contact structure. The substrate is an n- type commercial DWS mc-Si wafer (166 ×166 mm
+2
+) with a thickness of 165 ±10 
+
+m and a resistivity of 0.5–2 cm. The preparation process is shown in Fig. 2(a). After texturing, the wafers were etched using two different chemical cleaning processes, as shown in Table 1, including (1) acid polishing and (2) alkali polishing. The additives used in this paper were 

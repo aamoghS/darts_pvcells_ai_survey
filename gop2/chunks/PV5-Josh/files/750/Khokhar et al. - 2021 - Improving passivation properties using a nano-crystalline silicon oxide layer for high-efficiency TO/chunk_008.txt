@@ -1,0 +1,3 @@
+�10]. Thin buffer layers of SiO
+x 
+capped with doped poly-Si or semi-insulating poly-Si (SIPOS) approaches were first investigated during the 1980s [11–13]. Better passivation performance was observed with an approach using SIPOS alloyed with oxygen compared to pure poly-Si layers, but the produced thin films were too resistive for current extraction from solar cells [12–14]. Recently, enhanced solar cell characteristics have been reported using similar approaches on the rear side for two-si

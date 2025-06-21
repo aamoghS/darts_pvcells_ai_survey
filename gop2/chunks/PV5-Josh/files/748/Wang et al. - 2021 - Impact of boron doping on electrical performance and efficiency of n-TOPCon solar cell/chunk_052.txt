@@ -1,0 +1,25 @@
+a
+-
+tion from 1.22 to 4 ×10
+19 
+atoms/cm
+3 
+at d
+1 
+=0.63 
+
+m (Fig. 3b). For the emitter D3, J
+0e, passivated 
+increased from 23.3 to 39.9 fA/cm
+2 
+by increasing the peak concentration from 1.94 to 3.14 ×10
+19 
+atoms/cm
+3 
+at d
+1 
+=0.8 
+
+m (Fig. 3c). However, we found that the peak concentration on the deep junctions (emitters D2 & D3) has a stronger impact on the value of J
+0e, passivated 
+than that on the shallow junction (emitters D1). Perhaps because the deep junctions have high bulk rec

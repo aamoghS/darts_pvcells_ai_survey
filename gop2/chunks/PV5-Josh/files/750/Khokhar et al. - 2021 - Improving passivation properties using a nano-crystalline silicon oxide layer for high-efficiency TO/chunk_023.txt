@@ -1,0 +1,3 @@
+uated by Raman spectroscopy (Ramboss 500i, Dongwoo Optron Co., Ltd.). X-ray photo
+-
+electron spectroscopy (XPS) experiments were carried out on a Physical Electronics PHI5000 Versa Probe II photoelectron spectrometer with a mono-chromated Al-Ka source operated in a high-power mode at 100 W. To increase the probing depth, the takeoff angle was set to 85. The Si2p peak was measured with a pass energy of 5.85 eV and 25 meV/step. 3.Results and discussion 3.1.Observation of structure characteristic a

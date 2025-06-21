@@ -1,0 +1,3 @@
+om
+quasi-steady-statephotoconductancedata.ApplPhysLett.1996;69(17):2510-2512.35.KaneDE,SwansonRM.Measurementoftheemittersaturationcur-rentbyacontactlessphotoconductivitydecaymethod(siliconsolar
+cells).Proc.18thIEEEPhotovolt.Spec.Conf.LasVegas.1985:578–583.36.Lozac'hM,NunomuraS,MatsubaraK.Double-sidedTOPConsolarcellsontexturedwaferwithALDSiOxlayer.SolEnergyMaterSolCells.2020;207(1-7):110357-1-110357-7.37.TutschL,FeldmannF,PolzinJ,etal.Solarenergymaterialsandsolarcellsimplementingtransparentcond

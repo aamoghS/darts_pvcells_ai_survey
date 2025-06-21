@@ -1,0 +1,11 @@
+wer conversion efficiency of 22.1% with V
+oc 
+=710 mV, J
+sc 
+=38.1 mA/cm
+2
+, and FF =81.9%. Moreover, notable improvement in the effi
+-
+ciency potential of Si based tandem solar cells may also be realized due to the presence of sphere grating at the planar rear side of the cells. So far we have observed that reflecting back the passing i.e. the unabsorbed light from the rear side into the absorbing layer of TOPCon solar cells may maximize the value of J
+sc 
+which in turn provides more power outp

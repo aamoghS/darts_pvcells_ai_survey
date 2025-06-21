@@ -1,0 +1,15 @@
+
+=3:1). Finally, the samples were rinsed in deionized (DI) water and oven dried. The J
+0e 
+values for the four metallization fractions f were calculated using the same Sinton WCT-120 tool as for the earlier J
+0e 
+measurements. Meantime, the specific contact resistance (
+
+c
+) sample was achieved from printed H patterns (9 busbar �110 fingers) on one side of the p
++
+np
++
+sample on 0.8–1 	cm n-type Cz–Si wafers. The rear side after B diffusion was etched using a mixed solution of HF/HNO
+3
+.

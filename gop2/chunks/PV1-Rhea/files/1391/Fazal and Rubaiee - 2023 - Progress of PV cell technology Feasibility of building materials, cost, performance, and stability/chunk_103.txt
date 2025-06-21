@@ -1,0 +1,6 @@
+ting temperature responses on power, open circuit voltage, and short circuit current for different commonly used PV modules (Fig. 10). All thin film technologies except thin film Si modules have lower  for power compared with a c-Si module. The ascending 
+Fig. 10.A) temperature coefficient for power () of single junction amorphous silicon (a-si sj), tandem micrograph (a-si/
+
+c-si), cdte, cigs, and thin film c-si (tf-si); effect of temperature on b) module’s maximum power (p
+max
+), c) module

@@ -1,0 +1,17 @@
+ure developed onto <100>oriented, 200 ±30 
+
+m, n-type CZ wafers due to the variation of LPCVD coated poly-Si layer thickness, PH
+3 
+flow rate during the development of doped Si layer and the tem
+-
+perature of subsequent annealing process [82]. Finally, the best result with a very high iV
+oc 
+of 733 mV along with a very low J
+0 
+of 5.2 fA/cm
+2 
+was obtained for 113 nm thick poly-Si layer at a PH
+3 
+flow rate of 40 sccm with the corresponding subsequent annealing temperature of 900
+◦
+C. Howeve

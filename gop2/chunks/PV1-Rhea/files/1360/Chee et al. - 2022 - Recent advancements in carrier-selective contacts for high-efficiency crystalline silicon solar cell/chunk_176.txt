@@ -1,0 +1,19 @@
+zation scheme using a PECVD-SiOx capping layer on the ITO transparent electrode, with a-Si:H passivation layers. Lowered production costs, with record-breaking efficiency of 26.7% for the SHJ solar cell. [162] SiO
+2
+/SiN
+x
+:H as front passivation stack on p-type SHJ solar cell; SiO
+2
+/SiN
+x
+:H stack on the rear surface of PERC architecture. Replacing the Al-BSF contact by a SiO
+2
+/SiN
+x
+:H stack has markedly reduced J
+0 
+and increased the efficiency by 0.2–20.1%; with SiO
+2
+/SiN
+x
+:H stack on 

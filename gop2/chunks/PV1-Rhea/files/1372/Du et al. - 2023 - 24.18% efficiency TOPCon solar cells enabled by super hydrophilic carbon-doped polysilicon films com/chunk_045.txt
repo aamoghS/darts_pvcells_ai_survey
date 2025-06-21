@@ -1,0 +1,3 @@
+e poor surface wettability. We speculate that this may be due to the fact that the TLM pattern used in this work with a width of 1 mm is much higher than that of the voids with a size of tens of microns as shown in Fig. 3(c) and (e), these voids thus have less effect of the measured contact current. While grids for rear electrodes with a line width of about 15 
+
+m are compared to the size of voids, which may have a negative effect on the device performance. In summary, such a double-layer polys

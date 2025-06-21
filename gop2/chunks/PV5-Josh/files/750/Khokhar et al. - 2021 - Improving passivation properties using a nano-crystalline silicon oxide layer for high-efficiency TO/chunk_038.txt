@@ -1,0 +1,24 @@
+e prominent as compared to the as-deposited sample. The results of 
+
+eff 
+and i-V
+OC 
+improved at all examined thicknesses as the annealing temperature increased to 950 
+◦
+C, after which they diminished for higher annealing temperature around 1000 
+◦
+C. Fig. 5(b) demonstrates the J
+o 
+of the three different nc-SiO
+x 
+thickness samples in response to the T
+PDA
+. J
+o 
+dimin
+-
+ished with an increase in annealing temperature up to 950 
+◦
+C and then J
+o 
+starts to increase as the annealing tem

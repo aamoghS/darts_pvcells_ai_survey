@@ -1,0 +1,3 @@
+ne chemical edge isolation Fig. 4 c). Different approaches are known from literature to achieve a reliable contact adhesion for plated contacts on silicon. The most famous ap
+-
+proaches are plating on metallic seed layers (e.g. PVD metal layers such as TiPdAg, Ti, Mo), galvanic surface displacement (electrochemically deposited seeds such as Pd [15] or Ni [5] silicidation of the nickel-silicon interface [16], and/or laser-induced nano-roughness [17]. The last one exploits LIPSS, which result from

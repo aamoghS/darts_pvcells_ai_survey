@@ -1,0 +1,18 @@
+x plots are shown in Fig. S3 and Fig. S4. The D3 sample with the peak concentration =1.94 ×10
+19 
+atoms/cm
+3 
+exhibited the best electrical performance, having a high E
+ff 
+(23.34%), high V
+oc 
+(702 mV), and high J
+sc 
+(41.01 mA/cm
+2
+), rather than 
+Fig. 6.(a) Scanning electron microscopy (SEM) image of emitter D3 sample (1.94 ×10
+19 
+atoms/cm
+3
+) surface after etching away the Ag–Al contact, the glass layer, the passivation layer, and all spikes. Remaining spikes imprints in red circles; (b

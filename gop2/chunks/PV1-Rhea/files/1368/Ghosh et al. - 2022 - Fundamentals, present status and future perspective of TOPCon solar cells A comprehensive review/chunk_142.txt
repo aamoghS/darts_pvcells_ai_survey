@@ -1,0 +1,10 @@
+pinhole dominant transportation process of charge carriers through thermally grown 1.5 nm SiO
+x 
+layer. In contrast, an annealing temperature of 700 to 750 
+◦
+C was found to be sufficient to realize pinhole dominant carrier transport through chemically grown 1.3 nm SiO
+x 
+layer. Besides, the dominant transport mechanism was found to be independent to the surface morphology of the base wafer; however, lower contact resistivity (
+
+c
+) was obtained for the textured wafers in comparison to the pl

@@ -1,0 +1,33 @@
+max 
+≈1.15 / 2.23 / 2.89 ×10
+19 
+atoms/cm
+3
+)], 2) emitter type D2 [d
+2 
+≈0.63 
+
+m (N
+max 
+=1.22 / 1.49 / 4 ×10
+19 
+atoms/cm
+3
+)], 3) emitter type D3 [d
+3 
+≈0.8 
+
+m (N
+max 
+≈1.94 / 2.63 / 3.14 ×10
+19 
+atoms/cm
+3
+)] (Fig. 2a/b/c). In the 
+Fig. 1.Schematic illustration of (a) the measurement of electrochemical capacitance voltage (ECV) sample with a symmetric double-sided B-doped layer on 0.8–1 	
+.
+cm n-type Cz-Si wafers; (b) the p
++
+np
++
+sample with a symmetric double-sided B-diffu

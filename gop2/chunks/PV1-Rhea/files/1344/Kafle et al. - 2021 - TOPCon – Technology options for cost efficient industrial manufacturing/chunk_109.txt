@@ -1,0 +1,5 @@
+o be econom
+-
+ically viable. For the best-case TOPCon concept, a cell efficiency gain >0.40%
+abs. 
+to bifacial p-PERC already allows cost-effective high-volume manufacturing of TOPCon solar cells. A further reduction in cell/module production costs & LCOE of TOPCon-concepts could be expected with the advances in screen-printing technology, by allowing deposition of thinner polysilicon layers that would not only reduce the related process costs but would also increase the bifacial performance of 

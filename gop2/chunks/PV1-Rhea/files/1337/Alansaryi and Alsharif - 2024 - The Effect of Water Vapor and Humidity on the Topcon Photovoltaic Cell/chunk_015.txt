@@ -1,0 +1,15 @@
+hermal stability of the thin layer must be taken 
+into account in order to enhance the quality of passivation of the tunnel oxide layer. The Topcon silicon solar cell 
+features screen
+-
+printed electrodes on both sides, 
+a tunnel
+-
+SiOx/n +
+-
+poly
+-
+Si/ SiNx:H structure at the back, and a 
+diffused front emitter made of boron. The currents at saturation Before printing the silver contacts, the Jo of this 
+structure is 1.3 fA/cm 2 on a polished surface and 3.7 fA/cm 2 on textured s
+ilicon surface

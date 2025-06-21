@@ -1,0 +1,7 @@
+ is evident from these data that the reduced R at short and long wavelengths and the resulting increase in EQE cause the optical improvement of the solar cells, as expected. It is important to note that the thickness of the SiN
+x 
+film in the DARC structure was optimized for a single but not double ARC, yielding the second dip in R at a quite long wavelength of ~1000 nm. Hence, room for further improvement of the R spectrum, the J
+sc
+, and thus the 
+ 
+exists by optimizing the DARC stack. 3.4.Da

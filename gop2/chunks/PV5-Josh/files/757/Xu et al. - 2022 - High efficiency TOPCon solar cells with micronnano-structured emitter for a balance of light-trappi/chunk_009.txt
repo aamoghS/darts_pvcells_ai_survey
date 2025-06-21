@@ -1,0 +1,12 @@
+e laboratory-grade attempts on n-type silicon solar cells based RIE technique. For example, Savin et al. [19] fabricated a nanopillar surface using RIE in IBC solar cells with a short-circuit density (J
+sc
+) of 42.2 mA/cm
+2 
+and a relative J
+sc 
+loss of less than 1% at the  of 60
+◦
+in comparison to the normal incidence ( =0
+◦
+). To inhibit emitter recombination of b-Si prepared by RIE, G. von Gastrow et al. [26] 
+*Corresponding author. **Corresponding author. E-mail addresses: liucui@ecust

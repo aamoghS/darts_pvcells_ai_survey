@@ -1,0 +1,8 @@
+precipitate from the melt to form a back surface field (BSF), as a result, the amount of the silicon pre
+-
+cipitation affected the thickness of BSF closely.
+The eutectic temperature of Al-Si is about 577℃, which means that a eutectic reaction happens between Al and Si at this temperature (l  
+ 
++). When the content of silicon involved in the reaction is between 1.65 % to 12.6 %, the primary phase 
+ 
+(Si-Al solid solution) precipitates slowly with the temperature decreases. When the tempera

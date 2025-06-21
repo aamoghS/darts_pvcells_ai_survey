@@ -1,0 +1,11 @@
+ration of the laminates. Moreover, the FF drops by ~4.5% absolute, to 75.5–75.9%, which is attributed to the series resistance contribution of the interconnections, raising the r
+s 
+of the laminates to ~1.5 cm
+2
+, which is significantly higher than the r
+s 
+of the solar cells before lamination. Investigating the impact of the per
+-
+formed tests on the I–V parameters of the laminates shows that, for the laminate subjected to the damp heat test, the 1% relative increase in P
+out 
+originates 

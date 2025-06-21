@@ -1,0 +1,6 @@
+ncedchargecarrier
+transportandrecombinationlosses.NatEnergy.2021;6(4):429-438.
+https://doi.org/10.1038/s41560-021-00805-w
+42.RömerU,PeibstR,OhrdesT,etal.Recombinationbehaviorandcontactresistanceofn+andp+poly-crystallineSi/mono-crystallineSijunctions.SolEnergyMaterSolCells.2014;131:85-91.
+https://doi.org/10.1016/j.solmat.2014.06.003
+43.BrendelR,DullweberT,GogolinR,etal.Recentprogressandoptionsforfuturecrystallinesiliconsolarcells.In:28thEuropeanPhotovoltaicSolarEnergyConferenceandExhibition;2013

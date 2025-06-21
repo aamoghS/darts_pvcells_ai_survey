@@ -1,0 +1,7 @@
+ear metallization by plain evaporated Al. Additionally, long-term stability of the solder-joints on the metallization scheme is investigated by thermal aging of solder-joints and thermal cycling of demo modules with PERC cells.  
+ 
+© 2015 The Authors. Published by Elsevier Ltd. 
+Peer review by the scientific conference committee of SiliconPV 2015 under responsibility of PSE AG. Keywords: PVD metallization, evaporated Al, solderability, diffusion barrier, TiN, long-term stability 
+1.
+ 
+Introduct

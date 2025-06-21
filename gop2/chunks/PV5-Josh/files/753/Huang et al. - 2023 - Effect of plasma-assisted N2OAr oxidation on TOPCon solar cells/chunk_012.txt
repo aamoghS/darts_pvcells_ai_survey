@@ -1,0 +1,5 @@
+nsider that a large excess of atomic O are critical for obtaining high-quality PECVD oxides and that particle for
+-
+mation can be effectively suppressed by using lower pressures or diluting the reactant inert gas (He or Ar) [37]. Substitution of He by Ar can increase the concentration of atomic O, in addition, mild Ar
++
+bombardment during deposition may lead to greater Si–O–Si bond angle relaxation in the as-deposited film [38]. Therefore, the quality and chemical composition of this ultra-t

@@ -1,0 +1,3 @@
+sapproximatelyafactorof2higher.
+Fig.6.Sheetresistancemeasurementofpþpoly-Si/interfaciallayers/c-SistructuresasafunctionofBBr3diffusiontemperature.Fourdifferentinterfaciallayers:n¼2.5SiNx/chemicalSiOx,n¼3.0SiNx/chemicalSiOx,chemicalSiOx,andthermalSiOx,werecoveredby36nma-Si.
+Fig.7.Contactresistivitymeasurementsofpþpoly-Si/interfaciallayers/c-Sistruc-turesasafunctionofBBr3diffusiontemperature.Therearefourdifferentinterfaciallayers,n¼2.5SiNx/chemicalSiOx,n¼3SiNx/chemicalSiOx,chemicalSiOx,andth

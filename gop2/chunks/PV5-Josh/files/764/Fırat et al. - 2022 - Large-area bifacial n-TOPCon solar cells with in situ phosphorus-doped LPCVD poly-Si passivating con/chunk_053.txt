@@ -1,0 +1,22 @@
+I–V parameters of the best solar cell. For the input parameters not listed in Table 1, the defaults of the Quokka settings file generator were used. The remaining simulations were organized in 8 steps to establish the roadmap by improving or optimizing several solar cell parameters. These were (i) the bulk lifetime (
+
+B
+), (ii) the bulk resistivity (
+
+B
+) and the contact resistivities (
+
+c,f
+, 
+
+c,r
+) (iii) the screen-printed finger widths (w
+f
+, w
+r
+) and pitches (p
+f
+, p
+r
+), (iv) t
+poly

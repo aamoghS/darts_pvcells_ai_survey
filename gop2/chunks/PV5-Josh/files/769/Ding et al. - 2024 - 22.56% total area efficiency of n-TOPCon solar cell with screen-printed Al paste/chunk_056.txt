@@ -1,0 +1,39 @@
+12862
+ 
+7
+ 
+J
+0
+=qWn
+2i
+/
+
+N
+d
+(5) 
+Which J
+0 
+represents J
+0,bulk
+, and q =1.6E-19, which is constant. W is the thickness of Si wafers, n
+i 
+=8.89E9cm
+3 
+represents the electron con
+-
+centration of intrinsic silicon in 300 K 
+[25]
+. 
+ 
+=3500 
+
+s is the minority carrier life time of Si wafers (measured by WCT-120), N
+d
+=1E16 repre
+-
+sents the P doping concentration in n-type Si wafers. So, the value of J
+0, bulk 
+is 5fA/cm
+2 
+can be obtained by formula 5. According to calculations, the J
+0,me

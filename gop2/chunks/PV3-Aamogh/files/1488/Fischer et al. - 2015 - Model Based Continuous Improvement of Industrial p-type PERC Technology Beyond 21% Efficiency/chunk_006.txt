@@ -1,0 +1,7 @@
+ors. Published by Elsevier Ltd. 
+Peer review by the scientific conference committee of SiliconPV 2015 under responsibility of PSE AG. Keywords: PERC; device simulations, continuous improvement 
+1.
+ 
+Roadmap In recent publications we have developed methods to simulate the efficiency distribution for a cell concept under different scenarios with a combined statistical and TCAD model [3]. Based on this approach we derive the efficiency 
+  
+* Corresponding author. Tel.: +49 3731 301 4592 ; fax: +49 

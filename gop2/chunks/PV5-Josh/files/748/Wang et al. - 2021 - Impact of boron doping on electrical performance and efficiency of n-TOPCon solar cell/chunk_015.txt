@@ -1,0 +1,25 @@
+ping to form selective boron-doped emitters. Lohmüller et al., 2018 Homogeneous emitter 614 2 ×10
+17 
+2 16.2 / iV
+oc 
+688 mV, iFF 77.2%, E
+ff 
+15.9% 89 cm
+2 
+Epitaxially grown boron-doped Si emitters with AlO
+x
+/SiN
+x
+:H passivation layer on n-type c-Si A remote-plasma ALD Al
+2
+O
+3 
+/PECVD SiN
+x 
+stack has a good passivation Yoon et al., 2017 Homogeneous emitter 135 1 ×10
+19 
+0.95 14 / iV
+oc 
+705 mV 156 mm ×156 mm n- PERT This new passivation method using the insitu grown SiO
+2 
+during a BBr

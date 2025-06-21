@@ -1,0 +1,36 @@
+cally grown SiO
+x 
+layers (NAOS-SiO
+x
+) with iV
+oc 
+=718 mV, 
+
+eff 
+=1.85 ms for an injection level of 1 ×10
+15 
+cm
+�3 
+and J
+0 
+=7.9 fA/cm
+2 
+and the worst passivation properties were realized for plasma assisted SiO
+x 
+layers (PANO-SiO
+x
+) with iV
+oc 
+=703 mV, 
+
+eff 
+=1.65 ms for an injection level of 1 ×10
+15 
+cm
+�3 
+and J
+0 
+=18.5 fA/cm
+2
+. Besides, the optimized annealing temperature for realizing the best passivation quality was found to be different for the differently grown SiO
+x

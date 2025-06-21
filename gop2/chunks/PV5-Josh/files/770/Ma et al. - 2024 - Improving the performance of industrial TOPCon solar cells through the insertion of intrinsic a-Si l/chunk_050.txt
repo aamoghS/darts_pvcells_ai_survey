@@ -1,0 +1,13 @@
+d the value of introducing the a-Si (i) film as a buffer layer, which effectively retarded the diffusion of phosphorus into the Si substrate, leading to enhanced passivation effects. This 
+Fig. 4.(a) Active phosphorus concentration of samples measured by ECV. (b) The symmetrical structure used to test iV
+OC
+, J
+0
+, and lifetime (I), the semi-manufactured structure designed to measure contact resistivity (
+
+c
+) by the TLM (II). (c) The tested iV
+OC
+, J
+0
+, and lifetime values were extracted from

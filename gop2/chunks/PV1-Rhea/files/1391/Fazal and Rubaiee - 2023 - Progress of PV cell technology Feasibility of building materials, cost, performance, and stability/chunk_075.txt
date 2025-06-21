@@ -1,0 +1,3 @@
+veness, and non-toxicity [104]. However, the prime challenge to be addressed during tran
+-
+sitioning these new technologies from laboratory research to outdoor applications is light and elevated temperature induced degradation (LETID). For maximizing energy yield, subcell current matching during operation is important. Considering change in temperature, radiation, and dust level during operation, TSCs will often operate in a current limiting subcell configuration. Despite these challenges, Babic

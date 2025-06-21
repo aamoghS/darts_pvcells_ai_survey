@@ -1,0 +1,7 @@
+als (in place of an n
++
+-poly-Si layer), such as Mg, to create effective electron-selective contacts on n-type IBC solar cells [120]. Due to band alignment with the low-WF metal, the SiO
+x 
+provides superior electron selectivity, and the use of a thin dielectric tunneling barrier at the metal-semiconductor interface has been experimentally demonstrated to reduce the 	
+B 
+effect at the interface, and hence the contact resistance. However, besides alleviating FLP, the implementation of a tunnel ba

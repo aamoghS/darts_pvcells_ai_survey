@@ -1,0 +1,3 @@
+ be 39.51 mA cm  − 
+  2 , in good agreement with the measured  J  sc  value. The IQE spectra demonstrate that the efﬁ ciency improve-ment is achieved by reducing the carrier recombination at the 
+rear side due to the presence of a TiO 2  ﬁ lm or SiO 2 /TiO 2  stack.  A dramatic efﬁ ciency improvement in silicon solar cells has been demonstrated by the inclusion of a full-area TiO 2 -based contact. The efﬁ ciency improvement is mainly attributed to a reduction of surface recombination (

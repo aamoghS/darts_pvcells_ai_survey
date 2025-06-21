@@ -1,0 +1,5 @@
+rmle, S.W. Glunz, Tunnel oxide passivating electron contacts as full-area rear emitter of high- efficiency p-type silicon solar cells, Prog. Photovolt. Res. Appl. 26 (8) (2017) 579–586, https://doi.org/10.1002/pip.2960. [32]T. Gao, Q. Yang, X. Guo, Y. Huang, Z. Zhang, Z. Wang, M. Liao, C. Shou, Y. Zeng, B. Yan, G. Hou, X. Zhang, Y. Zhao, J. Ye, An industrially viable TOPCon structure with both ultra-thin SiO
+x 
+and n
++
+- poly-Si processed by PECVD for p-type c-Si solar cells, Sol. Energy Mater

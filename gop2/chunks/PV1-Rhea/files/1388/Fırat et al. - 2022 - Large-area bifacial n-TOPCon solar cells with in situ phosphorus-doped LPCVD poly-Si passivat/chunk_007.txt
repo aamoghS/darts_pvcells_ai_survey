@@ -1,0 +1,2 @@
+ cells incorporating the in situ P-doped LPCVD poly-Si films.  Keywords – passivating contacts, TOPCon, solar cells, polysilicon, LPCVD, in situ phosphorus doping 
+1 Introduction In recent years, n-type Tunnel Oxide Passivated Contact (n-TOPCon) solar cells have found increased interest and market share in the field of photovoltaics (PV) [1]. The appeal of n-TOPCon solar cells is in the incorporation of rear passivating contacts consisting of n-type polycrystalline silicon (poly-Si) and interf

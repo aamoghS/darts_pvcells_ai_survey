@@ -1,0 +1,4 @@
+l 2020; Accepted 28 April 2020   
+layer, bulk lifetime, and contact parameters of fully screen-printed high-efficiency TOPCon cells. This paper reports on the fabrication as well as detailed analysis of such high efficiency commercial size bifacial cells with screen-printed metallization on both sides. In this paper, industrial size high efficiency fully screen-printed bifacial n-type solar cells were fabricated with ion-implanted homoge
+-
+neous front boron (B) emitter and rear n-TOPCon. A co-fi

@@ -1,0 +1,12 @@
+ill factor (FF) of the n-TOPCon solar cells with different t
+poly
+, together with the FF without the impact of the series resistance (FF
+n
+), as well as the FF without the impact of both the series resistance and the non-unity ideality factor (FF
+0
+). b) Optical microscopy image of a solar cell fabricated during the t
+poly 
+screening experiment, showing the quite regularly and closely spaced interruptions in screen-printed fingers. 
+Fig. 5.a) Recombination current density in passivated (J
+0,p
+) 

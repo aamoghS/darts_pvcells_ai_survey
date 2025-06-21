@@ -1,0 +1,23 @@
+(Fig. 9c&e). 
+Table 3 Five group experiments of B-doped profiles and I-V parameters of TOPCon cells (Cell area of 251.99 cm
+2
+).  
+Processes N
+max 
+Junction depth  No. V
+oc 
+J
+sc 
+FF R
+ser 
+E
+ff 
+(atoms/cm
+3
+) (
+
+m) (V) (mA /cm
+2
+) (%) (mohm .cm
+2
+) (%) D1 1.15E +19 0.5 Median 5  0.694 41.12  80.02 4.11 22.85 Ave  0.694 41.1  80.06 4.09 22.84 2.23E +19 Median 5  0.695 41.06  80.36 4.2 22.92 Ave  0.695 41.05  80.36 4.17 22.91 2.89E +19 Median 4  0.692 40.99  80.71 3.89 22.89 Ave  0.691 41  80.66

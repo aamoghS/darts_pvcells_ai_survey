@@ -1,0 +1,3 @@
+al TOPCon solar cells with micron-pyramid texture were set as one reference group, and b-Si TOPCon solar cells with NPP textures at different P
+RF 
+were set as three test groups. The manufacturing process flow of reference and test TOPCon solar cells is outlined in Fig. 1c. The initial quantity of samples per group was 40 silicon wafers. The silicon wafers of test groups have undergone a baseline process of conventional TOPCon solar cells as well as an additional RIE step and a pore-widening pro

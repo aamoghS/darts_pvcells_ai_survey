@@ -1,0 +1,21 @@
+1.5 nm on the front and back sides of the cleaned Si wafer was conducted in a furnace. The SiO
+2 
+layer was grown by thermal oxidation of the cleaned silicon wafer at a tempera
+-
+ture of 600 
+◦
+C with an O
+2 
+flow rate of 10 L/min for 30 min. Finally, the samples were detached from the thermal furnace for the deposition of nc-SiO
+x
+. The deposition was performed using PECVD in the presence of SiH
+4
+, H
+2
+, CO
+2, 
+and PH
+3 
+gases at a temperature of approximately 110 
+◦
+C, and thicknesses of 

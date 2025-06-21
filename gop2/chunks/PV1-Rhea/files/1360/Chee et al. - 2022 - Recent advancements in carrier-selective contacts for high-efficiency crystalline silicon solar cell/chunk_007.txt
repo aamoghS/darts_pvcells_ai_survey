@@ -1,0 +1,13 @@
+orphous silicon; a-Si:Hn, N-type hydrogenated amorphous silicon; PERC, Passivating emitter rear contact; PERT, Passivated emitter rear totally diffused; PERPoly, Passivated emitter and rear polysilicon; BSF, Back surface field; CSCs, Carrier selective contacts; HIT, Heterojunction with intrinsic thin-layer; SiO
+x
+, Silicon oxide; a-SiO
+x
+, Amorphous silicon oxide; a-SiO
+x
+In, Indium doped amorphous silicon oxide; SiN
+x
+, Silicon nitride; TiO
+x
+, Titanium oxide; MoO
+x
+, Molybdenum oxide; MO, Meta

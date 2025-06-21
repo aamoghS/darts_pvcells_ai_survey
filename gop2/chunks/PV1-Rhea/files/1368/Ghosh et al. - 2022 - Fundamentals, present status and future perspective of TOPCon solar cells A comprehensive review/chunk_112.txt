@@ -1,0 +1,11 @@
+The study revealed that post deposition anneal
+-
+ing of the stacked layer at 300
+◦
+C for 30 min might provide notable surface passivation with an effective minority carrier lifetime of 0.5 ms. Probably diffusion of H atoms from a-Si:H layer into SiO
+x
+:H layer during low temperature thermal annealing facilitated to passivate the unfin
+-
+ished bonds present at the surface of c-Si wafer. As expected, improve
+-
+ment in the crystallization of doped a-Si:H layer was also observed when the samples w

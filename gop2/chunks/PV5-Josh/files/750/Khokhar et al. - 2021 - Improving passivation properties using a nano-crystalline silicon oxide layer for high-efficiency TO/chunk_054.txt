@@ -1,0 +1,31 @@
+ealed at 950 
+◦
+C was more prominent compared to samples annealed at 850 
+◦
+C and 900 
+◦
+C. Passivated contact with FGA samples ensued in diminished values (1.1 fAcm
+�2
+) at 50 nm, showing limited surface recombination as well as improved passivation compared to annealing at 850 
+◦
+C (8.17 fAcm
+�2
+) and 900 
+◦
+C (1.6 fAcm
+�2
+). For SiO
+x
+/nc-SiO
+x 
+passivated contact FGA, an improvement was seen at 400 
+◦
+C, yielding the lowest J
+o 
+and 
+ 
+values. As J
+o 
+and 
+ 
+values decrea

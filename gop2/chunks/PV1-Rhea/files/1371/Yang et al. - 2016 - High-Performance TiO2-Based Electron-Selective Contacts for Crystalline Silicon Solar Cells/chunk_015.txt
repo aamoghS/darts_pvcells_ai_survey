@@ -1,0 +1,5 @@
+ve contact is inves-tigated by considering both the surface passivation quality and 
+the contact resistivity on silicon surfaces. ALD is quite attractive 
+for thin metal oxide layer deposition, providing excellent con-
+trol over thickness and the ability to deposit pinhole free ﬁ lms. The results demonstrate that ultrathin TiO 2  ﬁ lms provide not only excellent passivation on silicon surfaces, but also allow a 
+relatively low contact resistivity at the Si/TiO 2  heterojunction. A remarkably

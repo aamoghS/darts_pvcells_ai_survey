@@ -1,0 +1,14 @@
+roperties, so a built-in field with the direction from BSF to n
++
+-poly-Si formed by it, which led to most major carriers recombined. As a consequence, the decrease of J
+0,metal 
+promotes the increase in V
+oc
+, and in this study, the champion V
+oc 
+was 663.6 mV and the efficiency was 22.56 %. 
+Fig. 11
+shows the IV current of the champion solar cell.
+4.Failure analysis and outlook
+Table 4
+compares the IV test results of TOPCon cells which printed Ag paste and Al paste on the rear side respectivel

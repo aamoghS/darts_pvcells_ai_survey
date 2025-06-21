@@ -1,0 +1,3 @@
+active index of 1.99 at a wavelength of 600 nm. Furthermore, by leveraging reflectivity data from 1000 to 1200 nm, the diffuse reflection emanating from the rear surface was effectively characterized using a Phong factor of 50 and an associated broadband reflectivity of 96 %, which is consistent with reference [23]. Electrical simulations were systematically conducted to replicate the EQE and LJV curves of the measured solar cell, utilizing the photo
+-
+generation profile derived from the earlier

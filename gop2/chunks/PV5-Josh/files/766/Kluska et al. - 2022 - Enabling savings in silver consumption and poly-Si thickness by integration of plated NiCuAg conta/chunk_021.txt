@@ -1,0 +1,14 @@
+                                                                                    
+3.2.V
+oc 
+characteristics and contact recombination Fig. 2 shows the V
+oc 
+distribution of the solar cells for each metalli
+-
+zation approach related to the poly-Si thickness variation for the TOP
+-
+Con rear side. The V
+oc 
+advantage of the plated solar cells compared to the screen printed ones is in a range of 5–10 mV. Grübel et al. [11] demonstrated that the main limitation in V
+oc 
+of plated TOPCon solar c

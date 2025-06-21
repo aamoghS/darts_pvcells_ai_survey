@@ -1,0 +1,21 @@
+f the metal contact area than that of the non-metal contact area. On the other hand, we need to consider the contact between samples with different morphologies and the silver paste. Fig. 8 shows the con
+-
+tact resistivity of samples with different surface topography. The two structures described in Fig. 3 were tested respectively, and the test re
+-
+sults were 
+
+c, B 
+and 
+
+c, P
+. It can be seen from Fig. 6(1) that, 
+
+c, B
+（tex
+-
+turing sample ）<
+
+c, B
+（acid polishing sample ）
+
+c, 

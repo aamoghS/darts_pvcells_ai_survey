@@ -1,0 +1,17 @@
+igure. The corre
+-
+sponding results of passivation and contact properties were displayed in Fig. 4(c) and (d), respectively. As seen from Fig. 4(c), when the thick
+-
+nesses of a-Si (i) increased from 0 nm to 20 nm, the corresponding iV
+OC 
+increased from 726.1 mV to 736.6 mV, the lifetime increased from 1028 
+
+s to 1729 
+
+s, and J
+0 
+decreased from 11.1 fA/cm
+2 
+to 4.3 fA/cm
+2
+, i.e., the passivation performance of the samples increased in turn. This could be attributed to the few phosphorus a

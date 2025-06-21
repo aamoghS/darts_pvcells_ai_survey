@@ -1,0 +1,3 @@
+HIT, and TOPCon cells of 24.5%, 27.5%, and 28.7%, respectively [39]. Among them, the n-type TOPCon cell is widely considered to be one of the most promising next-generation high-efficiency crystalline silicon cell technologies after the PERC cell and has been extensively studied in recent years[8,9,10,11,29,230,31,35,45]. The efficiency of small-area double-sided metal contact N-type TOPCON solar cells pre
+-
+pared in the laboratory is as high as 25.8% [36]. The POLO-IBC with an interdigitated ba

@@ -1,0 +1,4 @@
+d 14 February 2024; Received in revised form 27 March 2024; Accepted 29 March 2024   
+demonstrated the heightened sensitivity of TOPCon front-side contacts to accelerated damp-heat testing, particularly when exposed to sodium chloride (NaCl), surpassing the susceptibility of PERC and silicon het
+-
+erojunction (SHJ) solar cells [21]. Further exploration has implicated the relatively high Al content of the front contact as a critical factor contributing to the instability observed in TOPCon solar 

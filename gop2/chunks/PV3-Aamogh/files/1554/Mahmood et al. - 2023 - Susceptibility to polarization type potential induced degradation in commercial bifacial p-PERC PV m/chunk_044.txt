@@ -1,0 +1,5 @@
+RSandRSHmeasuredusinglowirradianceIVshowa0.8%increaseinRSanda15.5%decreaseinRSHforMA-2.MB-2showsnochangeinRSanda14%reductioninRSH.ForMC-2,RSincreasesby9.2%,andRSHdecreasesby20.9.MD-2hasnochangeinRSanda20.6%declineinRSH.AverageLCforMA-2,MB-2,MC-2,andMD-2are4.77102,1.37101,6.7510–3,and7.60102uA,respectively.WeattributethedegradationinRound-2toPID-paswell.AlthoughsignificantdegradationinISCisnotobservedbutusingdatapresentedinFigures
+13
+and
+14
+forthetraditionalglasswhiteback-sheet(G-WBS)mod

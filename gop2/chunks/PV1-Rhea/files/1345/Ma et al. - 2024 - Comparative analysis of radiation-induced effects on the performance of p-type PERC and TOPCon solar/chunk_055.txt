@@ -1,0 +1,17 @@
+0
+19 
+cm
+�3
+, accompanied by a junction depth of 150 nm. The rear BSF layer main
+-
+tains a constant doping level of 5 ×10
+18 
+cm
+�3
+, with a junction depth extending to 550 nm. The substrate, doped with boron, exhibited a concentration of 10
+15 
+cm
+�3
+. A substrate lifetime of 30 
+
+s was stipulated as reference [22]. The dielectric passivated front side was modelled incorporating a SRV of 10,000 cm/s, complemented by a zero fixed charge density. The solar cell in question exhibits except

@@ -1,0 +1,3 @@
+lower minority carrier lifetime inside the bulk. 11.Hybrid/heterojunction silicon solar cells with TOPCon structure In 2019, Park et al. reported about the development of hybrid silicon solar cells featuring thin amorphous silicon layer as passivating hole contacts at the front and TOPCon structure as the passivating electron contacts at the back side of the cells [142]. The best cell featuring 
+
+c-SiO:H layer as interfacial layer in between n-type base and p-a-Si:H front emitter demonstrated a

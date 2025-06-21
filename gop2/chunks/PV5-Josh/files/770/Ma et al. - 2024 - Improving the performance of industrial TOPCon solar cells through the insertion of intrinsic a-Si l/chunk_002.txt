@@ -1,0 +1,5 @@
+ Information Science and Technology, Nantong University, Jiangsu, 226019, People’s Republic of China   
+ARTICLE INFO  
+Keywords: Passivating contact Polycrystalline silicon TOPCon Intrinsic amorphous silicon 
+ABSTRACT  
+Passivating contact solar cells have gradually become the mainstream cell technology due to their excellent performance, and further improving the conversion efficiency has become a focus of subsequent research. Typically, achieving excellent field-effect passivation and low co

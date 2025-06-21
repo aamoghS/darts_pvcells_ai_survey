@@ -1,0 +1,9 @@
+.Cell-level accelerated DH85 test The DH85 testing was conducted over a duration of 40 h, and the variations in cell performance are shown in Fig. 3. Throughout the entire DH85 testing period, the control samples showed consistently stable performance. Conversely, consistent with our prior observations [21], 
+Fig. 3.Relative changes in PCE, J
+sc
+, V
+oc
+, FF and R
+s 
+as a function of DH85 time for JSIM and baseline TOPCon samples.  
+Fig. 4.PL images of TOPCon solar cells from each experimental gr

@@ -1,0 +1,3 @@
+er and depth of B atom diffusion sub
+-
+stantially increase. This behavior arises primarily due to the atomic characteristics of B, which has an atomic radius of 0.082 nm, while the Si atom possesses a radius of 0.118 nm, resulting in a mismatch ratio of 0.75. Consequently, lattice tension is generated during the diffusion process [27], leading to a slow diffusion rate and low solid solubility of B in Si. Hence, higher temperatures and longer durations are needed to facilitate effective diffusion

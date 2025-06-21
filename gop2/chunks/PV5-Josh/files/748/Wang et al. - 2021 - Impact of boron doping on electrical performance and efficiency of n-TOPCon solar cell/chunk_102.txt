@@ -1,0 +1,9 @@
+ concentration. A low peak concentration and deep junction of B-doped profiles are required for getting a high V
+oc
+. The J
+sc 
+and the peak concentration/junction depth of B-doped profile are negatively correlated. Both a low peak concentration and shallow junction of B-doped profiles are required for getting a high J
+sc
+, which can improve the blue response of the IQE. However, we observed a positive linear relation between FF and the peak concen
+-
+tration/depth junction; the change in FF was 

@@ -1,0 +1,7 @@
+, and GaAs (Fig. 4). Thin films absorb solar radiation at sufficient levels in the form of photons and converts them into elec
+-
+tricity. The light-absorbing thickness in first-generation technology is 200–300 
+
+m, while it is reduced to 10 
+
+m in second-generation thin film technology [17]. Compared with first-generation technology, they are usually made of fewer materials with a simple manufacturing process, but they provide a slightly lower efficiency [68]. The largest advantage is that t

@@ -1,0 +1,9 @@
+ approximately 108.69 / and 83.12 /, respectively. The junction depths of the p
++
+/n and p
+++
+/n junctions are 0.53 
+
+m and 0.82 
+
+m, respectively. These results highlight that the use of B-doped Si paste, coupled with an appropriate thermal diffusion process, can significantly enhance the performance of B doping. The temperature and duration of B diffusion have a significant effect on the fill factor (FF) of the cell. Precisely controlling the temperature and duration of B diffusion can e

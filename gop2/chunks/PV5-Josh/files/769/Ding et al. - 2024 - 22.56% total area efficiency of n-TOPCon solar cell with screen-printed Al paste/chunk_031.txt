@@ -1,0 +1,10 @@
+e cure is shown in 
+Fig. 3
+, the peak temperature was 760℃, which is higher than the melting point of Al (660℃). In order to reveal the mechanism of Al-Si contact, we analyzed the Al-Si contact interface on the basis of the Al- Si binary phase diagram (
+Fig. S1
+) 
+[21]
+.
+The formation of ohmic contact is closely related to the Al-Si alloying process 
+[22]
+. The process can be divided into three stages. In the first stage, Al particles in the paste melt slowly and the silicon from paste or n 

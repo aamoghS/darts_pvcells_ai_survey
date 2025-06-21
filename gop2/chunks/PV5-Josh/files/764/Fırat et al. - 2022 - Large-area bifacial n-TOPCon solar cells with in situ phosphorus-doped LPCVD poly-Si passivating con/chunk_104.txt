@@ -1,0 +1,8 @@
+ on V
+oc
+. The FF does not show a significant change either, only a 0.2% drop, and the r
+s 
+does not change, even though the extra SiO
+x 
+film to realize the DARC was deposited onto the Ag fingers. We speculate that the wires of the I–V measurement setup with high mechanical 
+Fig. 7.a) Schematic of the symmetrically passivated monitors investigated by photoluminescence (PL) imaging. The metallization fraction (MF) in each square on the monitors is indicated. b,c) PL images of the monitors with

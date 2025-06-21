@@ -1,0 +1,9 @@
+ed area ( 
+THS
+ ) of the module under hotspot 
+(ArHS
+ ) while the entire area of the PV cell is denoted by 
+Arcell
+ . ce time t is the instant at which the PV module undergoes the shading condition, and the 
+tHS
+ is the generic time instant (reverse bias state), where the PV cell undergoes hotspot conditions. Se thermal model can be used to determine the thermal behaviour of a shaded PV cell. FigureH4 represents the equivalent thermal model to estimate the time dependence of the temperature 

@@ -1,0 +1,10 @@
+l melt reacted with n
++
+-poly-Si and the TOPCon structure would be destroyed.
+To protect the passivation structure, different weight percentages of silicon were added into the Al paste, so the Al melt reacted with the silicon from the paste first, and less from n
++
+-poly-Si diffused into the melt. The microscopic morphology and schematic of the cross-section at the Al-Si contact interface as shown in 
+Figs. 7
+and 
+8
+(e–f), when the weight percentage of silicon in Al paste lower than 18 %, ther

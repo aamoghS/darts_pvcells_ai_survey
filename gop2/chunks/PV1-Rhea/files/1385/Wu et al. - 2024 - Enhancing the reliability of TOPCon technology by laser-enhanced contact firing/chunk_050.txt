@@ -1,0 +1,3 @@
+s frit failures were evident within the contact. Unlike the baseline samples, NaCl did not induce any re
+-
+action within the JSIM metal contacts. Consequently, JSIM TOPCon solar cells show an increased resistance to NaCl corrosion under DH85 conditions and experienced less PCE loss compared to baseline TOPCon solar cells during the testing period. Our results are consistent with the hypothesis that the Al content in the metallization paste is the main cause for its low corrosion resistance, and 

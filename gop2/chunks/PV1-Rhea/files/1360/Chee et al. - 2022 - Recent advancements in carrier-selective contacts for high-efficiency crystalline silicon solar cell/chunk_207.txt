@@ -1,0 +1,16 @@
+ 
+Fig. 10.ECV-measured phosphorus doping profiles below the surface, with various (a) poly-Si thicknesses ranging from 120 to 120nm, (b) diffusion temperatures ranging from 800
+◦
+to 865
+◦
+C, and (c) tunnel SiO
+x 
+thicknesses ranging from 1.19 to 1.82nm. (d) The Auger-corrected inverse effective lifetime versus minority carrier concentration curves evaluated under high injection conditions. The corresponding J
+o 
+results, where present, are based on the symmetric SiN
+x
+/n
++
+-poly-Si/SiO
+2
+/n-

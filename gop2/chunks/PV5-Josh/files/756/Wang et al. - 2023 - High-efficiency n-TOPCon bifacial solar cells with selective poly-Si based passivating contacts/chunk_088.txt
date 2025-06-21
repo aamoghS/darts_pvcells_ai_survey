@@ -1,0 +1,13 @@
+on performance. 3.2.2.Cell performance The results of the iV
+oc 
+values and lifetime of the precursor structure are shown in Fig. S5. The Poly-SE solar cells did not show a good passivation performance, in which iV
+oc 
+decreased by only 1 mV compared with BKM, and the lifetime decreased by 17 
+
+s. Table 5 lists the I–V parameters of the BKM and Poly-SE solar cells. Poly-SE shows a higher J
+sc 
+of approximately 0.28 mA/cm
+2 
+compared with BKM, which is attributed to the thin thickness of n
++
+-

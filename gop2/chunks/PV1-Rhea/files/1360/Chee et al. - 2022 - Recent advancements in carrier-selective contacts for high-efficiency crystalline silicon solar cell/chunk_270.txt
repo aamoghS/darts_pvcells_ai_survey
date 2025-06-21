@@ -1,0 +1,3 @@
+1600529, https://doi.org/10.1002/aelm.201600529. [103]T. Mueller, S. Schwertheim, M. Scherff, W.R. Fahrner, High quality passivation for heterojunction solar cells by hydrogenated amorphous silicon suboxide films, Appl. Phys. Lett. 92 (3) (2008) 33504, https://doi.org/10.1063/1.2837192. [104]L. Mazzarella, S. Kirner, B. Stannowski, L. Korte, B. Rech, R. Schlatmann, p-type microcrystalline silicon oxide emitter for silicon heterojunction solar cells allowing current densities above 40mA/cm
+2
+, Ap

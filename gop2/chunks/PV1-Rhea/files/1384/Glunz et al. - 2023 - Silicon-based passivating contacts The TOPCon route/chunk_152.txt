@@ -1,0 +1,6 @@
+O.1.2
+69.YanD,CuevasA,PhangSP,WanY,MacdonaldD.23%efficientp-typecrystallinesiliconsolarcellswithhole-selectivepassivatingcontactsbasedonphysicalvapordepositionofdopedsiliconfilms.ApplPhysLett.2018;113(6):61603.
+https://doi.org/10.1063/1.5037610
+70.GrubelB,CimiottiG,SchmigaC,etal.DirectcontactelectroplatingsequencewithoutinitialseedlayerforbifacialTOPConsolarcellmetallization.IEEEJPhotovolt.2021;11(3):584-590.
+https://doi.org/10.1109/JPHOTOV.2021.3051636
+71.SteinhauserB,PolzinJ-I,FeldmannF,Hermle

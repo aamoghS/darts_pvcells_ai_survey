@@ -1,0 +1,9 @@
+ structure. The laminates were investigated both by damp heat and thermal cycling tests. For the damp heat test, a laminate was exposed to 85 
+◦
+C and a relative humidity of 85% for 1000 h. Another laminate was sub
+-
+jected to the thermal cycling test, which took the sample repeatedly between �40 
+◦
+C and 85 
+◦
+C for 400 cycles with a cycle duration of 3 h and a dwell time of 10 min at both temperatures. No current was applied to the laminates during thermal cycling. The laminates were c

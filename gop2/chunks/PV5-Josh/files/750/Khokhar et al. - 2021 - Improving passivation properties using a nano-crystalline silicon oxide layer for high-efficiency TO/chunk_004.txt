@@ -1,0 +1,17 @@
+n characteristics were improved by varying the annealing temperature and thickness of the nc-SiO
+x 
+layer. The 50 nm thick nc-SiO
+x 
+layer was capable of yielding a high implied open-circuit voltage (i-V
+oc
+) of 739 mV and low contact resistivity (
+
+) of 14.2 (m/cm
+2
+) in addition to a low depleted recombination current density (J
+o
+) of 1.1 fA/cm
+2 
+with a post-deposition annealing temperature up to 950 
+◦
+C. Improved passivation characteristics are the result of a more prominent annealing 

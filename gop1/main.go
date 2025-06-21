@@ -1,6 +1,5 @@
 package main
 
-// custom package for zotero pdf downloader on local machine
 import (
 	"encoding/json"
 	"fmt"
@@ -65,7 +64,7 @@ func getSubcollections(groupID, parentKey, apiKey string) []Collection {
 	return subs
 }
 
-func downloadPDF(groupID, apiKey, itemKey, fileName string) error {
+func downloadPDF(groupID, apiKey, itemKey, filePath string) error {
 	url := fmt.Sprintf("https://api.zotero.org/groups/%s/items/%s/file", groupID, itemKey)
 	fmt.Println("Downloading:", url)
 
@@ -73,7 +72,15 @@ func downloadPDF(groupID, apiKey, itemKey, fileName string) error {
 	req.Header.Set("Zotero-API-Key", apiKey)
 	req.Header.Set("Accept", "application/pdf")
 
-	resp, err := http.DefaultClient.Do(req)
+	client := &http.Client{
+		CheckRedirect: func(req *http.Request, via []*http.Request) error {
+			req.Header.Set("Zotero-API-Key", apiKey)
+			req.Header.Set("Accept", "application/pdf")
+			return nil
+		},
+	}
+
+	resp, err := client.Do(req)
 	if err != nil {
 		return err
 	}
@@ -82,15 +89,6 @@ func downloadPDF(groupID, apiKey, itemKey, fileName string) error {
 	if resp.StatusCode != 200 {
 		return fmt.Errorf("failed with status %d", resp.StatusCode)
 	}
-
-	folder := "pdfs"
-	if err := os.MkdirAll(folder, 0755); err != nil {
-		return err
-	}
-
-	cleanName := strings.ReplaceAll(fileName, "/", "_")
-	cleanName = filepath.Clean(cleanName)
-	filePath := filepath.Join(folder, cleanName)
 
 	f, err := os.Create(filePath)
 	if err != nil {
@@ -102,7 +100,36 @@ func downloadPDF(groupID, apiKey, itemKey, fileName string) error {
 	return err
 }
 
-func processItemsInCollection(groupID, collectionKey, apiKey string, pdfTitles *[]string) {
+func fetchBibLaTeX(groupID, itemKey, apiKey string) (string, error) {
+	url := fmt.Sprintf("https://api.zotero.org/groups/%s/items/%s?format=biblatex", groupID, itemKey)
+	req, _ := http.NewRequest("GET", url, nil)
+	req.Header.Set("Zotero-API-Key", apiKey)
+
+	resp, err := http.DefaultClient.Do(req)
+	if err != nil {
+		return "", err
+	}
+	defer resp.Body.Close()
+
+	if resp.StatusCode != 200 {
+		return "", fmt.Errorf("failed to fetch BibLaTeX (status: %d)", resp.StatusCode)
+	}
+
+	body, err := io.ReadAll(resp.Body)
+	if err != nil {
+		return "", err
+	}
+
+	return string(body), nil
+}
+
+func sanitizeFileName(name string) string {
+	name = strings.ReplaceAll(name, "/", "_")
+	name = strings.ReplaceAll(name, " ", "_")
+	return filepath.Clean(name)
+}
+
+func processItemsInCollection(groupID, collectionKey, apiKey, collectionName string) {
 	itemsURL := fmt.Sprintf("https://api.zotero.org/groups/%s/collections/%s/items?limit=100", groupID, collectionKey)
 	var items []struct {
 		Data struct {
@@ -116,14 +143,18 @@ func processItemsInCollection(groupID, collectionKey, apiKey string, pdfTitles *
 		return
 	}
 
+	bibEntries := ""
+	folder := filepath.Join("exports", sanitizeFileName(collectionName))
+	os.MkdirAll(folder, 0755)
+
 	for _, item := range items {
+		pdfDownloaded := false
+
 		if item.Data.ItemType == "attachment" && strings.HasSuffix(strings.ToLower(item.Data.Title), ".pdf") {
-			fmt.Printf("  pdf: %s\n", item.Data.Title)
-			err := downloadPDF(groupID, apiKey, item.Data.Key, item.Data.Title)
-			if err != nil {
-				fmt.Println("    error:", err)
-			} else {
-				*pdfTitles = append(*pdfTitles, item.Data.Title)
+			filePath := filepath.Join(folder, item.Data.Title)
+			err := downloadPDF(groupID, apiKey, item.Data.Key, filePath)
+			if err == nil {
+				pdfDownloaded = true
 			}
 			continue
 		}
@@ -131,32 +162,31 @@ func processItemsInCollection(groupID, collectionKey, apiKey string, pdfTitles *
 		childrenURL := fmt.Sprintf("https://api.zotero.org/groups/%s/items/%s/children", groupID, item.Data.Key)
 		var children []Attachment
 		if err := fetchJSON(childrenURL, apiKey, &children); err != nil {
-			fmt.Println("  erro", err)
+			fmt.Println("  error fetching children:", err)
 			continue
 		}
 
 		for _, att := range children {
 			if att.Data.ContentType == "application/pdf" {
-				isFulltext := false
-				lowerTitle := strings.ToLower(att.Data.Title)
-				if strings.Contains(lowerTitle, "fulltext") || strings.Contains(lowerTitle, "full text") {
-					isFulltext = true
-				}
-
-				if isFulltext {
-					fmt.Printf("FPDF: %s → %s\n", item.Data.Title, att.Data.Title)
-				} else {
-					fmt.Printf(" pdf: %s → %s\n", item.Data.Title, att.Data.Title)
-				}
-
-				err := downloadPDF(groupID, apiKey, att.Key, att.Data.Title)
-				if err != nil {
-					fmt.Println("  error downloading PDF:", err)
-				} else {
-					*pdfTitles = append(*pdfTitles, att.Data.Title)
+				filePath := filepath.Join(folder, att.Data.Title)
+				err := downloadPDF(groupID, apiKey, att.Key, filePath)
+				if err == nil {
+					pdfDownloaded = true
 				}
 			}
 		}
+
+		if pdfDownloaded {
+			entry, err := fetchBibLaTeX(groupID, item.Data.Key, apiKey)
+			if err == nil {
+				bibEntries += entry + "\n\n"
+			}
+		}
+	}
+
+	if bibEntries != "" {
+		bibFile := filepath.Join(folder, "collection.bib")
+		os.WriteFile(bibFile, []byte(bibEntries), 0644)
 	}
 }
 
@@ -193,17 +223,15 @@ func main() {
 	}
 
 	level1Subs := getSubcollections(groupID, datasetKey, apiKey)
-	pdfTitles := []string{}
 
 	for _, sub1 := range level1Subs {
 		fmt.Printf("\nUser: %s\n", sub1.Name)
-		processItemsInCollection(groupID, sub1.Key, apiKey, &pdfTitles)
+		processItemsInCollection(groupID, sub1.Key, apiKey, sub1.Name)
 
 		level2Subs := getSubcollections(groupID, sub1.Key, apiKey)
 		for _, sub2 := range level2Subs {
-			fmt.Printf("inner %s\n", sub2.Name)
-			processItemsInCollection(groupID, sub2.Key, apiKey, &pdfTitles)
+			fmt.Printf("  inner: %s\n", sub2.Name)
+			processItemsInCollection(groupID, sub2.Key, apiKey, sub2.Name)
 		}
 	}
-
 }

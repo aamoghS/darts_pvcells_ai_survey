@@ -22,6 +22,7 @@ const (
 type Task struct {
 	Path string
 	Name string
+	Rel  string // Relative path to maintain folder structure
 }
 
 type Result struct {
@@ -34,39 +35,50 @@ func main() {
 		panic(err)
 	}
 
-	files, err := os.ReadDir(inputDir)
-	if err != nil {
-		panic(err)
-	}
-
 	maxWorkers := runtime.NumCPU()
 	taskCh := make(chan Task, maxWorkers*2)
 	resultCh := make(chan Result, maxWorkers*2)
 	var wg sync.WaitGroup
 
+	// Start worker goroutines
 	for i := 0; i < maxWorkers; i++ {
 		wg.Add(1)
 		go worker(taskCh, resultCh, &wg)
 	}
 
+	// Walk the directory recursively
 	go func() {
-		for _, f := range files {
-			lowerName := strings.ToLower(f.Name())
-			if strings.HasSuffix(lowerName, ".pdf") || strings.HasSuffix(lowerName, ".txt") {
+		err := filepath.WalkDir(inputDir, func(path string, d os.DirEntry, err error) error {
+			if err != nil {
+				return err
+			}
+			if d.IsDir() {
+				return nil
+			}
+			ext := strings.ToLower(filepath.Ext(d.Name()))
+			if ext == ".pdf" || ext == ".txt" {
+				relPath, _ := filepath.Rel(inputDir, path)
 				taskCh <- Task{
-					Path: filepath.Join(inputDir, f.Name()),
-					Name: f.Name(),
+					Path: path,
+					Name: d.Name(),
+					Rel:  relPath, // used for output subdirectory structure
 				}
 			}
+			return nil
+		})
+		if err != nil {
+			fmt.Printf("error walking input directory: %v\n", err)
 		}
 		close(taskCh)
 	}()
 
+	// Close results channel when all workers are done
 	go func() {
 		wg.Wait()
 		close(resultCh)
 	}()
 
+	// Collect results
 	for res := range resultCh {
 		if res.Err != nil {
 			fmt.Printf("error %s: %v\n", res.Name, res.Err)
@@ -83,25 +95,25 @@ func worker(tasks <-chan Task, results chan<- Result, wg *sync.WaitGroup) {
 		var err error
 		switch ext {
 		case ".pdf":
-			err = processPDFToChunks(task.Path, task.Name)
+			err = processPDFToChunks(task)
 		case ".txt":
-			err = processTXTToChunks(task.Path, task.Name)
+			err = processTXTToChunks(task)
 		default:
 			err = fmt.Errorf("unsupported file type: %s", ext)
 		}
-		results <- Result{Name: task.Name, Err: err}
+		results <- Result{Name: task.Rel, Err: err}
 	}
 }
 
-func processPDFToChunks(path, name string) error {
-	f, r, err := pdf.Open(path)
+func processPDFToChunks(task Task) error {
+	f, r, err := pdf.Open(task.Path)
 	if err != nil {
 		return err
 	}
 	defer f.Close()
 
-	pdfChunkDir := filepath.Join(outputDir, strings.TrimSuffix(name, filepath.Ext(name)))
-	if err := os.MkdirAll(pdfChunkDir, 0755); err != nil {
+	chunkDir := filepath.Join(outputDir, strings.TrimSuffix(task.Rel, filepath.Ext(task.Rel)))
+	if err := os.MkdirAll(chunkDir, 0755); err != nil {
 		return err
 	}
 
@@ -120,7 +132,7 @@ func processPDFToChunks(path, name string) error {
 	go func() {
 		defer wg.Done()
 		for ch := range chunkCh {
-			chunkFilename := filepath.Join(pdfChunkDir, fmt.Sprintf("chunk_%03d.txt", ch.idx))
+			chunkFilename := filepath.Join(chunkDir, fmt.Sprintf("chunk_%03d.txt", ch.idx))
 			if err := os.WriteFile(chunkFilename, []byte(ch.text), 0644); err != nil {
 				fmt.Printf("failed %s: %v\n", chunkFilename, err)
 			}
@@ -167,15 +179,15 @@ func processPDFToChunks(path, name string) error {
 	return nil
 }
 
-func processTXTToChunks(path, name string) error {
-	contentBytes, err := ioutil.ReadFile(path)
+func processTXTToChunks(task Task) error {
+	contentBytes, err := ioutil.ReadFile(task.Path)
 	if err != nil {
 		return err
 	}
 	content := string(contentBytes)
 
-	txtChunkDir := filepath.Join(outputDir, strings.TrimSuffix(name, filepath.Ext(name)))
-	if err := os.MkdirAll(txtChunkDir, 0755); err != nil {
+	chunkDir := filepath.Join(outputDir, strings.TrimSuffix(task.Rel, filepath.Ext(task.Rel)))
+	if err := os.MkdirAll(chunkDir, 0755); err != nil {
 		return err
 	}
 
@@ -187,7 +199,7 @@ func processTXTToChunks(path, name string) error {
 		}
 		chunkText := content[i:end]
 
-		chunkFilename := filepath.Join(txtChunkDir, fmt.Sprintf("chunk_%03d.txt", chunkIndex))
+		chunkFilename := filepath.Join(chunkDir, fmt.Sprintf("chunk_%03d.txt", chunkIndex))
 		if err := os.WriteFile(chunkFilename, []byte(chunkText), 0644); err != nil {
 			return fmt.Errorf("failed to write chunk %d: %w", chunkIndex, err)
 		}

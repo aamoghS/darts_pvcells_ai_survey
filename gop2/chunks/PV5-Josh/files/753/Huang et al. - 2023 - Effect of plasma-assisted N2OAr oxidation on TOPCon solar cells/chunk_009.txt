@@ -1,0 +1,13 @@
+*, N* in a vacuum chamber by capacitively coupled plasma (CCP) PECVD method, then the O* react with silicon on the surface to form SiO
+x 
+under the electric field [29]. The remote plasma-enhanced chemical vapor deposition (RPECVD) process developed by Lucovsky and colleagues employs He/N
+2
+O remote radio frequency (rf) plasma to grow SiO
+x
+. It has been reported that SiO
+x 
+films deposited with He/N
+2
+O have fewer Si–OH defects than those deposited with He/O
+2 
+[30]. In addition, remote plasma

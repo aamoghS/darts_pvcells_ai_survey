@@ -1,0 +1,11 @@
+yer etching, as well as enacting the appropriate doping profile or doping technology, and optimizing the annealing conditions, are very effective to increase J
+sc
+, FF, and V
+oc 
+of the SiO
+x
+/poly-Si rear-surface passivated contact cell. The ultrathin SiO
+x 
+layer can be formed by various means, e.g., through thermal-, UV-ozone-, or wet-chemical-oxidation of the c-Si surface [172,173]. A detailed survey of the various approaches to growth or deposition of the ultrathin SiO
+x 
+layer for emitter 

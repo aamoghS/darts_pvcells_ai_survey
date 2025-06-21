@@ -1,0 +1,28 @@
+f the thickness of such thin SiO
+x 
+interfacial layers, a higher Ar flow was beneficial as it lowers the deposition rate. We found that a chemically stable, uniform and opti
+-
+mum thickness of SiO
+x 
+could be achieved by using gas flow ratio of N
+2
+O/ Ar=5:2. The highest 
+ 
+and iV
+oc 
+with 5751 
+
+s and 741.3 mV and lowest J
+0 
+and low 
+
+contact 
+with 4.79 fA/cm
+2 
+and 2.23 m/cm
+2 
+and champion ef
+-
+ficiency of 25.06% were obtained at the flow ratio of N
+2
+O/Ar=5:2. It was expected that by fu

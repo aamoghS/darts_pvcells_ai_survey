@@ -1,0 +1,6 @@
+PhysChemLett.2018;9(13):3756-3765.
+https://doi.org/10.1021/acs.jpclett.8b00463
+51.FeldmannF,NogayG,LöperP,etal.Chargecarriertransportmech-anismsofpassivatingcontactsstudiedbytemperature-dependent
+J-Vmeasurements.SolEnergyMaterSolCells.2018;178:15-19.
+https://doi.org/10.1016/j.solmat.2018.01.008
+52.PeibstR,RomerU,HofmannKR,etal.AsimplemodeldescribingthesymmetricI–VcharacteristicsofppolycrystallineSi/nmonocrys-tallineSi,andnpolycrystallineSi/pmonocrystallineSijunctions.IEEEJ.Photovoltaics.2014;

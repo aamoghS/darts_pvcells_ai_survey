@@ -1,0 +1,18 @@
+tly lower J
+0,p,r 
+and 
+
+c,r 
+as well, they were also responsible for increased FCA, reducing the J
+sc 
+of the solar cells by ~0.15 mA/cm
+2 
+per 50 nm increase in t
+poly
+. As a result of this trade-off between the electrical and optical properties of the devices, the average 
+ 
+saturated just below 22% for t
+poly 
+≥150 nm, when a semi-textured rear surface morphology was used. A t
+poly 
+of 150 nm was therefore chosen for further development. Further improvement of the solar cell design was a

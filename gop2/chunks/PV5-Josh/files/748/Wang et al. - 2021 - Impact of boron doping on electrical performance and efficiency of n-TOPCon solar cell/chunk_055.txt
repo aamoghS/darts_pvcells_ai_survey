@@ -1,0 +1,10 @@
+ 5 15 20 950 0.8 5 18 40 990 1 7 26 50 1000 N2 2.60E +19 0.5 3 8 20 950 0.85 5 12 40 990  Q. Wang et al.                                                                                                                                                                                                                                   
+Fig. 2.ECV profiles of the change in the peak concentrations under one constant junction depth (a) Emitter D1 (d
+1
+≈0.5 
+
+m), (b) Emitter D2 (d
+2
+≈0.63 
+
+m), (c) 

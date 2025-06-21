@@ -1,0 +1,8 @@
+48-958.doi:
+10.1002/pip.3530
+28.CarolusJ,TsanakasJA,vanderHeideA,VoroshaziE,DeCeuninckW,DaenenM.Physicsofpotential-induceddegradationin
+bifacialp-PERCsolarcells.SolEnergyMatersolCells.2019;200:109950.doi:
+10.1016/j.solmat.2019.109950
+29.MoltoC,OhJ,MahmoodFI,etal.Reviewofpotential-induceddegra-dationinbifacialPVmodules.EnergTechnol.2023;11(4):2200943.doi:
+10.1002/ente.202200943
+30.SporlederK,TurekM,SchülerN,NaumannV,HevisovD,HagendorfC.QuicktestforreversibleandirreversiblePIDofbifacialPERCsolarc

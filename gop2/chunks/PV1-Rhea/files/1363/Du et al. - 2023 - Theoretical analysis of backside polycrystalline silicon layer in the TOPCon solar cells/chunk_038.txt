@@ -1,0 +1,4 @@
+ian distribution. Band-tail localization is caused by bond Angle distortion, gap localization is caused by suspension bond. In the gap states in poly-Si can be divided into donor-like defect states and acceptor-like defect states. As the defect states concentration increases, the performance of TOPCon solar cells decreases. Fig. 5 shows the effect of the variation of the concentration of acceptor-like defect states on the performance of TOPCon solar cells. It can be seen that the V
+oc 
+and J
+sc 

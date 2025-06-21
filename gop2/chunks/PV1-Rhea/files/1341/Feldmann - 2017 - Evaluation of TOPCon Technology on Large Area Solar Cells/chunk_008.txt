@@ -1,0 +1,45 @@
+nd rear surface passivation were
+ 
+activated using an atomic hydrogen treatment
+ 
+(RPHP) 
+[
+7
+]
+ 
+at 
+425
+ 
+°C. The rear contact was formed by thermal evaporation of 
+Ag
+ 
+and the front grid was realized by forward bias plating of Ni, 
+Cu, and Ag. Finally, 
+a 
+second anti reflection layer was 
+applied at 
+the front by evaporation
+ 
+of MgF
+2
+.
+ 
+ 
+2.
+2
+ 
+Characterization and analysis
+ 
+The minority carrier recombination at the laser
+-
+formed 
+contact openings
+ 
+(
+J
+0
+,
+LCO
+)
+ 
+was investigated o

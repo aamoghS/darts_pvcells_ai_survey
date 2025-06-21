@@ -1,0 +1,3 @@
+sparent and electrically conductive, and also allow low carrier recombination and contact resistivity losses. Amongst the various c-Si solar cell technology pathways displayed in Table 1, low-temperature (<200
+◦
+C) deposition and processing of dopant-free CSCs are far less complex compared to that for doped passivation layers. In fact, n-Si wafers are highly favored for industrial manufacturing processes because of the greater tolerance to common metal contaminants and induced/introduced defec

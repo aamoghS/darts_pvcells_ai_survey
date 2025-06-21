@@ -1,0 +1,16 @@
+placement of costly high-temperature deposition processes by PECVD, ALD, and atmo
+-
+spheric pressure chemical vapor deposition (APCVD), is seen to be very important. Hence, low-cost, facile processes to develop TCDs with su
+-
+perior optoelectronic properties are highly sought after. It is understood that ALD-AlO
+x 
+films and ALD-AlO
+x
+/SiO
+x 
+stacks have shown high-quality passivation properties leading to reduced surface recombination veloc
+-
+ities and high 
+
+eff 
+[179]. Compared with a single

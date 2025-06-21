@@ -1,0 +1,9 @@
+content within the deposited SiN
+x 
+layer can be measured, escalating from ~6 ×10
+21 
+to ~1 ×10
+22 
+cm
+�3
+. However, it exerts a lesser influence on the H content within the polysilicon layer as well as the tunneling oxide layer. Consequently, at this stage, PH treatment does not result in a significant change in passivation quality, as demonstrated in Fig. 4b. Upon subjecting the samples to the firing process, an essential step in the metallization of TOPCon solar cells, H atoms commence di

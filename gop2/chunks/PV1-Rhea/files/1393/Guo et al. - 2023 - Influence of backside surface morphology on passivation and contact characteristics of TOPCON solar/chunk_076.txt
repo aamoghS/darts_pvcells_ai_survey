@@ -1,0 +1,6 @@
+on process, edge isolation and backside morphology modification after B diffusion are usually per
+-
+formed simultaneously. This requires that a good surface topography must be achieved based on the complete removal of the edge and backside B-diffusion PN junctions to achieve high parallel resistance, superior passivation characteristics, and Good contact characteristics with metal. Under the condition that the weight reduction meets the 
+Fig. 7.J
+0, metal 
+of alkali polished, acid polished, and 

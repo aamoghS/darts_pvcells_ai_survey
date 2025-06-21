@@ -1,0 +1,19 @@
+form polysilicon passivated contact. The highest minority carrier lifetime (
+
+) of 5751 
+
+s, highest implied open circuit voltage (iV
+oc
+) of 741.3 mV, lowest single side recombination saturation current density(J
+0
+) of 4.79 fA/cm
+2
+, contact resistivity(
+
+contact
+) of 2.23 m/cm
+2 
+and champion efficiency of 25.06% are obtained at the flow ratio of N
+2
+O/Ar=5:2.   
+1.Introduction In recent years, tunnel oxide passivated contact structure solar cells (i.e. TOPCon) based on doped polysilicon 

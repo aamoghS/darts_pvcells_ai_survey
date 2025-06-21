@@ -1,0 +1,4 @@
+ury, D.P. Pham, S.Q. Hussain, E.-C. Cho, J. Yi, Improving passivation properties using a nano-crystalline silicon oxide layer for high- efficiency TOPCon cells, Infrared Phys. Technol. 115 (2021)
+.
+[11]
+D. Chen, Y. Chen, Z. Wang, J. Gong, C. Liu, Y. Zou, Y. He, Y. Wang, L. Yuan, W. Lin, R. Xia, L. Yin, X. Zhang, G. Xu, Y. Yang, H. Shen, Z. Feng, P.P. Altermatt, P. J. Verlinden, 24.58% total area efficiency of screen-printed, large area industrial silicon solar cells with the tunnel oxide passiva

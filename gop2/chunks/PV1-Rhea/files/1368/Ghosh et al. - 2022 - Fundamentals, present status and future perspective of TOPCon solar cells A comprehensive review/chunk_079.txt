@@ -1,0 +1,15 @@
+P-doped a-Si:H layer and subse
+-
+quent annealing temperature in N
+2 
+atmosphere was noticed where a decrement in the optimized annealing temperature was realized for the increment of PH
+3
+/SiH
+4 
+doping ratio. After the crystallization of poly-Si layer, forming gas annealing (FGA) was also performed for 30 min at 450
+◦
+C to improve the passivation quality. In addition, to further improve the surface passivation properties, atomic layer deposited (ALD) Al
+2
+O
+3 
+was used as capping layer, follo

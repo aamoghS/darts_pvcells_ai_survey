@@ -1,0 +1,26 @@
+ in glass-backsheet modules, the applied tests are to be repeated using the glass-backsheet configuration. Furthermore, for a complete study of the reliability of PV modules 
+40060080010001200
+ [nm]
+02040
+60
+80100R or EQE [%]
+Single ARC
+Double ARC
+R
+EQE
+Figure 
+11
+. Reflectance (
+R
+) and external quantum efficiency (
+EQE
+) spectra of n
+�
+TOPCon
+�
+solar
+�
+cells with single 
+and double antireflection coating (ARC).
+�
+based on the developed n-TOPCon solar cells, further investigations such 

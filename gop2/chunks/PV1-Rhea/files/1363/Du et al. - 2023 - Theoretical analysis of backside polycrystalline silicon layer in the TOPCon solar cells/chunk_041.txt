@@ -1,0 +1,3 @@
+ 1.22 eV (c) 1.34 eV (d) 1.44 eV.  
+M. Du et al.                                                                                                                                                                                                                                      
+current, resulting in lower open-circuit voltage. Also, acceptor-like defect states affect photon absorption and carrier collection, leading to lower short-circuit current density and efficiency. However, acceptor- like d

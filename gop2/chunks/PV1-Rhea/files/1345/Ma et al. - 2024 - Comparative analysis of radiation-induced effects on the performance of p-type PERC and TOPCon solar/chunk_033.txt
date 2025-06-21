@@ -1,0 +1,5 @@
+d into a 2D domain, as depicted in Fig. 1(a). The optical simulation phase was initiated with the aim of accurately replicating the reflectivity curve, thereby facilitating the determination of photon absorption within the solar cell. Through in-depth analysis of reflectivity data spanning the range of 400–1000 nm, the ARC layer, comprised of hydrogenated sili
+-
+con nitride (SiN
+x
+:H), was found to have an optimal thickness of 80 nm with a refractive index of 1.99 at a wavelength of 600 nm. Fu

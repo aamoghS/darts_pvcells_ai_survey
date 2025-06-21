@@ -1,0 +1,24 @@
+otal an efficiency of 22.9% was measured. 
+Fig.
+ 
+4 shows 
+th
+e 
+free energy loss analysis
+ 
+(FELA)
+ 
+obtained from 
+the 
+numerical 
+device 
+simulation. 
+It can be clearly seen that there are two 
+dominant loss mechanisms. The resistive loss incurred by the 
+grid fingers has a share of ~32% of the total loss. The aggregate 
+loss 
+due to recombination in the emitter (including contacted 
+regions) takes a similar share of ~34% of the total energy loss. 
+Hence, the simulation reveals that 
+both 
+th

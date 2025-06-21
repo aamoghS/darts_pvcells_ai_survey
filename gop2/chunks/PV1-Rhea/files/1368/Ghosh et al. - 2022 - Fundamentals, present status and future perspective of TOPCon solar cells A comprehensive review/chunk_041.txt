@@ -1,0 +1,7 @@
+ear side Ti/Pd/Ag metallic stack was replaced by either a stack of lowly doped 200 nm ITO layer and 1 
+
+m Ag layer or single 1 
+
+m Ag layer. The use of ITO/Ag stack or single Ag layer provided higher J
+sc 
+compared to the cells featuring Ti/ Pd/Ag as rear side metallic contact. However, the solar cells featuring ITO/Ag stack at the rear side suffered from achieving higher FF due to having higher series resistance value. In contrast, no decrement in the FF was observed for the solar cells featu

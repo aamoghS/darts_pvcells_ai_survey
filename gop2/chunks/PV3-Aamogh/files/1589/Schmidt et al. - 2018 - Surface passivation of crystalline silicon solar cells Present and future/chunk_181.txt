@@ -1,0 +1,4 @@
+nttransportcharacteristics,Sol.EnergyMater.Sol.Cells120(2014)270–274.[80]R.Peibst,Y.Larionova,S.Reiter,M.Turcu,R.Brendel,D.Tetzla,J.Krügener,T.Wietler,U.Höhne,J.Kähler,H.Mehlich,S.Frigge,Implementationofn+andp+POLOjunctionsonfrontandrearsideofdouble-sidecontactedindustrialsilicon
+solarcells,in:Proceedings32ndEurop.Photovolt.Sol.EnergyConference,
+Munich,Germany,WIP,Munich,2016,pp.323–327.[81]S.Choi,K.H.Min,M.S.Jeon,J.I.Lee,M.G.Kang,H.-E.Son,Y.Kang,H.-S.Lee,
+D.Kim,K.-H.Kim,Structuralevolut

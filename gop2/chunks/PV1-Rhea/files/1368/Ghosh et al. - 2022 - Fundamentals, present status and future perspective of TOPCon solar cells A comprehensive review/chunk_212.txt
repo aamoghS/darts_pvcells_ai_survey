@@ -1,0 +1,3 @@
+ can be kept as low as possible. Besides, the study revealed that the surface passivation quality was not found to be severely affected due to the decrement of the thickness of poly-Si layer, given the minimum thickness of 15 nm is maintained. But such thin layers may not be able to resist the penetration of Ag pastes into it during the screen printing and firing process and hence, degra
+-
+dation in the passivating quality may be realized. Therefore, the authors suggested that a proper balance s

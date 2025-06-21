@@ -1,0 +1,5 @@
+unities to cause energy savings and identified about six major areas through which energy conservation measures can effectively cause some savings in energy and allow for its 
+stability. [2] Guangjie Gong et.al explains that, the vacuum solar receiver is the key component of a 
+parabolic trough solar plant, which plays a prominent role in the gross system efficiency. This paper first 
+establishes and optimizes a 1-D theoretical model at Mat lab program to compute the receiver’s major 
+heat los

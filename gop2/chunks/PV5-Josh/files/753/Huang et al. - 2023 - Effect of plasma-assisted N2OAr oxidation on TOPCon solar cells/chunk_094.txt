@@ -1,0 +1,3 @@
+Luo, Y. Cao, J. Xu, L. Fu, Y. Zeng, B. Yan, J. Ye, Comparison of different types of interfacial oxides on hole-selective p
++
+-poly-Si passivated contacts for high-efficiency c-Si solar cells, Sol. Energy Mater. Sol. Cells 210 (2020), 110487, https://doi.org/10.1016/j. solmat.2020.110487. [19]A. Moldovan, F. Feldmann, K. Kaufmann, S. Richter, M. Hermle, Tunnel oxide passivated carrier-selective contacts based on ultra-thin SiO2 layers grown by photo-oxidation or wet-chemical oxidation in ozonized

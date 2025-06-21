@@ -1,0 +1,12 @@
+ement Figs. S2–S4 show some attempts on adjusting the passivation technique to find the suitable solution for the nano/micro silicon surface. In this work, the stacked ALD-Al
+2
+O
+3
+/PECVD-SiN
+x 
+dielectric layer was finally selected to passivate NPP emitters because it combines excellent chemical passiv
+-
+ation with field-effect passivation (negative fixed charge density) on p- type silicon surface [40]. Fig. 5a shows the 
+
+eff 
+as a function of excess carrier density (n) for double-sided po

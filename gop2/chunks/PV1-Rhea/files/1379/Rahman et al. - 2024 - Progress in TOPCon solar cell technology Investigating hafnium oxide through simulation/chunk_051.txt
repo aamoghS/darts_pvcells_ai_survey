@@ -1,0 +1,3 @@
+ight absorption and electrical performance [15]. These values crucially shape the design and engineering of optical devices, coatings, and semiconductor technologies, influencing light’s behavior within these materials and informing their applications. ATLAS Silvaco simulation software helps predict how the inclusion of HfO2 layers can improve charge carrier lifetime by 21.3%, which could lead to a substantial in
+-
+crease in overall power conversion efficiency by up to 25%. The research sugges

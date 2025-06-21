@@ -1,0 +1,11 @@
+icalproperties of the solar cells. Mean
+-
+while, B-selective emitters with few emitter recombination, low contact resistance, and good blue response must be further optimized in order to increase the efficiency of the n-TOPCon solar cells. 4.Conclusions The emitter dark saturation current density under the passivation layer (J
+0e, passivated
+), the metallization-induced recombination current density under the metal contact (J
+0e, metal
+), and the I–V parameters of the solar cell (J
+sc
+, V
+oc
+,

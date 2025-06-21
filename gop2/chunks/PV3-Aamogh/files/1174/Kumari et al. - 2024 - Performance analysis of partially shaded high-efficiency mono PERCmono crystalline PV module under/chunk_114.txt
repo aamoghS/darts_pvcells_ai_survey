@@ -1,0 +1,10 @@
+is declining as the shading prole varies progressively from 0 to 100%. e maximum power generation ( 
+Pmax
+ ) decreased to critical during the 4060% shading range ( 
+Pmax
+ = 210.5 Watt and 
+Pmax=
+ 201.89 Watt, respectively).
+Fig. 12.  Variation in module eciency for a full day under dierent shading proles.
+Table 4.  Temperature and Eciency prole under shaded condition of Commercial Monocrystalline PV Module.
+Shading %Maximum cell temperature of the shaded cell (°C)Maximum eciency (%)Ma

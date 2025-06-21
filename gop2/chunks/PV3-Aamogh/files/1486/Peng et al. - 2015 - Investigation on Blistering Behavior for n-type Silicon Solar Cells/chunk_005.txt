@@ -1,0 +1,12 @@
+ogen species (atom, ion or H
+2
+ molecules) can’t diffuse out during firing, locally accumulating in the SiN
+X
+ capping layer, which acts as a barrier. Not only the cell appearance is affected (white dots present on SiN
+X
+ surface) but also the passivation performance is impacted. Most of the previous research works used post 
+  
+* Corresponding author. Tel.: +886-6505-0789; fax: +886-6505-8446. E-mail address: zw_peng@motech.com.tw 
+Available online at 
+www.sciencedirect.com
+© 2015 The Author

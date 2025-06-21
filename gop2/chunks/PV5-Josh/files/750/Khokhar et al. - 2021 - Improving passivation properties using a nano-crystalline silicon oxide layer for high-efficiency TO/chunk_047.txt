@@ -1,0 +1,9 @@
+ above 950 
+◦
+C, which means at 1000 
+◦
+C. FGA treatment induced a substantial decrease in interface defect density (D
+it
+), which enhanced passivation. The highest lifetime and the i-V
+OC 
+were achieved due to the hydrogen passivation process means after FGA. It is thought that dangling silicon bonds in the interface and tunnel oxide layer were passivated by hydrogen. To improve the passivation quality of the tunnel oxide layer, it is important to control the properties and stoichiometry of

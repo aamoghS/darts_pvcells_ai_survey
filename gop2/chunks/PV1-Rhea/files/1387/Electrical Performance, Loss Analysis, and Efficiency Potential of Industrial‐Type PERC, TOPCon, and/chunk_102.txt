@@ -1,0 +1,4 @@
+.5927.9927.99HBC (nn+p+)a- Si:H/nc- SiOx:H(p+)a- Si:H/nc- SiOx:H(n+)15.674.2813.5229.1413.5928.1228.12
+FIGURE     |    Schematic diagram of cell structure for (A) HPBC, (B) TBC, and (C) HBC solar cells.
+900
+a high J0,metal ≥ 250 fA/cm2 despite having a low ρc ≤ 3 mΩ·cm2, which limits the cell efficiency.Then we designed the three types of solar cell (PERC, TOPCon, and SHJ), and their loss analysis was studied and compared. The SHJ cell has the highest passivation performance with a high

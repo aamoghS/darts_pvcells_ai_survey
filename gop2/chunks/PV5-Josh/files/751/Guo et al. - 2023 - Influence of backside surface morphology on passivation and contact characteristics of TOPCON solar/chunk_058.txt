@@ -1,0 +1,18 @@
+licon) or underesti
+-
+mation of J
+0
+. In fact, the difference in J
+0 
+is the combined effect of Auger recombination J
+0, Auger
+, SiOx/c-Si chemical passivation, and other factors. The difference in J
+0 
+caused by different surface topography does not seem to be large, but it is known that the main purpose and advantage of 
+Fig. 6.(a)
+
+eff
+,(b)iVoc of samples with different morphologies. (c) Active dopant concentration obtained from ECV measurements.(d)J
+0, Auger 
+from EDNA2 simulation and J
+0 

@@ -1,0 +1,11 @@
+The band-bending near the MoO
+x
+/c-Si interface and the Al/LiF
+x
+/c-Si interface play an important role in maintaining high V
+oc 
+and high FFs [77]. Interfacial contact passivation was shown to be paramount in suppressing electrical performance losses. In this approach, an even thinner (<50nm) sub-stochiometric MoO
+x 
+or LiF
+x 
+layer was adopted to realize the dopant-free hole- or electron-selective contact, respectively, to achieve decently high efficiencies. The high-WF TMOs afford superior ca

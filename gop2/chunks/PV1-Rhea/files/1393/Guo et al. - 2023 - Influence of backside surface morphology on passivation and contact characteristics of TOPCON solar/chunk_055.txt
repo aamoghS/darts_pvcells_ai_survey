@@ -1,0 +1,5 @@
+ the thickness of SiOx, the increased roundness of the pyramids (acid polishing) and flattening of the pyra
+-
+mids (alkaline polishing) may result in a more uniform SiOx layer and thus improved surface passivation. For high-quality silicon, when the impurity concentration exceeds 1E18cm
+�3 
+and the surface passivation has been done well enough, Auger recombination will become the main recombination mechanism at high injection levels. The doping concentration of the material will significantly 

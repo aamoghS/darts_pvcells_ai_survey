@@ -1,0 +1,9 @@
+ed c- Si surfaces. For the samples on polished surfaces, the SiO
+x 
+layer is pre
+-
+pared using 3 ALD cycles with a source time exposure of 3 s corre
+-
+sponding to a thickness measured at 1.0 �0.1 nm. After high-T annealing, Fig. 1b underlines clearly the poly-crystalline (poly-Si) na
+-
+ture with some areas presenting well-organized atomic plans and some other areas remaining amorphous. Figs. 1c and d present the diffraction patterns of the poly-Si compared to the one of the bulk c-Si, the poly

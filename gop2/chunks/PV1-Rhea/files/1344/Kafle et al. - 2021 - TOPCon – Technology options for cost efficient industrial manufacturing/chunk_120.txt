@@ -1,0 +1,13 @@
+CAPEX   
+Table 7 Financial parameters. Please note that Building CAPEX is applied on whole building area including production area, warehouse, labs, offices etc., whereas the Facility CAPEX is applied on production area only.  
+Input Assumed Value Labor Costs (FTE =Full Time Equivalent) Operation 10000 
+
+/a per FTE Technician 15000 
+
+/a per FTE Supervision 20000 
+
+/a per FTE Engineering 30000 
+
+/a per FTE Scientist 35000 
+
+/a per FTE   Cell production CAPEX (EquipmentþBuildingþFacility)  

@@ -1,0 +1,7 @@
+ells because the passivated region occupies greater than 95% front surface. Therefore, effective passivation of the B- doped surface is integral to design high-efficiency n-TOPCon solar cell. More importantly, it is essential to understand the change in the passivation quality with the B-doped profile. In this subsection, we explain that in order to evaluate the emitter passivation quality in the passivated p
++
+layers, the symmetrical samples were B-diffused and passivated by AlO
+X
+/SiN
+x 
+films

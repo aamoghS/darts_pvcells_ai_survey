@@ -1,0 +1,8 @@
+e and the non
+�
+unity ideality factor (
+FF
+0
+).
+�
+  The findings of the solar cell development thus reveal that the use of a sufficiently thick poly-Si film and a polished rear surface morphology are key for enabling high efficiencies. For further increasing the η, two strategies seem plausible: (i) reducing the total J0 and thus improving the Voc of the devices by enhancing the passivation of the front surface and by passivating the front contacts as the high J0,p,f and J0,m,f in Fig. 5 su

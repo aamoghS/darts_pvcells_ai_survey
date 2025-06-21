@@ -1,0 +1,25 @@
+ow interface trap density (D
+it
+) were examined as they permit selective carrier transport by a particular SiO
+x 
+tunnel layer. The D
+it 
+of the tunnel oxide layer was quantitatively assessed by C-V measurement. The D
+it 
+was studied to evaluate the effect of SiO
+x 
+and nc-SiO
+x 
+quality on surface passivation. D
+it 
+is evaluated at the interface of SiO
+x
+/nc-SiO
+x
+; the lower the D
+it 
+value, the higher the i-V
+oc
+. Fig. 8 confirms a decrease of the D
+it 
+due to the Si-O bonding transition indu

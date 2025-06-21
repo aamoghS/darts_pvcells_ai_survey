@@ -1,0 +1,13 @@
+ated at the rear side of solar cells as in this work, with the loss equal to ~0.2 mA/cm
+2 
+per 50 nm increase in t
+poly 
+[26,38]. Studies by other groups in the literature also predict similar FCA-related losses between 0.1 and 0.25 mA/cm
+2 
+per 50 nm increase in t
+poly 
+[12,15, 39]. Hence, the behavior of J
+sc 
+in Table 3 as a function of t
+poly 
+can be explained with the parasitic absorption losses reported in the literature. To verify this hypothesis, R and EQE measurements were performed, yi

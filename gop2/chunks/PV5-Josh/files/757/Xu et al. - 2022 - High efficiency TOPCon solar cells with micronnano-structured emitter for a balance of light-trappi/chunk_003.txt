@@ -1,0 +1,11 @@
+ the impact of different radio-frequency power (P
+RF
+) on the optical and electrical properties of TOPCon solar cells and discusses the underlying structural causes behind these observed improvements. Finally, we demonstrate NPP TOPCon solar cells with an average short-circuit current density of 41.44 mA/cm
+2 
+and an average PCE of 23.55% at the P
+RF 
+of 600 W. Besides, the external quantum efficiency results under various incident angles from 0
+◦
+to 70
+◦
+exhibited excellent wide-angle spect

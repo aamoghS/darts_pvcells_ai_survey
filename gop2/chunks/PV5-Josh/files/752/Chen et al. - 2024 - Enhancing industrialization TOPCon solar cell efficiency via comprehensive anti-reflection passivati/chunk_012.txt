@@ -1,0 +1,9 @@
+ foundation, a one-step plasma oxidation process was implemented prior to depositing SiN
+x 
+on AlO
+x
+. The purpose of this process was to eliminate oxygen vacancy defects within the AlO
+x 
+layer, thus improving its passivating properties. For the rear passivation, a combination of three layers of silicon nitride with different n is used to achieve both passivation and optical performance. As a further optimization, a NH
+3 
+plasma treatment was introduced to increase the hydrogen content before e

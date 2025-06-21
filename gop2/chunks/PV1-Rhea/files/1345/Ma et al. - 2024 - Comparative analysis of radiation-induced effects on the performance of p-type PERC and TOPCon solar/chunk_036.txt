@@ -1,0 +1,7 @@
+he EQE data presented in Fig. 1(b)–a front-side metal fraction of 3.79 % was established, which in turn accurately reproduced the measured J
+sc
+. In the pursuit of replicating the measured open-circuit voltage V
+oc
+, it became evident that a hole lifetime of 1.86 ms for the substrate was required, a value notably lower than the 9.51 ms calcu
+-
+lated in Table 2 after complete BO deactivation, likely resulting from residual SRH bulk defects. 3.2.Modelling TOPCon solar cells Similarly, the method

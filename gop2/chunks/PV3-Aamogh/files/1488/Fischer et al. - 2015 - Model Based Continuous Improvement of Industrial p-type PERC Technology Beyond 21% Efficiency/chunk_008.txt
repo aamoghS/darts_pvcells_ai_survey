@@ -1,0 +1,3 @@
+gy Procedia   77  ( 2015 )  515 – 519 
+roadmap for our PERC technology (see Fig. 1). Starting from an average production efficiency of 20.2% we aim at continuously improving the manufacturing processes for front side metallization, emitter diffusion, passivation and rear contact formation. Regarding the module technology, the multi bus-bar design is assumed to be the main 
+optimization step. With these optimization steps, we expect 22.5% efficient p-type solar cells with PERC technology availa

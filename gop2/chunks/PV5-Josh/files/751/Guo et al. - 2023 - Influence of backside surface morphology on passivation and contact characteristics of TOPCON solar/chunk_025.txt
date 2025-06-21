@@ -1,0 +1,7 @@
+red,then the metal was removed using HNO
+3
+/HCL solu
+-
+tion. Test the J
+0 
+of symmetrical samples with different metallization area fractions, and perform simple linear interpolation of the test data points using the method proposed by Fellmeth et al [12]. Scanning electron microscopy (SEM, Hitachi, S4800) was used to characterize the surface and cross-sectional morphologies after different wet etching. Use a reflectance tester to determine the reflectance. The contact resistance of the metal gr

@@ -1,0 +1,3 @@
+hmidt,V.Titova,D.Zielke,Organic-siliconheterojunctionsolarcells:open-circuitvoltagepotentialandstability,Appl.Phys.Lett.103(2013)183901.[132]D.Zielke,C.Niehaves,W.Lövenich,A.Elschner,M.Hörteis,J.Schmidt,Organic-
+siliconsolarcellsexceeding20%eciency,EnergyProcedia77(2015)331–339.[133]X.Yang,K.Weber,Z.Hameiri,S.DeWolf,Industriallyfeasible,dopant-free,
+carrier-selectivecontactsforhigh-eciencysiliconsolarcells,Prog.Photovolt.:Res.Appl.25(2017)896–904.[134]Y.Wan,C.Samundsett,J.Bullock,M.Hetti

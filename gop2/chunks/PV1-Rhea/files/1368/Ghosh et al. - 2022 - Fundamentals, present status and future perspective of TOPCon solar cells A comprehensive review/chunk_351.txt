@@ -1,0 +1,3 @@
+ble to attract the researchers to develop high efficiency multi
+-
+crystalline silicon based TOPCon solar cells [132–141]. Consequently, Schindler et al. used “efficiency limiting bulk recombination analysis” (ELBA) technique to predict the power conversion efficiency of these multicrystalline silicon based TOPCon solar cells [132]. The study revealed that the iso-textured n-type high performance multicrystalline silicon material may be used to develop TOPCon solar cells with a power conver

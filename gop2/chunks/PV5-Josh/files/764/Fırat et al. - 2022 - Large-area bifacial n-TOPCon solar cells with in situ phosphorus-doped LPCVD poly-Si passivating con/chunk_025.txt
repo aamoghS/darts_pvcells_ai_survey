@@ -1,0 +1,7 @@
+the wafers moving at 8 
+◦
+C on closely spaced rollers with a speed of 1.5 m/min over etch baths over
+-
+flown with the aforementioned chemistry. The process consists of two passes of each wafer through the equipment, leading to the removal of ~1.5–2 
+
+m of Si from the rear determined by weight measurements, resulting in a semi-textured surface morphology with slightly rounded-off pyramids. The fabrication continued with the realization of the poly-Si passivating contact on the rear. For this

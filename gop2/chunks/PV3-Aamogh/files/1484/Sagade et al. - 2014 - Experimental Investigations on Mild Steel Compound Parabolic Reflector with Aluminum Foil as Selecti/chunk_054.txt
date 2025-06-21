@@ -1,0 +1,19 @@
+ water temperature also increases. 
+0.00.51.01.52.02.53.03.54.04.55.05.56.002040
+6080100120
+140
+160180200
+220
+240
+ Overall heat loss coefficient(W/m2 oC)
+ Total Heat Loss (W/m)
+ Collector Efficiency (%)Wind Velocity (m/s)Overall heat loss coefficient(W/m2 oC)Total Heat Loss (W/m)5051
+525354
+55
+56
+57
+585960
+61
+Collector Efficiency (%)
+3068   Atul A. Sagade et al.  /  Energy Procedia   57  ( 2014 )  3058 – 3070 
+ Fig.6 variation of receiver temperature, outlet water temperature, total heat loss 

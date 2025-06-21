@@ -1,0 +1,3 @@
+ to the occurrence of blistering [37]. Moreover, while adopting the PECVD approach to fabricate TOPCon solar cells, passivating contacts are produced via high-temperature annealing in the range of 850–1000 
+◦
+C with a dwell time of several tens of minutes to transform the doped a-Si phase into a doped poly-Si phase [38], which guarantees a high field passivation effect. During the annealing process (particularly during the dwell time), dopants in the heavily doped poly-Si layer can diffuse i

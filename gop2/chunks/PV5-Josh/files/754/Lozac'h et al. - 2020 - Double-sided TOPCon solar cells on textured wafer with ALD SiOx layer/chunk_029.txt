@@ -1,0 +1,22 @@
+                        
+flow during the deposition of the (p) a-Si:H precursor layer. For a B
+2
+H
+6 
+flow between 50 sccm and 200 sccm, the V
+oc
+, the pseudo V
+oc 
+(pV
+oc
+), and the implied V
+oc 
+(iV
+oc
+) are almost constant about 638 mV, 650 mV and 655 mV, respectively. On the other hand, these parameters quickly dropped once the B
+2
+H
+6 
+flow is reduced below 50 sccm, which is also observed in other work using trimethylboron (TMB) as dopant flow [35]. The short-circuit current J
+sc 
+is measur

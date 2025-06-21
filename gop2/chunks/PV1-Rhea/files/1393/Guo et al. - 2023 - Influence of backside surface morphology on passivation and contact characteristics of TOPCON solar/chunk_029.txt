@@ -1,0 +1,3 @@
+formed by low-pressure BCl
+3 
+diffusion in an industrial-scale quartz tube furnace. Then, the backside and edge diffusion junctions are removed by wet chemical cleaning etch, and the topography of the backside is modified. In order to keep the front surface pyramids unaffected during the backside chemical etching process, an inline process single-side etching method (SSE) was adopted and BSG was used as a protective film. The specific process is shown in Table 1. Thermal oxidation grows a tunnel

@@ -1,0 +1,5 @@
+edrearcontact[33].Figure6showsthemea-
+suredlightI–Vdataofthecellachievedona239cm2Czwafer(~4.5cmafterannealing),withaVocof683.4mV,Jscof39.66mA/cm2,FFof78.1%andcellefciencyof21.2%.
+Figure3.Simulatedemittersaturationcurrentdensity(Joe)asafunctionofsurfacerecombinationvelocity(SRV).
+Figure4.ComparisonoftheshiftedI–Vcurvesandthemaxi-mumpowerpoint(MPP)ofthepassivatedcontactfromthisworkandPERTcellsfromearlywork[31].
+Figure5.Externalquantumefciency(EQE),internalquantumefciency(IQE)andreectanceo

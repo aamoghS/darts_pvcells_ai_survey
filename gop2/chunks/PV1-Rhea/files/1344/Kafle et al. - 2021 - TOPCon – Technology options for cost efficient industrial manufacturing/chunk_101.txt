@@ -1,0 +1,9 @@
+ts that are distributed in all relevant cell processing clusters – wet-chemistry, diffusion/annealing, passivation, and metalli
+-
+zation processes. Higher COO in diffusion/annealing process is mainly related to the lower throughput of BBr
+3 
+diffusion process and require
+-
+ment of an extra POCl
+3
+-diffusion & the high temperature annealing steps, whereas a-Si deposition technology is one of the major cost drivers among passivation process steps. A significantly higher process consumable cost r

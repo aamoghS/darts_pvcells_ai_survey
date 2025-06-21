@@ -1,0 +1,9 @@
+mmarize, Table 1 compares the state-of-the-art in the research and development of a range of silicon solar cell technologies, namely, those employing MoO
+x
+- and MgF
+x
+-based stacks as the HCL and ECL, respectively [30], with full-area back contacts featuring MoO
+x
+- and TiO
+x
+-based stacks as the HCL and ECL, respectively [40], or IBC designs with a-Si:H(n/p) rear passivating contact layers [12,44], monofacial DASH with MO-based passivation and ECL, monofacial [18,19] and bifacial [20] SHJ with

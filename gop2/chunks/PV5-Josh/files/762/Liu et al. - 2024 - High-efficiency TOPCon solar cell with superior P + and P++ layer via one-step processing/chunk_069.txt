@@ -1,0 +1,5 @@
+This pattern indicates a gradual diffusion of B atoms into the Si wafer. At 850 
+◦
+C, the sheet resistance decreases rapidly initially, but as time progresses, the surface source concentration diminishes, and the sheet resistance stabilizes until reaching 1050 
+◦
+C. These findings align well with the simulation results presented in Fig. 6. As the temperature rises, the concentration of B atoms, or the doping concentration, increases, elevating the carrier concentration of the Si wafer and en

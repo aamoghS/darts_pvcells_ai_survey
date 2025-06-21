@@ -1,0 +1,5 @@
+cell technology can be attributed to the development of passivation technology [1]. In 2013, the Frauhofor Institute in Germany introduced the TOPCon technology concept [2]. As one of the solar cells with the best passivation performance, the TOPCon solar cell using N-type silicon as substrate has achieved an impressive open-circuit voltage (V
+oc
+) of 703 mV and E
+ff 
+of 23.7% at the very beginning of its introduction. This has shown its wide development space and potential. Since then, TOPCon s

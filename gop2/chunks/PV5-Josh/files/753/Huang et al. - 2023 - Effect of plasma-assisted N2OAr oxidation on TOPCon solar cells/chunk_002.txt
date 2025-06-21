@@ -1,0 +1,15 @@
+es of polysilicon passivated contact structures and the efficiency of TOPCon solar cells. The deposition rate of SiO
+x 
+layer and contact resistivity of SiO
+x
+/poly-Si(n
++
+)/SiNx:H structure decrease with the increases of Ar flow. However, there is an optimal N
+2
+O/Ar flow ratio to obtain the best passivation quality and the champion effi
+-
+ciency. The optimal flow ratio of N
+2
+O/Ar=5:2 is found, and obtain the optimum thickness of SiO
+x 
+and uniform polysilicon passivated contact. The highest m

@@ -1,0 +1,9 @@
+ <100>oriented, n-type CZ c-Si wafers. Finally, n-type large area (244.32 cm
+2
+) TOPCon solar cells featuring optimized boron diffused emitter (the sheet resistance was 70 – 90 /sq and BSG thickness was ∼100 nm) demonstrated significant conversion efficiency of 22.14% with V
+oc 
+=683.4 mV, J
+sc 
+=39.53 mA/cm
+2 
+and FF =81.96%. On the other hand, Huang et al. used masking process to etch out the LPCVD coated doped poly-Si layer from the front side of the bifacial TOPCon solar cells which wer

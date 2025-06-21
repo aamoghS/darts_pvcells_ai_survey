@@ -1,0 +1,3 @@
+- Reduced surface recombination - Less reflection due to having SiN
+x 
+- Cell efficiency is approaching to limit - Cost reduction is slowed - Light induced degradation Silicon heterojunction (SHJ) - Has high efficiency - Low temperature coefficient - Bifacial harvesting at lower cost - Major challenge – Ag and In free SHJ - Metallization and poor thin film - UV light stability & process complexity Thin film PV Amorphous silicon  - Light, cheap and less silicon is needed. - It can be wrapped ar

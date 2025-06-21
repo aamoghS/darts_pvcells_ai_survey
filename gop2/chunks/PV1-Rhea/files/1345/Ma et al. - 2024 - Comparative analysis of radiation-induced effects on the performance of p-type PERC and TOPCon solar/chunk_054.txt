@@ -1,0 +1,7 @@
+on methodology applied to the PERC and n-TOPCon architectures, a 2D unit cell configuration representative of the 50 
+
+m back surface field region (BSFR) space cell [28], illustrated in Fig. 5(a), was established within the simulation environment. Following the simulation approach by Hamache et al. [22], the current study also embraced a simplified approach. On the front side, the emitter was characterized by a constant doping concentration of 10
+19 
+cm
+�3
+, accompanied by a junction depth of

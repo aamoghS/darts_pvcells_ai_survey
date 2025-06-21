@@ -1,0 +1,3 @@
+to a large number of electron-hole recombination, the leakage current generated is large, resulting in a low FF of TOPCon solar cells. With the increase of the band gap, the depth of the quantum well decreases until it disap
+-
+pears. When the quantum well disappears, a large number of holes in the poly-Si will pour into the monocrystalline silicon, and the concentration of holes in the poly-Si at the interface becomes smaller. Therefore, when the band gap is greater than 1.34 eV, electron-hole r

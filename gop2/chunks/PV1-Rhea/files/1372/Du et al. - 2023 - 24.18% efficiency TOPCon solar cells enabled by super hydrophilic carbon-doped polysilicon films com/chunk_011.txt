@@ -1,0 +1,5 @@
+plating technology could reduce the silver con
+-
+sumption of TOPCon electrodes from 20 mg/W of the screen-printed method to 0.6 mg/W in 2022 [17]. From an industrialization perspec
+-
+tive, plating the metal electrodes directly on the polysilicon films is more desirable to fabricate the TOPCon devices as it could avoid using the costly vacuum physical vapor deposition (PVD) to deposit the metal seed layers. However, it is still challenging to adopt the copper plating technology in mass production

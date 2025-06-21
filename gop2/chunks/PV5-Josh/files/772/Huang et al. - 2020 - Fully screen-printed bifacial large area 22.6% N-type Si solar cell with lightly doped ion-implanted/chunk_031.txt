@@ -1,0 +1,11 @@
+ bulk and emitter because the metallized J
+0 
+of our TOPCon layer is very small (~5 fA/cm
+2
+). Table 2 summarizes all the J
+0 
+components in our 22.6% efficient finished cell. Additional characterization and modeling was performed to improve the fundamental understanding of our 22.6% cell. We used the Sen
+-
+taurus 2D simulator for modeling which requires surface recombination velocities on the B emitter and n-TOPCon regions rather than J
+0 
+values. Fig. 4 (a) shows the measured profile of our im

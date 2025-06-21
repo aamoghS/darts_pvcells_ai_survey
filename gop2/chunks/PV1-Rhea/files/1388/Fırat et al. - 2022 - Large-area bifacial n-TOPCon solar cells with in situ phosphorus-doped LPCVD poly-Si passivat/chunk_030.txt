@@ -1,0 +1,78 @@
+3 
+Ω∙
+cm 
+155 µm, n
+-
+type (100) 
+Cz
+-
+Si
+70 nm PECVD SiN
+x
+:H
+70 nm PECVD SiN
+x
+:H
+5 nm ALD Al
+2
+O
+3
+1.5 
+nm thermal SiO
+x
+In situ 
+doped
+LPCVD n
++
+poly
+-
+Si
+110 
+Ω
+/
+□
+p
++
+Si
+Ag
+Ag
+Annealing: 900
+°
+C, 60 min
+5 nm ALD Al
+2
+O
+3
+(Front)
+70 nm PECVD 
+SiN
+x
+:H
+(Front)
+70 nm PECVD 
+SiN
+x
+:H
+(Rear)
+Ag Screen
+-
+printing (Rear)
+Ag/Al Screen
+-
+printing (Front)
+Firing
+SiO
+x
+Mask Removal
+BBr
+3
+Diffusion
+BSG Removal
+Emitter Removal
+or Polishing (Rear)
+PECVD SiO
+x
+Mask (Front)
+1.5 
+nm Thermal SiO
+x

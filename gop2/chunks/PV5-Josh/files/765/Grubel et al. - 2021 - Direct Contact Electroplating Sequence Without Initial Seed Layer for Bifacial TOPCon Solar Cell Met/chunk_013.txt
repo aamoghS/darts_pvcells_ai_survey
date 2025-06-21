@@ -1,0 +1,12 @@
+yerwithinthelasercontactopening(LCO).
+Subsequently,NiandCuplatingisperformedbylightinduced
+plating(LIP)byimmersingthelaserpatternedsolarcellprecur-
+sorsingle-sidedintheplatingelectrolytewhilebeingilluminated
+byLEDspositionedintheelectrolyte.Onthenonimmersed(dry)
+sideofthewafertheLCOsaretemporarilycontactedbyametal
+plateasvisibleinFig.1(zoomedcircle)withaconstantcurrent
+andavoltagelimitof20V.ThemetalplatefeaturesaNicoating
+onthesidefacingthesolarcell.Forthisplateasmallmargin
+(
+∼
+1cm)oneachsidei

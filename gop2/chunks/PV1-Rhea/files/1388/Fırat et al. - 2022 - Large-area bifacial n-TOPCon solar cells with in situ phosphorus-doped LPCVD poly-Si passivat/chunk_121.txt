@@ -1,0 +1,17 @@
+ the laminate, which is attributed to modifications in the properties of the interconnections, as the series resistance of the solar cell 
+0100200300400Number of Cycles
+9596979899100101102103104105Relative Pout
+7475767778
+798081FF [%]
+05001000Test Duration [h]
+9596979899100101102103104105Relative Pout [%]
+a)
+b)
+Figure 
+12
+. a) The relative output power (
+P
+out
+) of the laminate subjected to the damp heat test, before and after 
+1000 hours of testing. b) Evolution of the relative 
+Pout and the fi

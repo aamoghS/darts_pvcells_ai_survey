@@ -1,0 +1,36 @@
+on (rear ink fingers)(f
+ink
+)[%] 11.8% J
+o,bulk 
+[fA/cm
+2
+] 5 J
+0e,total 
+[fA/cm
+2
+] 29.41 36.91 29.23 29.67 29.76 
+
+c 
+(p++layer)[m.cm
+2
+] 1.30 
+
+c 
+(n++layer)[m.cm
+2
+] 0.90 V
+oc 
+(calculated)[mV] 713 708 713 713 713 FF[%] 82.22 81.3 81.9 82.1 82.2 Jsc [mA/cm
+2
+] 41.63 42.3 42.1 42.0 41.8 E
+ff 
+[%] 24.40 24.35 24.58 24.55 24.49 
+J
+0
+: emitter dark saturation current density. J
+0, metal
+: the dark saturation current density at metal contact. 
+
+c
+: the contact resistivity. 
+Fig. 13.The photo

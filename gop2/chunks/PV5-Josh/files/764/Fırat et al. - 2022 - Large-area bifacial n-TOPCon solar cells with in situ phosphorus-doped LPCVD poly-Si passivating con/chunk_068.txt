@@ -1,0 +1,13 @@
+se with t
+poly 
+and also to be significantly greater than the absorption in a poly-Si film at the non- illuminated side for the same t
+poly 
+[40]. To understand the increasing trend of FF in Table 3 with t
+poly
+, an FF loss analysis was performed, yielding the results in Fig. 4a). First, it is evident from these data that the difference between FF
+n 
+and FF i.e., the loss due to series resistance of the solar cells, is significantly larger than the difference between FF
+0 
+and FF
+n 
+i.e., the lo

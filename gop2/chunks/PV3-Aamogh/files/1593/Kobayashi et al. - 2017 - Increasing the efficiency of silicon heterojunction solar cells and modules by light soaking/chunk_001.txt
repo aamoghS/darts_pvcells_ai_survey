@@ -1,0 +1,5 @@
+edelaMaladière71b,CH-2002Neuchâtel,SwitzerlandbChoshuIndustryCo.,Ltd.,3740,Shin-yamanoi,SanyoOnoda,Yamaguchi757-8511,JapancDepartmentofMaterialsScienceandEngineering,YamaguchiUniversity,2-16-1Tokiwadai,Ube,Yamaguchi755-8611,JapandKingAbdullahUniversityofScienceandTechnology(KAUST),KAUSTSolarCenter(KSC),Thuwal23955-6900,SaudiArabiaeCSEMPV-Center,Jaquet-Droz1,CH-2002Neuchâtel,SwitzerlandARTICLEINFOKeywords:Solarcell
+Solarmodule
+Siliconheterojunction
+Passivatingcontact
+LightsoakingFillfactorABST

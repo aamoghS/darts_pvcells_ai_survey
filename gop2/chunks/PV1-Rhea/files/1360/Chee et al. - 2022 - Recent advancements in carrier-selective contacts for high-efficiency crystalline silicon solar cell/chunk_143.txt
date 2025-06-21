@@ -1,0 +1,7 @@
+fusion to the contact [77,146]. Mallem et al. [149] recently reported on oxygen dilution during the MoO
+x 
+thin film synthesis by thermal vacuum evaporation, which reduced the WF, and thus, the hole injection efficiency into the contact layer. In sum, oxygen vacancies will significantly modify the MoO
+x 
+composition, thus affecting the optical absorption, WF, and electrical conductivity of the material. 4.New pathways for passivating contacts While the a-Si:H(i)/MoO
+x
+/ITO contact structure has 

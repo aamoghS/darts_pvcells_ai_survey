@@ -1,0 +1,13 @@
+cted in Fig. 5a), show that J
+0,m,r 
+decreases by more than a factor of 5, to values below 100 fA/cm
+2
+, when t
+poly 
+is increased from 100 to 150 nm, showing that passivating contacts with thicker poly-Si films preserve their carrier selectivity better against aggressive screen-printed metallization. This observation agrees with the findings of similar studies in the literature [14,15,41–43]. Moreover, according to Fig. 5a), J
+0,p,r 
+decreases slightly, to 3.6 fA/cm
+2
+, for higher t
+poly
+, wh

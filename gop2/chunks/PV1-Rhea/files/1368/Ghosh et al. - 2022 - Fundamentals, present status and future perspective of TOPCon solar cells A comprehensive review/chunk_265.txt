@@ -1,0 +1,9 @@
+w rear surface recombination velocity. The authors also added that use of same thick other tunnelling layers such as SiC or Si
+3
+N
+4 
+instead of SiO
+2 
+may provide lower V
+oc 
+due to featuring lower barrier height for the flow of minority carriers. Besides, the observations explored from the analytical model matched well with the results obtained from AFORS-HET v2.5simulation tool. In contrast, Quan et al. used numerical simulation tool AFORS-HET to study the influential effect of using low work

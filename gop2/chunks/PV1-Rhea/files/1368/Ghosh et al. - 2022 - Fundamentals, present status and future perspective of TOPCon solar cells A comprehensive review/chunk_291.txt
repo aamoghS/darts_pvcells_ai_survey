@@ -1,0 +1,11 @@
+ve emitter technology may significantly maximize the con
+-
+version efficiency of these large area TOPCon solar cells. Just one year later, in 2017, Feldmann et al. reported that large area (10 cm ×10 cm) TOPCon solar cells were fabricated with a power conversion efficiency of 22.9% (V
+oc 
+=694 mV, J
+sc 
+=40.8 mA/cm
+2 
+and FF =81%) based on 1 -cm, n-type, shiny etched FZ silicon wafers [113]. In the cell devel
+-
+opment process, laser ablation technique was used for the contact openings at the f

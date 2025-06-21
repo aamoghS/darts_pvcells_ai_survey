@@ -1,0 +1,3 @@
+r preparation process. A detailed overview of the preparation process is depicted in Fig. 3. 3.3.Test and analysis tools The B doping curve was tested by the electrochemical capaci
+-
+tance–voltage (ECV) method. The electrical I-V performance of the cell was characterized by a Halm tester. The sheet resistance of the Si wafer is measured by the four-point probe method. 4.Results and discussion 4.1.Modeling results 4.1.1.Diffusion of B in Si at different temperatures Fig. 4 and 5 depict the B at

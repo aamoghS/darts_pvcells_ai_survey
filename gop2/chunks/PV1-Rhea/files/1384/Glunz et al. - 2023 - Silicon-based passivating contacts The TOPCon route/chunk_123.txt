@@ -1,0 +1,5 @@
+tatephotoconductancedata.ApplPhysLett.1996;69(17):2510-2512.
+https://doi.org/10.1063/1.117723
+2.WürfelU,CuevasA,WürfelP.Chargecarrierseparationinsolarcells.IEEEJPhotovoltaics.2015;5(1):461-469.
+https://doi.org/10.1109/jphotov.2014.2363550
+3.BivourM,MessmerC,NeuselL,etal.Principlesofcarrier-selectivecontactsbasedoninducedjunctions.In:33rdEuropeanPhotovoltaicSolarEnergyConferenceandExhibition;2017:348-352.4.OnnoA,ChenC,KoswattaP,BoccardM,HolmanZC.Passivation,conductivity,andselectivityinsolarcel

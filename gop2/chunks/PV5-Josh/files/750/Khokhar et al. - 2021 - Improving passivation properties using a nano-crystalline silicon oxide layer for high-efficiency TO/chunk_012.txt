@@ -1,0 +1,6 @@
+2 
+layer on the c-Si wafer surface capped by a phosphorus-doped nanocrystalline silicon oxide (nc-SiO
+x
+). The plasma-enhanced chemical vapor deposition (PECVD) system of (SNTEK company) with a frequency of 13.56 MHz, was used for the growth of the nc-SiO
+x 
+layer. The PECVD process has the advantage that it allows single-sided deposition instead of the wrap-around deposition observed during the low-pressure chemical vapor deposition process [22]. Moreover, the temperature stability of passivati

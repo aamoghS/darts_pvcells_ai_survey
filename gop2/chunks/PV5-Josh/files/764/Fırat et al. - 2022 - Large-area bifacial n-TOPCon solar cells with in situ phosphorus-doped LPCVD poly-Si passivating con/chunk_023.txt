@@ -1,0 +1,9 @@
+ referred to as the t
+poly 
+screening experiment. For this purpose, solar cells with a large area of 241.3 cm
+2 
+were prepared using n-type Cz wafers with the structure illustrated in Fig. 1a), following the process flow in Fig. 1b). After random pyramid texturing and cleaning, a ~1 
+
+m-deep homogeneous p-type emitter with a sheet resistance of 110 / was realized by BBr
+3 
+diffusion, followed by the removal of the borosilicate glass (BSG) in a solution containing diluted hydrofluoric acid (HF

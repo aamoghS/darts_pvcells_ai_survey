@@ -1,0 +1,15 @@
+ of the whole module PV cell is constant and can be seen as 
+THS
+ = 
+Tcell
+ 
+Ta+RTHcellSirr
+ . In this condition, the PV cell works under Solar irradiation 
+Sirr
+ and represents solar PV cell in forward biased condition. Hence, power dissipation is negligible, and cell temperature depends only on Solar irradiation,
+Sirr
+ . 
+Ta
+ is known to be the ambient temperature of the module.Equationa(10) illustrates the shaded PV cell entering hotspot condition (t ≥ 
+tHS
+ ). Under this condition, two phe

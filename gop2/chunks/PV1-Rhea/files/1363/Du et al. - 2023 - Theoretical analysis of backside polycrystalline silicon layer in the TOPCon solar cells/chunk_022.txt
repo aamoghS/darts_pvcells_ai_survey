@@ -1,0 +1,7 @@
+ several other experiments [26–29]. Jeong et al. [30] found a deep-level trap states near 0.35–0.5 eV above the valence band of the poly-Si thin film deposited by LPCVD method, and believed that it was related to the additional band-gap energy states formed near the SiO
+2
+/poly-Si interface during laser annealing. The poly-Si defect states in the n
++
+-type polysilicon layers are Gaussian distributed, as detailed in Table 2. In the Table 2, E
+s 
+is the defective energy level. 3.Results and di
