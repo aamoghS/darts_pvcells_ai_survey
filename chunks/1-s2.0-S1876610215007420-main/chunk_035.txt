@@ -1,3 +1,0 @@
- they are neglected. Overall heat loss coefficient is nothing but the top loss coefficient for CPC. 
-3064   Atul A. Sagade et al.  /  Energy Procedia   57  ( 2014 )  3058 – 3070 
- 3.2 Calculation of Heat loss coefficient trough with glass cover:- Evaluation procedure of heat loss coefficient is very tedious and iterative.  Based on large number of cases scientist have developed empirical correlation to calculate heat loss by simple equation. Empirical equation suggested by Malhotra et al. �7

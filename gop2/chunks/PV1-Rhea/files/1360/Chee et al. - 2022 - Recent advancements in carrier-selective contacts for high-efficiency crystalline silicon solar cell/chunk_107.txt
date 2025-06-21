@@ -1,38 +1,0 @@
-ons (n) or holes (p) in the active re
--
-gions in which front contact optical transparency is vital [96]: V
-oc
-≡
-E
-FN
-�E
-FP
-e=
-k
-
-TeIn(
-((n
-0
-+n)(p
-0
-+p)n
-0
-p
-0
-)(7)  where n
-0 
-or p
-0
-is the equilibrium electron or hole concentration, respectively, and the excess carrier density implies V
-oc 
-commensurate with the separation of the quasi-Fermi levels E
-FN 
-and E
-FP 
-at the n and p regions, respectively. As much as the 
-npn
-0
-p
-0 
-ratio increases through carrier injection effects, V
-oc 

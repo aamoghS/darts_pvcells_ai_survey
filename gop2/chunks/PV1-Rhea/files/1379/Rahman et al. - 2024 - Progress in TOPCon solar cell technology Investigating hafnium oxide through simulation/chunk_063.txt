@@ -1,3 +1,0 @@
-tanding how passivation layers affect carrier dynamics [18]. Post-simulation analysis involves critical device parameter assessment and optimization to enhance performance. Comparing simulated results between SiO2 and HfO2 passivated TOPCon solar cells enables a comprehensive evaluation of their efficiencies, carrier lifetime, and surface recombination rates. This simulation process empowers researchers and engineers to thor
--
-oughly analyze and optimize solar cell performance, driving the devel

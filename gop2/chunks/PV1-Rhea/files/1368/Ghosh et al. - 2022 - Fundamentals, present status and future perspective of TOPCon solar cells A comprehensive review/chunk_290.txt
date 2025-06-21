@@ -1,9 +1,0 @@
-cells with ion-implanted homogeneous boron emitter based on industrial grade n-type CZ wafers were fabricated with a power conversion efficiency of 21.4% having V
-oc 
-=674 mV, J
-sc 
-=39.6 mA/cm
-2
-, and FF =80.0% [111]. The authors further added that carrier recombination at front metal/p
-+
-interface limits the efficiency potential of this cell structure. However, 2D simulation study revealed that application of fine line metallization and selective emitter technology may significantly maximize t

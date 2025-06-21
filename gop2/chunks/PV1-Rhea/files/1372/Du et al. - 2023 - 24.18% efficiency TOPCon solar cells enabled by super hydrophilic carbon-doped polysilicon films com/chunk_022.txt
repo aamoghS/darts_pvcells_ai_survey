@@ -1,5 +1,0 @@
-ALD) and PECVD, respectively. After defining the front electrode pattern by photolithography, the Ti/Pd/Ag seed layer was deposited by electron-beam evaporation and then it was thickened by plating. The pattern of the Ni/Cu/Sn electrode with a line width of 15 
-
-m on the rear side of the devices was defined using photolithography. Then, the Ni layer served as a seed layer, and a barrier layer for Cu was directly plated on the polysilicon film at a current density of 30 mA/cm
-2 
-for 2 min. The C

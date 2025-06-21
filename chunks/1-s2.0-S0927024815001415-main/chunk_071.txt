@@ -1,2 +1,0 @@
-.J.Verlinden,Design,fabricationandcharacterisationofa24.4%efcientinterdigitatedbackcontactsolarcell,Prog.Photovolt.(2014),http://dx.doi.org/10.1002/pip.2556.[43]A.Fell,A.Surve,E.Franklin,K.Weber,Characterisationoflaser-dopedloca-lisedp-nJunctionsforhighefciencysiliconsolarcells,IEEETrans.ElectronDevices61(2014)1943–1949.[44]A.Richter,S.W.Glunz,F.Werner,J.Schmidt,A.Cuevas,Improvedquantitativedescriptionofaugerrecombinationincrystallinesilicon,Phys.Rev.B86
-(2012)165202.X.Yangetal./SolarEnergyM

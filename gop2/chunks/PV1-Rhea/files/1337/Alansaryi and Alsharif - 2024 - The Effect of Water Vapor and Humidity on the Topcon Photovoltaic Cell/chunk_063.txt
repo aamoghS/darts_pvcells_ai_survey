@@ -1,8 +1,0 @@
-d that a significant reduction in 
-energy is observed at a power output of 0.43 
-W for every 1 API point increment. In order to support the adoption 
-of PV technology in the ASWAN region, this value provides such tangible evidence of additional factors that 
-should be taken into account in PV modeling [27].
- 
-Through dropwise condensation or rain falling on their cover, droplets can affect the performance of solar 
-photovoltaic (PV) cells. This study explores this effect experimentally. Dew form

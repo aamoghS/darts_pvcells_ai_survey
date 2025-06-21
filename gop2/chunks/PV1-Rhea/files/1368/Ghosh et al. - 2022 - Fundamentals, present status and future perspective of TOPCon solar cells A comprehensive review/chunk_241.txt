@@ -1,5 +1,0 @@
-gion [92]. Electrical separation in between the solar cell base and sphere gratings was realized by inserting an ultra-thin tunnel oxide passivating contact (TOPCon) layer at the interface. Keeping planar front surface with double-layer anti-reflecting coating, a significant gain in current density of about 1.4 mA/cm
-2 
-was observed when sphere grating was used at the flat rear side of the solar cell. As a result, the best TOPCon cell showed a power conversion efficiency of 22.1% with V
-oc 
-=710

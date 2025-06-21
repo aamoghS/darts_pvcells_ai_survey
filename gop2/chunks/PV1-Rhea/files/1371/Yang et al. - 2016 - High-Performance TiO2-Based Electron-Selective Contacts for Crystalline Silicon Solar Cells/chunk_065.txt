@@ -1,4 +1,0 @@
-76 mV and FF of 80.7% have been achieved with a full-area SiO 2 /TiO 2  contact, due to the stable surface passivation and reduced contact resistivity at 
-the rear Si/SiO 2 /TiO 2  contact during the FGA annealing.  In summary, we developed a high-quality, low-cost TiO 2 -based electron-selective contact for silicon solar cells. The 
-implementation of the TiO 2 -based contacts reduces the surface recombination and contact resistivity at the silicon and metal 
-interface simultaneously, resulting 

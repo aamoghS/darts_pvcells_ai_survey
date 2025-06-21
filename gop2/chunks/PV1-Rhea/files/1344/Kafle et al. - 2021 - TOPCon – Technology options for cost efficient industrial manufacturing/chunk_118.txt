@@ -1,5 +1,0 @@
-0.2 (340 kWh/m
-2
-a)   
-Table 5 Total production yield of process routes. Process yield is calculated by multiplying the individual yield of each processing step, with the related equipment, over the processing route.  
-Process route Yield Bifacial p-PERC LPCVD TOPCon_exsitu LPCVD TOPCon_insitu PECVD TOPCon_high PECVD TOPCon_low APCVD TOPCon_high APCVD TOPCon_low 98.47% 98.24% 98.36% 98.36% 98.46% 98.36% 98.46%   B. Kafle et al.                                                                     

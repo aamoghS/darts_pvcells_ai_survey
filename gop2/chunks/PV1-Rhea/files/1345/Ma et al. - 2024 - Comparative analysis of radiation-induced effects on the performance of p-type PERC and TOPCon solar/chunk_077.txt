@@ -1,7 +1,0 @@
- while the latter predominantly influences FF behaviour. A higher electron fluence resulted in a higher radiation-induced defect density, which explains the V
-oc 
-difference between electron fluences at the same acceptor concentration. With a decrease in substrate doping level, there was an observable rise in the minority carrier concentration, leading to an increased SRH recombination due to radiation-induced defects, despite identical defect profiles (e.g. 1 ×10
-14 
-cm
-�2
-) at each acceptor

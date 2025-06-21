@@ -1,3 +1,0 @@
-ver, significant amount of blisters were found to be formed when the doped a-Si:H layer was deposited by PECVD technique at 300, 370 and 450 
-◦
-C, despite low hydrogen content. This phenomenon may be attributed to the formation of porosity and increment of moleculer-hydrogen tapping centres at higher substrate temperature. Lin et al. claimed that use of PECVD coated carbon-doped poly-Si layer instead of doped poly-Si layer to form the TOPCon structure might be another suitable approach to rest

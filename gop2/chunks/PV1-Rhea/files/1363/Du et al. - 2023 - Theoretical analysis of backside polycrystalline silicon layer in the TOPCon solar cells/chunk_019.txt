@@ -1,5 +1,0 @@
-e 1. All the following parameters are cor
--
-responding to the real solar cell. At the p
-+
--type emitter, its thickness is 30 nm which is related to the optimized selective emitter doping profile. The structure of poly-Si itself leads to many defect in its band gap [19]. In most of the papers [20,21], the defect distribution in poly-Si is modeled similarly. Exponentially distributed band tailed states and Gaussian distributed donor-like defect states and acceptor-like defect states. But the actua

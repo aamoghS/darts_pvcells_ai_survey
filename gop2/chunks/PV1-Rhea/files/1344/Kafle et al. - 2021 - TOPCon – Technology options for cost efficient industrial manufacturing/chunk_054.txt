@@ -1,3 +1,0 @@
- is typically expected to increase the costs for passivation process, as seen for LPCVD TOPCon exsitu. However, for LPCVD TOPCon insitu, process costs are lowered by combining high temperature annealing with oxidation in a single process step. Metalli
--
-zation costs include screen-printing of pads (Ag) and grids (Al and Ag/ Ag-Al), and the fast-firing process. For bifacial p-PERC cell, the laser contact opening and regeneration process steps are also included in the ‘Metallization’ category.

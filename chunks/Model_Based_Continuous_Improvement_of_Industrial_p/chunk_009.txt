@@ -1,9 +1,0 @@
-ent p-type solar cells with PERC technology available in the market within the next few years. 
-  
-Fig. 1. Efficiency roadmap for our PERC technology; based on device simulations. 
- 
-2.
- 
-Technological optimizations 2.1.
- 
-Front side metallization According to our roadmap, the first step is the optimization of the front side metallization. We used standard single-print screen printing technology to circumvent the higher process complexity of double printing, hence busbars and fingers are printed

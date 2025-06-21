@@ -1,5 +1,0 @@
-Ali, Prof. W. V. Schoenfeld  Department of Materials Science and Engineering 
- University of Central Florida 
-  Orlando  ,   FL    32816  ,   USA   DOI: 10.1002/adma.201600926passivation, but also extracts one-type of carrier efﬁ ciently by a simple 1D carrier transport. The incorporation of CSCs into 
-silicon solar cell contributes to cell efﬁ ciency (excellent surface passivation at both contact and noncontact regions resulting 
-in a high open-circuit voltage  V  oc , and simpliﬁ ed curr

@@ -1,3 +1,0 @@
-red while performing the simulations. Finally, the authors pointed out that for low impurity concentration, higher power conversion efficiency may be attained if the wafer thickness and base resistivity are kept higher than 150 
-
-m and 1 -cm, respectively. On the other hand, minimization of the carrier recombination losses at the surface of the emitter may be realized by reducing the doping concentration at the emitter. In contrast, high doping concentration is required to obtain high lateral 

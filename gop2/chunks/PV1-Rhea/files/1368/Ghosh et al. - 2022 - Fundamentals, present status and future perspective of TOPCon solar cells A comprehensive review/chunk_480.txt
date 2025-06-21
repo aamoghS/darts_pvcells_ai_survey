@@ -1,5 +1,0 @@
-chter, R. Eberle, J. Polzin, F. Feldmann, M. C. Schubert, M. Hermle, Life(time) at the limits – very high lifetimes in crystalline silicon measured by photoconductance and photoluminescence, in: Proceedings of the 38th European Photovoltaic Solar Energy Conference and Exhibition, 2021. [89]R. Peibst, Y. Larionova, S. Reiter, M. Turcu, R. Brendel, D. Tetzlaff, J. Krügener, T. Wietler, U. H¨ohne, J.D. K¨ahler, H. Mehlich, S. Frigge, Implementation of N
-+
-and P
-+
-polo junctions on front and re

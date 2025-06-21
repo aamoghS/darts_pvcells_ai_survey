@@ -1,5 +1,0 @@
-ow 13.5–18.6% higher All-in Cell costs and 3.6–5.5% higher All-in Module costs in comparison to PERC benchmark, calcu
--
-lating with equivalent module manufacturing costs for all concepts. The additional cost for TOPCon module is mainly related to a higher CAPEX and facility-related costs for the cell production facility, a significantly higher process consumable costs in the cell processing due to the addi
--
-tional process steps required compared to a PERC cell, and the higher price of n-typ

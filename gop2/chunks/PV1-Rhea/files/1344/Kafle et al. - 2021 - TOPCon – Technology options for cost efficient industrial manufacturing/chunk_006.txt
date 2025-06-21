@@ -1,3 +1,0 @@
- readiness of process technologies used in PERC is widely believed to provide an easy transition of PV in
--
-dustry towards the higher efficiency cell concepts such as TOPCon. Another potential advantage of carrying this evolutionary approach is the possibility of upgrading the existing PERC production lines for TOPCon processing with addition of minimum number of process steps, provided that the required area is available in the PERC facility. Formation of tunnel oxide and deposition of intrinsi

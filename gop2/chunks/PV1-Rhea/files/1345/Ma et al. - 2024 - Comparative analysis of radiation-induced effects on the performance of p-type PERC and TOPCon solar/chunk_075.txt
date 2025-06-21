@@ -1,7 +1,0 @@
-ffect being more pronounced in the case of the PERC architecture. Notably, the variation in EOL J
-sc
-, although not shown, exhibited marginal increments with increasing substrate resistivity, thereby discounting its contribution to the observed EOL efficiency trends. The pivotal factors responsible for the observed EOL efficiency behaviour were narrowed down to the EOL V
-oc 
-and FF. Evidently, the V
-oc 
-response of the PERC cell shown in Fig. 9(a) exhibited similarity to that of the p-TOPCon cel

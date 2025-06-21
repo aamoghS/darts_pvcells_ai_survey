@@ -1,3 +1,0 @@
-with ZnO: Al/SiO
-2 
-front electrodes reaching a conversion efficiency of 23%, IEEE J. Photovolt. 9 (1) (2018) 34–39, https://doi.org/10.1109/ JPHOTOV.2018.2873307. [155]L. Gong, C. Zhou, J. Zhu, W. Wang, Passivation characteristics of new silicon oxide, IEEE J. Photovolt. 9 (6) (2019) 1873–1879, https://doi.org/10.1109/ JPHOTOV.2019.2929445. [156]H. Geng, et al., Advanced passivation techniques for Si solar cells with high- dielectric materials, Appl. Phys. Lett. 105 (12) (2014), 123905, ht

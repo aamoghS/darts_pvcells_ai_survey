@@ -1,8 +1,0 @@
-ash device production costs. Further, bifacial n-Si PERT solar cells make use of a thin and uniform BSF layer achieved by phosphorus doping. So far, strategies to increase the performance-to-cost ratio have included optimization of the tunnel SiO
-2 
-and poly-Si layer thicknesses, or of the phosphorus diffusion process (see Fig. 10) for the passivated contact structure to attain a high 
-
-eff 
-and to minimize free carrier ab
--
-sorption effects [195],[196]. In lieu of Ag paste printing and firing 

@@ -1,3 +1,0 @@
-ric field, affecting charge separation and cell efficiency. Research into these charges aims to refine the passivation layer, optimizing solar cell effi
--
-ciency [38,39]. Simulating Tunnel Oxide Passivated Contact (TOPCon) solar cells with different passivation layers, such as silicon dioxide (SiO2) and hafnium oxide (HfO2), involves intricate computational models to predict and analyze the cell’s behavior and performance [20]. These simulations play a pivotal role in understanding how these l

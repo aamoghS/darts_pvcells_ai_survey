@@ -1,3 +1,0 @@
-de layer and doped a-Si layer may provide an excellent conversion effi
--
-ciency of as high as 22.8%; indicating the viability of using PECVD tool for the mass production of the of doped a-Si layer [86]. Furthermore, as per ITRPV report, PECVD will gradually grab the market share of LPCVD process for the development of a-Si/poly-Si layer [19]. In recent times, Feldmann et al. demonstrated that screen-printing compatible a-Si(n) layers may be developed by using PECVD technology [128]. The recombin

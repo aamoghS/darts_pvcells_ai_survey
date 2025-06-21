@@ -1,5 +1,0 @@
-a
--
-ters to better control of the oxygen stoichiometry to attain superior crystallinity and optical transparency [141,142]. The presence of defects and IL band mismatch, however, represents technological challenges in obtaining high stability and efficiency performance. Therefore, there has been a range of attempts to overcome these problems. Recently, Mallem et al. [143] thermally evaporated stoichiometric MoO
-x 
-films of high broadband optical transmittance, allowing the demonstration of 20-% 

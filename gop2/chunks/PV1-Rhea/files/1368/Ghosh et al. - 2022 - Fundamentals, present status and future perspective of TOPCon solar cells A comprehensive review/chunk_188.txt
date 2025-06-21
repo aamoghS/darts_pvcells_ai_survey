@@ -1,5 +1,0 @@
-een initiated by the researchers to reduce the temper
--
-ature of the required annealing process and/or find a suitable alternative method for fulfilling the purpose for which annealing is done [71,72]. For example, in 2018, Masuda et al. reported that reduction of crystal
--
-lization temperature and time may be realized by using aluminium-induced crystallization (AIC) technique for the development of doped poly-Si layer to form p-TOPCon structure [71]. The authors further added that improvement i

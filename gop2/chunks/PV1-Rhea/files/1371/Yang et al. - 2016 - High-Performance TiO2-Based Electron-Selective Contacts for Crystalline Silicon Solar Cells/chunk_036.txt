@@ -1,4 +1,0 @@
-tion, as they 
-may introduce fewer interface defects compared to crystalline 
-TiO 2  ﬁ lms. Additionally, the Si–O–Ti bonding at the TiO 2 /Si interface might be broken at a temperature higher than 250 °C. To form the front contact, unfortunately, n-type solar cells fea-
-turing a full-area TiO 2  contact have to be subjected to a ﬁ nal FGA annealing at ≥300 °C, which causes the TiO 2  passivation degradation at the rear side resulting in a lower  V  oc  (638 mV) than expected.  Inspi

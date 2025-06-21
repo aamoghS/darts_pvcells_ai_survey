@@ -1,3 +1,0 @@
-ntact
-resistivity.Thelinesareguidestotheeyes.X.Yangetal./SolarEnergyMaterials&SolarCells150(2016)32–3835
-(0.25cm2,whichisconsideredtobedominatedbytheTiOx/n-Siinterface,hasbeenachievedwithaTiOxlmthickness(4.5nm.ForgreaterTiOxthicknesses(5.5nm),ρcincreasesquicklyto0.75cm2.TheTiOxlmbulkresistivitymayhaveahighercontributiontothetotalρcforTiOxthicknessesZ5.5nm.AlthoughtheseTiOx/n-Siheterojunctionsexhibitmuchhighercontactresistivitythandiffusednþ/n-Sihomojunctions,theyarestillacceptableforfu

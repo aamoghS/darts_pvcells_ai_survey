@@ -1,3 +1,0 @@
-eferences. 
-The ratios of the values of Pmpp and FF after TC 200 to the initial values are depicted in Fig. 5. The relative power loss of the reference module might partly be due to light induced degradation, but is however < 3 %, and passes therefore the IEC criterion which allows a relative loss of < 5 %. The relative power loss during TC200 is even < 2 % for all demo modules with PVD metallized PERC cells. The presented solderable metallization therefore shows a 
-good stability during 200 cyc

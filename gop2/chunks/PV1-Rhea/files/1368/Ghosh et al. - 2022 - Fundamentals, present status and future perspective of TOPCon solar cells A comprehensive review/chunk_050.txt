@@ -1,7 +1,0 @@
-f impurities in c-Si bulk is strongly dependent on the wafer thickness too. Finally, after optimizing the wafer thickness and resistivity, 25.7% (V
-oc 
-=725 mV, J
-sc 
-Fig. 3.Schematic diagram of tunnel oxide passivated contact (TOPCon) solar cell [20]. 
-D.K. Ghosh et al.                                                                                                                                                                                                                                
-=42.

@@ -1,5 +1,0 @@
-position (PECVD) is a well-proven technology in PV in
--
-dustry to deposit dielectric passivation layers, and one of the most promising candidates for a-Si deposition. In fact, ITRPV predicts a fast adoption of this a-Si deposition technology in expense of LPCVD in the near-future [42]. PECVD deposition of a-Si layers offers higher deposi
--
-tion rates in comparison to LPCVD technology, thereby promising cost-effectiveness. Another advantage of using PECVD is a possibility of in-situ doping of a-S

@@ -1,5 +1,0 @@
-modeling the band structure, carrier transport, recombination rates, and optical properties, among other factors [21]. Parameters such as the interface quality between SiO2 and silicon, surface recombination ve
--
-locities, and charge carrier lifetimes are critical aspects evaluated through the simulation. The simulation aims to predict how SiO2 in
--
-fluences the band alignment at the SiO2-Silicon interface, its effect on carrier transportation, and the reduction of recombination losses [22]. It 

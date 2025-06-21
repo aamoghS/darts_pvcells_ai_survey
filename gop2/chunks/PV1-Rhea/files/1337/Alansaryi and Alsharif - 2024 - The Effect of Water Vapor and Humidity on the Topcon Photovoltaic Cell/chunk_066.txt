@@ -1,7 +1,0 @@
-t angles θi ≤ 30°. Nevertheless, the presence of droplets resulted in a 
-significant decrease in the PV cells' maximum power and energy conversion efficiency for incident angles θi > 
-30°, especially when it came to l
-arge droplet contact angles and/or surface area coverage. The reason for this 
-decline in performance was that the light from the incident source was refracted through the droplets rather than 
-being completely absorbed by the solar cell at the cover/air int
-erface. The study

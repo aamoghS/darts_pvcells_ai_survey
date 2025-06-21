@@ -1,3 +1,0 @@
-more, to replicate the measured V
-oc
-, a hole carrier lifetime of 2.23 ms was found for the substrate. P-type silicon solar cells have demonstrated enhanced resilience to radiation when compared to those fabricated on n-type substrates [2] and this explains their dominance in early space missions as well as for terrestrial solar cells. In order to establish an equitable comparison against the PERC structure, the configuration of the n-TOPCon cell shown in Fig. 2(a) underwent slight modifications

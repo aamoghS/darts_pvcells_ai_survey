@@ -1,7 +1,0 @@
-ing, a-Si deposi
--
-tion, high temperature annealing, and the SSE process. For all TOPCon concepts, polysilicon layer thickness of 150 nm is assumed for TCO calculation. In Fig. 9, calculated All-in cell costs (left), All-in module costs (cen
--
-ter), and LCOE (right) for the aforementioned bifacial p-PERC, and TOPCon process routes featuring LPCVD, PECVD and APCVD technol
--
-ogies are shown. Looking at the calculated TCO values, TOPCon- concepts show 13.5â€“18.6% higher All-in Cell costs and 3.6â€

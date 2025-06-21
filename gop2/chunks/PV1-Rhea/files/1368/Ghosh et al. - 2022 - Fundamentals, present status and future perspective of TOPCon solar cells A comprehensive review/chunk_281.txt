@@ -1,5 +1,0 @@
-athway towards achieving a power conversion efficiency of more than 23% based on p-type CZ Si wafers with p-type or n-type passivated contact was presented. Recently, Zheng et al. reported about the detailed loss mechanisms occurred in large area 24.8% (Voc ≈714.6 mV, Jsc ≈41.59 mA/cm
-2 
-and FF ≈83.43%) efficient n-TOPCon solar cells fabricated onto n-type, 0.3–2.1 -cm, monocrystalline, CZ Si wafers with an active cell area of 267.7 ±1.1 cm
-2 
-[110]. According to the report, a total J

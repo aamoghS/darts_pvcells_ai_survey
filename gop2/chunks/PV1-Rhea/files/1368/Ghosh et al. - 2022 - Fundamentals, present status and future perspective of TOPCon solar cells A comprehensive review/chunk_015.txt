@@ -1,7 +1,0 @@
-simulation study Peibst et al. predicted that the power conversion efficiency of this (POLO)
-2 
-IBC solar cells based onto standard p-type, FZ c-Si wafers may be as high as 27.8% (without photonic crystals) or even 29.1% (with photonic crystals) [17]. However, involvement of complex and expen
--
-sive processing steps, less throughput etc. need to be addressed before going into mass production of IBC solar cells featuring (POLO)
-2 
-structure at rear. On the other hand, The capital expenditure (CAP

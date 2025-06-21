@@ -1,3 +1,0 @@
-e interfacial defect states and facilitated the formation of the carrier collection layer. Furthermore, by implementing the optimized parameters obtained from the experimental results the authors performed a simulation study with the help of Quokka 3 simu
--
-lation tool and the study revealed that a very high conversion efficiency of beyond 25% may be achieved with their proposed cost-effective cell structure. 6.3.Post-crystallization treatment The post-crystallization treatment is mainly a proce

@@ -1,4 +1,0 @@
-10 
-
-m  M. Du et al.                                                                                                                                                                                                                                      
-band gap of poly-Si. In addition to the crystallization rate, doping also affects the band gap of poly-Si, for example, when the amorphous silicon is doped with germanium, the amorphous silicon band gap will be decrease when doped with carbon, then

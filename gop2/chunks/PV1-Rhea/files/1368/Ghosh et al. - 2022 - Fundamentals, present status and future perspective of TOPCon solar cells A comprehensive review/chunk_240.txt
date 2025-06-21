@@ -1,3 +1,0 @@
-r ablation technique. Therefore, to overcome the loss in J
-sc 
-and to obtain better power conversion efficiency, full area metal contacts may be replaced by laser ablated and electroplated local metal contacts based onto textured TOPCon surfaces. In 2015, Eisenlohr et al. revealed that use of hexagonal sphere gratings at the rear side of the solar cells may significantly enhance the internal reflection of the passing light at higher wavelength region [92]. Electrical separation in between the so

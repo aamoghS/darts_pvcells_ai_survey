@@ -1,5 +1,0 @@
-) PERC and (b) p-TOPCon. The values were normalized to the BOL performance. 
-F.-J. Ma et al.                                                                                                                                                                                                                                   
-type silicon. The p-type silicon bulk is simulated assuming no recom
--
-bination due to boron-oxygen complex by using gallium as the dopant. The effects of electron irradiance on so

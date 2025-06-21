@@ -1,7 +1,0 @@
- different annealing conditions  TiN type 10 min 350°C 10 min 400°C
-��
-15 min 425°C
- 
-Unstuffed TiN ok fail  
-Atmospherically stuffed TiN ok ok ok 
-Table 3 shows, that samples with the optimized TiN barrier, deposited at 30 kW and 230°C, can successfully be soldered with sufficient adhesion after a moderate annealing step of 10 min at 350°C (denoted ‘ok’ in Table 3), but fail solder attempt or peel test after annealing for 10 min at 400°C (denoted ‘fail’ in Table 3). In contras

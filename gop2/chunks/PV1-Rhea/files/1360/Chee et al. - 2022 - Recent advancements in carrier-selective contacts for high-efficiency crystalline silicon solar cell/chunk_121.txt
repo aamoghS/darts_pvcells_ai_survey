@@ -1,7 +1,0 @@
-tric stacks also afford excellent passivation and simultaneous electron-selective properties on the n-type SHJ solar cell [124,125]. Finally, electron-selective, passivating contacts based on SiO
-x
-/n-poly-Si have also been reported [10,11,96], which are able to overcome high D
-it 
-and dopant diffusion issues, etc. Charge transfer from monocrystalline-Si to poly-Si through the ultrathin SiO
-x 
-layer is possible while the doping present in the poly-Si increases the conductivity, thereby represent

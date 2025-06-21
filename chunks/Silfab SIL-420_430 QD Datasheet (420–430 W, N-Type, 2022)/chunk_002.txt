@@ -1,14 +1,0 @@
-coating
-Cables and connectors (refer to installation manual)
-1350 mm, ø 5.7 mm, MC4 from Staubli
-53.1 in, ø 0.22 in (12 AWG), MC4 from Staubli
-Backsheet
-High durability, superior hydrolysis and UV resistance, multi-layer dielectric film,                                                                            
-fluorine-free PV backsheet
-Frame
-Anodized aluminum (Black)
-Junction Box
-UL 3730 Certified, IEC 62790 Certified, IP68 rated, 3 diodes
-TEMPERATURE RATINGS
-Temperature Coeicient Isc
-0.04

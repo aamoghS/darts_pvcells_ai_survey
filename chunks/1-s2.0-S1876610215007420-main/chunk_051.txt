@@ -1,6 +1,0 @@
-57
-585960
-61
-Collector Efficiency(%)
- Atul A. Sagade et al.  /  Energy Procedia   57  ( 2014 )  3058 – 3070 3067
- Fig.5 Variation of Wind velocity, overall heat loss coefficient, total heat loss and collector efficiency  5.3 Relation between receiver temperature, outlet water temperature, total heat loss and collector efficiency  From fig.6, it is observed that, the receiver temperature is one of the contributing factors affecting the collector efficiency. Regression eq.(C) explore the relatio

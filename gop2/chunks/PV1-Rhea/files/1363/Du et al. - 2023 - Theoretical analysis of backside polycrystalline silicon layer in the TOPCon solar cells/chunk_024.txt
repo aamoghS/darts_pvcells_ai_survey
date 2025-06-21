@@ -1,3 +1,0 @@
-on solar cells In TOPCon solar cells, poly-Si layer has a great impact on the quality of the cell. Current research focuses on phosphorus doping concentra
--
-tion and tunneling oxide layer thickness, while often ignoring the impact of poly-Si band gap width and defect in poly-Si on TOPCon solar cells. At present, the main manufacturing technology of poly-Si in TOPCon solar cells back field layer is LPCVD or PECVD. As to poly-Si fabricated by LPCVD, the band gap width is difficult to adjust. But b

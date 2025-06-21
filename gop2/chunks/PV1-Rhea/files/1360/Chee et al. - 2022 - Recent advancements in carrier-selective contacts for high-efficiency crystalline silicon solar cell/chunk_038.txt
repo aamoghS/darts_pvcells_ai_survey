@@ -1,9 +1,0 @@
-o far of 22.1% [41] and 23.5% [38] for the electron-selective TiO
-2 
-and hole-selective MoO
-x 
-contacts, respectively, based on a full-area contact structure. When using TiO
-2
--
--
-based ECLs in a partial rear contact structure, efficiencies have reached as high as 24.1%, comparable to that using selective phosphorus-diffused emitters of state-of-the-art commercial cells [42]. In efficient DASH solar cells, surface accumulation is induced by a thin dielectric layer using fixed charges of opposite

@@ -1,7 +1,0 @@
-x values for SiO2 and HfO2 layers presents a critical aspect of understanding and optimizing mate
--
-rial properties for enhanced cell efficiency. Utilizing the ATLAS Silvaco simulation software, a comprehensive methodology was employed to accurately model these values, incorporating detailed geometrical con
--
-figurations of the solar cell, intrinsic material parameters, and varying optical properties across the relevant wavelength ranges. This simula
--
-tion effort was underscored by the objectiv

@@ -1,9 +1,0 @@
- influence the work reported in this paper. Acknowledgment The authors acknowledge funding from German Federal Ministry for Economic Affairs and Energy within the project TOPCon Cluster under the contract number 03EE1065A. The authors have no conflicting in
--
-terests to declare.  APPENDIX  
-Table 3 Production parameters  
-Input Assumed Value Operating Time / utilization  Annual production capacity  Product: Glass-glass module Wafer type Cell 
- 
-(PERC / TOPCon) Module 
- 
-(PERC / TOPCon) Module 

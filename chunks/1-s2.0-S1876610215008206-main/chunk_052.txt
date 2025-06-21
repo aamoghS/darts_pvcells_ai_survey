@@ -1,2 +1,0 @@
-aporated Al. Additionally, a thermal aging investigation 
-predicts a long-term stability of the solder connection in a module on a German site for a duration of 30 years if a layer thickness of 150 nm Ag is used. Furthermore, demo modules are fabricated from 4 PERC cells in 156 mm format each, which show to be stable after 200 cycles of thermal cycling.  We therefore present an annealing and long-term stable PVD rear metallization scheme which is suitable for most high-efficient silicon solar ce

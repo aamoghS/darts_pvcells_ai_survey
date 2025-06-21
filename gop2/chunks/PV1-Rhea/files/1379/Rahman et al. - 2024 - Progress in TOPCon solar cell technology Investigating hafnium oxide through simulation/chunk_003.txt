@@ -1,3 +1,0 @@
- applications, high
--
-lighting its crucial role in enhancing TOPCon solar cell performance. Utilizing ATLAS Silvaco software, the study anticipates a 21.3% increase in charge carrier lifetime through optimized HfO2 layers, addressing challenges in interface engineering and scalability. Innovative research integrates hafnium oxide (HfO2) into TOPCon solar cells, marking a leap in photovoltaic technology. Utilizing ATLAS Silvaco simulations, it shows that HfO2 layers can significantly enhance cell

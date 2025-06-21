@@ -1,5 +1,0 @@
-gh ultra-thin SiO
-x 
-tunneling layer In 2016, Peibst et al. reported about various other notable observa
--
-tions apart from the lateral homogeneous tunneling at carrier selective passivated poly-Si/c-Si junctions [6]. Firstly, excellent passivation quality was realized at poly-Si/c-Si junctions irrespective of the tunneling barrier height ratio for the charge carriers. Secondly, TEM study demonstrated the change in the structural properties such as local thickness reduction, formation of pinhole

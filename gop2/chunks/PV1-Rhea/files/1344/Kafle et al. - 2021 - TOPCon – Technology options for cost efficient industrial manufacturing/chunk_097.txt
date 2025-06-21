@@ -1,4 +1,0 @@
-radiation of 1700 kWh/m
-2
-a. For the n-TOPCon concepts, a higher bifaciality of 80% is assumed in comparison to p-PERC (70%) for the calculation of the LCOE under bifacial irradiation (Albedo: 0.2). (For interpretation of the references to colour in this figure legend, the reader is referred to the Web version of this article.) 
-B. Kafle et al.                                                                                                                                                          

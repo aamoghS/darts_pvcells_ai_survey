@@ -1,9 +1,0 @@
- of thickness and/or doping concentration of doped poly-Si layer Feldmann et al. observed that an enhancement in free carrier ab
--
-sorption (FCA) at heavily doped poly-Si layer due to the increment of the doping concentration and thickness of poly-Si layer may play a vital role in the reduction of short-circuit current density (J
-sc
-) of TOPCon solar cells [80]. For example, solar cells with 145 nm thick doped poly-Si layer suffered from a J
-sc 
-loss of 0.53 mA/cm
-2
-. The corresponding doping co

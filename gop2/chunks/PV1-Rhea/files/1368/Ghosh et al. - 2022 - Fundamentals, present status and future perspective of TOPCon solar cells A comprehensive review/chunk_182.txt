@@ -1,7 +1,0 @@
-tly, in 2022, Mousumi et al. claimed to realize a very low J
-0 
-of 3 fA/cm
-2 
-and an iV
-oc 
-of 712 mV for hydrogenated n-type passivated contacts in which the doped silicon layer was prepared by APCVD technique [68]. Physical vapour deposition (PVD) techniques such as sputtering were used for the development of doped silicon layer [69,70]. Yan et al. in their study developed in-situ boron doped silicon films to realize hole-selective passivated contacts by using a single co-sputtering system whi

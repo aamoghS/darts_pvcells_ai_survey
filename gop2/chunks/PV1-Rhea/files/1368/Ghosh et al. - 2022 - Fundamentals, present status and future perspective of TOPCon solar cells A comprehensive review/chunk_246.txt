@@ -1,5 +1,0 @@
-tion velocities at front emitter/ metal interface is another way to enhance the performance of the TOPCon solar cells. Therefore, fabrication of both sided passivated contact solar cells is an appealing approach for the researchers as dis
--
-cussed in the earlier section [26–30]. However, both sided tunnel oxide passivated contact based solar cells generally suffer from parasitic ab
--
-sorption of light particularly at lower wavelength region due to presence of doped poly-Si layer at the front s

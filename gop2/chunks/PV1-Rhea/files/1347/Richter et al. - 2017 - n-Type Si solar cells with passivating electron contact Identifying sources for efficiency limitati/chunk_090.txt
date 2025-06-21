@@ -1,4 +1,0 @@
-J.Bullock,Y.Wan,M.Hettick,J.Geissbuhler,A.J.Ong,D.Kiriya,D.Yan,T.Allen,J.Peng,X.Zhang,C.M.Sutter-Fella,S.D.Wolf,C.Ballif,A.Cuevas,A.Javey,Survey
-ofdopant-freecarrier-selectivecontactsforsiliconsolarcells,in:Proceedingsofthe43rdIEEEPhotovoltaicSpecialistsConference,Portland,OR,USA,2016,pp.
-210–214.[10]M.Hermle,Passivatedcontacts,in:A.Reinders,P.Verlinden,W.vanSark,
-A.Freundlich(Eds.),PhotovoltaicSolarEnergy,JohnWiley&Sons,Ltd,Chichester,UK,2016,pp.125–135.[11]M.Taguchi,A.Yano,S.Tohoda,K.Matsu

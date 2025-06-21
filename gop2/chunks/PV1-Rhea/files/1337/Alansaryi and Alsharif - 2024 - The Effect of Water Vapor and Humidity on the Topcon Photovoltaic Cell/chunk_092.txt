@@ -1,9 +1,0 @@
- to find moisture intrusion in modules are dark lock in thermography, 
-photoluminescence, ultraviolet fluorescence, and electr
-oluminescence spectroscopy. There are several methods 
-to prevent or detect moisture ingression in PV modules, including encapsulants with superior moisture barrier and 
-adhesion properties, desiccant
--
-stacked polyisobutylene sealants, embedded moisture senso
-rs, and PV designs with 
-or without breathable back sheets. The study also offered a number of recommendations i

@@ -1,4 +1,0 @@
-%TOPCon Effective Lifetime [µs]Minority Carrier Density [cm-3]intrinsic limitiVoc=725 mV
-Fig.2.Injection-dependentcarrierlifetimecurveofn-TOPConafterannealingat8001C,1handhydrogenpassivation.
-Table1Overviewofthechampionefciencyofeachsolarcellgeneration.Then-typesolarcellsfeatureaboron-diffusedemitterandthetunneloxidepassivatedrearcontact.
-ThesolarcellresultsexceptforthepFFwereindependentlyconrmedbyFraunhoferISECallab.Thecellareais22cmandthemeasurementconditionisaperturearea.Voc(mV)Jsc(mA/cm

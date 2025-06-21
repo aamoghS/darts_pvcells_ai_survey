@@ -1,5 +1,0 @@
-iency (Fig. 6). The J�V (current-voltage) characteristics play a pivotal role in evaluating the operational efficiency and potential of solar cells, particularly those of the TOPCon (Tunnel Oxide Passivated Contact) type. These metrics offer crucial insights into the solar cell’s perfor
--
-mance under varying operational conditions, offering critical data on its efficiency and power output. Efficiency stands as a key metric, show
--
-casing a solar cell’s capability to convert incident light 

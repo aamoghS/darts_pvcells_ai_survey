@@ -1,5 +1,0 @@
-ptical confinement in
--
-side the solar cells. Therefore, after observing the above mentioned re
--
-sults, one may easily realize the importance of this high efficiency TOPCon solar cell in the PV industries. In the following section, we shall discuss about the both sided TOPCon solar cells. 3.Both sided TOPCon structure based on p-type c-Si wafers In industrial perspective, p-type Si wafers are more common in comparison with n-type Si wafers due to their cost-effectiveness. Therefore, development

@@ -1,8 +1,0 @@
-  
-4-terminal dark J-V measurements, an exponential rise in the contact resistance at lower temperature was observed for the passivating con
--
-tacts featuring chemically grown homogeneous ultra-thin silicon oxide layer and phosphorous doped poly-Si layer. The corresponding anneal
--
-ing temperature for the dopant activation and crystallization was 800
-◦
-C. This non-linearity in the J-V characteristics of the passivating contacts may be attributed to the MIS (metal-insulator-semiconductor) theor

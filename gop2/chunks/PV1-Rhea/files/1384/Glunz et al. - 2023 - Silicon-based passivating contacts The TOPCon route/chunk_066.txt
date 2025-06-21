@@ -1,8 +1,0 @@
-tedplasmaoxidationprocessesandthermaloxidationreferenceforinterfacialSiOxinTOPConOxideTemperaturePlasmapowerCarriervelocitytoxide(C)(kWpeak)(cm/min)(nm)TO600--1.2PO14001751.1
-PO24001.6751.6
-PO34001.61501.4Note:toxiderepresentsthemeanvalueofthreemeasurementson10sampleseach,standarddeviationwas<0.1nmandthereforeneglectable
-small.Abbreviation:TOPcon,tunneloxidepassivatedcontacts.
-FIGURE6
-MolarfractionofN1sandSi2pbindingstatesofanativeoxide,thermallygrownoxide(TO)andnitrousplasmaoxide
-(PO1)
-348GLUN

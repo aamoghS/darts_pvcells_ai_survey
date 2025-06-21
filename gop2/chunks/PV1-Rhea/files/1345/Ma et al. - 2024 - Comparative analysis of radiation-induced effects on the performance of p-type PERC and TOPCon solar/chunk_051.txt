@@ -1,9 +1,0 @@
-emmed from BO defects, suggesting the potential for efficiency enhancements through improved bulk minority carrier lifetimes. With an electron lifetime increased by fivefold post BO deactivation, the pseudo efficiency increased by 0.7 % absolute for both PERC and p-TOPCon. This incremental trend persisted for J
-sc
-, V
-oc 
-and FF as substrate resistivity increased, aligning with expectations. At a doping concentration of 10
-14 
-cm
-�3
-, a pseudo efficiency increase of 1 % absolute was observed f

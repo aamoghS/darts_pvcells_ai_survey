@@ -1,4 +1,0 @@
-TICLE INFO  
-Keywords: Carbon-doped polysilicon TOPCon Copper electroplating Metallization Surface wettability Super hydrophilic 
-ABSTRACT  
-Electroplating technology which has the potential of reducing silver consumption and lowering fabrication costs has been widely used in the photovoltaic (PV) devices. However, the poor wettability of the polysilicon film limits the application of the electroplating technology on tunnel oxide passivated contact (TOPCon) solar cells (SCs). In this work, we pr

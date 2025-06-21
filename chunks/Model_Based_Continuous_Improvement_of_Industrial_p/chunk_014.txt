@@ -1,2 +1,0 @@
-high-ohmic Cz wafers are used which are textured, diffused and passivated identically on both sides and finally fired in a belt furnace. J0e is derived using the procedure of Kane and Swanson [5] in combination with the quasi-steady state photoconductance (QSSPC) method [6]. For the evaluation the Richter Auger model and Band-gap narrowing (BGN) is used [7], i.e. the effective intrinsic carrier density depends on the boron doping concentration. 
-518   Gerd Fischer et al.  /  Energy Procedia   77

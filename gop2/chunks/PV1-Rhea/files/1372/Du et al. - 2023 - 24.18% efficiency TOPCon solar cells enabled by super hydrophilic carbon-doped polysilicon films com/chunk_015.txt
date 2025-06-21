@@ -1,7 +1,0 @@
-i seed layer. The experimental results confirm that the C-doped polysilicon shows good wettability with a super hydrophilic contact angle of about 0
-◦
-. As a result, the uniform, dense, and void-free Ni seed layer was ob
--
-tained, suggesting good physical contact between polysilicon films and metal electrodes. Moreover, the TOPCon lifetime sample with such a double-layer polysilicon design shows excellent passivation with the highest implied open-circuit voltage (iV
-oc
-) of 745 mV and good con

@@ -1,3 +1,0 @@
- Supporting Information). The very low 
- S  eff  values achieved by a 5.5 nm TiO 2  ﬁ lm are comparable to the reported value for Si/SiO 2  interface. [ 22 ]  The results demonstrate that ultrathin TiO 2  ﬁ lms can provide excellent surface passiva-tion to silicon surfaces, which can be attributed to the forma-
-tion of Si–O–Ti bonding at the Si/TiO 2  interface [ 23 ]  as well as the potential negative charge density in the TiO x  ﬁ lm. [ 24 ]  There-fore, silicon solar cells with a fu

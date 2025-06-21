@@ -1,7 +1,0 @@
-simulation phase [10]. A summary of typical settings, encompassing the modelling of fixed charge density and intrinsic surface recombination velocity (SRV) across diverse dielectric passivation schemes, is presented in Table 1. Moreover, the tunnel oxide was set to 1.2 nm and the electron and hole tunnelling masses were set as 0.42 m
-0 
-and 0.33 m
-0 
-[11], respectively, with m
-0 
-signifying the rest mass of a free electron. The parameters governing Shockley-Read-Hall (SRH) recombination [12] wer

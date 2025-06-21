@@ -1,5 +1,0 @@
-reases, leading to higher efficiencies. However, it’s imperative to optimize the finger pitch to keep the series resistance sufficiently low. To conveniently gauge the influence of enhanced SRH lifetimes coupled with lower doping concentrations across both archi
--
-tectures, Suns-V
-oc 
-simulations were undertaken, thereby mitigating the influence of series resistance. As evident from Fig. 4, initial limitations in both PERC and p-TOPCon cells stemmed from BO defects, suggesting the potential fo

@@ -1,4 +1,0 @@
-                                                                                                                            
-5.2.LCOE sensitivity to cell efficiency For the TCO calculations performed in the last section, an efficiency gain of 0.5%
-abs. 
-is assumed for TOPCon-concepts against the mainstream PERC cell. Meanwhile, it is intuitive to compare the LCOE costs of PERC and TOPCon production at different conversion efficiency levels. Fig. 10 compares the nominal LCOE costs for p-PERC cell

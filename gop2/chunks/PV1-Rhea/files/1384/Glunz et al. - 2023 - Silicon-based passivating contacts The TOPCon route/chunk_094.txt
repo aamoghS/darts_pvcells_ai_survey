@@ -1,5 +1,0 @@
-uredwithand
-withoutwrap-aroundetch,respectivelyVoc(mV)Jsc(mA/cm2)FF(%)FF0-pFF(%)Rp(kcm2)η(%)w/etch69840.380.51.131.322.7w/oetch69340.378.82.31.322.1
-w/-w/o501.71.230.00.6Note:Thelastrow(inboldemphasis)isthedifferencebetweenrow1androw2.Abbreviation:TOPcon,tunneloxidepassivatedcontacts.
-FIGURE12
-(A)ProcesssequencestofabricateaSi-basedtunnelingjunction(SiTJ)basedontunneloxidepassivatedcontacts(TOPCon)withfurnaceanneal(“SiTJ”)andwithoutfurnaceannealusingonlyasinglerapidthermalprocess(“fired

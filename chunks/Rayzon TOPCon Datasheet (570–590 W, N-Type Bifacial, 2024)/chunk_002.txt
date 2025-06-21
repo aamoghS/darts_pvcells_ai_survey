@@ -1,8 +1,0 @@
-ent ratings should be selected as per actual Bifacial gain at site (module currents indicated below)]
-Nominal Maximum Power (Pmax)           Module Short Circuit Current / EfficiencyNominal Maximum Power (Pmax)           Module Short Circuit Current / EfficiencyNominal Maximum Power (Pmax)           Module Short Circuit Current / Efficiency
-5%
-10%
-25%
-599 W14.21 A / 23.21 %627 W14.89 A / 24.29 %713 W16.92 A / 27.63 %
-604 W14.27 A / 23.40 %633 W14.95 A / 24.53 %719 W16.99 A / 27.86 %
-609 W14.33 A

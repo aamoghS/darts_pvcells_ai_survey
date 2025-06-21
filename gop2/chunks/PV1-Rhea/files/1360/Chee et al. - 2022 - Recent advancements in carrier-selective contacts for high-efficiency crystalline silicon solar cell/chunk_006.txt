@@ -1,2 +1,0 @@
-mitter and rear polysilicon (PERPoly), towards TOPCon architectures, due to high manufacturing yields and compatibility with large-area metal screen printing and alternative bifacial designs.   
-Abbreviations: TOPCon, Tunnel oxide passivated contact; SHJ, Silicon heterojunction; IBC-SHJ, Interdigitated back contact silicon heterojunction; c-Si, Crystalline silicon; a-Si:Hi, Intrinsic hydrogenated amorphous silicon; a-Si:Hp, P-type hydrogenated amorphous silicon; a-Si:Hn, N-type hydrogenated amor

@@ -1,6 +1,0 @@
-rofiling <2 0.5  D.K. Ghosh et al.                                                                                                                                                                                                                                
-Through the improvement of individual cell parameters i.e., V
-oc
-, J
-sc 
-and FF the enhancement in PCE (Power conversion efficiency) of any solar cell structure may be realized. In the similar way, the power output of TOPCon solar cells can 

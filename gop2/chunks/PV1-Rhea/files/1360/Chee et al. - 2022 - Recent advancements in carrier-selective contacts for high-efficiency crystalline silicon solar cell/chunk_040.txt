@@ -1,3 +1,0 @@
-ith dopant-free CSCs [8,43]. By moving the front contact grids to the rear of the device, front surface shadowing losses are avoided to achieve a high short-circuit current density (J
-SC
-) as in the case of the IBC design. IBC-SHJ solar cells are also equipped with effective field-effect passivation and optimal CSCs, earning the highest efficiencies of more than 25% [12,44]. However, IBCs are more difficult and expensive to fabricate, requiring the development of low-temperature metallization an

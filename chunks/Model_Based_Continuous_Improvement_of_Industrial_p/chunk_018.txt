@@ -1,3 +1,0 @@
-base we used standard screen printing technologies. We selected a 5 busbar design with the identified optimal 49 μm finger openings. The emitter 
- Gerd Fischer et al.  /  Energy Procedia   77  ( 2015 )  515 – 519 519
-with optimized passivation II (see Fig. 3) and a selectively doped emitter (see Fig. 3) underneath the grid lines are used.  Currently our best median efficiency of a 200 wafer group processed in our clean room environment at Solarworld Innovations GmbH with the above discussed o

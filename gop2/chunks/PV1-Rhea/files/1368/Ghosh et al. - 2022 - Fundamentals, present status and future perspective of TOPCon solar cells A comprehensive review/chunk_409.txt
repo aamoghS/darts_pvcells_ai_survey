@@ -1,3 +1,0 @@
-itative representation of: ‘’ for favourable/possible with different degree, ‘×’ for not favourable/not-possible [127].  
-Characteristics/Technology Thermal UV- O3 Plasma HNO3 DI- O3 Dry or wet processing Dry Dry Dry Wet Wet In-situ growth with poly-silicon deposition  × ××Thermal stability       
-Table 11 Overview of available a-Si/poly-Si deposition technologies and qualitative comparison based upon available literature. The symbols used represent: ‘‘for favoura

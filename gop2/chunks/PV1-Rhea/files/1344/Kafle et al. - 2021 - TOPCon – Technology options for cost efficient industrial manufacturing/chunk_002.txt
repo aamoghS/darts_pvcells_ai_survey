@@ -1,3 +1,0 @@
-uring of TOPCon-based solar cells after assessing various process routes based on currently production-ready and upcoming future alternative process technologies. Our techno-economic assessment suggests that higher capital and operational costs required for TOPCon concept is distributed un
--
-evenly in the process value chain, with a significant fraction in diffusion/annealing and metallization steps. Nevertheless, under given assumptions, TOPCon-concepts are found to remain economically competit

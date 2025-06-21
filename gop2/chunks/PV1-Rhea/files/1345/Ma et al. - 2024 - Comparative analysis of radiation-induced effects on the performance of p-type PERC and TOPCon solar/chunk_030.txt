@@ -1,3 +1,0 @@
-) measurements [21], revealing the presence of two donor defects and three acceptor defects. The energy levels and capture cross-sections associated with these defects were directly adopted within simulations as listed in Table 3. Additionally, the introduction rate of each defect was rigorously calibrated by modelling a 50 
-
-m space cell [3]. A simplified modelling approach for the back-surface field and reflector (BSFR) structure was adopted as described in Ref. [22]. The specification of int

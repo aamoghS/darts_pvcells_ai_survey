@@ -1,9 +1,0 @@
-ontact formation are expected to drive further reduction of poly-Si thickness in future. 
-Table 1 Overview of oxidation technologies to form tunnel oxide layer. The symbols used are qualitative representation of: ‘‘for favourable/possible with different degree, ‘’ for not favourable/not-possible.  
-Characteristics/ Technology Thermal [10,24,29] UV-O
-3 
-[21, 23] Plasma [26,28, 30] HNO
-3 
-[23,24, 31] DI- O
-3 
-[23] Dry or wet processing Dry Dry Dry Wet Wet In-situ growth with polysilicon 

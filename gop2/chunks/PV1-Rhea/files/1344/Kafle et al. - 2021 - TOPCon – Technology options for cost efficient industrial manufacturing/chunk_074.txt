@@ -1,9 +1,0 @@
-urthermore, in-situ doping is reportedly easily ach
--
-ieved by directly inserting doping precursors in the SiH
-4 
-flow, and cell integration results are also reported [35]. In Fig. 7, normalized COO of the discussed deposition technologies is plotted against varying thick
--
-ness of the a-Si layer. It can be observed that COO of the deposition process scales signif
--
-icantly with the thickness of the a-Si layer. For LPCVD technology, process costs for the a-Si(n) reduce more with the deposition t

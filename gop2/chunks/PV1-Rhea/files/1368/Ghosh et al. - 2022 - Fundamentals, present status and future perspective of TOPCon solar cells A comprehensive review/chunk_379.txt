@@ -1,5 +1,0 @@
-ce the recombination current density at the front side is the implementation of selective emitter technology [25]. Besides, the bulk carrier recombination needs also to be reduced to attain higher V
-oc 
-value. Bulk recombination may be minimized by improving the quality of the base wafer along with adopting proper cleaning procedure to decrease the defect density within the base ma
--
-terial. Although excellent passivation quality has already been realized by TOPCon/POLO structure still continuou

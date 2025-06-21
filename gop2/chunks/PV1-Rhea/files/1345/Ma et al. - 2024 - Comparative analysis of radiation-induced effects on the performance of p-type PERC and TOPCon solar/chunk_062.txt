@@ -1,5 +1,0 @@
-ecay from the front to the rear side. With this assumption, favourable concordance with all EQE results was achieved, as depicted in Fig. 6(a). The depth factor characterizing the exponential function was estimated to be approximately 960 
-
-m. Given this relatively large depth factor, the defect density at a depth of 50 
-
-m is only 5 % lower than that at the front surface. This finding aligns with the conventional assumption of a uniform defect distribution throughout the substrate. It is impo

@@ -1,7 +1,0 @@
-tions made by Guo et al. [39]. Also, the simulation results demonstrated that suitable amount of carrier transport through pinholes may maximize the FF and thus the power conversion efficiency of the TOPCon solar cells (when the thickness of SiO
-x 
-layer is greater than 1.2 nm). Generally, for a thicker SiO
-x 
-layer solely quantum mechanical tunneling can’t provide sufficient carrier transport channels and due to which series resistance (R
-series
-) value gets increased. This resulted in obtain

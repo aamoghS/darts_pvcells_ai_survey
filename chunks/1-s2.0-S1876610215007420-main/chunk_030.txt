@@ -1,3 +1,0 @@
-ulations   
-The performance of CPC is assumed for same radiation flux along the length of negligible heat drop across absorber tube and glass.The analysis of CPC is done by studying energy balance equation on an elementary slice dx of absorber tube, at a distance x from inlet, yields following equation 1 [11, 12, 13] for steady state  �×�ä�à�×�ã
-��L���+�Õ�N�Õ�:���9F�&�â�;�é�Û�:�ì�Ù�;�ÕE���+�Õ�N�Õ�&�â�:��

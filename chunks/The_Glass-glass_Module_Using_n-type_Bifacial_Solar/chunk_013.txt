@@ -1,7 +1,0 @@
- doping profiles for B and P respectively to suit the surface passivation. 
-752   Qingzhu Wei et al.  /  Energy Procedia   92  ( 2016 )  750 – 754 Table 1. IV parameters of nPERT solar cell  Eff (%) Voc (mV) Isc 
- (mA/cm2) FF 
-(%) 
-Mean 20.10 652 38.9 78.9 
-Meanrear 18.21 647 36.2 77.6 Best 20.20 654 38.6 80.0 
- 3.2. Module performance The standard module STC IV measurement was performed by TUV. The median module power was 270 W. Reliability was tested at CPVT.  The PID about 3.5% was obtained

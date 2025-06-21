@@ -1,5 +1,0 @@
- expenses (due to In scarcity and costs) in CSC technologies that could offset the performance efficiency benefits. However, recent investigations re
--
-ported that the Ag paste can be replaced by Cu plating and that ITO can be replaced by ZnO, which will significantly decrease photovoltaic module production costs [152]. 4.1.Cost-effective strategies ITO-free photovoltaics technologies will potentially be an industrial success. Nicolai et al. [153] demonstrated a SiN
-x 
-passivation layer in place

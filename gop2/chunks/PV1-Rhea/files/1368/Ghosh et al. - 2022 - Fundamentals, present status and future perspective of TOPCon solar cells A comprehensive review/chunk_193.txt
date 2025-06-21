@@ -1,3 +1,0 @@
-i:H layer. This accumulation of hydrogen takes place mainly at the time of high temperature annealing process as the doped a-Si:H layer releases its hydrogen content during the high temperature thermal treatment. Formation of blisters is responsible for the degradation of the passivating quality of the TOPCon structure as it introduces in
--
-homogeneity inside the film morphology. Hence, minimization of the blisters formation is essential so that the quality of TOPCon structure is not compromised

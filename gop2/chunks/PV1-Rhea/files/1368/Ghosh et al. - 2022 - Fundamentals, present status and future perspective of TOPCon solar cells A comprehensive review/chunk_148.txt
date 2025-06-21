@@ -1,3 +1,0 @@
-d to the MIS (metal-insulator-semiconductor) theory along with the charge carriers tunneling through the ultra-thin oxide layer. However, a linear J-V characteristic was observed for the TOPCon structures which were annealed at 900
-◦
-C. This phenomenon may be attributed to the occurrence of transportation of the charge carriers through pinholes. Consequently, the authors concluded that the carrier transport mechanism in TOPCon structure with homogeneous or non-disrupted oxide layer is mainly d

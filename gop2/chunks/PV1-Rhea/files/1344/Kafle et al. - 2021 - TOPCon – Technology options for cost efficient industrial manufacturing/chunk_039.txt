@@ -1,9 +1,0 @@
-ion-tail’. The thermal tunnel oxide formed inside LPCVD furnace is reported to be stable enough to withstand the typical tem
--
-peratures (850–900 
-◦
-C) used in the POCl
-3 
-diffusion process [21]. The doping level of poly-Si layer is not only crucial for carrier selectivity, but also to maintain a high lateral conductivity in poly-Si layer, which fa
--
-cilitates easier current transport to metal contacts. However, an excess doping into c-Si substrate should be avoided to limit the Auger reco

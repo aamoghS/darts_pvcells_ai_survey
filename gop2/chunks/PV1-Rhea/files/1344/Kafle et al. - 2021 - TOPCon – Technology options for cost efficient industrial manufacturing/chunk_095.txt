@@ -1,3 +1,0 @@
-isted in Table 4. 
-Fig. 8.Process routes for bifacial p-PERC and both sides contacted n-TOPCon-concepts based upon on PECVD and APCVD-deposited a-Si layers.  
-Fig. 9.All-in cell costs (left), module costs (center), and LCOE (right) calculated for the bifacial p-PERC and n-TOPCon process routes. The TCO analyses of the production includes CAPEX, material and labor costs for a green field production site with an annual output of 5000 MWp/a. Here, the numbers shown for cell concepts in each graph r

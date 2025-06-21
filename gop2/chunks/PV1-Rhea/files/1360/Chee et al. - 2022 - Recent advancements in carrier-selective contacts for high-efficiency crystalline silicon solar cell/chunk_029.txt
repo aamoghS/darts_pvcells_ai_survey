@@ -1,7 +1,0 @@
-OPCon and BSF design complement the screen-printed front surface passivating metal contact. 23%-efficiency was demonstrated on p-Si solar cells with full-area hole-selective passivating rear contact realized by a capping SiO
-x 
-layer on the doped poly-Si film, and also with phos
--
-phorous diffusion for the front side electron-selective contact together with a silicon nitride (SiN
-x
-) anti-reflection/passivation coating [24]. An even higher efficiency of 24.9% was achieved when implementing the b

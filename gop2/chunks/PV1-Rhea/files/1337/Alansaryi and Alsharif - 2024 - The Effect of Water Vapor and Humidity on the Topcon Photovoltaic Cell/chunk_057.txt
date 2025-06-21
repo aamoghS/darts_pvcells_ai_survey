@@ -1,8 +1,0 @@
-riginal PV power generation, respectively. In addition to being a crucial component in the 
-forecasting and sche
-duling of PV power generation, the quantitative analysis of haze on PV power can serve as a 
-solid foundation for the economic assessment of new PV systems [25].
- 
-The number of solar photovoltaic (PV) systems being installed is rising quickly as a sustainable energy source, 
-but environmental factors like dust, bushfire smoke, and urban haze can cause low irradiance conditions and 
-s

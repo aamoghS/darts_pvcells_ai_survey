@@ -1,2 +1,0 @@
-8.FortheWvariation,simulationsresultsareshowforaW-independentNFeaswellasforNFe(W)accordingtoEq.(1).NotethatthesebothNFeassumptionsresultinthesameNFefortheρb-variation(asW=const.=200µm).
-Fig.10.Eectivelifetimeτe(opensymbols)asafunctionofnmeasuredatthenalsolarcell(thecellslistedinTable1).τewasextractedfromSuns-VOCmeasurements.(a)showsτefortheresistivityvariation(W=200µm)and(b)for150µmand400µmthickwafers(ρb=5cm).The▲and-symbolrepresentτeatopen-circuit(OC)andmaximumpowerpoint(mp

@@ -1,3 +1,0 @@
-ORMANCE WARRANTY
-Dimensions        Weight(kg)Cell type / No Of CellFrameFront CoverEncapsulateBack CoverJunction Box Bypass DiodeCableConnectorsApplication Class RatingSafety Class RatingMechanical Load Test  Mounting Holes Pitch (Y)-mmMounting Holes Pitch (X)-mm 
-2278(L) x 1133(W) x 35(T)    33144 Half-cut N-type TOPCon Bifacial Solar cellsAnodized Aluminum Alloy (6005, Temper T6, Silver colour)Low Iron semi-Tempered AR coated Glass (2 mm thick )PID resistant and UV resistant Polymeric FilmLow 

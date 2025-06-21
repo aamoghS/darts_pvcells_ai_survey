@@ -1,5 +1,0 @@
-ency of 24.9% was achieved when implementing the back surface TOPCon on n-type silicon (n-Si) due to effective charge transport properties and concomittant selective conduction and surface passivation [25]. In particular, SHJ and TOPCon cells based on a-Si:H and SiO
-x
-/poly-Si, respectively, have been expensive, but have great potential for production cost reductions, and presently, these ap
--
-proaches and hybrids are rigorously researched and could enter industry to compete with PERC on a cost-

@@ -1,3 +1,0 @@
-s described in Ref. [22]. The specification of introduction rates and defect profiles was achieved through the process of reproducing spectral response and short-circuit current density J
-sc
-, as a function of electron fluence. 3.Results and discussion 3.1.Modelling PERC solar cells A comprehensive suite of characterization techniques, encompassing reflectivity (R), external quantum efficiency (EQE), and light current density voltage (LJV) measurements, was conducted across a dataset comprising 

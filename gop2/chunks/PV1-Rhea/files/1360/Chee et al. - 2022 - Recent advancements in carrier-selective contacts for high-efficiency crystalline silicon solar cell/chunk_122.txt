@@ -1,9 +1,0 @@
-y-Si increases the conductivity, thereby representing a major pathway for the back contact design of n-type SHJ solar cells. Nevertheless, it is well-known that parasitic optical absorption in the UV/visible range on the front surface is significant due to a narrow bandgap ~ 1.6–1.8eV and high defect density, and the lateral resistivity is high when using doped a-Si:H as the passivating layer. Therefore, as hole-selective (electron-selective) contacts, MoO
-x 
-(bilayer SiO
-x
-/TiO
-x 
-or SiO
-x
-/p

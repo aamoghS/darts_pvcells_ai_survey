@@ -1,3 +1,0 @@
-ce applications for the last 20 years. Prior to that, the USA and Europe utilized silicon solar cells to power spacecraft [1–3], while the Soviet Union pursued III-V photovoltaics from the outset [4]. The choice of solar cell technology depends on mission re
--
-quirements, budget constraints, and specific performance criteria. Recently the increased popularity of short-duration space missions has led to a revival in interest in silicon based solar cells as the principal power source. This has r

@@ -1,3 +1,0 @@
-rt et al. developed two types of TOPCon structures (n-TOPCon based onto n-type and p-TOPCon based onto p-type Si wa
--
-fers) and named as “pinhole samples” and “tunneling samples”, respectively to realize the % contribution of current flow caused by pinholes and quantum mechanical tunneling process in each of the samples [55]. In the “pinhole samples” the thickness of thermal oxide was kept as 2.1 nm and the annealing temperature for the formation of TOPCon structure was kept at 1050

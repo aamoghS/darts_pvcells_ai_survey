@@ -1,9 +1,0 @@
-ls. However, the module bill of materials that can be used is expensively limited due to its 
-comparatively lower reliability when compared to Passivated Emitter and Rear Contact (PERC) solar cells. One 
-important factor 
-that is identified as contributing to the relatively low reliability of Topcon modules, especially at 
-high temperatures and humidity, is the use of silver/aluminum (Ag/Al) paste for front
--
-side metallization. But as 
-of late, there has been a compelling alte
-rnative to tradit

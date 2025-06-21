@@ -1,3 +1,0 @@
-sistance and the recombination losses. The well-known correlation between emitter sheet resistance 
-�!
-SH,em and emitter saturation current density J0e can be modified by improved P-diffusion [4] and surface passivation. In Fig. 3 we compare different options for the emitter, including selectively versus directly contacted emitters and different front side passivation options. For the determination of the emitter saturation current density J0e high-ohmic Cz wafers are used which are textured, 

@@ -1,3 +1,0 @@
- Afterwards, front and rear metal
--
-lization is performed by using screen-printing Ag-Al and Ag grids respectively on front and rear sides, followed by the fast-firing process and I–V measurements. Before comparing the TCO results of PERC and TOPCon cells, it is intuitive to closely look at the major difference in process steps for the two investigated TOPCon process routes from cost perspective. In Fig. 4, COO of individual process steps that are not common for both TOPCon routes are plotted,

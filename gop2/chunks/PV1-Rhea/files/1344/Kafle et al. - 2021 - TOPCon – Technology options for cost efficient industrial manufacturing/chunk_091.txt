@@ -1,2 +1,0 @@
-rom Ref. [32]). The symbols used represent: ‘‘for favourable/possible with different degree, ‘’ for not favourable/not-possible, and ‘–’ for work in progress/not yet demonstrated.  
-Characteristics/Technology LPCVD [3–6,29,33] PECVD [1,2,10,30,31,34] APCVD [35,36] PVD [37–40] Evaporation [41] Single-sided deposition      In-situ doping     – Availability of industrial tool     – Process demonstrated in lab-size cells     – Application in l

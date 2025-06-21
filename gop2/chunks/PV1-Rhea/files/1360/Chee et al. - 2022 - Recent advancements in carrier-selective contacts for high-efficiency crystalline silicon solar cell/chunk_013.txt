@@ -1,6 +1,0 @@
-et share in excess of 90%. From the traditional diffused homojunction and large-area metal-semiconductor contact through the more recent tech
--
-nologies, e.g., including back surface field (BSF) and passivated emitter rear contact (PERC) [2,3] key design challenges include tackling contact resistivity (
-
-c
-) and surface recombination losses while focusing on economies of scale and low cost per watt of solar power generation. Whereas Al-BSF technology has been important for the success of the c-

@@ -1,3 +1,0 @@
-lar cell’s capability to convert incident light into useable electrical energy. An efficiency rating of 21.23 % signifies that approx
--
-imately 21.23 % of the incoming sunlight is effectively transformed into electrical power. Short-circuit current Density (Jsc), measured at 43.57 mA/cm2, denotes the maximum current density produced by the solar cell under standard conditions without an external voltage applied in Fig. 7. A higher Jsc signifies superior absorption of incident photons and the g

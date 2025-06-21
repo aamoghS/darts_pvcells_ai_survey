@@ -1,3 +1,0 @@
-ﬁ lms (2.5–5.5 nm) can be deposited within 2 min. To investigate the surface passivation quality of thin TiO 2  on silicon surfaces, symmetrical test structures were fabricated on (100)-oriented 
-n-type (1.0 Ω cm, 190 µm) and p-type (1.0 Ω cm, 250 µm) silicon wafers to allow injection-dependent lifetime measurement utilizing the QSSPC 
-technique. [ 35 ]  The wafers were chemical-polished and RCA cleaned followed by a short dip in diluted HF before TiO 2  ﬁ lm deposition. TiO 2  ﬁ l

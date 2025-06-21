@@ -1,2 +1,0 @@
-1)  with  τ  bulk  being the  c -Si bulk lifetime and  W  the wafer thickness. Here the bulk lifetime can be set to inﬁ nity since a high quality FZ c-Si was used, 
-the calculated  τ  eff  is an upper limit value.   Device Fabrication : The  ρ  c  of Si/TiO 2  and Si/SiO 2 /TiO 2  heterojunctions with different TiO 2  ﬁ lm thickness was measured by the method developed by Cox and Strack. [ 26 ]  The structure, as shown in the inset picture of Figure  3 a, was prepared by depositing TiO 2 

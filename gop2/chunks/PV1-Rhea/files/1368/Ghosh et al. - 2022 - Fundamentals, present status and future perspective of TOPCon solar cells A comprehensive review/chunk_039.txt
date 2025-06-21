@@ -1,5 +1,0 @@
-w of TOPCon solar cell reported by Feldmann et al is given below: Step 1: Selection of shiny-etched 200 
-
-m, <100>oriented, 1 -cm n- type FZ Si wafers (2 cm ×2 cm) Step 2: Cleaning of wafers by standard RCA process Step 3: Diffusion of boron into random pyramid textured front side Step 4: Deposition of 1.4 nm SiO
-x 
-layer (wet chemical process) and subsequent 20 nm phosphorous doped amorphous Si layer (PECVD process) at the rear side Step 5: High temperature annealing (optimized annealing tem

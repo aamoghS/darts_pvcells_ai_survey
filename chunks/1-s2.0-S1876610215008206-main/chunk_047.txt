@@ -1,2 +1,0 @@
-e Table 2 for metallization groups) compared to screen-printed rear metallization after 200 cycles of thermal cycling in relation to initial values. All modules show relative losses < 5 % and therefore pass the thermal cycling test. Therefore, the power output at maximum power point (Pmpp) and the fill factor (FF) are measured before and after 200 cycles of thermal cycling (TC200) and the relative changes are compared to those of screen-printed references. 
-The ratios of the values of Pmpp and F

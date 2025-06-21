@@ -1,6 +1,0 @@
-                                                                                                                                                                                                     
-and possibility of single-sided deposition for PECVD and APCVD con
--
-cepts show great promise towards lowering the cell and module pro
--
-duction costs. At LCOE level, all of the evaluated TOPCon concepts under monofacial illumination show similar values to the p-PERC technology under assumption of low

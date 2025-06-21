@@ -1,5 +1,0 @@
- the valence band remains mostly unoccupied. Photons excite electrons from the valence band to the conduction band, contributing to the cell’s current flow [10]. Conversely, p-type cells exhibit a valence band predominantly occupied by holes, while the conduction band remains mostly unoccupied. Photon absorption gen
--
-erates electron-hole pairs, leading to current flow through hole move
--
-ment. In the evolving landscape of photovoltaic technology, p-type doping continues to play a pivotal role

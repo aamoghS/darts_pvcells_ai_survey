@@ -1,5 +1,0 @@
-://creativecommons.org/licenses/by-nc-nd/4.0/
-).Peer review by the scientific conference committee of SiliconPV 2015 under responsibility of PSE AG
- Julia Kumm et al.  /  Energy Procedia   77  ( 2015 )  374 – 381 375
-compatible with a common solder process after an annealing step that is usually required after cell metallization by PVD at the end of solar cell processing [3]. We are aware that it is crucial to protect the solderable top layer from Al 
-indiffusion since it is the formation of A

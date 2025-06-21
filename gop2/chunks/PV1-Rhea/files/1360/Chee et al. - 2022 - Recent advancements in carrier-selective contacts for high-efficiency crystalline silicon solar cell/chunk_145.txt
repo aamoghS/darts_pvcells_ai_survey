@@ -1,9 +1,0 @@
-turally formed ultrathin indium doped a-SiO
-x 
-(a- SiO
-x
-(In)) layer at the interface that provides effective field-effect passivation, allows excellent charge transport via quantum tunneling and enables a high-performance hole-selective contact [150,151]. The WF offset between ITO (5.06eV) and n-Si (4.35eV) results in a built-in field that facilitates hole-selectivity, whereas the negative charge cen
--
-ters embedded in the a-SiO
-x
-(In) IL due to In ions and oxygen vacancies induce highly asymme

@@ -1,5 +1,0 @@
-t the copper plating technology in mass production, which is mainly due to the poor adhe
--
-sion between plated grids and polysilicon films, leading to reduced de
--
-vice performance and increased risk of peeling and cracking of the plated grids during the subsequent transfer and packaging process [18]. To achieve high-efficiency TOPCon SCs, the rear-side surface of the c-Si substrate is typically textured by a smooth alkali-polished structure to balance the optical and electrical performance with

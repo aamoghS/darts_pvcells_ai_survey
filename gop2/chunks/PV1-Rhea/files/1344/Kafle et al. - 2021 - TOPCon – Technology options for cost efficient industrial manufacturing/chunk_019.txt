@@ -1,3 +1,0 @@
-f the paper. The bottom up total cost of ownership (TCO) calculations are per
--
-formed along the PV value chain by using the internally developed ‘SCost’ model at Fraunhofer ISE [11,12]. The model calculates the cost of ownership (COO) for individual manufacturing process steps at each stage of the PV value chain in accordance with the SEMI standards E35 [13] and E10 [14], and builds a process route considering equipment interdependencies, production overhead costs and cost of capital at the

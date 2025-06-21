@@ -1,7 +1,0 @@
-, the band gap width is difficult to adjust. But by PECVD, the poly-Si’s band gap width can be adjusted by high temperature annealing or doping of C and O. Under different annealing conditions, the crys
--
-tallization rate of amorphous silicon films grown by PECVD is often very different, and the band gap of poly-Si is closely related to the crystalli
--
-zation rate of poly-Si. The higher the crystallization rate, the smaller the 
-Fig. 1.Structure of TOPCon solar cells for the simulation.  
-Tabl

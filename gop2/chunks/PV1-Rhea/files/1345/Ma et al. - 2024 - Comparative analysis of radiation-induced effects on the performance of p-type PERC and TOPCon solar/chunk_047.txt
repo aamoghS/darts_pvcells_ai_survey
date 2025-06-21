@@ -1,4 +1,0 @@
-                                                                                               
-following these adaptations, revealing that the p-TOPCon performance exhibited similarity to its n-TOPCon counterpart, as indicated by the LJV outcomes illustrated in Fig. 3(b). The observed 8 mV reduction in V
-oc 
-was attributed to a substantially lower minority carrier lifetime in p-type vs n-type silicon. The measured and simulated figure of merits are listed in Table 4 for both PERC and TOPCon cel

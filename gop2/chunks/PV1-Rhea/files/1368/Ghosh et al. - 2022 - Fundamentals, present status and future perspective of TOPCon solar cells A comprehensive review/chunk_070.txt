@@ -1,3 +1,0 @@
-s with a greater extent. On the other hand, rear n-TOPCon layer behaves as electron contact. In front sided emitter solar cells, lateral current transport losses within the emitter are quite significant power losses. This power loss may be reduced efficiently in the rear junction TOPCon solar cell structure as it features full area metal contact underneath the doped poly-silicon layer. Lateral current transport within the front sur
--
-face field (FSF) becomes less important because the transporta

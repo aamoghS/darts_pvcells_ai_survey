@@ -1,5 +1,0 @@
- temperatures bolsters the cells’ endurance and performance over time. This attribute signifi
--
-cantly boosts cell efficiency. These factors collectively contribute to HfO2’s preference over SiO2 in the quest for more efficient and durable photovoltaic cells. In the burgeoning field of photovoltaic research, the integration of hafnium oxide (HfO2) into Tunnel Oxide Passivated Contact (TOPCon) solar cells represents a significant advancement to
--
-wards enhancing the efficiency of solar energy

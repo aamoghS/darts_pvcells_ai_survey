@@ -1,5 +1,0 @@
-10 compares the nominal LCOE costs for p-PERC cell with two of the most conservative and most progressive TOPCon concepts, for a range of conversion efficiencies under monofacial illumination conditions. It is observed that at LCOE level, an efficiency gain >0.55%
-abs. 
-is required to achieve an economic advantage for the most conservative TOPCon- concept over p-PERC. For the most progressive case, an efficiency gain of >0.40%
-abs. 
-is sufficient for the TOPCon based cell concepts to remain comp

@@ -1,9 +1,0 @@
-layer. Depending upon annealing conditions, a very good surface passivation was observed which in turn provided a very high implied open-circuit voltage (iV
-oc
-) of above 710 mV and a very low recombination current density (J
-0,rear
-) of about 9–13 fA/cm
-2
-. This novel approach was named as TOPCon (Tunnel Oxide Passivated Contact) structure and the solar cells which comprise of this TOPCon structure are known as TOPCon solar cells. The sche
--
-matic diagram of a TOPCon solar cell is depicted in

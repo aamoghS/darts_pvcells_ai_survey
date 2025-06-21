@@ -1,9 +1,0 @@
- fabrication process sequence of the bifacial TOPCon solar cells [122].  
-D.K. Ghosh et al.                                                                                                                                                                                                                                
-n-type CZ wafers were developed with a power conversion efficiency of 21.6% (V
-oc 
-=676 mV, J
-sc 
-=39.7 mA/cm
-2
-, FF =80.40%). Besides, the solar cells having an effective cell area of

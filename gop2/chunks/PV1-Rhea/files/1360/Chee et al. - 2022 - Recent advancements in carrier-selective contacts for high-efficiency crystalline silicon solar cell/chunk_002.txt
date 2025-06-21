@@ -1,9 +1,0 @@
-n Science and Electronic Engineering, Zhejiang University, Hangzhou 310027, China 
-g
-School of Materials, Sun Yat-sen University, Guangzhou 510275, China 
-h
-Ningbo Institute of Materials Technology and Engineering, Chinese Academy of Sciences, Ningbo 315201, China   
-ARTICLE INFO  
-Keywords: Contact resistivity Surface passivation Carrier selectivity Charge transport Thermal stability Industrial firing 
-ABSTRACT  
-Carrier-selective crystalline silicon heterojunction (SHJ) solar cells have alread

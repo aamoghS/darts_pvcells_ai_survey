@@ -1,3 +1,0 @@
-OPCon route: LPCVD a-Si(n) deposition, inline wet-chemical process for SSE, 
-Fig. 3.Process routes for bifacial p-PERC and both side contacted n-TOPCon-concepts based upon LPCVD a-Si/poly-Si layer.  
-Fig. 4.COO ($ct/Wp) of individual process steps that are unique for TOPCon concepts - LPCVD TOPCon exsitu (left) and LPCVD TOPCon insitu (right). Cell conversion efficiency of 23.5% on M4 size wafers is assumed here for TOPCon concepts to calculate $ct/Wp costs. Here, CYL refers to cost of yield los

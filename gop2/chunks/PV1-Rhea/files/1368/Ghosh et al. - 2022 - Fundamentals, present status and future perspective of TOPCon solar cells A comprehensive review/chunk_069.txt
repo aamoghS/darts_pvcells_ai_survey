@@ -1,5 +1,0 @@
-PCon structure is to use it as rear emitter in p-type c-Si solar cells which is going to be discussed in the following section. 5.TOPCon as rear emitter in p-type Si solar cells The performance of p-type rear junction silicon solar cells with TOPCon rear emitter was investigated both theoretically and experi
--
-mentally [31]. In this cell structure, front p
-+
-layer acts as front surface field (FSF) which improves the collection probability of holes with a greater extent. On the other hand, rear n

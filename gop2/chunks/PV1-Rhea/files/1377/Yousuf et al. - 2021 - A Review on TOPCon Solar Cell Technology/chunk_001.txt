@@ -1,4 +1,0 @@
-Korea2)Department of Electrical and computer Engineering, Sungkyunkwan University, Suwon 16419, Gyeonggi-Do, Korea	
-
-
-ABSTRACT: The tunnel oxide passivated contact (TOPCon) structure got more consideration for development of high performance solar cells by the introduction of a tunnel oxide layer between the substrate and poly-Si is best for attaining interface passivation. The quality of passivation of the tunnel oxide layer

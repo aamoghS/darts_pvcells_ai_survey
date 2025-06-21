@@ -1,3 +1,0 @@
-the omission of front surface field (FSF) as depicted in Fig. 9 may also lead to provide adequate result which in turns simplifies the processing steps of p-type Si solar cells with n-TOPCon structure as rear emitter. Finally, the influence of the lateral conductivity of the front surface field (FSF) on the performance of the solar cell was studied thoroughly. Simulation study demonstrated that the requirement of front surface field (FSF) depends on the bulk re
--
-sistivity of Si wafer. According

@@ -1,7 +1,0 @@
-nitride (SiN
-x
-) layer also serves the purpose of anti-reflection coating (ARC) so that optical confinement inside the solar cell can be enlarged. Using this novel structure, apart from high implied voltage (iV
-oc
-), high implied fill factor (iFF) was also obtained in both maximum power point (MPP) and open-circuit (OC) conditions. In the cell fabrication process, front side metallic contacts were realized by thermally evaporated Ti/Pd/Ag seed layer and subsequent electro
--
-plating of Ag layer. 

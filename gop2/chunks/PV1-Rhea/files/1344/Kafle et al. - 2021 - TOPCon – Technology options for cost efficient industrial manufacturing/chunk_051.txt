@@ -1,3 +1,0 @@
-number of process steps in comparison to LPCVD TOPCon exsitu. 3.3.Comparison of total cost of ownership (TCO) to PERC In Fig. 5, the total cost of ownership of PERC and TOPCon processes is distributed into wet-chemical, diffusion and annealing, passivation, and metallization process categories. Wet-chemical processes include alkaline texturing, CEI, glass removal (PSG/BSG), O
-3 
-cleaning, and SSE of polysilicon layer. It is observed that there is an increase in total COO of the wet-chemical proc

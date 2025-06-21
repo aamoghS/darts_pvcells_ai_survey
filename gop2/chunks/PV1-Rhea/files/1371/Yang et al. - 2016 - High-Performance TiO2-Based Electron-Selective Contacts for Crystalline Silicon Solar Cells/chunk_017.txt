@@ -1,5 +1,0 @@
-dom pyramids has a boron dif-
-fused  p  +  emitter, which was passivated by Al 2 O 3 /SiN  
-x   stack. The front ﬁ ngers were prepared by thermal evaporation of a Cr/Pd/Ag seed layer and subsequent electroplating of Ag. The 
-rear side features a full-area TiO 2  (4.5 nm) or tunnel SiO 2 /TiO 2  (1.2/3.5 nm) contact. This full-area contact allows a low process 
-complexity and a simple 1D current ﬂ ow pattern at the rear. A control cell with directly Si/Al contact at the rear side was fabri-ca

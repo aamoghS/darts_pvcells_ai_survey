@@ -1,7 +1,0 @@
-) exhibited similarity to that of the p-TOPCon cell depicted in Fig. 9(b) concerning the effects of substrate doping and electron fluence. How
--
-ever, the PERC cell displayed a more pronounced decline in FF compared to the p-TOPCon cell for lightly doped substrates. These behaviours can be attributed to the creation of SRH defects and the removal of majority carriers, as discussed in Section D. The former primarily governs vari
--
-ations in V
-oc
-, while the latter predominantly influences FF beha

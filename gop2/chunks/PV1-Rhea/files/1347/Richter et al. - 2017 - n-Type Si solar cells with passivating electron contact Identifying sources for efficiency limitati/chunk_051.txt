@@ -1,3 +1,0 @@
-externalquantumeciencyEQE,reectanceRandtheinternalquantumeciencyIQEofcharacteristiccellsfeaturingthethreedierentwaferthicknessesstudiedinthiswork.
-Fig.7.Parallel(shunt)resistanceRpextractedfromtheslopeofthedarkI-Vcurvesaround300mV.(a)showsRpfortheρbvariationand(b)fortheWvariation.
-3Forinstance,Cr,Fe,Co,Ni,CuandAuhaveaveryhighdiusivityinc-Si[44,45,47],whichismorethan8ordersofmagnitudehigherthan,forinstance,thediusivityofBinc-Si.Duetothishighdiusivity,theseimpuritiesdiuse>200µmalreadyaft

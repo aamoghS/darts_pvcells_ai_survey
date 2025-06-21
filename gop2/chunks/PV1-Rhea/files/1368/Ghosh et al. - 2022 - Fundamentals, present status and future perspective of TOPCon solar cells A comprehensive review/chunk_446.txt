@@ -1,3 +1,0 @@
- 110389, https://doi.org/10.1016/j.solmat.2019.110389 article id. [39]X. Guo, M. Liao, Z. Rui, Q. Yang, Z. Wang, C. Shou, W. Ding, X. Luo, Y. Cao, J. Xu, L. Fu, Y. Zeng, B. Yan, J. Ye, Comparison of different types of interfacial oxides on hole-selective p
-+
--poly-Si passivated contacts for high-efficiency c-Si solar cells, Solar Energy Mater. Solar Cells 210 (2020), 110487, https://doi.org/10.1016/j. solmat.2020.110487. [40]N.C. Mandal, S. Biswas, S. Acharya, T. Panda, S. Sadhukhan, J.R. Sharma

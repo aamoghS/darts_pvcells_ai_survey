@@ -1,7 +1,0 @@
-ifacialmodule.In:37thIEEEPhotovoltaicSpecialistsConference,pp.001827–001831
-.
-Kreinin,L.,Bordin,N.,Karsenty,A.,Drori,A.,Eisenberg,N.,2010.Outdoorevaluationofpoweroutputimprovementofthebifacialmodule.In:37thIEEEPhotovoltaicSpecialistsConference,pp.001827–001831
-.
-Mason,N.B.,Bruton,T.M.,2000.Comparisonof12monthkWh/kWpenergyoutputtestingoftwodifferentcrystallinesiliconcelltechnologieswithannualsalesofover20MWp.In:IEEEPhotovoltaicSpecialistsConference,pp.1479–1482
-.
-Robles-Ocampo,B.,Ruiz-Vasqu

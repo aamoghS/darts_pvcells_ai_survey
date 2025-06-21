@@ -1,8 +1,0 @@
-vation. Appling the concept of interdigitated back contact into HIT solar cells, in 2014 Sharp first developed HBC (Heterojunction Back Contact) solar cells with a conversion efficiency of 25.1% [9]. By applying the similar concept Panasonic developed HBC solar cells with a conversion efficiency of 25.6% (V
-oc 
-=740 mV, J
-sc 
-=41.8 mA/cm
-2 
-and FF =82.7%), the record efficiency at that time for crystalline silicon based solar cells [10]. The active cell area of the developed cells was 143.7 cm
-2

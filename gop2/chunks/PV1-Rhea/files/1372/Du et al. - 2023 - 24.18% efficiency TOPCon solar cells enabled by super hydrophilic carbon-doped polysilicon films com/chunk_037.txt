@@ -1,5 +1,0 @@
-mote the device performance [27,29–34]. Therefore, using the C-doped poly
--
-silicon in this study will also benefit from the abovementioned advan
--
-tages, and thus achieve the high-efficiency TOPCon SCs. In addition, the improved surface wettability of polysilicon demonstrated in this study also provides an effective way to address the film deposition for other polysilicon-based devices such as perovskite/TOPCon tandem SCs [35, 36]. The passivation quality of lifetime samples with the double-l

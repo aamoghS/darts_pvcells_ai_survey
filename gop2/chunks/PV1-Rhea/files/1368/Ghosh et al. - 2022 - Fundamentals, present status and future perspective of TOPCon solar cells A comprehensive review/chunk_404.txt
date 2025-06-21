@@ -1,7 +1,0 @@
-metal oxides with low work function may serve the purpose of contact layers to n-TOPCon where as dopant free high work function metal oxides such as MoO
-x
-, WO
-x 
-may be used as contact layers to p-TOPCon [20]. Secondly, use of these transition metal oxides must provide excellent surface passivation quality, minimum contact re
--
-sistivity and high thermal stability. Thirdly, suitable deposition method has to be adapted so that the uniformity and integrity of ultra-thin oxide layers do not get al

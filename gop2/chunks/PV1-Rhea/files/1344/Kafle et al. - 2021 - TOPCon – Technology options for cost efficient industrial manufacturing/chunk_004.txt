@@ -1,3 +1,0 @@
-emitter and rear cell (PERC)-concept. The cell architecture is based on the concept of ‘passivating and carrier selective contacts’, where the recombination of minority charge carriers is suppressed by a stack of thin tunnel oxide and heavily-doped polysilicon (poly-Si) layers. The efficiency potential of this concept is already proven in laboratory scale solar cells by reaching open circuit voltages (V
-OC
-) of up to 725 mV and conversion efficiencies over 26% [2,3]. Moreover, initial indust

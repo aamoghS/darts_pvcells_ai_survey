@@ -1,4 +1,0 @@
-emical passiva-
-tion of SiO 2  and ﬁ eld-effect passivation of the TiO 2  ﬁ lm, which is similar to that of a-Si:H and SiO 2 -based CSCs. When the TiO 2  ﬁ lm is too thin, the ﬁ eld-effect passivation is deﬁ cient, and holes are not repelled enough from the interface. This results in 
-a low level passivation of SiO 2 /TiO 2  stacks with a thin TiO 2  cap-ping (2.5 and 3.5 nm), and a much better surface passivation is 
-achieved with a thicker TiO 2  capping (4.5 nm). FGA annealing can i

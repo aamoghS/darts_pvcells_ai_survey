@@ -1,5 +1,0 @@
-showed a very high mi
--
-nority carrier lifetime of 190 ms. Additionally, the study further revealed that better result was obtained when the low frequency PECVD coated doped poly-Si layer was combined with thermally grown ultra-thin interfacial tunnel oxide layer instead of combining with chemically grown oxide layer. On the other hand, Polzin et al. also ob
--
-tained almost similar results by using low frequency batch-type direct plasma PECVD tool to realize doped Si layer for the formation of T

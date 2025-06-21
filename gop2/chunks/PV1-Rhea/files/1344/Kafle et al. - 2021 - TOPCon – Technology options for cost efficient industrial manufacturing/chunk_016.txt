@@ -1,3 +1,0 @@
-rent and future technology options for the mass production of TOPCon solar cells will be discussed. 2.Approach We focus on TOPCon architecture featuring screen-printed contacts on both-sides of n-type Si substrate as they promise the highest potential gain in conversion efficiency over the bifacial p-PERC-concept, with the best prospects for mass production. The investigated cell architecture is shown in Fig. 1. The TOPCon solar cell is based on an n-type c-Si substrate with boron (p
-+
-) emitter

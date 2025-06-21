@@ -1,2 +1,0 @@
-ﬁ lm (2.5 nm) can signiﬁ cantly reduce the  S  eff  from 10 6 –10 7  (Si/Al contact directly) to ≈56 cm s −1 . As TiO 2  ﬁ lm thickness increases from 2.5 to 5.5 nm, the measured τ eff  (at the injection level of 10 15  cm −3 ) increases from 170 to 850 µs. The calculated  S  eff  reduces from 56 to 11 cm s −1  accordingly. Ultrathin TiO 2  ﬁ lms also can provide excellent surface passivation on p-type surfaces (see Figure S1, Supporting Information). The very low 
- S  eff  v

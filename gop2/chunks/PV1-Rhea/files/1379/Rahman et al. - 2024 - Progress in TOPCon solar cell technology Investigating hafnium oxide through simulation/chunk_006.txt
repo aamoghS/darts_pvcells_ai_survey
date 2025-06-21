@@ -1,4 +1,0 @@
-   
-1.Introduction Hafnium oxide (HfO2) holds substantial promise in semiconductor manufacturing, promising advancements in electronic device efficacy and performance. Its incorporation into specialized solar cell technol
--
-ogy, such as Tunnel Oxide Passivated Contact (TOPCon) cells, aims to enhance the efficiency of solar energy conversion [1]. TOPCon cells are meticulously designed with specialized passivation techniques, featuring contacts on both front and rear sides to curtail recombination
