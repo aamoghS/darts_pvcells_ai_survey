@@ -1,0 +1,7 @@
+olysilicon, Sol. Energy Mater. Sol. Cells 243 (2022), 111803, https://doi.org/10.1016/j.solmat.2022.111803. [21]M. Lozac’h, S. Nunomura, K. Matsubara, Double-sided TOPCon solar cells on textured wafer with ALD SiO
+x 
+layer, Sol. Energy Mater. Sol. Cells 207 (2020), 110357, https://doi.org/10.1016/j.solmat.2019.110357. [22]D. Hiller, P. Hnicke, D. Knig, Material combination of Tunnel-SiO
+2 
+with a (sub-) Monolayer of ALD-AlO
+x 
+on silicon offering a highly passivating hole selective contact, So

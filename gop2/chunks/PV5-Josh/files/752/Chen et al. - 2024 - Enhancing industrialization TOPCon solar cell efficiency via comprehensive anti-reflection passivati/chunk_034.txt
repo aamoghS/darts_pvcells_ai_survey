@@ -1,0 +1,16 @@
+ble 1 PO and PH process setting table for the front and rear film deposition process.   
+Step Time (s) NH
+3 
+flow (sccm) SiH
+4 
+flow (sccm) N
+2
+O flow (sccm) Power (W) Pressure (mbar) Front Plasma oxidation 120 0 0 12,000 14,000 1650 SiN
+x 
+deposition 100 9335 2800 0 14,000 1650 260 10,665 2000 0 15,500 1650 180 10,655 1400 0 16,500 1650 SiO
+x
+N
+y 
+deposition 124 5200 1200 7400 14,400 1000 144 5200 900 8935 14,400 1000 SiO
+x 
+deposition 96 0 900 11,735 14,400 900 Rear Plasma hydrogenation 50 12,

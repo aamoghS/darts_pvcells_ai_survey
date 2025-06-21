@@ -1,0 +1,3 @@
+inthenanometerrangeinsuchmaterials,weusethetermnanocrystalline.6
+Figure6:ContourplotsofsimulatedFF.a)Fortaubulklimitedcase,b)forDitlimitedcase,assumingQsymmf=5�1010cm=2,Nbulktrap=1cm=3,bothfor160µmn-typeabsorber.Star:datapointofexperimentalIBC-SHJdevice(RS=0.32
+cm2,FF=83.8%,�=26.3%)fromref.[10].creasedconductivity[20],contactresistivities(forbothelectronandhole-contact)arereducedbyafactorofthree,andtheirtemperaturedependencebecomeslesspronounced.2.4.AlternativematerialsforcontactformationIn

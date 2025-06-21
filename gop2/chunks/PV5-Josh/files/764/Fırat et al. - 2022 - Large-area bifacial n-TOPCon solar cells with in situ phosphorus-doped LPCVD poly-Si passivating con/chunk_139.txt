@@ -1,0 +1,5 @@
+ solar cell design and fabrica
+-
+tion process applied in each simulation step are listed at the right-hand side. 
+M. Fırat et al.                                                                                                                                                                                                                                    
+modules. Lastly, the ultimate efficiency potential of n-TOPCon solar cells with in situ P-doped LPCVD poly-Si passivating contacts was predic

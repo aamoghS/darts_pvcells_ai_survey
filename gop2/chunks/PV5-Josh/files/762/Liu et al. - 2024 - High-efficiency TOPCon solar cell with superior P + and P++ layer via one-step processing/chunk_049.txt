@@ -1,0 +1,3 @@
+is result substantiates that the depth of the diffusion layer is influenced by both temperature and duration. Higher tempera
+-
+tures and longer diffusion times result in greater diffusion depths. In addition, it can be clearly seen from the figure that after the temperature reaches 950℃, the average diffusion depth increases significantly, and the maximum diffusion depth also increases significantly. This shows that 950℃ is the turning point of B diffusion. 4.1.2.Diffusion coefficient To pre

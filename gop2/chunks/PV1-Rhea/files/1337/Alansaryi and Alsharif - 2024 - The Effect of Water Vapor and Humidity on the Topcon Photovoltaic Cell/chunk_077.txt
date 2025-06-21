@@ -1,0 +1,10 @@
+me of the techniques used to stop or identify moisture ingression in PV modules [12]. One of the primary 
+factors 
+linking weather patterns to module deterioration is moisture intrusion. This is facilitated by high humidity 
+and temperature levels. Temperature and moisture intrusion have a significant impact on several life
+-
+limiting 
+processes, such as corrosion and most
+ 
+material deterioration in solar cells and modules. In addition to 
+environmental and climatic factors, the properties of t

@@ -1,0 +1,7 @@
+owever, the total thickness of passivation layers was about 250 nm, so the TOPCon structure was destroyed obviously, and when the silicon in Al paste over 18 wt%, no BSF was observed at the interface. In addition, many voids (the regions marked with yellow circles) appeared in Al-Si alloy, Lauermann et al. 
+[23]
+found that the diffusion occurring at 20
+
+C less than the peak temperature tends to dominate the entire diffusion pro
+-
+cess, in addition the diffusion speed of Si is greater than that 

@@ -1,0 +1,11 @@
+
+
+m height was screen printed above the p
+++
+layer, where the three dots with a diameter of 80 
+
+m as mark points were used for alignment. Finally, the Si wafer underwent optical injection processing and was subjected to testing. In comparison to the traditional TOPCon cell fabrication process, the key difference is that the B-diffusion step uses a one-step method to prepare the p
++
+/ p
+++
+layer, which is not present in the conventional Si wafer preparation process. A detailed overview of the 

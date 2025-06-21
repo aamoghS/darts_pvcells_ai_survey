@@ -1,0 +1,5 @@
+acts.Laterin2017,furtherprogressine�ciencywasreported,culminating
+in26.7%[4].ThiscellfeaturedanevenhigherFFof84.9%,en-abledbyitsverylowseriesresistanceofonly0.2
+cm2[1].To
+1Also referred to as Passivated Emitter and Rear Cell.
+Figure1:Recentprogressofe�ciencyandﬁll-factorforSHJsolarcells.Forcomparison,thelong-lastingrecordofc-Sisolarcells,alaboratoryPERCcell[8],isincludedasdashedline.reachsuchhighFF,notonlytransportlosseshavetobeminimalbutalsorecombinationinlow-injectionconditions,bothinthe

@@ -1,0 +1,19 @@
+tween the N
+2 
+annealing process and Al
+2
+O
+3 
+deposition process. The cells which were undergone the laser isolation process for reducing the effect of poly-silicon wrap around featured a conversion efficiency of 19.65% with V
+oc 
+=669.4 mV, J
+sc 
+=38.6 mA/cm
+2 
+and FF =76.01%. On the other hand, a power conversion efficiency of 21.49% with V
+oc 
+=675.88 mV, J
+sc 
+=39.68 mA/cm
+2 
+and FF =80.12% was achieved by implementing alkaline etching process instead of laser isolation process. The improve

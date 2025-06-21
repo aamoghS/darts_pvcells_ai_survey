@@ -1,0 +1,8 @@
+the depth of B atom diffusion significantly increases, and the quantity of diffused atoms substantially increases compared to that at lower temperatures. In Fig. 5, it can be observed that after 200 ps of diffusion at 950 
+◦
+C, only a small quantity of B atoms diffused into the Si matrix. However, with increasing simulation time, both the number of diffused B atoms 
+Fig. 2.Process scheme of one step for p
++
+and p
+++
+layer formation: (a) before diffusion: screen printing B-doped Si paste, (b) a

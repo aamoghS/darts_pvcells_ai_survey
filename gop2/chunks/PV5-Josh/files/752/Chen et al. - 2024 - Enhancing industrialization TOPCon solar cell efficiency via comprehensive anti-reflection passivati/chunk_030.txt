@@ -1,0 +1,7 @@
+ diminishing the density of defect states on the Si wafer surface. As a result, the effect of PO process on the values of the pre-metallization samples as shown in Fig. 2b. The PO process effectively improved the iV
+oc 
+values, and the average iV
+oc 
+values increased by more than 2 mV compared to untreated samples, both as-deposited and after firing, while at the same time the dispersion of the data distributions was much smaller, indicating that the homo
+-
+geneity of the passivation had been si

@@ -1,0 +1,3 @@
+he deposited amorphous silicon thin layer on its front and back surfaces absorbs some extra irradiance before it hits the middle c-Si cell. The main advantages of SHJ over c-Si cells include i) high efficiency, ii) low temperature coefficients close to �0.21%/
+◦
+C indicating less performance loss over their cycles, and iii) bifacial as both front and back consist of thin film amorphous solar cells [57]. It is predicted that the SHJ cells by the end of this decade could achieve around 28% eff

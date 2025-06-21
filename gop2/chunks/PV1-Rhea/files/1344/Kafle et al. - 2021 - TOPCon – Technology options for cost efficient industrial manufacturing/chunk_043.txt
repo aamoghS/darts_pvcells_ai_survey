@@ -1,0 +1,11 @@
+temperature thermal oxide of 1–2 nm in a tube furnace before deposition of PECVD AlO
+x
+/a-SiN
+x 
+layer stack on the front side. After
+-
+wards, PECVD a-SiN
+x
+:H is also deposited on top of poly-Si layer in the rear side as a hydrogenation source. For LPCVD TOPCon insitu, the deposition of phosphorus doped LPCVD layers is followed in an inline wet-chemical tool to perform SSE of a-Si layer on the front-side, with a subsequent BSG etching and ozone-based wet-chemical cleaning. Af
+-
+terwards, a hi

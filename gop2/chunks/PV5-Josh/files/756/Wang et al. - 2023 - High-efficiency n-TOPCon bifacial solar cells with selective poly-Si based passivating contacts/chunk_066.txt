@@ -1,0 +1,17 @@
+st impact on J
+0
+, followed by the POCl
+3 
+-N
+2 
+carrier gas flow rate at the deposition, which is mainly related to the chemical passivation of SiO
+x 
+layer induced by P-indiffusion into Si at high temperature and the field effect passivation induced by doping concentration. Fig. S4 shows the R
+ 
+of the n
++
+-poly-Si layers under p-type silicon with variations of the three key process parameters. The surface con
+-
+centration of n
++
+-poly-Si layer is high, the sheet resistance is low, which is m

@@ -1,0 +1,2 @@
+herefractiveindexlibraryonpvlighthouse.com.Furtherparametersoftheopticalmodelsare:a0=2,b1=1=n2(lambertianscattering),andthetemperaturedependentabsorptioncoe�cientofsilicon�(T),takenfromref.[132].UsingA(�),theabsorbedcurrentdensityJabsisthencalculatedfollowingJabs=q
+hcZ1300nm300nmA(�)��EAM1:5(�)d�(A.2)withtheelementarychargeq,thePlanckconstanth,andthespeedoflightc.AppendixA.2.Chargecarrierlifetime&impliedJVcurvemod-elingRecombinationinthesiliconabsorberischaracterisedbyShockley-Re

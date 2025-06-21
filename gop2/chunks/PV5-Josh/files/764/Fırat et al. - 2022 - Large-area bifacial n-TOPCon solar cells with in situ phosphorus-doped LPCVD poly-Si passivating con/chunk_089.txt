@@ -1,0 +1,7 @@
+rface morphology resulting from polishing allows the fabrication of n-TOPCon solar cells which are 0.4% more efficient on average. While minor improvements are observed in V
+oc 
+and FF of the solar cells with polished rear, the main reason behind the efficiency gain is clearly the 0.5 mA/cm
+2 
+increase in J
+sc
+. Results of R and EQE measurements performed on solar cells with different rear surface morphology, depicted in Fig. 8a), reveal that the optical improvement originates from a gain in EQE

@@ -1,0 +1,24 @@
+ When the P
+RF 
+increases 
+Fig. 4.(a) The ECV profiles and (b) the average J
+0 
+of NPP emitter in OPB process and baseline process at the P
+RF 
+of 100 W. (c) The ECV profiles of NPP emitters at different P
+RF
+. (d) The R
+sheet 
+of NPP emitters before and after removing around-poly at different P
+RF
+. The textured micron-pyramid emitter in the OPB process was taken as a reference. 
+Fig. 5.(a) The 
+
+eff 
+of polished silicon wafers coated with the Al
+2
+O
+3
+/SiN
+x 
+stacked layer as a function of n

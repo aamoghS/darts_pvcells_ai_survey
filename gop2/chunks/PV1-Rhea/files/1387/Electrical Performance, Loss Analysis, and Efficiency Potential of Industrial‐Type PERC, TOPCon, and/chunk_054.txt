@@ -1,0 +1,2 @@
+own in Figure3B. The J0,metal values of the P- doped n++ layer, SiOx/n+- poly- Si layer, and a- Si:H/nc- SiOx:H(n+) layer were about 500, 75, and 0 fA/cm2, respectively, whereas the J0,metal values of p+ layer on the Al- BSF, B- doped p++ layer, SiOx/p+- poly- Si layer, and a- Si:H/nc- SiOx:H(p+) layer were about 400, 250, 75, and 0 fA/cm2, respectively. These values depend on the corrosiveness of the paste and sinter-ing temperature. Owing to ITO layer, it can provide good 
+FIGURE     |    Sc

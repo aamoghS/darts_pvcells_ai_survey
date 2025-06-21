@@ -1,0 +1,7 @@
+
+6 
+or B(CH)
+3 
+for p poly-Si are added during the growth process) and ex-situ doping (ion-implantation) [60–63]. High temperature annealing is then performed for the dopant activation and crystallization of this doped a-Si:H layer. Despite obtaining excellent result by using in-situ doping process, many re
+-
+searchers preferred ion-implantation technique for doping purpose of amorphous silicon layer to form TOPCon structure due to possessing many advantages such as precise dose control, abili

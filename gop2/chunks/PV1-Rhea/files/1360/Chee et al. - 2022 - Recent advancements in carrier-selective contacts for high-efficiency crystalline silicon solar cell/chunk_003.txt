@@ -1,0 +1,5 @@
+licon heterojunction (SHJ) solar cells have already reached superior lab-scale ef
+-
+ficiencies. Besides judicious wafer thickness design, the optimal choice of passivation schemes and carrier- selective materials is essential for industry adoption. Appropriate reduction of process complexity and perfor
+-
+mance benefits through minimal recombination losses are key. Thus, along with well-designed back contacts, the development of low-temperature processable transparent passivating stacks that act 

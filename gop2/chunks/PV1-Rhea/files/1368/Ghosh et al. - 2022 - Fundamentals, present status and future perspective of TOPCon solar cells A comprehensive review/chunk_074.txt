@@ -1,0 +1,3 @@
+ on the bulk re
+-
+sistivity of Si wafer. According to the study, the device performance does not depend much on the sheet resistance of the front surface field (FSF) layer for a 1 -cm Si wafer while for a 10 -cm Si wafer, the power conversion efficiency of the solar cells may be affected by the sheet resistance of the front surface field (FSF) layer. Experimentally, two types of rear junction TOPCon solar cells i.e., with and without front surface field (FSF) were developed based on 10 -cm, 2

@@ -1,0 +1,3 @@
+h excellent single-sidedness. Here, we assume the best-case scenario of no additional cleaning required be
+-
+tween PECVD/APCVD of a-Si(n) deposition and the subsequent thermal annealing step to form poly-Si(n) layer. However, it should be noted that contact of boron emitter with pins/trays used in the PECVD/APCVD deposition tools could demand an extra cleaning step (for example short HF/HCl dip) in large volume manufacturing. Thermal annealing to form poly-Si(n) layer is coupled with simultaneou

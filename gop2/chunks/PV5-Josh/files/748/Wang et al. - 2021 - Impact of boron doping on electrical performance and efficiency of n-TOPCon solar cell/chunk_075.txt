@@ -1,0 +1,21 @@
+the quasi-steady-state pho
+-
+toconductance technique (QSSPC) (Sinton et al., 1996). The values on the effective lifetime curve indicate iV
+oc 
+at the excess carrier density of 1 ×10
+15 
+cm
+�3 
+under 1-sun illumination. The profiles with a high peak concentration on a constant junction depth D1, D2, D3 (Fig. 8a-c) exhibited a significantly low iV
+oc
+, i.e., it decreased from 721 (1.15 ×10
+19 
+atoms/cm
+3
+) to 712 mV (2.89 ×10
+19 
+atoms/cm
+3
+) on emitter D1, and from 717 (1.22 ×10
+19 
+atoms/c

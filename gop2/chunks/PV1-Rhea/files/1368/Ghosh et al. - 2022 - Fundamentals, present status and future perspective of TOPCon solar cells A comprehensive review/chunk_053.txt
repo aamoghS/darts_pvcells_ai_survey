@@ -1,0 +1,7 @@
+o their cost-effectiveness. Therefore, development of TOPCon structure based on p-type c-Si wa
+-
+fers may be an attractive approach. Consequently, Feldmann et al. developed symmetrical n-TOPCon and p-TOPCon structure based on planar, shiny-etched, 250 
+
+m, p-type, 1 -cm, <100>oriented FZ sili
+-
+con wafers [26]. The study showed that the passivation quality of n-TOPCon structure was superior to its counterpart. Therefore, we may conclude that the interface passivation quality of n-TOPCon struct

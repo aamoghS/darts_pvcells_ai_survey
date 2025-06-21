@@ -1,0 +1,5 @@
+. A significantly higher process consumable cost related to Ag-paste leads to a higher COO for TOPCon cell metallization. For LPCVD-based TOPCon concept, LPCVD deposi
+-
+tion step shows almost 15%
+abs. 
+higher COO for in-situ doped layers in comparison to intrinsic layers, mainly due to a significant difference in the deposition rate. Nevertheless, for the process route featuring in-situ deposited LPCVD a-Si/poly-Si layers, we identify a possibility of combining the high temperature annealing and

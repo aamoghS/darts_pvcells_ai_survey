@@ -1,0 +1,13 @@
+]J.Zhao,A.Wang,P.P.Altermatt,S.R.Wenham,andM.A.Green,24%
+efﬁcientPERLsiliconsolarcell:Recentimprovementsinhighefﬁciency
+siliconcellresearch,
+Sol.EnergyMater.Sol.Cells
+,vols.41/42,pp.8799,
+1996.
+[20]J.Zhao,A.Wang,M.A.Green,andF.Ferrazza,19.8%efﬁcienthoney-
+combtexturedmulticrystallineand24.4%monocrystallinesiliconsolar
+cells,
+Appl.Phys.Lett.
+,vol.73,pp.19911993,1998.
+[21]J.Zhao,A.Wang,andM.A.Green,24.5%efﬁciencysiliconPERTcells
+onMCZsubstratesand24.7%efﬁciencyPERLcells

@@ -1,0 +1,3 @@
+ches 0.1 g, 170 s reaches 0.2 g, 285 s reaches 0.3 g, and 460 s reaches 0.4 g. The polishing speed is first fast and then slow. The test points are fitted to a curve, as shown by the red dotted line in Fig. 5(a). Under the polishing conditions set in this experiment, the silicon wafer weight loss and polishing time satisfy the following equation: y=�0.0463+0.00168x�(1.58E�6)x
+2
+(1) It can be seen that both acid polishing and alkali polishing can significantly change the surface roughness o

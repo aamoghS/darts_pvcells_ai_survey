@@ -1,0 +1,3 @@
+nction formation and the creation of a selective emitter. This study presents a theoretical model of boron diffusion in silicon using molecular dynamics. The research examines the mean square displacement and diffusion coefficient of boron atoms at varying temperatures, confirming their diffusion behavior. The simula
+-
+tions indicate predominant boron diffusion in the z-direction within the silicon matrix, with the diffusion depth being temperature dependent. The optimal temperature range for bo

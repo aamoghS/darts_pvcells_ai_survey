@@ -1,0 +1,9 @@
+, the J
+0e, metal 
+of the sample with the deep junction of 1.0 
+
+m increases up to 699.3 fA/cm
+2 
+(Fig. 5d), possibly due to not only the penetration of the metal into the emitter region but also the increase in junction depth with the high bulk recombination. As illustrated in Fig. 5f, the measured J
+0e, metal 
+was analyzed by the junction depth and the peak concentration. Under fixed metallization conditions, the degree of the metallization-induced recombination losses was significantly depen

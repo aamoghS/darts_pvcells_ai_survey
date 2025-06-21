@@ -1,0 +1,3 @@
+e gap could be attributed to two predominant effects stemming from electron irradiation: the formation of SRH defects, leading to a reduction in V
+oc
+, and the removal of majority carriers, resulting in an increase of series resistance. Specifically, for PERC cells, the challenge of increased series resistance was accentuated by the requirement for majority carriers to traverse not only vertically but also laterally to reach the bottom metal contact. In scenarios where an effective defect recove

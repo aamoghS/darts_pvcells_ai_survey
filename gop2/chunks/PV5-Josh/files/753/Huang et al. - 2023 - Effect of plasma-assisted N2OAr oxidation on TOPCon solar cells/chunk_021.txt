@@ -1,0 +1,12 @@
+
+O/Ar gas flow ratio over a wide range to ensure that the properties of the SiO
+x 
+interfacial layer meets the requirements of the passivated contact structure uniformity and thick
+-
+ness. After the approximate range of the optimal N
+2
+O/Ar gas flow ratio were identified, 7 different SiO
+x 
+layers were formed by modifying the gas flow ratio of N
+2
+O and Ar (in slm) with values of 5:0, 5:0.5, 5:1, 5:2, 5:5, 5:8 and 5:10, respectively. The deposition time, deposition pressure and deposition RF pow

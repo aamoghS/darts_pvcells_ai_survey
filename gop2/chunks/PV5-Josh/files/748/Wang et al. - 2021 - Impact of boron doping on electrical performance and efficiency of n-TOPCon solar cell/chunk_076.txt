@@ -1,0 +1,31 @@
+on emitter D1, and from 717 (1.22 ×10
+19 
+atoms/cm
+3
+) to 699 mV (4 ×10
+19 
+atoms/cm
+3
+) on emitter D2, and from 712 (1.94 ×10
+19 
+atoms/cm
+3
+) to 703 mV (3.14 ×10
+19 
+atoms/cm
+3
+) on emitter D3, respectively. However, with increasing the peak concentration on the same junction depth (e.g., emitter D1 with 1.15 – 2.23 ×10
+19 
+atoms/cm
+3
+, emitter D2 with 1.22–1.49 ×10
+19 
+atoms/cm
+3 
+and emitter D3 with 2.63–3.14 ×10
+19 
+atoms/cm
+3
+), the difference in the iV
+oc 
+values is below 2 m

@@ -1,0 +1,7 @@
+e other hand, different loss mechanisms involved in multi
+-
+crystalline silicon based TOPCon solar cells were studied by Schindler et al. [139]. According to the report, the loss in J
+sc 
+may be attributed to the presence of larger number of structural crystal defects which act as carrier recombination centres. Besides, the study also revealed that recombination at the grain boundaries may be a major cause for obtaining lower FF in compared to FZ reference cells. In contrast, rela
+-
+tively low V

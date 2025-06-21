@@ -1,0 +1,3 @@
+,16,715
+10of10
+48.Battaglia,C.;DeNicolas,S.M.;DeWolf,S.;Yin,X.;Zheng,M.;Ballif,C.;Javey,A.SiliconheterojunctionsolarcellwithpassivatedholeselectiveMoOxcontact.Appl.Phys.Lett.2014,104,113902.[CrossRef]49.Kiaee,Z.;Fellmeth,T.;Steinhauser,B.;Reichel,C.;Nazarzadeh,M.;Nölken,A.C.;Keding,R.TOPConSiliconSolarCellswithSelectivelyDopedPECVDLayersRealizedbyInkjet-PrintingofPhosphorusDopantSources.IEEEJ.Photovolt.2021,13,31–37.[CrossRef]50.Feldmann,F.;Simon,M.;Bivour,M.;Reichel,C.;Hermle,M.;Glunz,S.W.Ef

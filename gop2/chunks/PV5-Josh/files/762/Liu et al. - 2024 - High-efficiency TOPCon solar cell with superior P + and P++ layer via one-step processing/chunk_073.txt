@@ -1,0 +1,21 @@
+al diffusion at 950 
+◦
+C for 20 min. After the removal of the BSG layer, the relationship between the B concentration and the depth of the p
++
+layer and p
+++
+layer was estimated using ECV, as illustrated in Fig. 13. Within the junction depth range of 0.09–0.12 
+
+m, the maximum doping concentrations for the p
++
+and p
+++
+layers are 8.68 ×10
+18 
+atom/cm3 and 2.35 ×10
+19 
+atom/cm
+3
+, respec
+-
+tively. The corresponding sheet resistances measure approximately 108.69 / and 83.12 /, respectiv

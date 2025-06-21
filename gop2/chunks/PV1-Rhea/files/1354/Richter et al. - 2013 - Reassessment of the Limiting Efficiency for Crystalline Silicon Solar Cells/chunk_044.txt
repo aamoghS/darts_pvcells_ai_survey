@@ -1,0 +1,17 @@
+fortheefﬁciency,
+whichwerecalculatedassumingcompleteandnophotonre-
+cycling,respectively.Fortheweaklyabsorbedluminescence
+lightoftheradiativerecombination,thesiliconabsorbanceand
+consequentlythephotonrecyclingincreasesconsiderablewith
+increasingcellthickness(cf.,Fig.6intheAppendix).Forthat
+reason,theresultingefﬁciencycurvewithphotonrecyclingis
+closetothelowerboundforthincells,andconvergestothe
+upperboundforthickcells.For1
+Ω
+·
+cmp
+-
+typeSi,thecalcula-
+tionofKerr
+etal.
+resultsinahigherdiffer

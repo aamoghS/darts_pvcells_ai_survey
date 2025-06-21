@@ -1,0 +1,5 @@
+ silicon cell between two layers of amorphous thin film. As shown in Fig. 2(c), both sides of n-doped c-Si in SHJ structure are attached to an intrinsic and doped amorphous silicon (a-Si:H) layer followed by a transparent conductive oxide (TCO) layer. Indium -tin oxide (ITO) is commonly employed as TCO which improves lateral conduction and light absorp
+-
+tion [56]. SHJ allows an increased efficiency when compared to con
+-
+ventional c-Si PV. The record efficiency achieved by interdigitated back c

@@ -1,0 +1,3 @@
+tion activities, which potentially heightens the open- circuit voltage (Voc). Furthermore, the broader bandgap of HfO2 may enhance the cell’s optical performance by decreasing parasitic light absorption, offering a path to a greater short-circuit current density (Jsc). These improvements could synergistically elevate the overall ef
+-
+ficiency of TOPCon cells, suggesting that HfO2 is a promising substitute for traditional SiO2 layers. 4.Conclusion In conclusion, the exploration of Hafnium oxide

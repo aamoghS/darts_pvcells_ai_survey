@@ -1,0 +1,18 @@
+                                                                                                                                                                                                                                   
+Fig. 8 shows the J
+0 
+values of the n
++
+-poly-Si layers under three different process parameters. In the case of G
+POCl3
+, J
+0 
+increases from 5.6 to 8.7 fA/cm
+2 
+with increasing POCl
+3
+-N
+2 
+carrier gas flow from 1600 to 2400 sccm (Fig. 8a). However, when G
+POCl3 
+drops 

@@ -1,0 +1,16 @@
+in Fig. 3(a). The intensity of Ar* emission lines increase with the increase of Ar flow. Sharp atomic O emission lines at 777 and 844 nm corresponding to 3p
+5
+P 3s
+5
+S and 
+Fig. 2.(a) The relationship between the deposition thickness of SiO
+x 
+and the N
+2
+O/Ar flow ratios(time=120 s, pressure=150 Pa, RF=9000 W, T=480 
+◦
+C); (b) Effects of pressure and substrate temperature on the thickness of PANAO SiO
+x 
+layer(time=120 s，RF power=9000 W，N
+2
+O/Ar=5:2); (c) Effects of processing time and R

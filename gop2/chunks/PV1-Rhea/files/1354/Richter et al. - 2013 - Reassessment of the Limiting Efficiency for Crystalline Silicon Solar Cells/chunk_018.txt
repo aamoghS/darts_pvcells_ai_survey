@@ -1,0 +1,14 @@
+ssumeinaddition
+toidealcontactsalsonegligibleseriesresistancelossesarising
+fromthechargecarriertransportwithinthesiliconbulk.Obvi-
+ously,thisisagoodassumptionforcellsmadeofhighlydoped
+silicon.However,itisalsoagoodassumptionforcellsmadeof
+lowlydopedsilicon,astheseareinsufﬁcienthighinjectionat
+maximumpowerpoint(mpp)(cf.,SectionIII-B).
+B.Photogeneration
+Theabsorbedcurrentdensity
+J
+L
+wascalculatedassumingthat
+everyphotonabsorptioneventgeneratesasingleelectron–hole
+pair.Thecreationofmultipleelect

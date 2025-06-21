@@ -1,0 +1,17 @@
+�
+IEEEElectronDeviceLett.
+,vol.EDL-7,
+no.10,pp.567569,Oct.1986.
+[33]P.Verlinden,R.A.Sinton,andR.M.Swanson,Highefﬁciencylargearea
+backcontactconcentratorsolarcellswithamultilevelinterconnection,
+Int.J.Sol.Energy
+,vol.6,pp.347366,1988.
+[34]R.R.King,R.A.Sinton,andR.M.Swanson,Dopedsurfacesinone
+sun,pointcontactsolarcells,
+Appl.Phys.Lett.
+,vol.54,pp.14601462,
+1989.
+BLAKERS:DEVELOPMENTOFTHEPERCSOLARCELL
+635
+[35]R.A.SintonandR.M.Swanson,Simpliﬁedbackside-contactsolarcells,
+IEEETra

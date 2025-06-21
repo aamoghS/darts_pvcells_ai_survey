@@ -1,0 +1,25 @@
+dependent of R values as shown in Fig. 4(b)-4(d). This means that the passivation quality of such a structure has a high tolerance with the C content. Meanwhile, we can find that the lifetime samples with the different R values at 840 
+◦
+C annealing show high-quality passivation with iV
+oc 
+values >740 mV, J
+0,s 
+<4 fA/cm
+2
+, and the 
+
+eff 
+>3 ms at the injection level of 10
+15 
+cm
+�3
+. In particular, the best passivation with an iV
+oc 
+of 745 mV, a J
+0,s 
+of 3 fA/cm
+2
+, and a 
+
+eff 
+of 4.

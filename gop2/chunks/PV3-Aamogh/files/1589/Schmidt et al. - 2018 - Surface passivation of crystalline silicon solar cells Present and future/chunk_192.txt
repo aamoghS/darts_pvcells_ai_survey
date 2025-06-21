@@ -1,0 +1,3 @@
+tentmaterialparameters,J.Appl.Phys.92(2002)3187–3197.[102]B.E.Deal,M.Sklar,A.S.Grove,E.H.Snow,Characteristicsofthesurface-state
+charge(Qss)ofthermallyoxidizedsilicon,J.Electrochem.Soc.114(1967)266–274.[103]A.G.Aberle,Advancedsurfacepassivationandanalysis,UniversityofNewSouthWales,Chapter4.2.2(2009).[104]D.L.Young,W.Nemeth,V.LaSalvia,R.Reedy,S.Essig,N.Bateman,P.Stradins,
+Interdigitatedbackpassivatedcontact(IBPC)solarcellsformedbyionimplanta-tion,IEEEJ.Photovolt.6(2016)41.[105]F.Haase,F.Kiefer

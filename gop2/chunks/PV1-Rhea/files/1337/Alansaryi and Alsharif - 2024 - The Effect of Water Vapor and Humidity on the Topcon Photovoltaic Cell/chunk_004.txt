@@ -1,0 +1,8 @@
+d that poor weathering and high humidity have a negative 
+impact on photovoltaic cells' and panels' performance. For instance, haze has a major impact
+ 
+on photovoltaic (PV) 
+power generation. Quantitative studies on the impact of haze on photovoltaic power generation are scarce; 
+however, as fine particulate matter concentrations increase, they become the main factor influencing solar 
+irradiance and drasti
+cally reduce PV power generation. Due to the corrosion process, moisture and humidity ca

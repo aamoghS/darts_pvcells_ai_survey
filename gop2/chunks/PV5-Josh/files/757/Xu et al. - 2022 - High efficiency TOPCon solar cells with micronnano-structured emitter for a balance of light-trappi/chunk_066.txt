@@ -1,0 +1,27 @@
+e spectra as a function of wavelength. (b) The optical loss path analysis of NPP cells at different P
+RF 
+and conventional cells.  
+Table 2 The average I–V parameters of NPP cells at different P
+RF 
+and conventional cells, including PCE, V
+oc
+, J
+sc
+, FF and 
+
+c
+.  
+RIE P
+RF 
+(W) V
+oc 
+(mV) J
+sc 
+(mA/cm
+2
+) FF (%) PCE (%) 
+
+c 
+(m/cm
+2
+) 0 699.0 41.15 81.24 23.37 1.10 100 694.0 41.43 81.55 23.45 0.41 300 694.6 41.43 81.60 23.48 0.56 600 695.6 41.44 81.69 23.55 0.59  J. Xu et al.             

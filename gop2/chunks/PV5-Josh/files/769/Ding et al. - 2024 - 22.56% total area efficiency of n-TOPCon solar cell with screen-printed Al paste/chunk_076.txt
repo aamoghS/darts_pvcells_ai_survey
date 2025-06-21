@@ -1,0 +1,7 @@
+ silicon solar cells with the tunnel oxide passivated contacts (i-TOPCon) design, Sol. Energy Mater. Sol. Cells 206 (2020)
+.
+[12]
+C. Quan, Y. Zeng, D. Wang, M. Liao, H. Tong, Z. Yang, Z. Yuan, P. Gao, B. Yan, K. Chen, J. Ye, Computational analysis of a high-efficiency tunnel oxide passivated contact (TOPCon) solar cell with a low-work-function electron-selective-collection layer, Sol. Energy 170 (2018) 780–787
+.
+[13]
+S. Tepner, A. Lorenz, Printing technologies for silicon solar cell metallizat

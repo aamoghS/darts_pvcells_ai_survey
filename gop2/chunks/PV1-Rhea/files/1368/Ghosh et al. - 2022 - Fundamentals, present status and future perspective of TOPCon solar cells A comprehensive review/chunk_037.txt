@@ -1,0 +1,13 @@
+yer and subsequent electro
+-
+plating of Ag layer. The width of the metallic fingers was kept as 20 
+
+m. On the other hand, thermally evaporated Ti/Pd/Ag stack was used as rear side metallic contact. Eventually, the best cell with an active cell area of 2 cm ×2 cm based onto 200 
+
+m thick, <100>oriented, 1 -cm, n-type FZ silicon wafers demonstrated a power conversion efficiency of 21.81% featuring a short circuit current density (J
+sc
+) of 38.4 mA/cm
+2
+, an open-circuit voltage (V
+oc
+) of 690

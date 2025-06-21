@@ -1,0 +1,7 @@
+ST). The optical reflec
+-
+tance of the cell was measured by PVE300-IVT. During these tests, the optical losses were analyzed by Current Loss Analysis Calculator V1.4 (the Solar Energy Research Institute of Singapore) (Wong et al., 2016). 3.Results and discussion 3.1.Emitter dark saturation current density of the B-diffused/AlO
+x
+/SiN
+x 
+structure It is important to estimate the surface passivation performance of the B-doped front surface of the cells because the passivated region occupies greate

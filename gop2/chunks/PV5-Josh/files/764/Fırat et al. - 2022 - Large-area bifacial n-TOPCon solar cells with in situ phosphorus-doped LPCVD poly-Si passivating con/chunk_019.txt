@@ -1,0 +1,3 @@
+process [17,27]. Moreover, a simpler single-step process may still be achieved in case of in situ doping either by developing LPCVD equipment which can perform the annealing also in situ, or by means of the fired passivating contact concept, which eliminates the annealing and relies on the firing step used for screen-printed metallization also for the activation of dopants in the Si film [28]. However, these de
+-
+velopments are beyond the scope of this work. This paper reports on the integration

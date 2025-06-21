@@ -1,0 +1,12 @@
+eposition (ALD) in the front side of TOPCon cells to passivate the p +emitter, because the AlO
+x 
+layer has a large amount of negative fixed charge to prevent the recombination of charge carriers. Finally, both sides of the silicon wafers passivated with SiN
+x 
+(70 nm), which was formed by LPCVD.
+To form good contacts between Al paste and silicon wafers, a UV pulse laser ( =355 nm, PWM=10 ps, f =1 MHz, size =40 
+
+m ×40 
+
+m) was used to ablate the rear side SiN
+x 
+in the metallization area wi

@@ -1,0 +1,12 @@
+tics are the result of a more prominent annealing temperature. Our proposed technique has immense potential for achieving higher efficiency for fabricating various structures of TOPCon solar cells. As per AFORST Het simulation results by using nc-SiO
+x 
+for TOPCon structure, we got V
+oc 
+of 761.5 mV, J
+sc 
+of 43.5 mA/cm
+2
+, FF of 83%, and 
+ 
+of 27.49%, respectively.   
+1.Introduction Currently, photovoltaic energy production is considered the subject of significant research attention owing to i

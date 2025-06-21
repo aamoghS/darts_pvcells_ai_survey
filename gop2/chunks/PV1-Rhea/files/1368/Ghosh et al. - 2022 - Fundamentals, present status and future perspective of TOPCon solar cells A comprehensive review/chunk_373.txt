@@ -1,0 +1,11 @@
+s. n-TOPCon Wet chemical oxidation in hot HNO
+3 
+atmosphere n-type, planar FZ 720 [34] n-type, textured FZ 630 Oxidation in UV/O
+3 
+atmosphere n-type, planar FZ 725 n-type, textured FZ 715 n-TOPCon Wet chemical oxidation in hot HNO
+3 
+atmosphere n-type, planar FZ >720 [35] n-type, textured FZ 635 Oxidation in UV/O
+3 
+atmosphere n-type, planar FZ >725 n-type, textured FZ >710 Oxidation in DIO
+3 
+atmosphere n-type, planar FZ >720 n-type, textured FZ ∼710 n-TOPCon Wet chemical oxidation in hot HN

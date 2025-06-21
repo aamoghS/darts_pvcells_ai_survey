@@ -1,0 +1,12 @@
+r understanding of the performance of the rear passivation layer with varying thicknesses of a- Si (i) film, we conducted investigations into the passivation and contact properties of the TOPCon solar cells. Fig. 4(b) illustrates the symmetrical structure (I) used for testing the iV
+OC
+, J
+0
+, and lifetime. Additionally, the semi-manufactured structure (II) designed for measuring contact re
+-
+sistivity (
+
+c
+) using the TLM was presented in the figure. The corre
+-
+sponding results of passivation

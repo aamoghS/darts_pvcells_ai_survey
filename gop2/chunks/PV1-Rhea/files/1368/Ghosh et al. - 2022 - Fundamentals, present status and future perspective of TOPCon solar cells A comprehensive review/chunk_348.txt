@@ -1,0 +1,4 @@
+ 2031 for PERC, TOPCon and SHJ solar cells; respectively [131]. Nevertheless, the expected consumption value is still quite higher than the target value of 2mg/W. However, silver will remain an integral part for the metallization of TOPCon solar cells for the next few years and hence continuous improvement of the paste quality and breakthrough for the next generation cost-effective metal
+-
+lization material are much awaited. Besides, use of more lead free pastes 
+Fig. 31.Free energy loss analysi

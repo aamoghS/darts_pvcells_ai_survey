@@ -1,0 +1,2 @@
+siliconsolarcells:llfactorlimitationsandnon-idealdiodebehaviourduetovoltage-dependentrearsurfacerecombina-tionvelocity,,Prog.PhotovoltaicsRes.Appl.1(1993)133–143.[23]S.Dauwe,etal.,Experimentalevidenceofparasiticshuntinginsiliconnitriderearsurfacepassivatedsolarcells,,Prog.PhotovoltaicsRes.Appl.10(2002)
+271–278.[24]P.Saint-Cast,etal.,High-efciencyc-SisolarcellspassivatedwithALDandPECVDaluminumoxide,,IEEEElectronDeviceLett.31(2010)695–697.[25]J.Schmidt,etal.,Surfacepassivationofhigh-efcie

@@ -1,0 +1,2 @@
+lizedtoitscorrespondinginitialηvalue.Eacherrorbarrepresentsthestandarderror.Totalcellnumbersaresixateachpoint.Solidlinesarethelinearleast-squarets.
+Fig.5.Changesintheminoritycarrierlifetimeduringarepeatedcycleof(a)200°Cannealingand(b)LSwith0.02-,0.05-,and1-sunwithsamplesetE.Thelightisincidentfromthep-a-Si:Hside.Theevaluationwasperformedattheinjectionof1×1015cm−3.Symbolsindicatemeasureddata.(a)Solidlinesshowstretchedexponentialts[40].(b)Solidlinesshowpowerlawandeldeectts[16].Dashedlines

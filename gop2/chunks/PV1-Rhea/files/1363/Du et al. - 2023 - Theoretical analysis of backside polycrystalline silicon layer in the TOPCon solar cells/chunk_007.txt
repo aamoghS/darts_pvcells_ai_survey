@@ -1,0 +1,5 @@
+cells, PERC solar cells, as the mainstream, occupy a larger market on the one hand, on the other hand, PERC cell efficiency is close to the theoretical limit. At present, the solar cells that are expected to succeed PERC cells as the mainstream are mainly Het
+-
+erojunction with Intrinsic Thin-film (HJT) [6,7], TOPCon and Inter
+-
+digitated Back Contact (IBC). Thanks to the double passivation effect of n-type silicon substrate and substrate surface defect, the efficiency of HJT has been greatly im

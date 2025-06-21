@@ -1,0 +1,11 @@
+cs become better as the etch weight loss increases. Among them, the passivation quality of the alkali polished sample is the best, the reverse saturation current J
+0 
+of the P4 sample is the smallest (3.23fA/cm
+2
+), the minority carrier lifetime is the longest (2579 
+
+s), and the iVoc is the largest (742.7 mV). The passivation quality of the alkali textured sample T0 is the worst, the reverse saturation current J
+0 
+is the largest (5.93fA/cm
+2
+), the minority carrier lifetime is the smallest (1

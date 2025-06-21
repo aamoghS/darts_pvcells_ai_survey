@@ -1,0 +1,13 @@
+d. After optimizing the process, we simulated selective n
++
+-poly-Si based passivating contacts (abbreviated as Poly-SE) formed by the 3D printing mask technology and secondary LPCVD/phosphorus diffusion and investigated their passivation performance, photoelectronic performance and the I-V pa
+-
+rameters of solar cells, i.e., efficiency (E
+ff
+), open-circuit voltage (V
+oc
+), fill factor (FF), series resistance (R
+ser
+) and short-circuit current density (J
+sc
+). 2.Experimental methods 2.1.Solar c

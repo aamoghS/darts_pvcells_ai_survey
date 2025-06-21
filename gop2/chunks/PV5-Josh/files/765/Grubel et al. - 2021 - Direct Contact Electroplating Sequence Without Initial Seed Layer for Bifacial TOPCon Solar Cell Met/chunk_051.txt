@@ -1,0 +1,14 @@
+olarcell
+wouldalsobefeasible.However,
+thesolarcellwouldbeoperatedinreverse,makingavoltage
+limitationnecessarytoavoidreversevoltagebreakthroughof
+thesolarcellmakingthisprocessundesirable.
+ForFBP,asthesolarcellisnotilluminated,noadditional
+electrons/holesaregeneratedbythesolarcell,sothatonlythe
+sourcecurrent(
+I
+source
+)isusedfortheplatingprocessresulting
+inanexclusivedepositioninallwettedareas.InFig.6case
+(2)thesolarcelldesignHybridwasusedforclariﬁcation.The
+ﬁngerinanonwettedareaistypicalforas

@@ -1,0 +1,3 @@
+d a low contact resistivity of 2.0 mcm
+2
+. For reaching the best passivating contact characteristics and high solar cell efficiencies, a poly-Si film thickness of 150–200 nm was found to be optimal while a polished rear surface morphology was found to be beneficial. The best solar cell reached a certified power conversion efficiency of 23.01% along with a high open circuit voltage of 691.7 mV, enabled by the passivating contacts with the in situ doped poly-Si films. 1-cell glass-glass lamina

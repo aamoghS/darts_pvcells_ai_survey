@@ -1,0 +1,15 @@
+tability,resistivepowerloss,aswellascost.Whilea
+thickerinterconnectribbonincreasesthematerialcostandthe
+mechanicalstressonthecells,athinnerribbonwillincreasethe
+resistivepowerloss.Therefore,theoptimumribbonthickness
+dependsstronglyontheactualmoduledesignandcostofthe
+manufacturingprocess.FromthesimulationresultsinTableII,
+itcanbeseenthatbyincreasingtheinterconnectthicknessfrom
+150to200
+µ
+m,themoduleoutputpower
+P
+mpp
+increasesby
+0.5W.However,inthecaseofamodulemadefromhalved
+PERCsolarcells,theincr

@@ -1,0 +1,7 @@
+org/10.1016/j.solmat.2019.109978
+89.PolzinJ-I,FeldmannF,SteinhauserB,HermleM,GlunzSW.Studyontheinterfacialoxideinpassivatingcontacts.AIPConferencePro-ceedings.2019;2147:40016.
+https://doi.org/10.1063/1.5123843
+90.PolzinJ-I,LangeS,RichterS,etal.Temperature-inducedstoichio-metricchangesinthermallygrowninterfacialoxideintunnel-oxide
+passivatingcontacts.SolEnergyMaterSolCells.2020;218:110713.
+https://doi.org/10.1016/j.solmat.2020.110713
+91.NandakumarN,RodriguezJ,KlugeT,etal.Approaching23%withlarge-a

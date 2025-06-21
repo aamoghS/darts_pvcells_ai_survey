@@ -1,0 +1,13 @@
+ the SiO
+x 
+interface and a junction depth about 100 nm by SIMS measurements. The boron diffusion is controlled by the precursor (p)/(i) a-Si:H stack. The H concentration at the SiO
+x
+/c-Si interface is a key to the Si surface passivation. For the 18.8% efficiency cell, it is about 2 �10
+21 
+at/cm
+3
+, improving the implied open circuit to 655 mV. We underline that the use of higher B
+2
+H
+6 
+flow presents a defective layer at the surface of the (p) stack generating series resistance. A DHF step

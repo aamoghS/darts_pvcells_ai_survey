@@ -1,0 +1,7 @@
+-16.
+https://doi.org/10.1016/0379-6787(83)90036-4
+27.KwarkY.SIPOSHeterojunctionContactstoSilicon.PhDthesis.Uni-versityStanford;1984.
+356GLUNZETAL.
+28.KwarkY,SintonRA,SwansonRM.LowJ0contactstructuresusingSiposandpolysiliconfilms.In:18thIEEEPhotovoltaicSpecialistsCon-ference.1985;787-792.29.YablonovitchE,GmitterT,SwansonRM,KwarkYH.A720mVopencircuitvoltageSiOx:c-Si:SiOxdoubleheterostructuresolarcell.ApplPhysLett.1985;47(11):1211-1213.
+https://doi.org/10.1063/1.96331
+30.GanJY,SwansonRM.Polysiliconem

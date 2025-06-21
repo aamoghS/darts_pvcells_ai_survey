@@ -1,0 +1,12 @@
+rEnergySystems,
+Comsat,Solarex,andAEGTelefunken.In1988,Knobloch
+etal
+.reportedbifacialcellteststructureswithawidelyspaced
+Fig.6.IBCcell.Reprintedfrom[32].
+rear-surfacegridthatincludedalocalBSFbeneaththegrid
+withsurfacepassivationelsewhere[29].
+NovelMISstructuresandtheuseofchargeddielectrics(alu-
+minumoxideandsiliconnitride)forlow-temperaturesurface
+passivationwereinvestigatedbyHezelandJaeger[30].These
+ﬁlmshavefoundwidespreadapplicationandwereappliedto
+PERCandothercellsattheInstituteforSolarEne

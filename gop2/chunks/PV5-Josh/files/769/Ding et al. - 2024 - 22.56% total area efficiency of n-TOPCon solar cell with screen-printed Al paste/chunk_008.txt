@@ -1,0 +1,14 @@
+TOPCon cells cost of ownership, apart from silicon wafers, the pastes used to form electrodes account for the largest proportion of the cost, especially, if full Ag paste printed on the rear side 
+[2]
+. There are numerous reports on the forma
+-
+tion mechanism of ohmic contact between Ag paste and n
++
+-poly-Si 
+[13–16]
+. However, there are few reports on printing Al paste on n
++
+-poly- Si 
+[17]
+, and the contact mechanism of them is also not clear.
+Therefore, the n-Type Cz_Si wafers were used i

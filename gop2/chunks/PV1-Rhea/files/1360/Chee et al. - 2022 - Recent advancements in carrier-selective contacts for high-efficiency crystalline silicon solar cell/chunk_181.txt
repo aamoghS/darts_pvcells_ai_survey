@@ -1,0 +1,17 @@
+                       
+high-efficiency solar cells. The symmetrically passivated bifacial sample was realized on a p-Si wafer using an n
++
+-poly-Si/SiO
+x 
+stack, fabricated from the PECVD-a-Si:H precursor under optimized annealing and doping conditions. High-quality passivation was achieved, and J
+o 
+=3 fA/cm
+2
+, 
+
+c 
+=2 – 4 m cm
+2 
+and iV
+oc 
+=742mV, with a prospective efficiency >22.8%, were projected for industrial production. Chen et al. [167] introduced double-side screen printing meta

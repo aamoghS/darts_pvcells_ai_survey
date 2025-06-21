@@ -1,0 +1,6 @@
+lent short circuit current above 39 mA/cm
+2 
+is confirmed for a front grid structure. The solar cell performance is improved by optimizing the boron and hydrogen diffusion profiles near the p-side SiO
+x
+/c-Si interface.   
+1.Introduction The tunnel oxide passivated contact (TOPCon) of crystalline silicon (c-Si) solar cells gains much attention recently since it exhibits a high photoconversion efficiency over 25% with a relatively simple structure using front and rear ohmic contacts, easily trans

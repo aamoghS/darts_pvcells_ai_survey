@@ -1,0 +1,7 @@
+ respectively. For metallization, Ag and Ag/Al pastes were screen-printed at the rear and front sides, respectively, followed by firing of the pastes through the SiN
+x
+:H films for realizing contacts with the poly-Si and the emitter. Firing was performed with a belt speed of 150 inches per minute and a set peak temperature of 855 
+◦
+C. The focus of the second experiment was to investigate the impact of the rear surface morphology on the n-TOPCon solar cells. This experi
+-
+ment is referred to a

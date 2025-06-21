@@ -1,0 +1,7 @@
+SCs, i.e., a C-free polysilicon layer covered by a thin C-doped polysilicon film, which could ensure good wettability and conductivity simultaneously. The following section will systemati
+-
+cally investigate the effect of deposition conditions and annealing tem
+-
+perature on the passivation and contact properties of such a structure. Here, it is worth noting that the introduction of C atoms into poly
+-
+silicon not only could improve surface wettability but also promote the quality of the polysil

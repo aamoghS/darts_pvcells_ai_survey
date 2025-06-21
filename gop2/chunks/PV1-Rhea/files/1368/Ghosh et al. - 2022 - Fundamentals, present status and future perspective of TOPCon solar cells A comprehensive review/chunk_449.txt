@@ -1,0 +1,3 @@
+51. [43]Q. Wang, W. Wu, N. Yuan, Y. Li, Y. Zhang, J. Ding, Influence of SiO
+x 
+film thickness on electrical performance and efficiency of TOPCon solar cells, Solar Energy Mater. Solar Cells 208 (2020), 110423, https://doi.org/10.1016/j. solmat.2020.110423. [44]H. Kim, S. Bae, K.S Ji, S.M. Kim, J.W. Yang, C.H. Lee, K.D. Lee, S. Kim, Y. Kang, H. S. Lee, D. Kim, Passivation properties of tunnel oxide layer in passivated contact silicon solar cells, Appl. Surf. Sci. 409 (2017) 140–148, https://doi

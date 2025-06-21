@@ -1,0 +1,5 @@
+voltaic Technology, Jiangsu, China   
+ARTICLE INFO  
+Keywords: Tunel oxide Specific contact resistance Passivation characteristics Surface topography Polishing 
+ABSTRACT  
+Compared with P-PERC cells, the rear tunnel oxide/n +polysilicon passivation contact structure in N-TOPCon cells makes the influence of rear surface morphology more significant. In this work, the effects of different chemical etching methods and weight loss on the surface topography and passivation characteristics and contact 

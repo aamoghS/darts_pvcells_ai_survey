@@ -1,0 +1,28 @@
+midity, temperature, and UV radiation), PV modules can suffer 
+from
+ 
+moisture ingress which can lead to PV module degradation.
+ 
+ 
+Fig
+ure
+ 
+2
+:
+ 
+A typical moisture ingresses PV module showing signs of corroded metal grids, delamination and 
+discoloration of encapsulants.
+ 
+335
+ 
+| 
+African Journal of Advanced Pure and Applied Sciences 
+(AJAPAS)
+ 
+ 
+ 
+ 
+Research Question
+ 
+The current research aims to assess the impact of water vapor and humidity on the Topcon cell. Therefore, the 
+main resear

@@ -1,0 +1,16 @@
+------------ (B) Equation B indicates that when wind velocity increase by 4.18 m/s and overall heat loss coefficient increase by 33.20 W/(m2 0C) then total heat loss will increase by 1W/m  
+4.44.64.85.05.25.45.65.80100200300400500600
+700800
+9001000
+11001200
+ Heat loss through receiver(W/m)
+ Heat Gained by Water(W)
+ Collector Efficiency(%)Overall Heat Loss coefficient(W/m2 OC)Heat loss through receiver(W/m)Heat Gained by Water(W)5051
+525354
+55
+56
+57
+585960
+61
+Collector Efficiency(%)
+ Atul A. Saga

@@ -1,0 +1,41 @@
+t) +[(J
+0, metal 
+×f
+r
+) +(J
+0, n+
+×(1�f
+fmask
+) +(J
+0, n++
+×(f
+rmask
+�f
+r
+)]} (rear)+J
+0, bulk                                                                                                
+(1)  J
+0,passivated area (rear) 
+=(1-f
+mask
+) ×J
+0,n+
++((f
+fmask
+-f
+f
+) ×J
+0, n++
+)                 (2)  J
+sc 
+=41.63+(Th.
+BKM
+-Th.
+n+
+) ×(1-f
+mask
+) ×0.0093                               (3) According to the simulation results, we fabricated a Poly-SE solar cell (n
+++
+/n
++
+layer, 50/110 nm) and 

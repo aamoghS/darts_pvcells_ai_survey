@@ -1,0 +1,2 @@
+s at standard test conditions with no shadingPrimarily, the test is conducted on a fully illuminated, unshaded module PV module at STC (indoor)conditions. Figure8 shows recorded IV and PV curves of the module at standard test conditions. e blue graph shows the currentvoltage curve, and the powervoltage curve are shown by red curve. For the IV curve, the x-axis shows the voltage (V) whereas the y-axis shows the current (I) measurements. Likewise for PV curves, the 
+Table 2.  Perform

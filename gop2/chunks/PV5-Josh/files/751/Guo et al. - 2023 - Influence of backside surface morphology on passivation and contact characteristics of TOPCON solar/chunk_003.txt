@@ -1,0 +1,9 @@
+resistance of the alkali-polished flat surface may be more due to the influence of the thickness of the tunnel oxide layer and the concentration of trailing P doping in the substrate. Acid polishing preserves the round pyramid structure but removes the sharp pyramid tips, improving contact passivation while ensuring good metal contact. It can better balance the contradiction be
+-
+tween passivation characteristics (J
+0 
+~ 4.73fA/cm2, J
+0, metal 
+~ 67.26fA/cm
+2
+, iVoc ~ 740 mV) and contact charact

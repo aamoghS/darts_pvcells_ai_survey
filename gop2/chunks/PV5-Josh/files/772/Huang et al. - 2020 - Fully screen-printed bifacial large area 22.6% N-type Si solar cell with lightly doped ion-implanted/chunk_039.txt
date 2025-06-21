@@ -1,0 +1,5 @@
+xtended the 2D Sentaurus modeling. Table 4 shows that a combination of selective emitter (30/180 /), increased bulk lifetime from 1 to 3 ms, and 100 
+
+m wide 14 floating busbars for multiwire application can raise the cell efficiency to ~ 24%. 4.Conclusions A fully screen-printed large area ~22.6% efficient bifacial n-type Si solar cell was fabricated with implanted lightly doped homogeneous B emitter (180 /) on the front and n-TOPCon on the back of a 2 -cm n- type Cz Si. SiN
+x 
+capped LPC

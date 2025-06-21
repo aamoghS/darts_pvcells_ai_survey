@@ -1,0 +1,21 @@
+s defined by a broad spectral range centered around 480 cm
+�1
+. It has been known that the growth of crys
+-
+talline phase in silicon films during plasma deposition is generally initiated through a first incubation amorphous phase followed by 
+Table 1 Parameters and results of symmetric structure for SiO
+x
+/nc-SiO
+x 
+passivated contacts after FGA.  
+Sample Annealing Temp. (
+◦
+C) FGA (
+◦
+C) Thickness (nm) Lifetime (µs) J
+O 
+(fA/ cm
+2
+) i-V
+oc 
+(mV) 1 1000 400 30 1466 2.92 717 2 1000 40 2035

@@ -1,0 +1,5 @@
+i
+-
+mately 60 nm. Furthermore, the aim of this work is to characterize the impact of the laser contact opening on the contact recombination of TOPCon rear side with reduced poly-Si thickness and develop strategies to ensure low contact resistances and reliable contact adhesion even on planarized surfaces. 2.Experimental The TOPCon precursors used in this work were processed in an in
+-
+dustrial R&D line and feature a variation in poly-Si thickness on the TOPCon rear side with thickness of 60 nm, 

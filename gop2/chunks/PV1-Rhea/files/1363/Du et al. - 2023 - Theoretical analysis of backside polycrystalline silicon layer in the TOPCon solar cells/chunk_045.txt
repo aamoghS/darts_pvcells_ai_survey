@@ -1,0 +1,7 @@
+ons on the monocrystalline silicon side is significantly reduced, which makes the recombination rate in the poly-Si region decrease. Since there are three donor-like defect states in poly-Si, changing their defect states concentrations separately reveals that the change in defect states concentration at different locations has a consistent effect on the V
+oc
+, J
+sc
+, FF and E
+ff 
+of TOPCon solar cells when changing only one defect states concentration alone.The defect states concentration of don

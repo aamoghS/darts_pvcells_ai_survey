@@ -1,0 +1,2 @@
+con �passivated junctions: The next technology for silicon solar cells?, Joule. 5 (2021) 811–828. https://doi.org/10.1016/j.joule.2021.02.013. [3] A. Richter, R. Müller, J. Benick, F. Feldmann, B. Steinhauser, C. Reichel, A. Fell, M. 
+Bivour, M. Hermle, S.W. Glunz, Design rules for high-efficiency both-sides-contacted silicon solar cells with balanced charge carrier transport and recombination losses, Nat. Energy. 6 (2021) 429–438. https://doi.org/10.1038/s41560-021-00805-w. [4] L. Stoker

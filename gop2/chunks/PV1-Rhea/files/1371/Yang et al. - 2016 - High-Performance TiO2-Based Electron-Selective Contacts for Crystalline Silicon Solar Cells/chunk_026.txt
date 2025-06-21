@@ -1,0 +1,4 @@
+ge (300–800 nm), which demonstrates a low surface 
+recombination at the front side thanks to the excellent surface 
+passivation by Al 2 O 3 /SiN x  stack. In contrast, an obvious higher IQE in the long wavelength range (>800 nm) is observed for the device with a TiO 2  contact at the rear side. The improved long-wavelength response indicates a lower carrier recombi-
+nation at the rear surface due to the presence of a TiO 2  ﬁ lm. Insertion of a tunnel SiO 2  interlayer between the TiO 2  and

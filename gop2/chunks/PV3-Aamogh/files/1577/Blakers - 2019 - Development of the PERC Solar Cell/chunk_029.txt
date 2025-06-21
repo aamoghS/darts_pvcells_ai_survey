@@ -1,0 +1,14 @@
+l.
+632
+IEEEJOURNALOFPHOTOVOLTAICS,VOL.9,NO.3,MAY2019
+Insomecells,thealuminumwasalloyedintothesiliconatthe
+rearpointcontactsattemperaturesabove600
+°
+C.However,the
+resultswithoutalloyingwerebetter,andthisapproachwasnot
+continued.Problemsencounteredincludedvoidsanddamage
+totherearoxide.Laterworkbymanyothershasresultedina
+commerciallyfeasiblemethodofimplementingthisapproach,
+asdescribedinSectionIV.
+Itwasclearthatincludingaborondiffusionattheback
+surfacehadthepotentialtofurtherimprovecellperformance

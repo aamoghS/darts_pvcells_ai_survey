@@ -1,0 +1,11 @@
+tures. There
+-
+fore, considering the experimental process parameters, temperatures of 750 
+◦
+C, 850 
+◦
+C, 950 
+◦
+C, and 1050 
+◦
+C were taken into consideration in this study. Snapshots from the LAMMPS simulations were visualized using Ovito. The diffusion snapshots at different temperatures after 6 ns relaxation are shown in Fig. 1(To increase contrast, we zoom in or out on the size of the atoms). 3.Experimental section 3.1.B-doped Si paste preparation In this study, the controlled dopin

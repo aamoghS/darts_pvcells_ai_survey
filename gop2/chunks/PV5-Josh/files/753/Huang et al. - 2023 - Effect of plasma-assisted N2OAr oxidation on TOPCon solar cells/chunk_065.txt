@@ -1,0 +1,24 @@
+d contact prepared under the N
+2
+O/Ar=5:2 flow ratio is 2.23 mcm
+2
+, it can achieve both excellent passivation quality and low contact resistivity which can meet the requirements for the preparation of high-efficiency TOPCon solar cells. The best PANAO SiO
+x 
+deposition results are obtained under the condition of N
+2
+O/Ar=5:2 based on the results of 
+ 
+(5750 
+
+s), iV
+oc 
+(741.3 mV), J
+0 
+(4.79 fA/cm
+2
+) and contact resistivity 
+
+contact 
+(2.23 mcm
+2
+). In addition, the electrical properties

@@ -1,0 +1,9 @@
+ 60 
+
+m wide 300 grid lines in combination with 600 
+
+m wide 5 busbars were screen-printed on the rear n-TOPCon using fire-through Ag paste and single print. Finally, all samples were co-fired in an industrial-style belt furnace with peak firing temperature of 770 
+�
+C. The two SiN
+x 
+masking steps employed in our cell fabrication process can be eliminated by the single side etching tool used in industrial setting. During the cell fabrication, symmetrical test structures of n-TOPCon and impl

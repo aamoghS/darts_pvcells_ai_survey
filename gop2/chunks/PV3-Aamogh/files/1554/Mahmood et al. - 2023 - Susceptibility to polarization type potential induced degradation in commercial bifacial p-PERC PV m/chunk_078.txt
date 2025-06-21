@@ -1,0 +1,6 @@
+sResAppl.2018;26(10):859-867.doi:
+10.1002/pip.3028
+33.IECTS62804–1:2015Photovoltaic(PV)modules-Testmethodsforthedetectionofpotential-induceddegradation-Part1:Crystalline
+silicon.IEC--InternationalElectrotech.CommEd,vol.1,2015.34.CarolusJ,BreugelmansR,TsanakasJA,etal.WhyandhowtoadaptPIDtestingforbifacialPVmodules?ProgPhotovoltResAppl.2020;28(10):1045-1053.doi:
+10.1002/pip.3311
+35.SporlederK,NaumannV,BauerJ,etal.Localcorrosionofsiliconasrootcauseforpotential-induceddegradationattherearsideofbifa

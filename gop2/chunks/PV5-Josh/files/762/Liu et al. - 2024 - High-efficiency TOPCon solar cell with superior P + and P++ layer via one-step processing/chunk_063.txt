@@ -1,0 +1,9 @@
+concentrations (more than 10
+19 
+atom/cm
+3
+) of pure B doping sources with low oxygen content is challenging [28]. Moreover, when using a pure B source in high-temperature diffusion processes (above 1000 
+◦
+C), the resulting B-doped layer tends to be nonuniform, adversely affecting the separation of photogenerated car
+-
+riers. In the methodology employed in this study, B atoms are distributed in two primary forms. One part exists as Si-B-O bonds within the silica of BSG, while the other part i

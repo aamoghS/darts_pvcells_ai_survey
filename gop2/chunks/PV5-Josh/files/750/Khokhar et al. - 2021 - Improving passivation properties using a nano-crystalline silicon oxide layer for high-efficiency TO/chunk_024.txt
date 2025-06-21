@@ -1,0 +1,9 @@
+sion 3.1.Observation of structure characteristic and passivation characteristics at various thicknesses of nc-SiO
+x 
+on different annealing temperature The HRTEM image of the ultrathin SiO
+2 
+layer capped with the nc- SiO
+x 
+layer observed at a scale of 1 nm is shown in Fig. 2. The thickness of this layer was recorded as 1.5 nm. The SiO
+2 
+layer with a thickness greater than 1.6 nm has previously been reported to exhibit poor passivation properties due to the reduced degree of dopant diffusion f

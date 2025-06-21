@@ -1,0 +1,16 @@
+x 
+(1.6 ±0.2 nm) layer and an intrinsic a-Si (140 ±20 nm) layer, was formed by low- pressure chemical vapour deposition (LPCVD). The as-prepared samples were then annealed in a tube furnace at 880 
+◦
+C for 45 min using a mixture gas of POCl
+3
+, O
+2
+, and N
+2 
+to crystallize the a-Si to form poly-Si and simultaneously doped with phosphorus. Then, phosphorous sili
+-
+cate glass (PSG) was removed by etching in diluted HF solution, and the doping profiles of the SiO
+x
+/n
++
+-poly-Si layers were te

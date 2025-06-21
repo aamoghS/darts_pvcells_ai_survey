@@ -1,0 +1,11 @@
+higher implied Voc than A. This is because the firing temperature will induce the out-diffusion of the species containing hydrogen from the AlO
+X
+ layer. The O
+2
+ rich gas environment will form a thicker oxide layer between the silicon substrate and AlO
+X
+ layer. Table 2 shows the order of the hydrogen diffusion coefficients in the dielectric films [12-14]. The diffusivity of the hydrogen in the SiO
+2 
+under such a high firing temperature is two orders higher than in the AlO
+X
+. So, obviously mo

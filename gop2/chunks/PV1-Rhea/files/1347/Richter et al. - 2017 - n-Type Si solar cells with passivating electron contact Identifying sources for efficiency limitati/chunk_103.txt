@@ -1,0 +1,2 @@
+eimaging,IEEEJ.Photovolt.6(1)(2016)244–251.[43]A.Richter,S.W.Glunz,F.Werner,J.Schmidt,A.Cuevas,Improvedquantitative
+descriptionofAugerrecombinationincrystallinesilicon,Phys.Rev.B86(16)(2012)165202.[44]K.Gra,MetalImpuritiesinSilicon-DeviceFabrication,2nded.,Springer,Berlin,2000.[45]D.Macdonald,A.Cuevas,K.McIntosh,L.Barbosa,D.deCeuster,ImpactofCr,Fe,Ni,TiandWsurfacecontaminationondiusedandoxidisedn-typecrystallinesiliconwafers,in:Proceedingsofthe20thEuropeanPhotovoltaicSpecialistsConferenceand

@@ -1,0 +1,3 @@
+nd5.5nm)attherear.Table1showsthemea-suredopen-circuitvoltage(Voc),short-circuitcurrentdensity(Jsc),llfactor(FF),pseudollfactor(pFF),conversionefciency(η)andtheseriesresistance(Rs)ofthechampionn-typesolarcellsfea-turinganelectron-selectiveTiOxcontactwithdifferentthickness.ThepFFwasmeasuredbySuns-Vocatopencircuit[37],whichisfreefromtheeffectsofseriesresistance.Rswascalculatedbythellfactormethod[38],whichdescribestheseriesresistanceasRs¼
+VocJsc1
+FFpFFAllthelightI–Vcurvesshowwell-behaveds

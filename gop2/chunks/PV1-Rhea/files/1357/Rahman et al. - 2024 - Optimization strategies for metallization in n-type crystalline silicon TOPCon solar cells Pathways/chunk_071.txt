@@ -1,0 +1,3 @@
+rrent-voltagecharacteristicsofn-TOPConsolarcellsacrossaspectrumofsqueegeespeedsemployedduringmetallizationasshowninFig.7.Thisgraphicrepresentation,delineatingtheI–Vresponseat170mm/s(blackcurve),100mm/s(redcurve),and30mm/s(bluecurve),isinstru-mentalinelucidatingthesubcellularelectricalphenomenaabsentofphotoexcitation.They-axis,renderedonalogarithmicscale,displaysthecurrentdensity(mA/cm
+2
+),whilethex-axis,onalinearscale,in-dicatesthevoltage(mV).Inanalyzingthecurves,thelow-voltageregimeshowcasesa

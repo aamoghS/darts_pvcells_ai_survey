@@ -1,0 +1,4 @@
+le side  Texture 2- single side  Acidpolishing double-sided symmetric sample Acid polishing- double side / solar cell HF-single side Acid polishing- single side Alkali polishing double-sided symmetric sample Alkali polishing -double side / solar cell HF-single side Alkali polishing- single side 
+Note: Texture -double side:the volume ratio of KOH: Si surface texture additive1:H
+2
+O =2:1:280 at 75-80℃in the batch-type process. HF–single side: the volume ratio of HF =10–12% at room temperatur

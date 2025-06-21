@@ -1,0 +1,6 @@
+ost same (17.9% for amorphous silicon emitter and 17.8% for semi-crystalline silicon emitter). Nevertheless, improvement in the passivation quality of p-contact may lead to maximize the power conversion efficiency. In addition, double-sided contact solar cells with n-TOPCon on textured front side and p-TOPCon on planar back side were also devel
+-
+oped onto 250 
+
+m thick, shiny etched, 1 -cm, <100>oriented p-type FZ silicon wafers [27]. But here, the authors used atomic layer deposited 
+Fig. 4.

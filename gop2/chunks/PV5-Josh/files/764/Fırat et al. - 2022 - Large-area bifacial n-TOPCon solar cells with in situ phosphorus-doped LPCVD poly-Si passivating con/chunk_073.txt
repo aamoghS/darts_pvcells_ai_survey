@@ -1,0 +1,23 @@
+ slightly, to 3.6 fA/cm
+2
+, for higher t
+poly
+, which agrees with the trend reported in some works in the litera
+-
+ture [14,15], while other works did not identify any trend in J
+0,p,r 
+as a function of t
+poly 
+[41,43]. Overall, the reduction in J
+0,m,r 
+and J
+0,p,r 
+with increasing t
+poly 
+indicate that the use of thicker poly-Si films lead to lower recombination losses. Both the ~1% higher FF
+n 
+and FF, and the ~10 mV higher V
+oc 
+for t
+poly 
+≥150 nm are attributed to enhanced mitigation of 

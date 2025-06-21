@@ -1,0 +1,5 @@
+ Table 1 show the I–V results of JSIM and baseline TOPCon solar cells. The average PCE for JSIM cells was 25.1%, slightly higher than the baseline cells at 25.0%. Notably, the short-circuit current density (J
+sc
+) and open-circuit voltage (V
+oc
+) of the baseline and JISM TOPCon solar cells were quite similar. The primary divergence lay in the fill factor (FF), with JSIM having a FF of 83.2%, surpassing the baseline with a value of 82.9%. This underlines JSIM’s ability to allow for higher qua

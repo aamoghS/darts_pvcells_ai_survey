@@ -1,0 +1,5 @@
+d half years later, in 2017 Richter et al. reported about the influential effect of wafer thickness and bulk resistivity on the power conversion efficiency of TOPCon solar cells [15]. In the study, 150, 200 and 400 
+
+m thick n-type FZ Si wafers having a resistivity of 5 -cm were used for the variation of thickness. In contrast, study of resistivity variation was conducted by choosing 200 
+
+m thick n-type FZ Si wafers having three different resistivities of 1, 5and 10 -cm. Solar cells featuri

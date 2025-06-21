@@ -1,0 +1,7 @@
+the best solar cell is 1.1% higher than the corresponding FF measured in-house, which is attributed to the certified measurement neglecting front and rear grid-resistance contributions, as indicated in Fig. 10 [45]. Nevertheless, even with 1.1% higher FF, resistive losses remain dominant and the discussions in previous sections regarding the FF loss analyses are valid. Third, DARC yields an average increase in 
+ 
+by 0.2%, which is due to a significant improvement in J
+sc 
+by 0.5 mA/cm
+2
+. The r

@@ -1,0 +1,4 @@
+iscuss the evolutionary development of this high efficiency TOPCon solar cell, the progress made by the re
+-
+searchers in various aspects to improve the cell efficiency, current status of commercialization and finally future scopes of works with possible challenges.   
+1.Introduction Discovery of solar photovoltaic effect i.e., the direct conversion of sunlight into electricity is undoubtedly considered as one of the best findings in modern science [1]. Besides, successful development of first r

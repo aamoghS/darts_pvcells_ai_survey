@@ -1,0 +1,8 @@
+n on blistering behavior for n-type silicon solar cells Zih-Wei Peng
+a
+*, Po-Tsung Hsieh, Yuan-Jun Lin, Chih-Jeng Huang, Chi-Chun Li 
+a
+Motech Industries, Inc. Science Park Branch South Taiwan Science Park, No.96 Da-Shun 7th Rd., Hsin-Shi Dist., Tainan City 74145, Taiwan Abstract 
+Thermal treatment with different gas environment before the Al
+2O
+3 ALD passivation process plays a key role to the presence of blistering. The specific silanol group vibration peaks in FT-IR spectra confirm the mechan

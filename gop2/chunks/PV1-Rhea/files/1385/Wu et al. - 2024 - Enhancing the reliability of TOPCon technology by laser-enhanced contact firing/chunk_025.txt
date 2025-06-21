@@ -1,0 +1,9 @@
+ was used at the industrial production line and a LOANA solar cell analysis system for accelerated DH85 testing. From the I–V measurements, we extracted the power conversion efficiency (PCE), short-circuit current density (J
+sc
+), open-circuit voltage (V
+oc
+), fill factor (FF), and series resistance (R
+s
+). The module-level DH85 testing followed IEC TS 62782:2016, and the module’s output was measured by a GIV- 200DS2616 flash tester from Gsolar Power [40]. Utilizing a BTimag
+-
+ing R3 tool eq

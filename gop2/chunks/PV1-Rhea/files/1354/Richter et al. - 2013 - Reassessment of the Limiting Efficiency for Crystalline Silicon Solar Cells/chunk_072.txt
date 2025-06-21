@@ -1,0 +1,17 @@
+arta,“Solarcellefﬁciency
+tables(version33),”
+Prog.Photovolt:Res.Appl.
+,vol.17,pp.85–94,2009.
+[13]M.A.Green,“Self-consistentopticalparametersofintrinsicsiliconat
+300Kincludingtemperaturecoefﬁcients,”
+Sol.EnergyMater.Sol.Cells
+,
+vol.92,pp.1305–10,2008.
+[14]M.R
+¨
+udiger,J.Greulich,A.Richter,andM.Hermle,“Parameterization
+offreecarrierabsorptioninhighlydopedsiliconforsolarcells,”
+IEEE
+Trans.ElectronDevices
+,vol.60,no.7,p.2156,Jul.2013.
+[15]J.Mattheis,J.H.Werner,andU.Rau,“Finite

@@ -1,0 +1,3 @@
+cess. The first reason is the sample’s characteristics, whereby the sample may not have enough of an alkaline environment which deters the reaction from accelerating. The second reason can 
+be the technical specifics of the apparatus used which was experimental and based on the theory of electrolysis. 
+There also have been problems with the anode and cathode materials used in the electrolysis process. The correlation between factors is determined using the Statgraphic software. After calculati

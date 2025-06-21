@@ -1,0 +1,40 @@
+ack- contact (HPBC), TOPCon (8)
+
+max=
+
+2.425S10−4.240
+
+−19.52+(29.21)−19.52
+
+−
+1
+19.52
+%
+(9)
+S
+e&h,max=
+1
+
+1
+
+S
+e
++1
+
+S
+h
+2
+(10)
+b,e,h,m,max
+=
+Jsc
+e
+A
+
+ffront
+
+Jsc
+h
+b,e,h,m,max
+TABLE     |    The S10,e, fe,max, and ηe,max on electron- selective contacts.
+Electron- selectiveJ0,e [fA/cm2]ρc [mΩ.cm2]S10,efe,max [%]ηe,max [%]P- diffused n++60114.61.0128.93P- diffused n+18115.21.8129.07SiOx- n+- poly- Si40.7163.1429.16a- Si:H/nc- SiOx:H(n+)10.3216.94.1829.2n- Type Si [62

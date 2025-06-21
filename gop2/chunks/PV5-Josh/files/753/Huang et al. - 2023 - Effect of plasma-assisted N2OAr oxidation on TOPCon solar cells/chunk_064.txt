@@ -1,0 +1,12 @@
+ination current in contact with the nonmetallic area. In addition, the thicker SiO
+x 
+layer may also lead to higher contact resistivity. Although lower contact resistivity can lead to better metal contact, it may lead to the decline of contact passivation quality in the nonmetallic area, so we should find a balance between 
+
+contact 
+and passivation quality [48]. At present, the average contact resistivity of PANAO SiO
+x
+/Poly-Si(n
++
+) passivated contact prepared under the N
+2
+O/Ar=5:2 flow rat

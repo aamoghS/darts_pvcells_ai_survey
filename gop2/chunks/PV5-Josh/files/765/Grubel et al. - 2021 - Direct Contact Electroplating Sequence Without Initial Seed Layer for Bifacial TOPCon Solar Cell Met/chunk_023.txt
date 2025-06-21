@@ -1,0 +1,16 @@
+abifacialplated
+(left)orbifacialscreen-printeddesign(middle)andahybriddesign(right)with
+platedcontactsonthefrontsideandscreen-printingontherearside.
+meshisintroduced.Theinnermeshrepresentsthecurrentpath
+connectingthefrontandrearsideofthesolarcelldirectly
+viatheelectrolyte.Thisbehaviorcaninﬂuencethedeposition
+process,aswillbeshownbelowinSectionIII.C.DuringLIPthe
+photocurrentgeneratedbythesolarcellistypicallylargerthan
+thesourcecurrent(
+I
+source
+<
+I
+solarcell
+).Thevoltageismeasured
+overthecurren

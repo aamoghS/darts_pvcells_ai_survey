@@ -1,0 +1,5 @@
+model was built to match the I–V parameters of the best solar cell with a t
+poly 
+of 150 nm, polished rear surface, and single ARC. The corresponding input parameters of this model are listed in Table 1. These values were selected based on experimental data, in case of e.g., J
+0,E 
+and contact resistivity, and design parameters, in case of e.g., contact half widths, whenever available, and were otherwise chosen reasonably in order to match the I–V parameters of the best solar cell. For the i

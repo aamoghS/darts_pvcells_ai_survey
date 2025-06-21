@@ -1,0 +1,12 @@
+uted to the increase of open circuit voltage (V
+oc
+) and filling factor (FF), which reach to 0.7092 V and 84.45, respectively. The increase of V
+oc 
+and FF is mainly related to the improvement of passivation quality and the decrease of contact resistivity, as described in Section 3.3. In addition, under the condition of N
+2
+O/Ar=5:2, we also obtain the champion efficiency of 25.06%. The specific electrical parameters are V
+oc
+=0.7132 V, I
+sc
+=13.7239 A, FF=84.55, as shown in Fig. 8. 
+Fig. 7.The 

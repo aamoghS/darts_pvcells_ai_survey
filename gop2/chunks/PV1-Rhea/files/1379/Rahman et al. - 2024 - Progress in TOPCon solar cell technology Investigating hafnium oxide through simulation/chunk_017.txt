@@ -1,0 +1,3 @@
+ells. Diagrams illus
+-
+trating TOPCon cells with silicon dioxide (SiO2) and HfO2 layers highlight their structural variances and potential influences on cell performance. These cells employ a thin insulating layer known as “Tunnel Oxide,” comprising materials like SiO2 or HfO2, to passivate the silicon surface and facilitate charge carrier mobility for improved efficiency. Rear-side contacts in TOPCon cells optimize light absorption, diminishing shading losses and enhancing overall performan

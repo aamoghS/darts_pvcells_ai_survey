@@ -1,0 +1,5 @@
+ver, improve
+-
+ment in the screen-printed metallization process is highly required to reduce the poly-Si layer thickness from the present value of 150–200 nm. (c) Metallization: Metallization is one of the prime factors of real
+-
+izing industrial scalable high efficiency and cost-effective TOPCon solar cells. Various factors such as recombination current density at metal/ semiconductor interface, contact resistivity, rear side reflection (for monofacial cells only), firing temperature, cost-ef

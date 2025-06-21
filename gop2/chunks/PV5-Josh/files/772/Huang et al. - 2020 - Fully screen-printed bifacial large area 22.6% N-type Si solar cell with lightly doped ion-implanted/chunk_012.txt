@@ -1,0 +1,7 @@
+he large-area (239 cm
+2
+) n-type bifacial cells fabricated with an implanted B emitter on front and low pressure chemical vapor deposition (LPCVD) grown n-TOPCon on rear side of 180 
+
+m thick 2 -cm n-type Cz wafers. Since LPCVD grows poly-Si on both sides of the wafer, we implemented a masking process to etch poly-Si from front side. After standard saw damage etching, texturing and cleaning, the wafers received B ion implantation on the front side with a dose of 1.2e15/cm
+2 
+at 10 KeV ion ener

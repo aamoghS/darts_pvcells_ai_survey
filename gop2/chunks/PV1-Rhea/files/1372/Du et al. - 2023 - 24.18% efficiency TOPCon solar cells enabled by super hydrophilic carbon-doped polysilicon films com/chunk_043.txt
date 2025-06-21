@@ -1,0 +1,7 @@
+her R values could achieve excellent passivation [27], the high resistivity of the C-doped film makes it difficult to be plated. By comparing the 
+
+c 
+of the C-doped and double-layer samples, as shown in Fig. 5(c), we can obtain the following conclusions. For the C-doped samples, the 
+
+c 
+shows an upward trend as the R increases from 0 to 0.67. This is due to that the presence of C suppresses the activation of P in the polysilicon film [27, 37], leading to a rise in the sheet resistance as sho

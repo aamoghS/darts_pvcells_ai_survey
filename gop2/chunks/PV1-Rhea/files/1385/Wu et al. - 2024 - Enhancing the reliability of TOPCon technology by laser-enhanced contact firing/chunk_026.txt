@@ -1,0 +1,5 @@
+ar Power [40]. Utilizing a BTimag
+-
+ing R3 tool equipped with a high open-circuit voltage lens, we generated photoluminescence (PL) and R
+s 
+images. Subsequent processing of luminescence images was carried out using LumiTools [41]. To evaluate the contact resistance, we specifically focused on the non-busbar regions of the TOPCon cells. Employing a FOBA M1000 scribing laser, we created 6 mm wide stripes for contact resistance assessment. The quantification of contact resistances involved utilizi

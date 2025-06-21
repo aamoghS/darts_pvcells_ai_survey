@@ -1,0 +1,15 @@
+ are different for samples with the various SiO
+x 
+layers prepared by different N
+2
+O/Ar flow ratios. The shallowest doping depth is found in the sample of PANO SiO
+x
+, and with the decreasing of N
+2
+O/Ar flow ratios, the doping depth gradually increases, the deepest doping depth is obtained when N
+2
+O/Ar=5:10. This may be caused by (1) the gradually decreasing flow ratio of N
+2
+O/Ar reduces the thickness of SiO
+x 
+layer (from 1.76 nm to 0.82 nm, as shown in Fig. 2(a)), which leads to the decrea

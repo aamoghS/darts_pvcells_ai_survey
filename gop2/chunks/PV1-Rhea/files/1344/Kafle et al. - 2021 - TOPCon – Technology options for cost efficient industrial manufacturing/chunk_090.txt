@@ -1,0 +1,4 @@
+ared to a PERC cell, and the higher price of n-type as to the PERC p-type wafer substrate. From the TCO calculations up to module level, no clear winner among TOPCon con
+-
+cepts can be declared looking at the uncertainty margin. Nevertheless, assumption of in-situ deposition of a-Si(n) for LPCVD-based concepts, 
+Table 2 Overview of available a-Si/poly-Si deposition technologies and qualitative comparison based upon available literature (adapted from Ref. [32]). The symbols used represent: â€˜â€

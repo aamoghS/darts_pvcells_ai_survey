@@ -1,0 +1,10 @@
+ B presents its favorable 
+Fig. 6.Schematic view of a) 2 terminal (2 T), b) 3 terminal (3 T) and c) 4 terminal (4 T) tandem cells.  
+Table 2 Efficiency of 2 T and 4 T perovskite/Si tandem solar cell (TSC) reported since 2015 to 2023.  
+Year 2 T Tandem Configuration (PVK/c-Si) 4 T Tandem Configuration (PVK/c-Si) Perovskite composition /bandgap (eV) Efficiency Perovskite composition /bandgap (eV) Efficiency 2015 MAPbI
+3 
+(1.58 eV) 13.7%  [106] MAPbI
+3 
+18.2%  [107] 2016 MAPbI
+3 
+(1.58 eV) 20.5%  [

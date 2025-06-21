@@ -1,0 +1,6 @@
+ar cells were also incorporated in 1-cell laminates, which were subjected to 1000 h of damp heat testing and 400 cycles of thermal cycling. Upon both tests, P
+out 
+of the laminates did not degrade but increased by 1–2%. Hence, the laminates passed the tests, indicating that the developed solar cells can be suitable for use in PV 
+Fig. 13.Roadmap to 25.5% n-TOPCon solar cell efficiency established by Quokka 2 simulations. The improvements to the solar cell design and fabrica
+-
+tion process appl

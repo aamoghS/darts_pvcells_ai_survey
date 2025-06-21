@@ -1,0 +1,7 @@
+ere also, the pseudo FF (pFF) is consistently slightly lower than the implied FF (iFF) because of the additional passivation losses induced by the ITO and Ag sputtering processes [37]. At 200 sccm, the FF strongly decreases to 0.53 while iFF and pFF remain at 0.84 and 0.81, respectively. This suggests a problem related to the series resistance, and thus the ohmic contacts. Regarding the depth profile of the B
+2
+H
+6 
+flow at 200 sccm (Fig. 3a), a very high boron concentration at 5 �10
+21 
+at/cm

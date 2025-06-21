@@ -1,0 +1,2 @@
+roduction line. This research contributes to elucidating the mechanism of boron diffusion and offers insights for enhancing the efficiency of TOPCon solar cells.   
+1.Introduction In recent years, tunnel oxide passivation contact (TOPCon) solar cells have attracted significant attention among researchers due to their notable efficacy in solar energy conversion [1–5]. The diffusion of boron (B) on the front surface of n-type TOPCon cells plays a pivotal role in establishing PN junctions, result

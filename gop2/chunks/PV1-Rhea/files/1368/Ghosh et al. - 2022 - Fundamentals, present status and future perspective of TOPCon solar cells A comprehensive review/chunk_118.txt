@@ -1,0 +1,7 @@
+ss in a tube furnace at 800
+◦
+C to understand the impact of thermal treatment on the change of structural and chemical properties of the SiO
+x 
+tunneling layers. TEM and angle-resolved XPS (X-ray Photoelectron Spectroscopy) were found to be the most suitable method for the measurement of the thickness of the ultra-thin 1.0–1.5 nm SiO
+x 
+layers with an accuracy of 0.35 nm. On the other hand, an overestimation of the actual thickness was observed by using ToF-SIMS (Time-of-Flight Secondary Ion

@@ -1,0 +1,8 @@
+)solarcell.HITcellshaveproducedoutstandingcell
+Vocof750mV[1]andcellefciencyexceeding25%[2].However,thispassivationschemecannotwithstandtem-
+peratureabove250°Cforthemetallizationprocessand,
+hence,isnotcompatiblewiththewidelyusedindustry
+standardlow-costscreen-printedmetallization,whichre-
+quireshightemperaturecontactring(>700°C).Anotherexampleofoutstandingcarrier-selectivepassivatedcontact
+schemeinvolvesanultra-thintunneloxidecappedwitha
+phosphorus-dopedpolycrystallineSi(poly-Si)layer.Thissch

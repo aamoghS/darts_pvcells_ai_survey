@@ -1,0 +1,5 @@
+e interface passivation quality of n-TOPCon structure is good for both n-type (as mentioned in the section number 2) and p-type Si wafers. In contrast, symmetrical p-TOPCon structure served lower interface passivation (iV
+oc 
+=680 mV) quality due to the presence of higher defect density in bulk Si layer as well as at Si/SiO
+x 
+interface. Finally, to understand the influence of incorporating carrier selective contacts on the cell performance, p-type Si solar cells (active cell area 2 cm ×2 cm) w

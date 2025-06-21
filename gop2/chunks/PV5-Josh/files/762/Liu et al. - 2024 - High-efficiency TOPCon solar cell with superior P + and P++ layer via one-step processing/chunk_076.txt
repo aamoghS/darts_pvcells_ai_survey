@@ -1,0 +1,3 @@
+ B diffusion also affects the contact resistance between the metal electrode and the Si substrate. Appropriate B diffusion time can ensure that the interface between the metal electrode and the Si sub
+-
+strate forms a uniform and low contact resistance, which is conducive to the transport of electrons and the improvement of the filling coefficient. Additionally, selecting the appropriate B doping concentration is crucial for improving the cell’s FF. Excessive B doping concentration can result 

@@ -1,0 +1,7 @@
+
+-
+crease in charge carrier lifetime and power conversion efficiency, it compares HfO2 to SiO2 to establish a benchmark for improvement. SiO2 is traditionally used in solar cell technologies for surface passivation to reduce recombination losses. However, HfO2’s higher dielectric con
+-
+stant and thermal stability make it an appealing alternative, offering the potential for better performance and durability under operational con
+-
+ditions. The explicit rationale for discussing SiO2 alongside Hf

@@ -1,0 +1,11 @@
+aining low FF may be attributed to the large series resistance value. Furthermore, in another contribution, Schindler et al. reported about the development of n-type multicrystalline silicon based TOPCon solar cells (active cell area =2 ×2 cm
+2
+) with a power conversion efficiency of 19.6% (V
+oc 
+=663.7 mV, J
+sc 
+=38.87 mA/cm
+2
+, FF =75.9%) [133]. The authors recom
+-
+mended that further enhancement in the power conversion efficiency may be realized by improving the optical confinement inside th

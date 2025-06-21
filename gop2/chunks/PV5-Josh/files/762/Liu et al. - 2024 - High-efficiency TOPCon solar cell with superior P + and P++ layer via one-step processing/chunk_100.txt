@@ -1,0 +1,4 @@
+.81 719.1 40.79 84.58 0.00148 Max 24.94 720.4 40.95 84.54 0.00149 
+100 cells each group from one batch of substrate, Eff deviation is ±0.1. 
+X. Liu et al.                                                                                                                                                                                                                                      
+[14]I. Kurachi, K. Yoshioka, Enhancement and retardation of thermal boron diffusion in silicon from atmospheric pr

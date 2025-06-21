@@ -1,0 +1,3 @@
+ and using experimentally determined internal reflectance data [26,38]); Transmission: User-defined (based on measured R) 
+External Circuit  Series resistance: 0; Shunt resistance: 105 Ω∙cm2 
+ The remaining simulations were organized in 8 steps to establish the roadmap by improving or optimizing several solar cell parameters. These were (i) the bulk lifetime (τB), (ii) the bulk resistivity (ρB) and the contact resistivities (ρc,f, ρc,r) (iii) the screen-printed finger widths (wf, wr) and 

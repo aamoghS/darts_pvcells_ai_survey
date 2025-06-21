@@ -1,0 +1,11 @@
+ufactur-
+ingtools,materials,andprocedures.
+Thecellmanufacturingcost(separatefrompolysiliconand
+wafering)representsaboutone-quarterofthemodulecost,while
+themodulecostisaboutone-halfofthesystemcost[8].Thus,
+thecellfabricationprocessisaboutone-eighthofthecom-
+pletedsystemcost.Mostmoduleandsystemcostsdependupon
+theareaofcelldeployedand,hence,dependinverselyoncell
+efﬁciency.
+ManuscriptreceivedDecember15,2018;revisedFebruary2,2019;accepted
+February8,2019.DateofpublicationFebruary26,2019;dateofcurren

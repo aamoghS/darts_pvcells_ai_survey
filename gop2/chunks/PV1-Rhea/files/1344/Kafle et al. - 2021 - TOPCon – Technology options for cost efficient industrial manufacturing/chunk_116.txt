@@ -1,0 +1,13 @@
+(PERC / TOPCon) Module 
+ 
+(PERC / TOPCon) Module power (PERC / TOPCon) Cell to module power loss/gain Metallization No. of cells per module Interconnection technology Encapsulation Module area  Ag paste consumption Front (PERC / TOPCon) Rear (PERC / TOPCon) 8520 hours/year (355 d/a, 24h/d)  5 GW
+p   
+Cz, M4 size (258.39 cm
+2
+) 23.0 / 23.5 % 20.42 / 20.86 % 424 / 433 W
+p 
+-0.9% H-pattern (5 Busbar) 72 Ribbon EVA 2.08 m
+2   
+90 mg / 90 mg 25 mg (Ag pads) / 100 mg   
+Table 4 LCOE parameters  
+Inpu

@@ -1,0 +1,3 @@
+nsidered promising candidate to suppress Si efficiency records. Several analyses show its limiting efficiency up to 69.9% for an infinite number of sub
+-
+cells under 1 sun illumination [85–87]. Tandem cells could be referred to as fourth-generation solar cells, which have already been successfully commercialized at a smaller scale. It is usually manufactured by stacking several PN junctions of different bandgap semiconductor materials to overcome the fundamental limitation of single junction c

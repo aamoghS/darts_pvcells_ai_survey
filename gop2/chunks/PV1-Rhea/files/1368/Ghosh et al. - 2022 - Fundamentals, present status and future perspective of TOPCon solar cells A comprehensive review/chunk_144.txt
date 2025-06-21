@@ -1,0 +1,21 @@
+hole density at an annealing temperature of 820
+◦
+C was found to be increased from 3.2 ×10
+�8 
+cm
+�2 
+to 3.5 ×10
+�8 
+cm
+�2 
+for increasing the annealing time from 30 min to 180 min. From the c-AFM measurement systems, the same trend was also noticed at 950
+◦
+C annealing temperature where the pinhole density just got increased from 2.0 ×10
+�9 
+cm
+�2 
+to 2.1 ×10
+�9 
+cm
+�2 
+for increasing the time duration from 30 min to 180 min. However, the rapid heating/cooling process pr

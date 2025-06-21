@@ -1,0 +1,4 @@
+) is also investigated by quasi-steady state photoconductance (QSSPC) measurements. Figure  2 b shows 
+the dependence of effective lifetime (at the injection level of 
+1 × 10 15  cm −3 ) of SiO 2 /TiO 2  stack passivated n-type (1.0 Ω cm, 190 µm) silicon wafers on FGA annealing at different tempera-
+tures. As-deposited SiO 2 /TiO 2  stacks exhibit a poorer surface passivation than that of TiO 2  ﬁ lm with the same thickness. It is interesting that the passivation quality improved signi�

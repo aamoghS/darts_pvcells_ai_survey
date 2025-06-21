@@ -1,0 +1,17 @@
+iciency potential of TOPCon solar cells up to 29.03% with V
+oc 
+=985 mV, J
+sc 
+=39.46 mA/cm
+2 
+and FF =82.5%. However, the obtained result, especially realization of such high V
+oc 
+for 0.2 nm SiO
+x 
+tunnelling layer has been found to be inconsistent to some other reports [6,17,53]. In 2019, Mitra et al. reported about the development of an analytical model to study the change in V
+oc 
+in TOPCon solar cells due to the variation of emitter saturation current density (J
+oe
+), surface recombi
+-
+nat

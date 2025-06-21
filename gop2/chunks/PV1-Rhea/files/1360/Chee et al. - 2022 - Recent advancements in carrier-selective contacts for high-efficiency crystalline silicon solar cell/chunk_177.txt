@@ -1,0 +1,11 @@
+ncy by 0.2–20.1%; with SiO
+2
+/SiN
+x
+:H stack on the rear surface, long wavelength response is increased, and the rear surface recombination is suppressed with a low surface recombination velocity of 26cm/s post-annealing. The efficiency increased by 1.3–21.3% compared to conventional Al-BSF solar cells. [163] n-poly-Si/SiO
+x 
+passivating contacts capped by ALD-AlO
+x
+:H or PECVD- SiN
+x
+:H Post-deposition forming gas annealing (FGA) increased the minority carrier lifetime to 12.5 and 5.4ms and

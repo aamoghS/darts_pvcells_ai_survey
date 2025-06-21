@@ -1,0 +1,15 @@
+as shown in Table 3. One is SiO
+x
+/a-Si layer without any process (abbreviated as Poly-unannealed), the second is SiO
+x
+/a-Si layer after annealing without phosphorus doping (abbreviated as Poly-annealed), and the last is SiO
+x
+/a-Si layer after annealing with phosphorus doping (abbreviated as n
++
+-poly-Si). All of them were passivated by SiN
+x 
+layer and then tested for iV
+oc 
+before and after sintering. The iV
+oc 
+values of the n-TOPCon cells were measured using the quasi steady-state photocon

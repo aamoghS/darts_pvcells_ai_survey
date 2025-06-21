@@ -1,0 +1,3 @@
+ld also be much more rapid than originally antic
+-
+ipated. As per Fig. 3, the current Si-based PV market is covered by approximately 15% by Al-BSF, 70% by PERC, 8.5% by SHJ, and 7% by IBC, 1.5% by Si-tandem, while in 2029, the market coverage could be 70% by PERC, 16% by SHJ, 9% by IBC, and 5% by Tandem PV. It is noted that the traditional Al-BSF is predicted to be outdated in 2026, while PERC, SHJ, IBC, and Si-tandem will be increased in the future. Most of the recombination loss of traditional

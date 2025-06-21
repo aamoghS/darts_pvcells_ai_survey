@@ -1,0 +1,11 @@
+le the a-Si:H(i)/MoO
+x
+/ITO contact structure has been considered to be promising, it is vital to consider both its mechanical and thermal stability. In this case, the contact performance deteriorates due to MoO
+x 
+degradation in the a-Si:H(i)/MoO
+x 
+stack capped by an ITO layer. On the other hand, heterostructure devices with a simplified process consisting of ITO directly deposited on the n-Si substrate by RF magnetron sput
+-
+tering led to a naturally formed ultrathin indium doped a-SiO
+x 
+(a-

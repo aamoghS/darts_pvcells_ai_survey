@@ -1,0 +1,9 @@
+he FF losses, FF values without the impact of r
+s 
+(FF
+n
+) and without the impact of both r
+s 
+and non-ideal n (FF
+0
+) were calculated [34]. The solar cells were further inspected by optical microscopy to assess the quality of the screen-printed contacts. Moreover, the reflectance (R) and the external quantum efficiency (EQE) spectra of the devices were measured under front illumination at a 2 cm ×2 cm spot on the solar cell in the wavelength () range of 280–1200 nm using a LOANA system by P

@@ -1,0 +1,2 @@
+sses are grouped under metallization category together with screen-printing and firing processes. In the legend, CYL represent cost of yield losses. Here, cell efficiencies of 23.0% and 23.5% on M4 wafer sizes are assumed for bifacial p-PERC and TOPCon cells respectively. 
+Fig. 6.Cost of ownership ($ct/Wp) of the metallization step projected for percentage reduction in total Ag consumption during industrial screen printing of front and rear grids (including busbar and fingers) for bifacial p-PER

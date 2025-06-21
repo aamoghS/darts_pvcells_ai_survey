@@ -1,0 +1,14 @@
+search (TNO) to assess the impact of different encapsulation materials on 
+performance losses in bifacial 
+PV modules [19].
+ 
+Compared to other combinations of cell types and encapsulants, it can be concluded that the particular combination 
+of n
+-
+type Topcon solar cells with EVA is likely a higher risk one. In fact, it is best to avoid using EVA in 
+conjunction with metallization t
+hat is highly susceptible to corrosion. Alternatively, building more corrosion
+-
+resistant n
+-
+type PV panels sho

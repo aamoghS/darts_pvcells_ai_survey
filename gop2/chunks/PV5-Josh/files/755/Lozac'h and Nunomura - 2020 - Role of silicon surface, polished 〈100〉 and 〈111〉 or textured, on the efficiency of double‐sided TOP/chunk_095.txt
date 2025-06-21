@@ -1,0 +1,2 @@
+EnergyMaterSolCells.2014;131:85-91.53.FeldmannF,MüllerR,ReichelC,HermleM.IonimplantationintoamorphousSilayerstoformcarrier-selectivecontactsforSisolar
+cells.PhysStatusSolidiRapidResLett.2014;8(09):767-770.54.RömerU,PeibstR,OhrdesT,etal.Ionimplantationforpoly-Sipassiv-atedback-junctionback-contactedsolarcells.IEEEJPhotovoltaics.2015;5(2):507-514.55.YoungDL,NemethW,LaSalviaV,etal.Interdigitatedbackpassivatedcontact(IBPC)solarcellsformedbyionimplantation.IEEEJPhotovol-taics.2016;6(1):41-47.56.Yan

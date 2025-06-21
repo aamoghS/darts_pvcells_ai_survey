@@ -1,0 +1,6 @@
+able 2 Passivation and/or contact design and their related achievements reported in the literature.  
+Passivation stack and/or contact design Key features of technology Ref. Introducing front and/or rear TOPCon on p-PERC architecture; rear surface passivation by p-poly- Si/SiO
+x 
+stack. TOPCon upgrade on p-PERC yielded a reduced contact recombination rate but increased parasitic absorption in the poly-Si layers resulting in an overall efficiency gain <1%. [22] MoO
+x
+/Al layer stack deposited as 

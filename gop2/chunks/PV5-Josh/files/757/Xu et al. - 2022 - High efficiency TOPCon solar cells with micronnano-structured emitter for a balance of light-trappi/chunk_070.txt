@@ -1,0 +1,3 @@
+s from spectral response independent of the direction of incoming light that EML brings [6]. Differently, the EQE spectra of conventional cells drop dramatically with increasing , showing a strong angle sensitivity. This is because the micron-pyramids and anti-reflectance layers was mainly optimized and designed for reducing optical reflection in normal incident light. Fig. 7c shows the relative change in J
+sc 
+of NPP cells and conventional cells versus normal illumination as a function of . W

@@ -1,0 +1,7 @@
+ poly-Si layer is going to be pinpointed in the following section. Besides, the different issues associated with the metallization process in the mass production of TOPCon solar cells have also been enlightened. (a) Mass production of ultra-thin SiO
+x 
+layer: In Section 6.1.1, the dependence of the surface passivation quality of the ultra-thin SiO
+x 
+tunnelling layer on its synthesis process has been summarized. Besides, in Table 1 the surface passivation quality of ultra-thin SiO
+x 
+layer grown

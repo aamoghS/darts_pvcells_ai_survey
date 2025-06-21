@@ -1,0 +1,7 @@
+tra within the X-ray Photoelectron Spectroscopy (XPS) results, as displayed in Fig. 2a. Prior to the peak fitting process, the Shirley background, accounting for inelastically scattered electrons, was eliminated. From the O 1s peak, peaks at ~530.8 eV and ~532.9 eV were meticulously deconvoluted. These correspond to the O–Al–O bands of Al
+2
+O
+3 
+and Al–OH bands of Al (OH)
+3
+, respectively. We used the peak areas of the O–Al–O and Al–OH contributions within the O1s core levels to anal

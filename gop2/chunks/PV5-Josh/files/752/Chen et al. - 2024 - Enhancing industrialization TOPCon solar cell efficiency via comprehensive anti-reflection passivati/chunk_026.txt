@@ -1,0 +1,12 @@
+H contributions within the O1s core levels to analysis the ratio changes of Al
+2
+O
+3 
+to Al(OH)
+3
+. The band ratio is only 1.22 in AlO
+x 
+films that have undergone only the same thermal process without plasma treatment, whereas the application of plasma oxidation increases the ratio to 1.66 [21,22]. It stems from the design of our industrial in-line ALD system, which effectively balances capacity and cost considerations. In the sys
+-
+tem, the sample is conveyed on a transfer plate through the 
+F

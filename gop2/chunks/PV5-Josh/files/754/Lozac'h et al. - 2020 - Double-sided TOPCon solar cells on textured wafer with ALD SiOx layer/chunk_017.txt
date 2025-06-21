@@ -1,0 +1,7 @@
+s necessary to terminate the defects such as dangling bonds in the material [28]. In this study, the hydrogenation is performed by hydrogen plasma treatment (HPT) in capacitively-coupled discharge at 300 
+�
+C for 1 min [29,30]. The pressure inside the chamber is set at 0.5 Torr, the power density at 60 mW/cm
+2
+, and the frequency at 85 MHz. The distance between the electrodes in a parallel-plate configuration is about 2 cm. 2.4.Characterization of the passivation The effective lifetime (
+
+eff

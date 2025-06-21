@@ -1,0 +1,20 @@
+available [47], the first step of the roadmap assessed the improvement achievable by improving the wafer quality. As Fig. 13 shows, the use of wafers with 
+
+B 
+=8 ms leads to a significant 
+ 
+gain of 0.9% due to the FF and the V
+oc 
+increasing by 1.9% and 9 mV, respectively. It is interesting to note that most of this gain (0.7% in 
+
+) can be obtained already for 
+
+B 
+=4 ms, showing that the increase in 
+ 
+with 
+
+B 
+has a saturating behavior. Step 2 and 3 of the roadmap shows that 
+ 
+can 

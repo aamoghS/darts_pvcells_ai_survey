@@ -1,0 +1,19 @@
+ce not only does this improve surface passiv
+-
+ation, but also firing stability. Capping layers derived from H-rich TCDs 
+Table 2 (continued) 
+Passivation stack and/or contact design Key features of technology Ref. Boron diffused front emitter, rear- side tunnel-SiO
+x
+/n
++
+-poly-Si/SiN
+x
+: H, front/rear screen printed Ag electrodes J
+0 
+~1.3 and 3.7 fA/cm
+2 
+on polished and textured c-Si surfaces, respectively. After printing the Ag contacts, J
+0 
+increased to 50.7 fA/ cm
+2 
+on the textured c-Si

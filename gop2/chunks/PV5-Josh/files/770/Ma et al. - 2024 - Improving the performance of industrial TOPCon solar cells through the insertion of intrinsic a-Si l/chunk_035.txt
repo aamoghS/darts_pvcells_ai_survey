@@ -1,0 +1,4 @@
+ying the PECVD method. In this study, the samples were prepared on the polished c-Si substrate with different thicknesses of a-Si (i) film by tube PECVD method, and the rear passivation structure corresponded to the groups of Baseline, G1, G2, G3, and G4. To gain insights into the surface characteristics of the 
+Fig. 1.Fabrication processes for poly-Si/SiO
+x
+/c-Si contacts doped with phosphorus, including the RCA cleaning, PECVD deposition of tunneling oxide, intrinsic a-Si and in-situ phosphoru

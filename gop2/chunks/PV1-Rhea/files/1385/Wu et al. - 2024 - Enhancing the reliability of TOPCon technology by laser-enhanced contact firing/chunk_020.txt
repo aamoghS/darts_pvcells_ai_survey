@@ -1,0 +1,2 @@
+he laser operated at a wavelength of 1030 nm with a frequency of 1000 Hz. In contrast, the baseline samples underwent front metallization used standard commercial Ag/Al paste and a conventional firing process. Notably, both batches of TOPCon cells featured identical screen-printing pattern designs. Subsequent PV modules, comprising 144 half-cut cells, were produced via a standardized manufacturing process. Fig. 1 (b) 
+Fig. 1.(a) Schematic of the TOPCon solar cells and (b) the TOPCon modules used

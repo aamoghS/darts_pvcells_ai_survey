@@ -1,0 +1,21 @@
+erfacial ultrathin SiO
+x
+, intrinsic a-Si, and in-situ phosphorus-doped a- Si were deposited by a tube-type PECVD system (ZR5000, LeadMicro) at 400 
+◦
+C with different precursor gases (SiO
+x
+: N
+2
+O; a-Si (i): SiH
+4 
+and H
+2
+; a- Si (n): PH
+3
+, SiH
+4
+, and H
+2
+, respectively). A direct radio frequency (RF) plasma source operating at 40 KHz was used. The plasma time of the SiO
+x 
+process was fixed at 3 min. The total thickness of a-Si was fixed at 140 nm in this study, and the thickness of a-Si

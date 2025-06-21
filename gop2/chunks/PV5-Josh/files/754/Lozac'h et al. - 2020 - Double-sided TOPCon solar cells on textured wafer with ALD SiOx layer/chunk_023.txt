@@ -1,0 +1,12 @@
+nce. The illuminated area, used for the measurement of the short-circuit current (J
+sc
+) and thus the photoconversion efficiency, is measured at 1.045 cm
+2
+, which includes the active area (1.017 cm
+2
+) and the grid shadowing (0.028 cm
+2
+). The contact resistivity 
+
+c 
+with the (p) poly-Si layer is measured by the transmission line method (TLM) on a specific front line patterned beside the solar cells from the same c-Si wafer. 3.Experimental results 3.1.Conformal coverage by ALD The transmissio

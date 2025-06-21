@@ -1,0 +1,11 @@
+ness of 80 nm. The same types of samples with pyramid-textured surfaces as in the p
++
+np
++
+structure samples were screen-printed with Ag/Al contact lines only on one side, with four different pitches as the test structure. Then, the Ag/Al paste was exposed to fire in an industrial belt-firing furnace at a peak firing temperature of 750 
+◦
+C with the finger-side facing up. Subsequently, the fingers were etched off with aqua regia (V
+HCl
+:V
+HNO3 
+=3:1). Finally, the samples were rinsed in deioni

@@ -1,0 +1,13 @@
+e deposition parameters of a-Si layers [143]. Besides, the structure demonstrated an excellent sur
+-
+face passivation quality with an iV
+oc 
+of 726 mV. The authors further added that these results may be helpful to fabricate high-efficiency monolithic perovskite/silicon tandem solar cells featuring a c-Si bot
+-
+tom cell with p
++
+poly-Si/n
++
+poly-Si/SiO
+x 
+stack as a passivating front contact. Recently, Yoon et al. reported that highly transparent and less resistive 80 nm ITO layer was deposited 

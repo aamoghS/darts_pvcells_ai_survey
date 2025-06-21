@@ -1,0 +1,20 @@
+ developed TOPCon solar cells featuring PANO-SiO
+x 
+layer [38]. On the other hand, Guo et al. developed p-TOPCon structure onto 3 -cm, 170 
+
+m, n-type CZ c-Si wafers where the ultra-thin SiO
+x 
+tunnelling layer was developed by three different ways: (a) a hot HNO
+3 
+oxidation at 110
+◦
+C for 15 min (NAOS-SiO
+x
+), (b) a plasma-assisted oxidation for 5 min in N
+2
+O atmo
+-
+sphere (PANO- SiO
+x
+), and (c) a thermal oxidation inside a tube-furnace 
+Fig. 10.(a) Comparison of XPS spectra of different

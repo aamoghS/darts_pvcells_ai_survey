@@ -1,0 +1,3 @@
+iscolor
+-
+ation, bubble formation, and front glass copper breakage) or some other types of problems, including defective bypass diode, potentially induced degradation, and open circuited submodule. These degradations can be initiated and further aggravated during operation because of different environmental factors mentioned above and thus adversely affect cell performance. The close monitoring and analysis of degradation and its remedial measures are important to enhance the service life of PV 

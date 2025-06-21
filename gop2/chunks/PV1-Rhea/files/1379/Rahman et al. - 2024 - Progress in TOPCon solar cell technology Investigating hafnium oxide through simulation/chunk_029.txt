@@ -1,0 +1,7 @@
+rical properties, which impact their perfor
+-
+mance in a solar cell [30]. For example, HfO2 stands out with its high relative permittivity and distinct electron tunnel mass, suggesting it may offer enhanced passivation effects [31–33]. These attributes are critical for predicting how each material influences electron tunneling efficiency and the overall effectiveness of the cell’s passivation layer [28].  
+Parameters Symbol SiO2 Si3N4 Al2O3 HfO2 Relative permittivity 
+
+r 
+3.9 7.5 9.1 22 Ele

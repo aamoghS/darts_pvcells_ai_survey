@@ -1,0 +1,17 @@
+images of NPP surface morphologies at 10.0 K magni
+-
+fications (left) as well as the zoom-in SEM images of top view and cross-section view at 30.0 K magnifications (right) under the P
+RF 
+of (a) 100 W, (b) 300 W and (c) 600 W. 
+Table 1 Statistical mean structural parameters with the standard deviation of simplified NPP textures at different P
+RF
+.  
+RIE P
+RF 
+(W) D (nm) W (nm) C (%) D
+p 
+(nm) A
+F
+/A
+proj 
+0 (pyramid) 0 0 0 0 1.79 100 223 ±18 360 ±24 17.67 ±0.28 204 ±22 4.87 300 240 ±20 410 

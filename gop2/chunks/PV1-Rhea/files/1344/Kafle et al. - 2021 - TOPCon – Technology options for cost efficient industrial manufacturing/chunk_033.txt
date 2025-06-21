@@ -1,0 +1,3 @@
+ial p-PERC pro
+-
+duction. After passivation process, screen-printing of rear is performed by first printing Ag contact pads before printing Al grid, followed by the printing of Ag grid on the front. After fast-firing (FFO), a regeneration process is required to compensate the losses in conversion efficiency due to light induced degradation (LID), which is related to the formation of boron-oxygen complexes [19]. The two TOPCon routes differ mainly by the method used to form doped a-Si/poly-Si lay

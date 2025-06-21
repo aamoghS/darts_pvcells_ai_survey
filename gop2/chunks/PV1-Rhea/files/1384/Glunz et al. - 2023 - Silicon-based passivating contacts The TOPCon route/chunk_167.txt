@@ -1,0 +1,5 @@
+aser-assistedatomprobe.ApplPhysLett.2009;95(4):43502.
+https://doi.org/10.1063/1.3186788
+102.MorimotoT,MomoseHS,OzawaY,YamabeK,IwaiH.Effectsofboronpenetrationandresultantlimitationsinultrathinpure-oxide
+andnitrided-oxidegate-films.In:InternationalTechnicalDigestonElectronDevices:IEEE;1990:429-432.103.MathiotD,StraboniA,AndreE,DebenestP.Borondiffusionthroughthingateoxides:InfluenceofnitridationandeffectontheSi/SiO2interfaceelectricalcharacteristics.JApplPhys.1993;73(12):8215-8220.
+https://doi.org/

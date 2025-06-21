@@ -1,0 +1,23 @@
+0
+19 
+atoms/cm
+3
+. It is inferred that a relatively large P atoms were diffused into Si, which will provide a poor passivation. Fig. 4 shows the J
+0 
+values of the SiO
+x
+/n
++
+-poly-Si layers under two different process parameters. In the case of t
+pressure
+, J
+0 
+increases from 5.2 to 7.8 fA/cm
+2 
+with increasing the pressure duration from 5 to 20 min (Figs. 4a and 4b). This is consistent with the ECV profiles. For t
+oxidation
+, J
+0 
+increases from 5.6 to 6.9 fA/cm
+2 
+as oxidation duration incre

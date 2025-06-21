@@ -1,0 +1,10 @@
+OPCon solar cells.  
+Cell area (cm
+2
+) Features of wafer Nature of the result V
+oc 
+(mV) J
+sc 
+(mA/cm
+2
+) FF (%) Efficiency (%) Refs. 239 n-type, 5 -cm, CZ Best 675 38.8 79.1 20.72 [117] 244.3 n-type, 4–5 -cm, CZ Best 696 40.5 80.9 22.8 [86] 261.47 n-type, 0.2–2 -cm, CZ Median (20000 cells) Best (front) Best (rear) 701.5 716.7 710.8 39.84 40.14 32.59 82.2 82.0 81.9 23.0 23.57 18.98 [118] 246.21 n-type CZ Average (300 cells) Best 701 703 40.66 40.53 80.80 81.25 23.04 23.15 [119] 244.32 n-t

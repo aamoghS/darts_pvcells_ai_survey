@@ -1,0 +1,7 @@
+tivity. To investigate the current pathway, the region be
+-
+tween the TLM pads was repetitively etched in SF
+6
+/O
+2
+/Ar plasma using the aluminum pads as an etching mask, and the samples were measured after each etch process by TLM. The plasma-enhanced chemical vapor deposition (PECVD) system of (SNTEK company) with a frequency of 13.56 MHz and thermal furnace of EM TECH company are used during the experiment. Structural characteristics were evaluated by Raman spectroscopy (Ramboss 500i, Dongwoo

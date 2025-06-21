@@ -1,0 +1,16 @@
+adiativeandAuger
+recombination,aswellasphotonrecycling(PR)intoaccount.Theadditional
+curvesshowcellsconstrainedeitheronlybytheAugerrecombinationorby
+theAugerandradiativerecombination.BotharecalculatedwithouttakingPR
+intoaccountand,thus,representanupperlimitassumingcompletephoton
+recyclingandlowerlimitassumingnophotonrecycling,respectively.Allthese
+curveswerecalculatedwiththemodelingparameterslistedinrow
+F
+ofTableI.
+Additionally,thecurvesarealsoshownfor1
+Ω
+·
+cmp
+-
+typeSicalculatedwith
+themodeli

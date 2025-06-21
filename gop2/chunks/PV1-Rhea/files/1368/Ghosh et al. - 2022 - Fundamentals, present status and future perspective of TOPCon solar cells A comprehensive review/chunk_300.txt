@@ -1,0 +1,3 @@
+, the solar cells having an effective cell area of 100 cm
+2 
+showed slightly improved conversion efficiency of 22%. Furthermore, the simulation study using Sentaurus2D device model revealed that use of selective boron emitter along with floating front bus bars may lead to raise the conversion efficiency to beyond 23%. Bifacial TOPCon solar cells Bifacial c-Si solar cells have drawn the attention of the researchers over the years to facilitate the goal of achieving grid parity and hence according

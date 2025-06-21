@@ -1,0 +1,9 @@
+diffusion: screen printing B-doped Si paste, (b) after diffusion: p
++
+/n and p
+++
+/n junction formation. 
+X. Liu et al.                                                                                                                                                                                                                                      
+and the depth of diffusion progressively increase. Over an extended duration, such as 6 ns, the number and depth of B atom diffusion sub
+-
+stantially 

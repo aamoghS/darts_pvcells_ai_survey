@@ -1,0 +1,5 @@
+erently both-sided, therefore leading to the parasitic deposition of layers on the undesired (front) side, even if the wafers are placed in front-front configuration (two wafers placed per slot). For the LPCVD TOPCon exsitu process route, an additional POCl
+3 
+diffusion is required to incorporate dopants into a-Si/poly-Si layer, which simulta
+-
+neously acts as a thermal annealing step required to cause phase change of predominantly amorphous layer to a polycrystalline layer, so called polycrysta

@@ -1,0 +1,15 @@
+ace of the wafers can be avoided. Secondly, thin wafers must be handled very carefully during the cell fabrication 
+Table 3 I–V parameters of the developed TOPCon solar cells [43].  
+Thickness of SiO
+x 
+layer (nm) Nature of result V
+oc 
+(mV) J
+sc 
+(mA/cm
+2
+) R
+ser 
+(m) FF (%) Efficiency (%) Cell area (cm
+2
+) 1.55 Median Best 687.1 689.4 39.92 40 4.64 4.34 81.09 81.35 22.25 22.43 244.32 1.43 Median Best 680.1 684 39.8 39.94 5.23 5.22 79.94 79.78 21.7 21.79 244.32 1.25 Median Best 679 682.2 39.

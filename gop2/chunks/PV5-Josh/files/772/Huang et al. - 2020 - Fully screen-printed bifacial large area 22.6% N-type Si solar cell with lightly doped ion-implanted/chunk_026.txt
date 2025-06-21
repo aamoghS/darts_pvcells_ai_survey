@@ -1,0 +1,15 @@
+1 fA/cm
+2
+, indicating excellent passivation quality of our SiN
+x 
+capped LPCVD grown unmetallized n- TOPCon after simulated contact firing. However, total J
+0_TOPCon 
+did show a slight increase with increased metal fraction (Fig. 3 (a)). From the intercept and slope of the linear fit to the experimental data in Fig. 3 (a) (y ¼29.3 x þ2.1), we obtained a J
+0_TOPCon, metal 
+~30 fA/cm
+2 
+and J
+0_TOPCon, pass 
+~ 1.05 fA/cm
+2 
+for the metallized and unmetallized n- TOPCon regions. This corresponds

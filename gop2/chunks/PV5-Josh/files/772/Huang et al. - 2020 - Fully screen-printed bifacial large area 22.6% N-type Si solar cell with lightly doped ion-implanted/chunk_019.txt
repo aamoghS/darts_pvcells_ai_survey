@@ -1,0 +1,17 @@
+, symmetrical test structures of n-TOPCon and implanted B emitter were prepared to quantify their passivation properties and the impact of screen-printed metallization (Fig. 2). The symmetric p
+þ
+np
+þ
+test structures were passivated with thin Al
+2
+O
+3 
+capped with PECVD SiN
+x
+/SiO
+x 
+on textured Si wafers to determine the J
+0 
+of the implanted B emitter using the photoconductance decay (PCD) mea
+-
+surement technique proposed by Kane and Swanson [25]. Similarly, symmetric LPCVD grown n-TOPCon s

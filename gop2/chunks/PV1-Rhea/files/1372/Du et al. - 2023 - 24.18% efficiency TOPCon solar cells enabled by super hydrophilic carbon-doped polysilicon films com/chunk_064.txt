@@ -1,0 +1,3 @@
+ oxide passivated contact solar cells with ozone-gas oxidation Nano SiOx and tube PECVD prepared in-situ doped polysilicon, Sol. Energy Mater. Sol. Cells 243 (2022), 111803. [7]R. Peibst, F. Haase, B. Min, C. Hollemann, T. Brendemühl, K. Bothe, R. Brendel, On the chances and challenges of combining electroncollecting nPOLO and hole- collecting Al-p
++
+contacts in highly efficient p-type c-Si solar cells, Prog. Photovoltaics Res. Appl. 31 (2023) 327–340. [8]V.V. Kuruganti, D. Wurmbrand, T. Buck

@@ -1,0 +1,6 @@
+ However, the consumption of Ag paste needs to be reduced significantly 
+Fig. 27.Expected trend of poly-Si layer thickness for TOPCon contacts [19].  
+Fig. 28.Normalized COO calculated for various a-Si/poly-Si deposition tech
+-
+nologies vs the thickness of the deposited layer. Here, two wafers per slot are assumed for LPCVD depositions. PECVD layer deposition is assumed for a batch type tool [127]. 
+D.K. Ghosh et al.                                                                                

@@ -1,0 +1,3 @@
+ss [20]. Later on, either LPCVD or PECVD has been used mostly for the development of the poly-Si layer [19]. However, for the mass production of amorphous-Si/poly-Si layer; LPCVD has been used widely due to pos
+-
+sessing numerous advantages such as excellent uniformity of thickness along the wafer and the boat, formation of pin-hole free layers, high purity, high throughput etc. [127]. The other major advantage of LPCVD process is the opportunity to develop either intrinsic a-Si/poly-Si layer, f

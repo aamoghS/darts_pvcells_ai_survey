@@ -1,0 +1,9 @@
+ ×10
+16 
+cm
+�3 
+(Fig. 8d and e). These results indicate that the junction depth has a stronger influence on the iV
+oc 
+and effective lifetime than the peak concentration. To obtain a suitable iV
+oc 
+and effective lifetime, an appropriate peak concentration and shallow junction of B-doped profiles are required. 3.5.I–V parameters Table 3 illustrates the I–V parameters of the cells at 4–5 pieces of solar cells per boron profile. And the box plots are shown in Fig. S3 and Fig. S4. The D3 s

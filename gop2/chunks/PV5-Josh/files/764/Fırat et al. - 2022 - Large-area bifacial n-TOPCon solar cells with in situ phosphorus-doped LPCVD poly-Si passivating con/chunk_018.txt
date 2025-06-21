@@ -1,0 +1,3 @@
+ile the deposition of in situ doped Si films is more expensive than their intrinsic counterparts due to the reduced r
+dep 
+in case of in situ doping, the overall cost of n-TOPCon solar cells incorporating in situ doped poly-Si passivating contacts can be lower by 0.2 $cents per Watt peak than the devices with conventional ex situ doped passivating contacts, if the annealing in case of in situ doping can be optimized to yield a shorter and leaner process [17,27]. Moreover, a simpler single-step p

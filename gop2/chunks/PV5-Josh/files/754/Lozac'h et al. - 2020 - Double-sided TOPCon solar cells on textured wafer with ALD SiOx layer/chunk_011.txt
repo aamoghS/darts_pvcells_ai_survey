@@ -1,0 +1,18 @@
+4
+:H
+2
+O
+2 
+ratio 4:1), (ii) an oxide etching for 2 min (HF:HCl:H
+2
+O ratio 1:1:20), (iii) an oxide growth for 15 min (HCl:H
+2
+O
+2
+: H
+2
+O ratio 1:1:5), then (iv) a diluted HF (DHF) solution for 30 s (HF:H
+2
+O ratio 1:20) to remove the oxide layer and to saturate the surface termination by H atoms. Between each process, the cleaned wafers are transferred into a vacuum box to reduce the oxidation and contamina
+-
+tion. The H-termination surface of silicon wafer is stable up to 30 min under ambient

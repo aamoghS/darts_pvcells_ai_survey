@@ -1,0 +1,17 @@
+ solar cells before the thickness measurements.  As the LPCVD process creates a wrap-around of poly-Si at the front surface, this parasitic layer was removed by a single-side dry etch process in NF3 plasma, followed by the removal of the SiOx mask in HF. The reader should note that, while dry etching was used in this work, wrap-around removal can also be performed by the simpler and more common approach based on 
+a)
+b)
+Ag/Al
+Ag/Al
+241.3 cm
+2
+, 2.3 
+Ω∙
+cm 
+155 µm, n
+-
+type (100) 
+Cz
+-
+Si
+70 n

@@ -1,0 +1,7 @@
+an be explained, assuming that current is transported exclusively via crystallites in direct contact with the Ag–Al contact bulk and the B- doped emitter when the dopant concentration is less than 8 ×10
+19 
+cm
+�3
+. The confidence interval for the median of the specific contact resistance values was illustrated by the notched box plot. In the case of varying emitters (D1–D3), the specific contact resistance can be decreased significantly from 4.5 to 1.1 mcm
+2 
+by increasing the peak conc

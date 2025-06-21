@@ -1,0 +1,6 @@
+                                                                                                           
+the junction depth and the peak concentration increased, the value of J
+0e, passivated 
+changed in the same direction because of the large surface and bulk recombination, which has a higher doping density due to lowered minority mobility. To reduce J
+0e, passivated
+, the B-doped profiles should have a low dopant concentration and a shallow junction. A firing-through Ag/Al paste was used to

@@ -1,0 +1,15 @@
+anced. 2) N or other impurities may be introduced into the SiO
+x 
+layer to improve the electrical properties and thermal stability of the poly-Si passivated contact [2,44]. The doping concentration and R
+sh 
+of the samples with N
+2
+O/Ar =5:2 flow ratio are further studied as a function of annealing temperatures, as shown in Fig. 5. The R
+sh 
+slightly decreases from 64.63 / to 49.43 / when the annealing temperature increases from 860 
+◦
+C to 920 
+◦
+C, but the R
+sh 
+drops sharply to 26.76 

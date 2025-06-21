@@ -1,0 +1,8 @@
+                                                                                                                 
+with in situ P-doped LPCVD poly-Si passivating contacts, as record large- area n-TOPCon solar cells fabricated by the PV industry already ach
+-
+ieved 
+ 
+up to 25.4% [4]. For this purpose, a roadmap is established by Quokka 2 simulations and presented in Fig. 13, showing that, with proper design and process optimizations, solar cells with 
+ 
+of 25.5% can be achieved using in situ P-

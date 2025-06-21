@@ -1,0 +1,6 @@
+oB,BlackLE,SmitS,KesselsWMM.Passivatingcontactsforcrystallinesiliconsolarcells:
+Fromconceptsandmaterialstoprospects.IEEEJ.Photovoltaics.2018;8(2):373-388.
+https://doi.org/10.1109/JPHOTOV.2018.2797106
+49.TousL,ChoulatP,SinghS,etal.Industrialn-typePERTcellswithdopedpolysiliconpassivatingcontacts:Past,presentandfuture.
+PhotovoltaicsInternational.2021;30-42.50.CiccioliA,LatiniA.ThermodynamicsandtheintrinsicstabilityofleadhalideperovskitesCH3NH3PbX3.JPhysChemLett.2018;9(13):3756-3765.
+https://doi.org

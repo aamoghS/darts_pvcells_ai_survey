@@ -1,0 +1,7 @@
+cy established by Quokka 2 simulations. The 
+improvements to the
+�solar 
+cell design and fabrication process applied in each simulation step are listed at the 
+right
+�hand side. 
+The main factors limiting the efficiency of the best solar cell were found to be recombination losses in the bulk and at the front surface and contacts. As wafers with significantly higher bulk quality i.e., τB up to 8 ms are commercially available [47], the first step of the roadmap assessed the improvement achiev

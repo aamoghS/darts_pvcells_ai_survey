@@ -1,0 +1,13 @@
+on (ALD) 
+ABSTRACT  
+Double-sided, front and rear, tunnel oxide passivated contact (TOPCon) of crystalline silicon (c-Si) solar cells on textured wafer is presented. The double-sided TOPCon structure is composed of (p) poly-Si/SiO
+x
+/(n) c-Si/SiO
+x
+/ (n) poly-Si, where the silicon oxide (SiO
+x
+) layer is formed by atomic layer deposition (ALD). With a 0.6 �0.1 nm- thick SiO
+x 
+layer, an 18.8 %-efficiency solar cell is fabricated, where an excellent short circuit current above 39 mA/cm
+2 
+is co

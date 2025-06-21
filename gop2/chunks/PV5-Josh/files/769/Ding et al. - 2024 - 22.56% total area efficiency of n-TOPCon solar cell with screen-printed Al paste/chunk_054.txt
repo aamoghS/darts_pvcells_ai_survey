@@ -1,0 +1,26 @@
+ are measured by WCT-120(Lifetime) (the testing methods in 
+Section2.2
+) from our previous offline experiments. Specifically, J
+0,bulk 
+cannot be obtained from measurement directly, we obtained J
+0,bulk 
+by Formula (5). 
+Table 3 Line resistance and contact resistivity of metal grids.
+Silicon contents (wt.%)
+Line resistance (Ohm/cm)
+Contact resistivity (mOhmcm
+2
+)
+1–5
+2.2768
+8.062
+9–13
+2.2296
+10.582
+18–23
+7.1986
+5.682
+25–29
+8.9896
+3.831
+Fig. 9.The performance of TOPCon cells printed with

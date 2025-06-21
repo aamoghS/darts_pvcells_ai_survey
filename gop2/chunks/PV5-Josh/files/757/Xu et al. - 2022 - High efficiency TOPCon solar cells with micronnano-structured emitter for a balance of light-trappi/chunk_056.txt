@@ -1,0 +1,15 @@
+ for surface passivation on NPP structure. On the other hand, due to the heavy doping effect of nanostructures, the average J
+0e, Auger 
+of NPP emitters (14.9–19.6 fA/cm
+2
+) at different P
+RF 
+are 99%–161% larger than that of micron-pyramid emitters (7.5 fA/cm
+2
+). Meanwhile, when the P
+RF 
+increases from 100 to 600 W, the J
+0e, Auger 
+of NPP emitters decreases from 19.6 to 14.9 fA/cm
+2
+, a drop of 24%, suggesting that the reduction of boron dopant caused by larger feature sizes effectively 

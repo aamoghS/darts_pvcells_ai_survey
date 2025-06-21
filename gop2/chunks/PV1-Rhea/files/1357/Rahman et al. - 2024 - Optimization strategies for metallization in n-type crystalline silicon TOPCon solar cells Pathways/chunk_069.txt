@@ -1,0 +1,7 @@
+,FFto73.32%,andefficiencyto19.12%.Thisreductionsuggeststhattheremaybesuboptimalpastedepositionatthisspeed,leadingtoincreasedresistivelossesanddecreasedefficiency.Theslowestspeedtested,30mm/s,presentsslightlyhigherJ
+sc
+than100mm/sat38.48mA/cm
+2
+,yetstilllowerthan170mm/s,whileV
+oc
+ismarginallyhigherat0.68V.However,FFandefficiencyremainthelowest,at72.36%and19.17%respectively.Thepoorerperformancemetricsatthisspeedmaybeduetoexcessivepaste,leadingtomoresignificantshadowingandincreasedseriesresistance.

@@ -1,0 +1,4 @@
+�2).Theohmiclossesintheinterconnectionwerecalculatedusinganin-housesimulationsoftware.Theparametersforthesim-ulationwerechosentoberepresentativeofastandardbifacialmulti-wireSHJconﬁguration:wireresistivity(1.7µ
+m),num-berofﬁngersatthefrontandtherear(87and207),andﬁngerlineresistanceatthefrontandtherear(0.83and0.91
+cm=1).
+16E�ectiveopticalshadingcanbemeasuredonencapsulatedsamplesusingthelaserbeaminducedcurrent(LBIC)techniqueforexample.References[1]K.Yoshikawa,W.Yoshida,T.Irie,H.Kawasaki,

@@ -1,0 +1,5 @@
+ doped poly-Si layer, post crystallization treatment, metallization, rear side light management and front emitter related to TOPCon solar cells. Thereafter, various theoretical explorations espe
+-
+cially focusing on various loss mechanisms involved in the highest re
+-
+ported TOPCon solar cell are going to be discussed. Furthermore, in this study, a special focus has been made to enlighten the development and commercialization of large area TOPCon solar cells including bifacial solar cells. The n

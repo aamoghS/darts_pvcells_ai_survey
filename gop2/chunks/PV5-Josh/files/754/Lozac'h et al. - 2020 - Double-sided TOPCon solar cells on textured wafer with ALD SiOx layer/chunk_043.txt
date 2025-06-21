@@ -1,0 +1,6 @@
+. Another advantage of the ALD technique concerns the precise control of the film thickness at atomic scale, which is necessary to reach a good passivation property. Indeed, we observe that an ultrathin SiO
+x 
+deposited with only one ALD cycle and a source exposure time below 10 s is necessary to reach 
+
+eff 
+above 1 ms for (n) stack symmetric structure on textured surface. The solar cell characteristics present a clear dependency on the boron concentration with an optimum at 50 sccm, where the

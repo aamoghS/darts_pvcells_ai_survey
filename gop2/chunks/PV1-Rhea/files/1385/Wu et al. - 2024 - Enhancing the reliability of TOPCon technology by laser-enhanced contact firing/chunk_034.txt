@@ -1,0 +1,12 @@
+                      
+the baseline samples demonstrated rapid degradation, degrading by up to ~92.0%
+rel 
+after the 40-h DH85 test. Notably, the R
+s 
+of the Baseline-NaCl cells exhibited an approximately ~13,000%
+rel 
+increase after 40 h. This very high series resistance also affected the measured J
+sc 
+value as the current extraction of the solar cell was impeded by the higher resistive losses. In contrast, JSIM samples only showed a PCE degradation of approximately ~3.6%
+rel 
+after 40 h of DH

@@ -1,0 +1,3 @@
+22], etc. However, the above methods are limited in their application in industry due to their shortcomings [16,23–25]. The ultra-thin tunneling SiO
+x 
+layer prepared by low-pressure chemical vapor deposition (LPCVD) has high density, high temperature stability, and can realize the same tube preparation of oxide layer and amorphous silicon layer. However, the lifetime of quartz tube is short due to the existence of thermal stress between amorphous silicon and quartz tube, which greatly increas

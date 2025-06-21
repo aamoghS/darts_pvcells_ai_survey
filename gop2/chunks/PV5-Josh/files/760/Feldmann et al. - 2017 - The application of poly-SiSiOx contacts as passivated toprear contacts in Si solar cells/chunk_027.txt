@@ -1,0 +1,5 @@
+,Augerofbothproleswerenegligiblysmall,i.e.below1fA/cm2.AsalreadyobservedinRef.[8,23],thesurfacepassivationisnotdecisivelyaffectedbyAugerrecombinationintheheavily-dopedc-Siregionbutseemstorather
+Fig.2.AbsorptioncoefcientsofP-dopedandBF-dopedpoly-SilmsdeterminedbyttingtheSEdatawithanEMAmodelofsmallandlargegrainsizepoly-Si.ThereferencedatafromRef.[15]arealsogivenaswellastheabsorptioncoefcientofintrinsica-Si:HdeterminedbytheTauc-Lorentzoscillator.
+1x10145x10141x10152.5x1015520540560
+580600620
+6

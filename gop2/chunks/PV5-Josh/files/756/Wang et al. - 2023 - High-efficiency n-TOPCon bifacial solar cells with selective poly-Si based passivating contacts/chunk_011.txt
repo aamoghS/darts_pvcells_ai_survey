@@ -1,0 +1,7 @@
+ difference of the diffusion characteristics of phosphorus and boron. On the one hand, it is different from the diffusivity of phosphorus and boron in poly-Si, SiO
+x 
+layer and c-Si wafer [5]. On the other hand, SiO
+x 
+layer can effectively inhibit the diffusion of phosphorus resulting in the formation of shallow doping profiles while boron readily diffuses into SiO
+x 
+layer leading to an increase in fixed oxide charges and interface trapped charge density, which further results in obtaining hig

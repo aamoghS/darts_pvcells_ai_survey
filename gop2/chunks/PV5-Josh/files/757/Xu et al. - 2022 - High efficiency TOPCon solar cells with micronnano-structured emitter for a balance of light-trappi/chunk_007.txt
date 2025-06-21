@@ -1,0 +1,3 @@
+[9]. In addition, b-Si textures maintain an effective reflection elimination over a wide range of incident angles () [10–12], which is significant for evaluating the power generation benefits of solar cells under constantly changing sun angle. Many attempts have been made to integrate b-Si textures with various solar cells, such as the traditional aluminum back surface field solar cells, PERC, or interdigitated back-contact back-
+-
+junction (IBC) solar cells [3,13–15]. In general, b-Si text

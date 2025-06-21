@@ -1,0 +1,5 @@
+y, the NIR parasitic absorbance current loss density was analyzed by Current Loss Analysis Calculator V1.4 software (Solar Energy Research Institute of Singapore), and the linear variation of NIR parasitic absorbance current loss density with the n
++
+-poly-Si layer thickness for all samples is shown in Fig. 11e. The slope of the current loss density against the thickness of n
++
+-poly-Si layer is equal to NIR parasitic absorbance current loss density per nanometer, which is thought to be related 

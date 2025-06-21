@@ -1,0 +1,9 @@
+30sexposurebeforeandafterPIDstressunderapositivevoltagebiasonthe
+frontside.Thegrayvaluechangeisgiven
+ontheright.
+1086MAHMOODETAL.
+stressedandunstressedsides(at1000and200W/m2),indicatingnodegradation.ResultsforMB-1areshowninTable
+3
+.Interestingly,thedegrada-tionismainlyobservedontheunstressedside.AslightreductionoftheELintensityisobserved,asreportedinFigure
+15
+.The%changeinRSandRSHatthestressedsideat200W/m2is+12.1%and14.0%,respectively.TheaverageLCfor168hoftestdurationwas1.65101uA.InRound-3,de

@@ -1,0 +1,16 @@
+ng as a higher contact resistivity would be expected due to the lower contact area. The reason behind this ρc,r reduction is not well-understood and given the relatively high standard deviation of 0.3 mΩ∙cm2 of the ρc,r data in case of the polished surface, the observed drop should be treated with caution and might be inconclusive. 
+40060080010001200
+ [nm]
+02040
+60
+80100R or EQE [%]
+Semi-textured Rear Surface
+Polished Rear Surface
+Semi-texturedPolished
+777879
+80
+81
+82
+83
+84
+85FF, FFn or FF0

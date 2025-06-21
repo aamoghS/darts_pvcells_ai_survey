@@ -1,0 +1,15 @@
+f other research groups such as Josua et al. [30] reveals that we achieved improved passivation results. In both 
+Fig. 6.(a). Improvement in minority carrier lifetime and implied open-circuit voltage as a function of T
+PDA 
+and nc-SiO
+x 
+layer thickness after FGA at injection level 1 ×10
+15
+. (b). Improvement in rear recombination current density as a function of T
+PDA 
+and nc-SiO
+x 
+layer thickness after FGA. (c) Effective minority carrier lifetime data of various thickness at 950 
+◦
+C. 
+M.Q

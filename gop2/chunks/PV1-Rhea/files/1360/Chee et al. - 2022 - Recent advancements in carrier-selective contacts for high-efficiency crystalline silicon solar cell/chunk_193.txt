@@ -1,0 +1,15 @@
+
+layers allow greater field-effect passivation than chemical passivation but capping with an SiO
+x 
+layer (prepared by spin-coating using PHPS as the precursor and annealed at 450
+◦
+C) slightly reduces the field-effect passivation while greatly enhancing chemical passivation [179]. A similar trend was shown in ref. [41] for the TiO
+x
+/SiO
+2 
+bilayer, where because of the reduced thickness of the TiO
+x 
+film featured a reduced 
+
+c 
+and field-effect passivation, but with the latter offset by an

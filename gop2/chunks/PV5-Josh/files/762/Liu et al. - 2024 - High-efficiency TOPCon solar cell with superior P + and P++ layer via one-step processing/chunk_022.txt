@@ -1,0 +1,8 @@
+-
+rections, effectively emulating an infinite planar Si crystalline. Addi
+-
+tionally, the bottom of the monocrystalline Si and the top of the B-Si mixture (1.6 Å thickness) were held fixed along the vertical Z direction. The simulation assumed that the initial atom velocities conformed to the Maxwell distribution, and the Velocity-Verlet algorithm was employed to calculate the Newton motion integral equation. To estab
+-
+lish equilibrium with a constant number of atoms, pressure, and tem
+-
+perat

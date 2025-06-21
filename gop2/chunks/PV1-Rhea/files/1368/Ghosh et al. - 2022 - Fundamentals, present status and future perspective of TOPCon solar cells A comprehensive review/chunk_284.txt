@@ -1,0 +1,7 @@
+tions. The losses in the silicon bulk are shown in blue, surface recombination losses in red, current transport losses in green and other losses in gray. The power losses in brackets are given in mW/cm
+2 
+which equivalent to an efficiency loss in %
+abs
+. [108]. 
+Fig. 20.Optical loss analysis for the 25.8% cell based on measured EQE and reflectance data. The values in brackets are current losses calculated from integration of the AM 1.5 g photon flux density. [108]. 
+D.K. Ghosh et al.            

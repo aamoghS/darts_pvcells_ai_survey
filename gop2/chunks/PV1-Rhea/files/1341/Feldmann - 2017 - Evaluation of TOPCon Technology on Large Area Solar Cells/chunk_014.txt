@@ -1,0 +1,52 @@
+
+was determined
+.
+ 
+Since 
+J
+0,
+LCO
+ 
+is higher than 
+J
+0,
+W
+CO
+ 
+the 
+V
+oc
+ 
+is expected to be lower when using 
+LCO instead of wet
+-
+chemical contact opening. With 
+A
+metal
+ 
+≈ 
+1.2%, a 
+V
+oc
+ 
+of about 
+69
+5
+ 
+mV is expected.
+ 
+ 
+Figure 3:
+ 
+V
+oc
+ 
+as a function of metallized area fraction for 
+the 140
+ 
+Ω/sq emitter
+�
+�
+���������������������
+�
+���������������������������������

@@ -1,0 +1,18 @@
+creases 
+
+c 
+due to the inherent poor conductivity, which in turn likely limited the corre
+-
+sponding cell efficiencies previously reported to approximately 15% or less [81]; if surface passivation were prioritized over 
+
+c
+, a thicker TiO
+x 
+film will be applied, and vice versa [80,82]. According to Cho et al. [83], the incorporation of ALD-TiO
+x 
+in the a-Si:H(i)/TiO
+x
+/low-WF metal contact structure effectively attained high quality passivation and a low 
+
+c 
+leading to an 18.2-% efficient

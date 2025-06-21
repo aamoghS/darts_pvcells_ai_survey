@@ -1,0 +1,3 @@
+orrespondingauthor.E-mailaddress:armin.richter@ise.fraunhofer.de(A.Richter).Solar Energy Materials and Solar Cells 173 (2017) 96–105Available online 24 May 20170927-0248/ © 2017 Elsevier B.V. All rights reserved.
+T
+featuringFFs>83%havebeenachievedwiththiscellstructure[5].Inthiswork,westudiedtheeciencyofthesecellsexperimentallyasafunctionofwaferthicknessWandresistivityρb(i.e.thebasedoping)ona25%eciencylevel.Basedonadetailedcellanalysisusingthree-dimensional(3D)full-areadevicesimulationtoget

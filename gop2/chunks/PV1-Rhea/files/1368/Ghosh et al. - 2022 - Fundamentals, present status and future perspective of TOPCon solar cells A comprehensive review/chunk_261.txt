@@ -1,0 +1,9 @@
+e layer thick
+-
+ness. Actually, the reduction of oxide layer thickness resulted in increasing the number of carrier transport channels i.e. the number of pinholes which in turn maximized the electric field through the ultra-thin SiO
+x 
+layer. Consequently, the highest electric field was ob
+-
+tained when the thickness of SiO
+x 
+layer was kept as 0.2 nm. This enhancement in the electric field in the tunnel oxide layer resulted in maximizing the efficiency potential of TOPCon solar cells up to 29.0

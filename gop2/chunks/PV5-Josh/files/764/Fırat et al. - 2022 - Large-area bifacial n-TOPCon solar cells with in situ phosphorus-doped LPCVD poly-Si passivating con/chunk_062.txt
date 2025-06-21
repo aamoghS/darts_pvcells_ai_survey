@@ -1,0 +1,20 @@
+erage 
+ 
+as a function of t
+poly 
+shows that solar cells with thicker poly-Si films are more efficient, with a significant jump of 0.4% in 
+ 
+for t
+poly 
+increasing from 100 to 150 nm, but only a 0.1% improvement when t
+poly 
+is further raised to 200 nm. Differences between the other parameters of the three solar cell groups reveal two opposite trends with increasing t
+poly
+, which explain the nonlinear improvement of the average 
+
+: (i) J
+sc 
+drops by ~0.15 mA/cm
+2 
+per 50 nm increase in t
+p

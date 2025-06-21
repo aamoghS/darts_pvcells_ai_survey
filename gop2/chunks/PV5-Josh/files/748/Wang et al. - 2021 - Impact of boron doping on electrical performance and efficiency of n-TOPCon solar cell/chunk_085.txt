@@ -1,0 +1,13 @@
+ction depth of B-doped profile were 1–1.5 ×10
+19 
+atoms/cm
+3 
+and 0.75–1.0 
+
+m, respectively. In Fig. 9b, the junction depth has a stronger influence on the V
+oc 
+than the peak concentration. To obtain a high V
+oc
+, a low peak concentration and deep junction of doping profiles are required due to the need to meet the conditions of corroded depth of the Ag/Al paste. To ascertain further the accuracy of the tested results, the total recombination activity in the cell (J
+0e,total
+) was calcul

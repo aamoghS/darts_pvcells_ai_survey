@@ -1,0 +1,9 @@
+surface, this parasitic layer was removed by a single-side dry etch pro
+-
+cess in NF
+3 
+plasma, followed by the removal of the SiO
+x 
+mask in HF. The reader should note that, while dry etching was used in this work, wrap- around removal can also be performed by the simpler and more common approach based on single-side wet-chemical etching of poly-Si in a diluted alkaline solution, eliminating the masking step [12,30,31]. Subsequently, the samples were annealed at 900 
+◦
+C for 60 min [26]. Afte

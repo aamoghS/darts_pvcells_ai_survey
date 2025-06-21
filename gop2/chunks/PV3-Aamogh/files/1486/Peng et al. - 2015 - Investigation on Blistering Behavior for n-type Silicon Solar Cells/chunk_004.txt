@@ -1,0 +1,5 @@
+ silicon solar cells for passivation of p+ doped surface. The thermal stability of the Al
+2O3
+ is important as the film would go through a high temperature firing process. The deterioration in passivation quality after firing is due to an increase in interface trap density, Dit [1], resulting from the dissociation of interfacial Si-H bonds during the firing process, with hydrogen released from the passivation film. Blistering occurs [2] when hydrogen species (atom, ion or H
+2
+ molecules) can’t

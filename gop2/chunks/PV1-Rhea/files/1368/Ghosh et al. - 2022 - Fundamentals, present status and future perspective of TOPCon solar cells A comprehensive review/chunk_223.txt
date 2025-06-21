@@ -1,0 +1,17 @@
+spheres on the passivation quality of crys
+-
+tallized TOPCon structures [83]. The study showed that post-crystallization annealing of TOPCon structure at 450
+◦
+C in nitrogen and water vapor atmosphere provided an outstanding surface passiv
+-
+ation quality with iV
+oc
+≈730mV, J
+0 
+(single-side reverse saturated recombination current density) =3.8 fA/cm
+2
+, and contact resistivity ≈5m-cm
+2
+. Besides, secondary ion mass spectroscopy (SIMS) measure
+-
+ment revealed that reduction of defect dens

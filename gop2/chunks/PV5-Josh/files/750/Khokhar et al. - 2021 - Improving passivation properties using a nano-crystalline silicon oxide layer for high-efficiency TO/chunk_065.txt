@@ -1,0 +1,15 @@
+hich can assist the fabrication of TOPCon solar cells. nc- SiO
+x 
+with a thickness of 50 nm exhibited lower sheet resistivity as well as beneficial metal contact. Moreover, the T
+PDA 
+was diminished to mitigate high-temperature damage and achieve reduced costs. As per AFORST Het simulation results by using nc-SiO
+x 
+for TOPCon structure, we got V
+oc 
+of 761.5 mV, J
+sc 
+of 43.5 mA/cm
+2
+, FF of 83% and 
+ 
+of 27.49%, respectively. Declaration of Competing Interest The authors declare that they hav

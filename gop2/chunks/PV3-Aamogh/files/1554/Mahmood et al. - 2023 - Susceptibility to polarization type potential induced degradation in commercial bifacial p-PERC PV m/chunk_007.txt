@@ -1,0 +1,14 @@
+ecomingyears,
+9–11
+andthehighreliabilityofthese
+Received:27February2023Revised:30May2023Accepted:31May2023DOI:10.1002/pip.3724
+1078©2023JohnWiley&SonsLtd.ProgPhotovoltResAppl.2023;31:1078–1090.
+wileyonlinelibrary.com/journal/pip
+modulesisvitaltoensurethelonglifeofthesetypesofmodulesandlowertheLCOE.
+12
+Inthefield,severalreliabilityissuescandamagethemodule,lead-ingtolowerpoweroutputorcompletefailure.
+13–15
+Potentialinduceddegradation(PID)isareliabilityissuereportedin2005bySwanson
+etal.
+16
+t

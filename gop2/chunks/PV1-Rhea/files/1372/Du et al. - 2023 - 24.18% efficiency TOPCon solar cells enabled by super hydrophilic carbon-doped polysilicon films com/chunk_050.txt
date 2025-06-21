@@ -1,0 +1,6 @@
+obtained a notably higher V
+oc 
+(i.e., 707.3 mV) by using the plating process to pre
+-
+pare the metal grids, which is much higher than our previous work (<700 mV) [27,38]. Here, we speculate that this may be due to less metallization damage by plating compared to thermal evaporation or 
+Fig. 3.(a)/(b) Photographs of the electroplating process, (c)/(d) optical microscopy photographs, and (e)/(f) images of the laser confocal microscopes of the plated Ni seed layer for the C-free/C-doped polysilico

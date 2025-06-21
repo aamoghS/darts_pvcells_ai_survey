@@ -1,0 +1,6 @@
+ lixing2021@ime.ac.cn (X. Li), tianxiaorang@ime.ac.cn (X. Tian).  
+Contents lists available at ScienceDirect 
+Solar Energy 
+journal homepage: www.elsevier.com/locate/solener 
+https://doi.org/10.1016/j.solener.2023.04.065 Received 12 March 2023; Received in revised form 24 April 2023; Accepted 29 April 2023   
+polysilicon than the high-reflectivity surface, resulting in greater NIR parasitic losses (free carrier absorption) in n +polysilicon [13,40,42,44]. Therefore, under the requirements of imp

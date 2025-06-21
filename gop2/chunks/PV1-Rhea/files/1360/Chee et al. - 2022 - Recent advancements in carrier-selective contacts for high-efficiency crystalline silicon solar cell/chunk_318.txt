@@ -1,0 +1,9 @@
+//doi.org/10.1063/1.5049277. [193]J. Schmidt, B. Veith, R. Brendel, Effective surface passivation of crystalline silicon using ultrathin Al
+2
+O
+3 
+films and Al
+2
+O
+3
+/SiNx stacks, Phys. Status Solidi – Rapid Res. Lett. 3 (9) (2009) 287–289, https://doi.org/10.1002/pssr.200903272. [194]E. Bruhat, T. Desrues, D. Blanc-Pelissier, B. Martel, R. Cabal, S. Dubois, TCO contacts on poly-Si layers: High and low temperature approaches to maintain passivation and contact properties, AIP Conf. Proc. 214

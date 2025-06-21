@@ -1,0 +1,3 @@
+21.2E.Kobayashietal.Solar Energy Materials and Solar Cells 173 (2017) 43–4945
+590nm,695nm,830nm,and1000nm,thecorrespondingshortcircuitdensitiesare40.0mAcm−2,35.1mAcm−2,32.0mAcm−2,26.7mAcm−2,20.1mAcm−2,12.1mAcm−2,and4.23mAcm−2,respectively.Fig.4showsthenormalizedoutputcharacteristicsofSHJsolarcells(samplesetD)afterLSunder1-sunfor14h,duringwhichtheeciencyreachedsaturation.Fortheseexperiments,ninecellsweremadeper
+waferandtheyweredenedbytheareaofthefronttransparentelec-trode,whichw

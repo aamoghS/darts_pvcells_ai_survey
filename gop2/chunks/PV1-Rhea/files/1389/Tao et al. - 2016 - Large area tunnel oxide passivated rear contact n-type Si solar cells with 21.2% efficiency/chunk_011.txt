@@ -1,0 +1,9 @@
+ivation.Itisnoteworthythatappreciablehydrogengas
+owwasusedduringthea-Sidepositiontoachievethedesiredpassivationquality[10],whicheliminatedtheneed
+forpost-hydrogenationbyatomichydrogen[6]orforming
+gasanneal[13]afterthecrystallisationanneal.Finally,the
+QSSPCtechniqueproposedbyKaneandSwanson[14]
+wasusedtodeterminethepassivationqualitybyextracting
+theimpliedVoc(iVoc)fromtheinjectionlevelatonesunaccordingtothefollowingequation:iVoc¼
+kTqln
+nnþNDðÞni2;(1)wherenistheexcesscarrierdensityat1sun,

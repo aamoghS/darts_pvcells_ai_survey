@@ -1,0 +1,9 @@
+he J
+sc 
+loss with increasing t
+poly
+. In addition, the impact of parasitic absorption in the poly-Si films on the optical performance of solar cells is also evident from the bifaciality values of each solar cell group, measured as 82.1 ±0.5%, 80.2 ±0.6%, and 78.0 ±0.3%, for t
+poly 
+of 100, 150, and 200 nm, respectively. This is expected, since the parasitic absorption in the poly-Si at the illuminated side of the solar cell is known to increase with t
+poly 
+and also to be significantly great

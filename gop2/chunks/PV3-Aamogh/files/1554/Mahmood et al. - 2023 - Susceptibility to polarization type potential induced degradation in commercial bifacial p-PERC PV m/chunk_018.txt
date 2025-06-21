@@ -1,0 +1,6 @@
+mensionsEncapsulantAMA4GG-NF(2*3.2-mmglass)PERC-72-Full-cell;156156mmEVABMB2GG-F(2*2.0-mmglass)PERC-144-Half-cutcell;78156mmEVACMC4G-TBS-F(3.2-mmglass)PERC-144-Half-cutcell;78156mmEVAAMD4G-TBS-F(3.2-mmglass)PERC-144-Half-cutcell;78156mmEVA
+MAHMOODETAL.1079
+Table
+2
+showsthedetailsofthePIDtesting.ThemoduleedgeswerecoveredwithKaptontapetoavoidcontactbetweenthefoilandthemoduleframe(thiswasnotanissueforframeless
+modules).Alsheetsinsmallrectangularsizes(toensureAlfoilwasinpropercontactwiththemodul

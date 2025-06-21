@@ -1,0 +1,11 @@
+w that of the FF
+n
+. This suggests that the FF trend and particularly the ~1% FF improvement for a t
+poly 
+increase from 100 to 150 nm arise from enhanced mitigation of recombination losses, yielding a lower n value (see Table 3) and therefore an improvement in FF
+n
+. The positive impact of using a t
+poly 
+of 150 nm or higher in mitigating recombination losses was verified by characterizing the symmetrically passivated monitors. The results, depicted in Fig. 5a), show that J
+0,m,r 
+decreases by 

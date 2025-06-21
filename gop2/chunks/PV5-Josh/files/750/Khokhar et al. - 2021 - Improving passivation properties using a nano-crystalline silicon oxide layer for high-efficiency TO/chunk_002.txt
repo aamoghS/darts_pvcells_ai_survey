@@ -1,0 +1,9 @@
+d material quality. In this study, a novel passivation contact structure based on nanocrystalline silicon oxide (nc-SiO
+x
+) films was investigated. Tradi
+-
+tionally, poly silicon junctions in tunnel oxide passivated contact (TOPCon) solar cells possess exceptional junction characteristics, but current losses are noted due to their optical absorption if they are applied in solar cell devices. In this study, we replaced the poly-Si layer in TOPCon solar cells with nc-SiO
+x 
+to enhance trans
+-
+pare

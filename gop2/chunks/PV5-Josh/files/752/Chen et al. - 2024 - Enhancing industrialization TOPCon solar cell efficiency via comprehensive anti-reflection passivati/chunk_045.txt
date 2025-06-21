@@ -1,0 +1,9 @@
+isruption of O–H bonds during this process additionally released H, contributing to passivation quality enhancement, evident by an impressive ~2 mV in
+-
+creases in iV
+oc
+, which ultimately resulted in a 0.06% improvement in efficiency. Furthermore, the application of the PH process prior to the deposition of each SiN
+x 
+layer on the rear side of the cell demonstrated compelling results. The SIMS analysis showed a significant increase in H content within SiN
+x 
+post-deposition. After the firing

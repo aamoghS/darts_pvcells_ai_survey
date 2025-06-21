@@ -1,0 +1,4 @@
+d in revised form 4 April 2023; Accepted 30 April 2023   
+technologies should be analyzed to achieve high reliability, perfor
+-
+mance, and minimum manufacturing cost. Recently, the PV-based industries are experiencing remarkable growth because of increased interest in green energy, PV cost reduction, and efficiency enhancement. To date, crystalline silicon (c-Si) PV cells dominate large-scale electricity generation because of mass production, reduced prices, easy installation, and low maintenanc

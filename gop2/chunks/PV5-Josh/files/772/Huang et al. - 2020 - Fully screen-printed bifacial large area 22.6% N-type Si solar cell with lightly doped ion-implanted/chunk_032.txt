@@ -1,0 +1,13 @@
+s. Fig. 4 (a) shows the measured profile of our implanted B emitter with ~5 �10
+18
+/cm
+3 
+surface concentration and junction depth of ~1.4 
+
+m. Fig. 4 (b) shows the calculated J
+0e 
+as function of surface recombination velocity for this B emitter profile, obtained from Sentaurus simulation [26,27]. From Fig. 4 (b), a surface recombination velocity value of 448 cm/s was obtained for the unmetallized passivated emitter region, using the measured J
+0e 
+¼12 fA/cm
+2 
+(Fig. 3(b)). Similarly, SRV o

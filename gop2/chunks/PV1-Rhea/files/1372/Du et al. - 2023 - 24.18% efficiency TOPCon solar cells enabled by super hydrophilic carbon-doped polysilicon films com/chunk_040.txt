@@ -1,0 +1,15 @@
+45 mV, a J
+0,s 
+of 3 fA/cm
+2
+, and a 
+
+eff 
+of 4.6 ms is obtained under R =0.75 and 840 
+◦
+C annealing. These results demonstrate that the double-layer pol
+-
+ysilicon structure can achieve excellent passivation quality. To further examine the electrical properties of the plated Ni/Cu/Sn grid and polysilicon film contact, the 
+
+c 
+was evaluated by the TLM. The dark I–V curves of the C-doped and double-layer samples with the different R values are plotted in Fig. 5(a) and (b), respectively. 

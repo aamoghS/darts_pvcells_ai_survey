@@ -1,0 +1,5 @@
+ance spectra of NPP structures show a redshift compared with that of micron-pyramid textures, owing to the EML suppressing the strong reflection originated from the refractive index dispersion effect of silicon substrate [34–36]. Fig. 3b shows that the long-wavelength trans
+-
+mittance of NPP structures is slightly higher than that of micron-pyramid structure due to its thinner wafer thickness after RIE etching and BOE cleaning. Besides, the transmittance of NPP structures at different P
+RF 
+sh

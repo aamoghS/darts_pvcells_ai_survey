@@ -1,0 +1,4 @@
+Ma et al.                                                                                                                                                                                                                                   
+this context, n
+i,eff 
+denotes the effective intrinsic carrier density, a value deduced utilizing the Schenk bandgap narrowing model [19] while considering a condition of low injection. Solar cells deployed in low Earth orbit (LEO) are exposed to an array of envi

@@ -1,0 +1,2 @@
+cant reduction in Ag consumption is required. Moreover, the recent volatility in Ag prices and an increasingly growing share of industrial Ag use by the PV industry is expected to drive efforts towards lowering the Ag consumption in solar cells. Fig. 6 compares COO of the metallization step for bifacial p-PERC and TOPCon cells for various scenario of Ag reduction. The most optimistic scenario of reducing Ag consumption of the cell by 50% of its current value is 
+Fig. 5.Cost of ownership ($ct/Wp)

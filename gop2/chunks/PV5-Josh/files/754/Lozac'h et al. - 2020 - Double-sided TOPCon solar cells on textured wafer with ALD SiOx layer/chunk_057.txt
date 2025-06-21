@@ -1,0 +1,11 @@
+(n), TOPCon solar cell using textured wafer are presented. The ultrathin SiO
+x 
+layer is deposited by ALD to keep an excellent conformal thickness on textured surface. The photoconversion efficiency reaches 18.8% with a short circuit current above 39 mA/cm
+2 
+for a front grid structure, and a fill factor at 0.78. An optimized boron concentration for the front (p) stack has been underlined with a boron concentration about 1.3 �10
+20 
+at/cm
+3 
+at the SiO
+x 
+interface and a junction depth about 1

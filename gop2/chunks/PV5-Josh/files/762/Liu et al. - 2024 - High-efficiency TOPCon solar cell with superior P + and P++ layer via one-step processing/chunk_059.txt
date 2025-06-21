@@ -1,0 +1,7 @@
+atoms. The findings indicate that when the temperature reaches 950 
+◦
+C, there is a substantial increase in the diffusion coefficient of B. Therefore, the appropriate temperature range for B diffusion should fall within 950–––1050 
+◦
+C. These simulation results align well with the experi
+-
+mental data, affirming their consistency with the expected trend. The dominant axis of B atoms at temperatures of 750℃, 850℃, 950℃, and 1050℃ is observed to be the Y-axis, Z-axis, Z-axis resp

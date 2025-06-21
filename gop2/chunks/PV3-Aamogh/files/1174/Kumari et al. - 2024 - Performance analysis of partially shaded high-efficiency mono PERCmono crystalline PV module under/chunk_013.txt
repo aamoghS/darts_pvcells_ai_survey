@@ -1,0 +1,8 @@
+dition from 2011 to  20211,2.
+(b)(a)
+Fig. 2.  (a) A schematic model of a single diode solar cell (b) corresponding electrical characteristics of a solar cell.
+3
+Scientific Reports |        (2024) 14:21587  | https://doi.org/10.1038/s41598-024-72502-z
+only one peak point called the Maximum power point ( 
+Mpp
+ ). ese characteristics represent the standard form of the IV curve and PV curve. In case of degradation, these electrical characteristics tend to  change6. Figurep2b shows three crucial

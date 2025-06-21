@@ -1,0 +1,4 @@
+after LECO for 3 representative solar cells with plated contacts. A selection of local fea
+-
+tures are marked to compare the changes before/after LECO annealing. Feature F1 shows a larger cloudy area with low EL intensity before LECO with 2 vertical lines with increased EL intensity, which correlate to busbar positions on the rear side. After LECO the contacting improves resulting in an increased and more homogeneous EL signal in F1. The 
+Fig. 4.False color SEM images of laser contact openings w

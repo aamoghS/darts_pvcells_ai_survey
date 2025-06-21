@@ -1,0 +1,11 @@
+tudy explores this effect experimentally. Dew formation is common in a variety of 
+climates, including semi
+-
+arid areas 
+that are ideal for the installation of PV cells. Because of optical effects, droplets 
+on the surface of solar cells can have a negative impact on the efficiency and generation of power within the cell. 
+In order to cover semi
+-
+transparent glass covers, acryl
+ic droplets with a contact angle of 25° to 77° and a surface 
+area coverage of 19% to 49% were prepared, either wit

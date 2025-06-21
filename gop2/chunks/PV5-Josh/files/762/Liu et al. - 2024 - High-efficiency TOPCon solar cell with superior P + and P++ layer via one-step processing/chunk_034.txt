@@ -1,0 +1,6 @@
+uently, the Si wafer was transferred to an alkaline polishing machine, the rear side undergoes alkaline etching using an 80℃ KOH solution to achieve a reflectance of over 30 %. Following the polishing step, the rear stack comprising SiO
+x 
+(1.1–1.5 nm) and a-Si (90 ±20 nm) was fabricated utilizing low pressure chemical vapor deposition (LPCVD) technology. Subsequently, the prepared sample underwent annealing in a tube furnace at 900℃ for 45 min in the presence of a mixture of POCl
+3
+, O
+2

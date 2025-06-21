@@ -1,0 +1,4 @@
+tschS,TrubeJ.InternationalTech-nologyRoadmapforPhotovoltaic(ITRPV):2020Results.12thed;2021.74.PadhamnathP,BuatisJK,KhannaA,etal.Characterizationofscreenprintedandfire-throughcontactsonLPCVDbasedpassivatingcon-tactsinmonoPoly™solarcells.SolarEnergy.2020;202:73-79.
+https://doi.org/10.1016/j.solener.2020.03.087
+75.AryaV,SteinhauserB,GruebelB,etal.LaserablationandNi/Cuplatingapproachfortunneloxidepassivatedcontactssolarcellswith
+variatepolysiliconlayerthickness:Gainsandpossibilitiesincompari-sonto

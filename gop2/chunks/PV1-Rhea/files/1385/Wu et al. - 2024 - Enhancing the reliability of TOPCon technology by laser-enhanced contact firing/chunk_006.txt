@@ -1,0 +1,4 @@
+ave low or zero Al concentration for the TOPCon front. Consequently, this approach enables using more cost-effective materials for TOPCon modules, thereby reducing the overall cost of solar electricity.   
+1.Introduction The advent of tunnelling oxide passivated contact (TOPCon) solar cells has garnered significant attention in pursuing high-efficiency sili
+-
+con solar cell technologies over the past decade [1–5]. Recent strides in commercializing TOPCon cells, facilitated by diverse process a

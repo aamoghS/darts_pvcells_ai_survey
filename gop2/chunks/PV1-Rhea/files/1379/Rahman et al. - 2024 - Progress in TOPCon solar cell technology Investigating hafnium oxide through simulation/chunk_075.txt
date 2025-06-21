@@ -1,0 +1,3 @@
+ acts as the passivation layer on the silicon substrate. The valence band (VB) represents the highest energy level occupied by electrons, while the conduction band (CB) indicates the lowest energy level for electron conductivity [29]. SiO2’s bandgap sits between the VB and CB, influencing charge carrier movement, while possible interface traps or defects in SiO2 may affect carrier dynamics, particularly surface recombination rates [37]. In the HfO2-based TOP
+-
+Con energy band diagram, HfO2’s

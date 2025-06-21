@@ -1,0 +1,3 @@
+, but it is necessary to strictly control the polishing process to obtain an ideal pyramid base size to reduce the impact on ohmic contact [6]. In order to obtain higher efficiencies for industrially fabricated TOPCon solar cells, optimization of the backside topography is necessary. However, the differences in passivation char
+-
+acteristics and contact characteristics between different wet etching processes and different conditions of the same etching process have not been carefully studied. Re

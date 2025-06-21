@@ -1,0 +1,10 @@
+]13.37.2727.7MgOx9500.0175[134]12.23.0625.5J.Schmidtetal.Solar Energy Materials and Solar Cells 187 (2018) 39–5443
+regionisalocallyformedAl-dopedp+backsurfaceeld(BSF)thatformsduringtheringprocess.Holescaneasilypassandthusallowforalowcontactresistance
+ρ
+c,
+h
+,whileelectronsareblockedandthuscausealowrecombinationcurrentdensityparameter
+J
+0,
+h
+.PleasenotethatFig.7illustratesthespecialcaseofanelectronicallynon-transparentp+regionthatcannotbefullypassedbylight-generatedexcesselectronsgeneratedin

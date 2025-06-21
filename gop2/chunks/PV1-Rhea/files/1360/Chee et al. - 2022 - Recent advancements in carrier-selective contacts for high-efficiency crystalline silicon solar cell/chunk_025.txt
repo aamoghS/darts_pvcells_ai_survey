@@ -1,0 +1,13 @@
+or the n-type IBC archi
+-
+tecture [12]. Compared with common high-efficiency silicon solar cell architectures such as that based on Al-BSF, PERC, or passivated emitter and rear totally diffused (PERT) structures, the n-type bifacial HIT was shown to exhibit the highest open-circuit voltage (V
+oc
+) value of 733mV, and internal resistance at maximum power point (or voltage-to-current ratio at maximum power point, R
+MPP 
+=V
+MPP
+/J
+MPP
+) of 17.6 cm
+2 
+- a figure-of-merit that takes into account ohm

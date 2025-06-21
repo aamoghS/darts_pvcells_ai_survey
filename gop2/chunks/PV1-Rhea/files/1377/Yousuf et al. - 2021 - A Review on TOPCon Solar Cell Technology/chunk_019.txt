@@ -1,0 +1,3 @@
+ion layer. The back side SiOx/n+-poly-silicon layer is covered with PECVD SiNx:H. For metallization, an “H-metal contact” design by screen printed on both sides with 9 bus-bars, afterwards a rapid firing procedure with a highest temperature of around 760°C17). The IV curve and other important parameters are deliberate with a suitable 1-sun (1000 W/m2) flasher instrument after construction of TOPCon solar cell.
+H. Yousuf et al. / Current Photovoltaic Research 9(3) 75-83 (2021)	
+

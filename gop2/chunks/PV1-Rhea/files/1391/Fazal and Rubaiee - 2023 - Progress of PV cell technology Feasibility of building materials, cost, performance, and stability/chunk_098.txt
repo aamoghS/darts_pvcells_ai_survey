@@ -1,0 +1,3 @@
+e or pilot production [8]. As per Fig. 9(b), the estimated MSPs in 2020 for III–V and perovskite technology are $100/watt and $0.38/watt respectively. Because of the extremely high price of III-V PV technology, it is kept in niche markets such as terrestrial concentrator or space ap
+-
+plications. On the other hand, perovskite has reasonable price, but its application is still limited due to its short life. Both III-Vs and perovskite PV technologies are under considerable research and their pri

@@ -1,0 +1,3 @@
+rs in thermal oxidation method and low-pressure chemical vapor deposition (LPCVD) method, respectively. To obtain back-side n-type TOPCon structure, phosphorus dopant was first lead 
+Fig. 1.Design and process of NPP TOPCon solar cells. (a) The preparation schematic for NPP structures. (b) The cross-sectional conceptual diagram of NPP TOPCon solar cells. (c) The manufacturing process flow of reference and test TOPCon solar cells. 
+J. Xu et al.                                                      

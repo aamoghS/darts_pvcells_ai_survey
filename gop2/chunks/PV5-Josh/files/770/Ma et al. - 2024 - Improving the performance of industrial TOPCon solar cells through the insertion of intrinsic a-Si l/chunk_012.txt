@@ -1,0 +1,5 @@
+assisted oxidation, corresponding to the low-pressure chemical vapor deposition (LPCVD) and plasma-enhanced chemical vapor depo
+-
+sition (PECVD) methods, respectively. Compared to the LPCVD method, the PECVD approach has advantages in high thin film deposition rate, less wrap-round deposition, and equipment-related consumables [22]. The tube PECVD technology integrated with in-situ tunnel SiO
+x 
+and in-situ doped polysilicon has demonstrated great potential for the mass-production TOPCon in indu

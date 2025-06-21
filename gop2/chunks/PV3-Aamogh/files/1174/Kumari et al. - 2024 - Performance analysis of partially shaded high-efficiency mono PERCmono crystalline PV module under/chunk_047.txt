@@ -1,0 +1,12 @@
+e any internal and external factors as shown in Eq.S5:Consequently, the hotspot-aected PV cell inclines to work at a negative voltage:where df and ndf in the subscript representation defective (hotspot aected) and non-defected PV cell respec-tively. 
+Ths
+ is the increase in temperature in the defective (hotspot aected) as compared with healthy cell (non-defective cells). se 
+Ths
+ is directly related to the product of 
+IC×Vdf
+.
+Ths
+ can be calculated as:(5)
+ISCD<IC
+(6)
+Vdf=−(n−1)Vndf+V

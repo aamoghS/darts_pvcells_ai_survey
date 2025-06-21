@@ -1,0 +1,9 @@
+nd thermal evaporation [134–139] are common deposition techniques. The quality of charge transport is subjected to the band alignment at the c-Si/a-Si:H(i)/MoO
+x 
+interfaces, as well as the presence of oxygen vacancy defect states within the MoO
+x 
+film. The deposition-dependent WF [140,141] and passiv
+-
+ation, as well as the wafer type, are responsible for the marked variation in the photoelectric parameters [142]. Low-temperature deposition ca
+-
+ters to better control of the oxygen stoichiom

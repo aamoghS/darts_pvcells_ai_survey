@@ -1,0 +1,5 @@
+ leads to the increase in TOPCon solar cells E
+ff
+. This is because the donor-like defect states are distributed near the center of the forbidden zone and the energy dif
+-
+ference between them is small. Therefore, changing the concentration of all three defect at the same time is not much different from changing one of the defect alone. It can be found that TOPCon solar cells are more sensitive to the change of defect states concentration of the acceptor-like defect states. When the defect state

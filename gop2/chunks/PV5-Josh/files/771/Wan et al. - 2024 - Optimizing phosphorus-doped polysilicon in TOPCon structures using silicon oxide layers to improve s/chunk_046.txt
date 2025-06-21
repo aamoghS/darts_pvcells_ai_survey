@@ -1,0 +1,13 @@
+gconcentrationrisesfromS1toS3.Also,itcanbeseenfromthelifetimecurvesinFig.S2thatthelifetimeshowsagradualincreasefrombaselinetoS3.Similarly,J0decreasesfrom8.9fA/cm
+2
+to5.4fA/cm
+2
+(Fig.6(c))andiVocincreasesfrom728mVto744mV(Fig.6(d)).ThisimprovementinpassivationperformancemaystemfromtheenhancedfieldpassivationcapabilityofthepolysiliconasthePdopingcontentincreases.Forthebaselinesinglepoly-Si/SiO
+x
+structure,thelifetime,J
+0
+,andiVocvaluesare4469
+
+s,14.3fA/cm
+2
+,and717mV,respectively.AsillustratedinFi

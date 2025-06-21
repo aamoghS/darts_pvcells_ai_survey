@@ -1,0 +1,3 @@
+atedwiththisarticlecanbefoundintheonlineversionathttp://dx.doi.org/10.1016/j.solmat.2017.06.023.References[1]H.Fujiwara,M.Kondo,Impactofepitaxialgrowthattheheterointerfaceofa-Si:Hc-Sisolarcells,Appl.Phys.Lett.90(2007)013503.[2]S.DeWolf,M.Kondo,Abruptnessofa-Si:Hc-Siinterfacerevealedbycarrierlife-timemeasurements,Appl.Phys.Lett.90(2007)042111.
+Table3ASAsimulationparameters.Parametersp/i-a-Sii/n-a-Sin-c-SiThickness(nm)5555180µm
+Dielectricconstant11.911.911.911.911.8Electronanity(eV)3.83.83.83.

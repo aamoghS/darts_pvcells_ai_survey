@@ -1,0 +1,8 @@
+ Implantation
+ B ImplantationEfficiency [%]Poly-Si thickness [nm]
+Fig.7.Meansolarcellparametersof722cm2p-typesolarcellsfeaturingn-typeandp-typepoly-Sicontactsastop/rearcontacts.Thepþ-poly-SicontactswereeitherrealizedbyimplantationofBF(blacksymbols)orB(redsymbols;placedadjacentlyforclarity).(Forinterpretationofthereferencestocolorinthisgurelegend,thereaderisreferredtothewebversionofthisarticle.)
+3004005006007008009001000110012000102030405060708090100
+6, 15, 34 nm poly-Si
+ EQE
+ R
+ IQEEQE, R, IQ

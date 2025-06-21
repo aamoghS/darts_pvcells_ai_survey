@@ -1,0 +1,3 @@
+s, S. Acharya, T. Panda, S. Sadhukhan, J.R. Sharma, A. Nandi, S. Bose, A. Kole, G. Das, S. Maity, P. Chaudhuri, H. Saha, Study of the properties of SiO
+x 
+layers prepared by different techniques for rear side passivation in TOPCon solar cells, Mater. Sci. Semicond. Process. 119 (2020), 105163, https://doi.org/10.1016/jmssp.2020.105163. [41]M. Lozac’h, S. Nunomura, H. Sai, K. Matsubara, Passivation property of ultrathin SiOx:H /a-Si:H stack layers for solar cell applications, Sol. Energy Mater.

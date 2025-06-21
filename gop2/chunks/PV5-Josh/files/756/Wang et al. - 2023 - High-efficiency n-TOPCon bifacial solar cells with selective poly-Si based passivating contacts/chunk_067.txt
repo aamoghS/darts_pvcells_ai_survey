@@ -1,0 +1,30 @@
+r is high, the sheet resistance is low, which is mainly owing to total doping level. When the G
+POCl3 
+≈2000 sccm and the T
+drive in 
+≈900 
+◦
+C were applied, the changes of R
+ 
+have been balanced. The 
+
+c 
+for n
++
+-poly-Si layers with variations in the three key process parameters is shown in Fig. 9. The 
+
+c 
+decreased from 2.2 to 1.6 m
+cm
+2 
+by increasing G
+POCl3 
+from 1200 to 2400 sccm (Fig. 9a). And in the case of T
+dep
+, the 
+
+c 
+decreased from 3.8 to 1.2 m
+cm
+2 
+by increasing T

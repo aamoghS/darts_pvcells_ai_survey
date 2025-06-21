@@ -1,0 +1,7 @@
+integrity of ultra-thin oxide layers do not get altered. Fourthly, optimization of metallization process may be required as the thermal stability of carrier selective metal oxides is not same as the doped poly-Si layer. Insertion of a capping layer such as SiN
+x 
+may also be done prior to the metallization process to protect the carrier selective layer. D. Incorporating TOPCon structure into PERC solar cells 
+Table 9 Various large area bifacial TOPCon solar cells.  
+Cell area (cm
+2
+) Features of

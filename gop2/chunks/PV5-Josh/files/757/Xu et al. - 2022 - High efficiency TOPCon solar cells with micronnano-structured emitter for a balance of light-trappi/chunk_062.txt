@@ -1,0 +1,7 @@
+c
+-
+counts for a large proportion of optical loss of a TOPCon cells. This can be reduced by reducing polysilicon thickness, but not completely elim
+-
+inated. For NPP TOPCon solar cells, a higher light trapping at longer wavelengths helps to mitigate the parasitic light absorption in poly
+-
+silicon layer. Hence, forming NPP textures could give us more flexibility with the thickness of the polysilicon layer. The average current-voltage (I–V) electrical parameters of NPP cells are summed up in Ta

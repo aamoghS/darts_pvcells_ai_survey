@@ -1,0 +1,2 @@
+                                                                                                                                                                                      
+increase in the FF of TOPCon cells, reaching up to 0.41 %. This enhancement is primarily attributable to the use of appropriate thermal diffusion conditions and B-doped Si paste to improve the FF. SE structure has been reported to offer advantages such as reduced Auger recombination, decreased contact recombination,

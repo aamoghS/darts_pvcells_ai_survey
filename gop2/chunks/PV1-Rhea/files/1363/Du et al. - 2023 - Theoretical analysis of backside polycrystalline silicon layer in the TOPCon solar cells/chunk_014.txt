@@ -1,0 +1,5 @@
+ected. Another function of the tunneling oxide layer is full-area passivation, and the excellent passivation ability further improves the efficiency of TOPCon solar cells. Compared to PERC, TOPCon solar cells are one-dimensional carrier transport structure car
+-
+riers can be efficiently transported longitudinally through the oxide layer in one dimension [10,11]. Avoiding recombination during trans
+-
+mission reduces series resistance and improves solar cells FF. Therefore, as the core process of 

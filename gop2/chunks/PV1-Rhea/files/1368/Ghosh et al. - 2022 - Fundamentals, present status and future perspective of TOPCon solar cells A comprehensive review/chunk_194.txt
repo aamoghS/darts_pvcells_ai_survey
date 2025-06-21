@@ -1,0 +1,7 @@
+the quality of TOPCon structure is not compromised. Li et al. also claimed that requirement of high tem
+-
+perature annealing process after the deposition of doped amorphous silicon layer onto SiO
+2 
+tunneling layer for initializing the crystallization may lead to damage the ultra-thin tunneling oxide layer along with bulk Si layer [75]. However, Raman study revealed that TOPCon structure featuring 
+
+c-Si thin layer demonstrated higher crystallinity at relatively low annealing temperature (aroun

@@ -1,0 +1,13 @@
+derer
+https://orcid.org/0000-0002-4517-2477
+BenjaminGrübel
+https://orcid.org/0000-0002-1867-8595
+TimNiewelt
+https://orcid.org/0000-0002-0360-2942
+FrankFeldmann
+https://orcid.org/0000-0002-8744-2105
+ArminRichter
+https://orcid.org/0000-0002-7232-8385
+MartinHermle
+https://orcid.org/0000-0002-2412-1734
+REFERENCES1.SintonRA,CuevasA.Contactlessdeterminationofcurrent–voltagecharacteristicsandminority-carrierlifetimesinsemiconductorsfromquasi-steady-statephotoconductancedata.ApplPhysLett.1996;69(17):

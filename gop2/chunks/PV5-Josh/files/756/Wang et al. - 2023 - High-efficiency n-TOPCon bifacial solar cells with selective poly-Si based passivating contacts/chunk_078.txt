@@ -1,0 +1,15 @@
+ange of approximately 0.5 fA/cm
+2 
+with the thickness from 50 to 110 nm, while the thickness of 30 nm has a high J
+0 
+value of >13 fA/cm
+2 
+which in
+-
+dicates that the thickness of <50 nm cannot provide an effective field effect passivation (Fig. 11c). However, the 
+
+c 
+has a remarkable change, which decreased from 2.7 to 0.9 m
+cm
+2 
+by increasing the thickness from 30 nm to 110 nm owing to the total doping concentration (Fig. 11d). Subsequently, the NIR parasitic absorbance current loss densi

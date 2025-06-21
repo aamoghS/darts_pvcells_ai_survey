@@ -1,0 +1,17 @@
+e.Kyoto,Japan;1990:689
+–
+692.
+9.MasukoK,ShigematsuM,HashiguchiT,etal.Achievementofmore
+than25%conversionefficiencywithcrystallinesiliconheterojunction
+solarcell.
+IEEEJPhotovoltaics
+.2014;4(6):1433
+
+1435.
+10.AdachiD,HernándezJL,YamamotoK.Impactofcarrierrecombination
+onfillfactorforlargeareaheterojunctioncrystallinesiliconsolarcell
+with25.1%efficiency.
+ApplPhysLett
+.2015.2015;107(23):233506.
+11.YoshikawaK,KawasakiH,YoshidaW,etal.Siliconheterojunction
+solarcellwithinterdigitatedbackcontactsfora

@@ -1,0 +1,11 @@
+ follows: AlO
+x
+, two layers of SiN
+x 
+with different refractive indices n, silicon nitride oxide (SiO
+x
+N
+y
+), and a silicon oxide (SiO
+x
+). This specific combination of layers has been widely adopted by mainstream TOPCon solar cell manufacturers due to its dual benefits in optics and electricity. It effectively achieves excellent surface passivation, minimizing recombination losses, while also providing a notable anti-reflective effect. On this foundation, a one-step plasma oxidation process w

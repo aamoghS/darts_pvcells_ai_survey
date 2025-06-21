@@ -1,0 +1,4 @@
+ctsinducedbyhydrogenplasmatreatments,Appl.Phys.Lett.102(2013)231604.[4]A.Descoeudres,L.Barraud,S.DeWolf,B.Strahm,D.Lachenal,C.Guérin,
+Z.C.Holman,F.Zicarelli,B.Demaurex,J.Seif,J.Holovsky,C.Ballif,Improved
+amorphous/crystallinesiliconinterfacepassivationbyhydrogenplasmatreatment,Appl.Phys.Lett.99(2011)123506.[5]S.DeWolf,C.Ballif,M.Kondo,Kineticsofa-Si:Hbulkdefectanda-Si:H/c-Siin-
+terface-statereduction,Phys.Rev.B85(2012)113302.[6]W.E.Spear,P.G.LeComber,Substitutionaldopingofamorphoussilicon,Solid

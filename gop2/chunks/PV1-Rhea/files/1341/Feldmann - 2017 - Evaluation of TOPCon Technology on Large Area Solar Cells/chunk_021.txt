@@ -1,0 +1,19 @@
+cells with homogeneous boron emitter and 
+passivating rear contact were realized. 
+Firstly, t
+he impact of laser 
+ablation on the 
+J
+0
+ 
+was studied and it was found that a low laser 
+power has to be used in order to contain crystal damage. Still, the 
+Si crys
+tal was damaged during LCO, which resulted in a 
+significant increase of the recombination current (
+J
+0
+) at the metal 
+front contacts. Secondly, solar cells featuring NiCu plated front 
+metallization were realized and analyzed. 
+An effic

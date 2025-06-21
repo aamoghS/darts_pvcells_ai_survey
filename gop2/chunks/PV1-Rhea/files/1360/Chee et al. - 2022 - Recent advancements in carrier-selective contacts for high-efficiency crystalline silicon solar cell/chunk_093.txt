@@ -1,0 +1,25 @@
+ Hence, the dopant-free CSC derived from TiO
+x 
+is a facile alternative to the heavily doped silicon contact layer-based SHJ or POLO/TOPCon technologies. Furthermore, cell ge
+-
+ometry and process iterations for an Al/LiF
+x
+/TiO
+x 
+(minimum 
+
+c 
+<40 m.cm
+2
+) or Al/TiO
+x
+/SiO
+y 
+(minimum 
+
+c 
+~ 50 m.cm
+2
+) partial rear contact stack have led to a record-level efficiency as high as 23.1% [88] or 24.1% [42], respectively, within the family of TiO
+x
+-based electron selective heterocontacts on n-S

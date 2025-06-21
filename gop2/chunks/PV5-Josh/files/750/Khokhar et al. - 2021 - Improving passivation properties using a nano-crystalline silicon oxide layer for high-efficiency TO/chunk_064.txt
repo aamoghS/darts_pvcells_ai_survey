@@ -1,0 +1,7 @@
+PDA process that resulted in H diffusion into the c-Si substrate as well as reconstitution of the ultrathin SiO
+x 
+tunnel oxide layer owing to the establishment of pinholes. The most beneficial passivation properties were found after FGA because this process directly relinquished H into both the nc-SiO
+x 
+layer as well as the tunnel oxide layer. This research provides in-depth knowledge for future studies on the improvement of nc-SiO
+x 
+layers, which can assist the fabrication of TOPCon solar ce

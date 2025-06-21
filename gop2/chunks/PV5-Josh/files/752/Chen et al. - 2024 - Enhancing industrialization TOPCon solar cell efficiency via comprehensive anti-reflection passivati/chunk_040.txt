@@ -1,0 +1,7 @@
+ization of TOPCon solar cells, H atoms commence diffusion within the polysilicon passivating contacts and the underlying silicon substrate [24]. Notably, these H atoms accumulate near the interface SiO
+x
+, consistent with findings reported in the literature [25]. In samples that underwent the PH process, the H content within the pol
+-
+ysilicon and silicon substrate, particularly in the vicinity of SiO
+x
+, is significantly higher compared to samples without PH treatment. This enrichment of H atom

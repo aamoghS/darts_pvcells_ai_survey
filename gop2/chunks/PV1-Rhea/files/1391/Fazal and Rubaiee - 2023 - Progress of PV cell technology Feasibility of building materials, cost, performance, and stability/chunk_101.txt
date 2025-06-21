@@ -1,0 +1,7 @@
+ion, annual performance ratio (PR), merits and demerits of individual PV technologies. In the previous section, it was concluded that c-Si, CdTe, and CIGS cells among others are becoming increasingly attractive because of their improved power conversion efficiency with a lower MSP. The maximum power produc
+-
+tion capacity of c-Si or thin film (CdTe and CIGS) PV module available in markets is usually rated under standard test conditions (STC: 1000 W/ m
+2
+, 25 
+◦
+C, and 1.5 AM). However, the res

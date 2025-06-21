@@ -1,0 +1,17 @@
+th an effective surface recombination velocity that produce a J
+0 
+¼5 fA/cm
+2
+, which is equal to the measured metallized J
+0 
+value of the TOPCon. This profile is formed during the 855 
+�
+C n-TOPCon anneal, and has a junction depth of 0.06 
+
+m and a surface concentration of 4.7 �10
+18 
+cm
+�3 
+(Fig. 5 (a)). Sentaurus model was used to generate the J
+0 
+vs S curve for this profile (Fig. 5(b)) from which an effective hole SRV of 328 cm/s was extracted at the tunnel oxide/Si interface using

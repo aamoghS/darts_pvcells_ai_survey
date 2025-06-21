@@ -1,0 +1,7 @@
+ solar cells including bifacial solar cells. The next part of discussion focuses on the possible techno
+-
+logical options for developing the commercial grade TOPCon structure and various issues associated with the metallization of industrial TOP
+-
+Con solar cells. After that, development of TOPCon solar cells based on cost-effective multicrystalline Si wafers has been pinpointed in details, followed by incorporation of TOPCon structure in hybrid or hetero
+-
+junction solar cells. Finally, prior t

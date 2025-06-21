@@ -1,0 +1,9 @@
+ some damage to the passivation contact structure, thus causing more recombination in the metal contact area. In this regard, the J
+0, metal 
+of silver paste screen-printed and annealed samples with different mor
+-
+phologies were tested to characterize the difference in metal contact passivation with different surface morphologies. The results are shown in Fig. 7. Different surface topography has a huge impact on J
+0, metal
+, and the effect is more significant than that of J
+0
+. For the textured

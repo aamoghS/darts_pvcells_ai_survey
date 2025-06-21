@@ -1,0 +1,13 @@
+ELLITOP) is used to monitor the refractive index and thickness variations of the deposited film. X-ray Photoelectron Spec
+-
+troscopy (XPS) (Axis Ultra DLD, KRATOS) equipped with an Al K
+ 
+monochromatic X-ray source (h
+ 
+=1486.6 eV) was utilized to compare the impact of plasma oxidation on the deposited AlO
+x 
+layers. Addi
+-
+tionally, in order to evaluate the impact of plasma hydrogenation on the hydrogen content within the SiN
+x 
+layers, we utilized Time-of-Flight Secondary Ion Mass Spectromet

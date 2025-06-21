@@ -1,0 +1,7 @@
+◦
+to 70
+◦
+exhibited excellent wide-angle spectral absorption capa
+-
+bility, which is significant for solar cells working in an outdoor environment.   
+1.Introduction Over the past few years, the industrial-level bifacial tunnel oxide passivating contact (TOPCon) solar cells have demonstrated an impressive development speed, with photoelectric conversion efficiency (PCE) exceeding 24.5% [1]. Moreover, TOPCon solar cells allow a compatibility with mainstream passivated emitter and rear solar c

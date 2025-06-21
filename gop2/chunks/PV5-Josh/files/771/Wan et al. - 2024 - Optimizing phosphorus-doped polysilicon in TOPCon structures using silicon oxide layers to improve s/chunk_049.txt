@@ -1,0 +1,14 @@
+)andsemi-finishedstructuresfortestingTLMcontactresistancein(III)(IV).(b–e)arethetestvaluesoflifetime,J
+0
+,iVocand
+
+c
+,wherebaselineissinglepoly-Si/SiO
+x
+,S1,S2andS3aredoublepoly-Si/SiO
+x
+structures,forusinglightdoping,moderatelydopingandheavydoping,respectively.
+W.Wanetal.
+structure.TheetchingmethodcanbedonebyusingSiN
+x
+asamasklayer,etchingbetweenthefingerstructuresusinglaserandalkalinesolution,andfinallymetallization.Thiswillensurethatthecurrentistransferredfromonefingertothenextthroughthesi

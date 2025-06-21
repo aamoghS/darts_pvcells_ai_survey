@@ -1,0 +1,3 @@
+�n)(p0+�p)
+ni(T)2!(A.4)withtheBoltzmannconstantk,andtheequilibriumconcentra-tionsofelectrons(n0)andholes(p0),and�n=�p.TheimpliedvoltagerangeiVOC(�n)representsthevoltageoftheimpliedJVcharacteristic.TherecombinationcurrentJrec(�n)canbewrittenasJrec(�n)=qw�n
+˝e�(A.5)whichleadstotheimpliedJVcharacteristicderivedforarangeof�n.ForthecalculationoftheilluminatedimpliedJVcharac-teristic,theJabsasobtainedfromequation(A.2)isassumedasJSCandsubtractedfromtherightsideofequation(A.5)whicha

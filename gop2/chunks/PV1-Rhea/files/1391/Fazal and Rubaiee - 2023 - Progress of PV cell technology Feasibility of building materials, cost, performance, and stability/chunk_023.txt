@@ -1,0 +1,2 @@
+ent materials, and overall performance of a particular cell technology. The development of technologies with high efficiency and minimum cost is one of the key objectives to attain a lower levelized cost of energy (LCOE) [50]. However, there is minimal study on comparative cost, efficiency, and performances for different existing and expected PV technologies. Particularly, the recent update on comparative strengths and weaknesses for various PV technologies is 
+Table 1 PV material types, chronol

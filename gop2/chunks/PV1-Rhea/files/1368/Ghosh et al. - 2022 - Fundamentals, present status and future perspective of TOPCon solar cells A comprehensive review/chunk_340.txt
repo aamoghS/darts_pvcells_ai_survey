@@ -1,0 +1,5 @@
+onofacial cells only), firing temperature, cost-effectiveness, throughput etc. need to be considered during the rear-side metalliza
+-
+tion of large area TOPCon solar cells for mass production purpose. Other influencing parameters namely; thickness, doping concentration, sur
+-
+face morphology and uniformity of poly-Si layer must be taken care of before metallization [129]. As discussed in Section 6.4, for laboratorial or small scale research purpose the rear side metallization of TOPCon solar cel

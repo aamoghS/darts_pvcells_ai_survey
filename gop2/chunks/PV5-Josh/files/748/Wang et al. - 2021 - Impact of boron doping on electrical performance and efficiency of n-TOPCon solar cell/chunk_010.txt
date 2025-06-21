@@ -1,0 +1,15 @@
+angzhou University, Changzhou 213164, PR China. E-mail addresses: nyyuan@cczu.edu.cn (N. Yuan), dingjn@cczu.edu.cn (J. Ding).  
+Contents lists available at ScienceDirect 
+Solar Energy 
+journal homepage: www.elsevier.com/locate/solener 
+https://doi.org/10.1016/j.solener.2021.08.075 Received 15 May 2021; Received in revised form 25 August 2021; Accepted 27 August 2021   
+Table 1 Reviews on the research of B emitters for solar cell.  
+Emitter (p
+þ
+) R
+sheet 
+(ohm/ sqr) N
+max 
+(atoms/ cm
+3
+) Juncti

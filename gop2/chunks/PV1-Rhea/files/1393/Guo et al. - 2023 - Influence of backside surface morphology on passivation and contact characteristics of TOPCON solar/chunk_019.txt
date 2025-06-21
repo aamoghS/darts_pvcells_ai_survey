@@ -1,0 +1,3 @@
+d polishing and alkali polishing was studied. The effects of different surface topography on doping concentration, passivation characteristics of contact and non-contact regions, and contact resis
+-
+tance were investigated. Based on the requirements of edge isolation and removal of the back diffusion PN junction, the effects of different back topography on the performance of TOPCon cells were explored. The study showed that acid polishing improved the surface flatness by rounding the pyramids wh

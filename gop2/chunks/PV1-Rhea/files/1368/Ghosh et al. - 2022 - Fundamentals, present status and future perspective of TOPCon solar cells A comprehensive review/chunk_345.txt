@@ -1,0 +1,3 @@
+the current con
+-
+sumption of silver for industrial PERC, TOPCon and SHJ solar cells is approximately 15.4mg/W, 25.6 mg/W, 33.9mg/W; respectively which is quite higher than the target value. The silver requirement for TOPCon and SHJ is more than its counterpart PERC due to its (Ag) requirement in both front and the back side of the cells for metallization purpose. The other challenging issue associated with the Ag paste is its high volatility of the price which has been increasing significantly 

@@ -1,0 +1,2 @@
+tA,CabalR,GrangeB,etal.Conductivityandsurfacepassiv-ationpropertiesofboron-dopedpoly-siliconpassivatedcontacts
+forc-Sisolarcells.PhysStatusSolidi.2019;216(10):1800603-1-1800603-6.30.StathisJH,CartierE.AtomichydrogenreactionswithPbcentersatthe(100)Si/SiO2interface.PhysRevLett.1994;72(17):2745-2748.31.NunomuraS,SakataI,MatsubaraK.In-situdetectionofinterfacedefectsina-Si:H/c-Siheterojunctionduringplasmaprocessing.ApplPhysExpress.2019;12:051006-1-051006-5.32.Lozac'hM,NunomuraS,UmishioH,MatsuiT,Matsu

@@ -1,0 +1,7 @@
+ovided figure illustrates the simulated structure of a Tunnel Oxide Passivated Contact (TOPCon) solar cell with layers passivated by Hafnium Oxide (HfO
+2
+). Here’s a possible explanation for each part of the figure: a) Depicts the overall structure of the solar cell, with layers of materials including the passivating HfO
+2 
+layer represented. b) Focuses on the top inter
+-
+face of the solar cell, possibly showing the passivation layer, contacts, and any other top layers like anti-reflective coa

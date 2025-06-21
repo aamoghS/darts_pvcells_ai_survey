@@ -1,0 +1,4 @@
+on and metal 
+interface simultaneously, resulting in a higher  V  oc  and FF for silicon solar cells. The champion efﬁ ciency of 21.6% has been achieved on the n-type silicon solar cell featuring a full-area 
+TiO 2 -based contact. This work highlights the high potential of TiO 2 -based contacts in future high-efﬁ ciency, low-cost silicon solar cells. Our ﬁ ndings also open up the possibility of devel-oping low-cost transition-metal-oxide-based carrier-selective 
+contacts for silicon solar 

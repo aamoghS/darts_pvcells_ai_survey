@@ -1,0 +1,16 @@
+nticipatedPIDmechanismsinp-PERCcellsaccordingtoliterature1Negative(ve)RearMA-1,MB-1,MC-1,MD-1PID-p,
+27,28,31
+PID-c
+25,35,36
+2Positive(+ve)FrontMA-2,MB-2,MC-2,MD-2PID-p
+31
+3Negative(ve)FrontMA-3,MB-1,MC-3,MD-3PID-s
+28,37,38
+4Positive(+ve)RearMA-4,MB-2,MC-4,MD-4Reportssomeformofdegradationbutnotfullyunderstood
+27
+Fewpaperscurrentlyaddressthis,andmoreworkisneeded
+32
+FIGURE2
+Rackforplacingmodulesinsideawalk-inenvironmentalchamber,insulating
+backsheetmaterial(whitematerial)tothesidesto
+preventmodul

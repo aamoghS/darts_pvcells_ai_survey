@@ -1,0 +1,7 @@
+l to realize doped Si layer for the formation of TOP
+-
+Con structure [65]. Recently, another approach on the transformation of PECVD (13.56 MHz) coated phosphorous doped a-Si:H layer into n
++
+poly-crystalline Si layer by means of rapid thermal annealing (RTA) process was reported where several parameters such as annealing time (50–950 s), annealing temperature (780–900
+◦
+C), cooling time (5–600 s) and the thickness of phosphorous doped a-Si:H layer (40–120 nm) were varied to facilitate

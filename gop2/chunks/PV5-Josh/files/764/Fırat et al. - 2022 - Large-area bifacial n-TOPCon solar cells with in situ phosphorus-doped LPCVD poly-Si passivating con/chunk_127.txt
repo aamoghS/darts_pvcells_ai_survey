@@ -1,0 +1,15 @@
+affect the FF, yielding a 0.6% increase. In step 4, another 
+ 
+gain of 0.2% is predicted when going for thinner poly-Si films with t
+poly 
+=75 nm, which is expected to become the industry standard thickness by 2028 when new screen-printing pastes which can contact thinner poly-Si films with low J
+0,m 
+are developed [1]. As explained before, reduced t
+poly 
+results in less FCA and a consequent 0.3 mA/cm
+2 
+increase in J
+sc
+. An impressive 
+ 
+of 24.3% i.e., a gain of 1.5% absolute, can be achiev

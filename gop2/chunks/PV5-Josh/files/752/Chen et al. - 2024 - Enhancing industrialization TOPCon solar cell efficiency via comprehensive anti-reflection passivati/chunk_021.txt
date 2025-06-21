@@ -1,0 +1,5 @@
+ng NH
+3 
+as a precursor gas was performed prior to the deposition of each SiN
+x
+, and the main processes are also listed in Table 1. Finally, the fabrication of TOPCon solar cells is completed by going through the standard screen printing and firing process. The I–V characteristics of the TOPCon solar cells are assessed using a solar simulator that replicates sunlight conditions. Quantum efficiency (QE, Enlitech) tester is used to assist in analyzing TOPCon solar cell performance. The evaluati

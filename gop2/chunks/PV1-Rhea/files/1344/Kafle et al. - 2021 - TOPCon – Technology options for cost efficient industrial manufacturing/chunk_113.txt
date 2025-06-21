@@ -1,0 +1,3 @@
+ethodology, Writing – review & editing. Jochen Rentsch: Data curation, Funding acquisition, Project administration, Writing – review & editing. 
+Fig. 10.Progression of nominal LCOE under monofacial irradiation with an increase in cell efficiency for Bifacial_p-PERC, and TOPCon routes achieving the highest (TOPCon high) and lowest (TOPCon low) LCOE values. The LCOE of cell concepts at the assumed conversion efficiencies (23.0% for PERC & 23.5% for TOPCon) are also shown as data points. 
+B. Ka

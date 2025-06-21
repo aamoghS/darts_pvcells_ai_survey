@@ -1,0 +1,9 @@
+nt in passivation quality contributes to a notable V
+oc 
+enhancement of approximately 1.1 mV. Importantly, there are no sig
+-
+nificant differences observed in the performance of I
+sc 
+and FF. This outcome aligns with the observation that PH treatment exerts minimal influence on the thickness and refractive index of the final SiN
+x 
+film, as determined by ellipsometry analysis. Finally, TOPCon solar cells achieve ~0.07% average conversion efficiency gain by PH processing. 4.Conclusions In conclus

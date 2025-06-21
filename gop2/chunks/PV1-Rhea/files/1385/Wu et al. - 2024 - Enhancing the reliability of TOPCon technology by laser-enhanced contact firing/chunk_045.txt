@@ -1,0 +1,3 @@
+ndergoes oxidation. This results in the loss of Al metallic properties, thereby affecting the elec
+-
+trical characteristics of the metal contacts. Consequently, voids were formed in these regions, and the remaining Al reacted with either O or Cl, rendering it ineffective in the contact mechanism. Moreover, this corrosion was not limited to the interior of the metal contact but could also extend to the interface between the metal contacts and Si surfaces. Given that Al can form Ag/Al spikes durin

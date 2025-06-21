@@ -1,0 +1,3 @@
+ion when thick poly-Si layers are partially oxidized during deposition without hurting passivation and contact properties [23], resulting in a ~23.05% large area, screen-printed n-TOPCon bifacial cell. In addition, they used a plasma-enhanced chemical vapor deposition (PECVD) tool to grow in-situ tunnel oxide and thick n
+þ
+poly-Si in a single step on one side only with very high deposition rate, which brings the TOPCon technology much closer to mass production. In spite of these encouraging res

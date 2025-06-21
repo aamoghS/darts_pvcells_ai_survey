@@ -1,0 +1,34 @@
+                                                                    
+at 650
+◦
+C for 20 min within N
+2 
+and O
+2 
+atmosphere (Thermal-SiO
+x
+) [39]. The result showed that the best passivation quality with iV
+oc 
+=722 mV, 
+
+eff 
+=1.56 ms for an injection level of 1 ×10
+15 
+cm
+�3 
+and J
+0 
+=5.95 fA/cm
+2 
+was obtained for the thermally grown SiO
+x 
+layer (Thermal-SiO
+x
+). In contrast, relatively poor passivation quality was observed for chem
+-
+ically grown SiO
+x 
+layers (NAOS-SiO
+x
+) with iV
+oc

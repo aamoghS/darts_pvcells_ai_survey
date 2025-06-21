@@ -1,0 +1,12 @@
+semiconductor contact influenced the fill factor (FF), open-circuit voltage (V
+oc
+), short-circuit current (I
+sc
+), and efficiency (E
+ff
+). 
+Fig. 9
+describes the performance of the TOPCon cells printed with Al paste on the rear side.
+Results show that, the Isc has an obvious decreasing trend when the weight percentage of silicon increased. The Al-Si contact interface affected long wave light absorption (900 nm–1000 nm) on the rear side. 
+Fig. S3
+is the EQE of the cells, which indicates that th

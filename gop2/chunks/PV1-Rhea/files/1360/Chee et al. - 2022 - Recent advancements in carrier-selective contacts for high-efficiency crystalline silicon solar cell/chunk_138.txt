@@ -1,0 +1,20 @@
+ annealing, oxidization reduces the MoO
+x 
+WF and increases 
+
+c
+, thereby degrading the photoelectrical performance. The annealing and plasma processing conditions, and the degree of stability of the depos
+-
+ited MoO
+x 
+layer, may determine to what extent, if any, an interfacial a-SiO
+x 
+layer precipitates in the a-Si:H(i)/MoO
+x 
+stack. Furthermore, un
+-
+less a pre-MoO
+x
+-deposition annealing step of the a-Si:H layer is adopted, degradation of the MoO
+x 
+film can occur upon annealing for screen

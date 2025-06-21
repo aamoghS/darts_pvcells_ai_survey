@@ -1,0 +1,3 @@
+Modifications in the band structure, particularly via passivation layers like hafnium oxide (HfO2) or silicon dioxide (SiO2), significantly impact energy levels and charge carrier behavior, reducing surface recombination and enhancing electrical performance [11]. Understanding the band structure of TOP
+-
+Con cells is crucial for developing strategies to optimize efficiency, diminish recombination losses, and maximize solar energy conversion. Continuous exploration and refinement of band engineer

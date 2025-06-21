@@ -1,0 +1,3 @@
+ for the TOPCon based cell concepts to remain competitive over p-PERC under the given assumptions (irradiation: 1700 kWh/m
+2
+, system size: 5 MWpa). 6.Summary We analyzed process routes for industrial manufacturing of TOPCon cells, which are designed to mainly integrate LPCVD a-Si deposition technology in cell processing. In comparison to bifacial p-PERC, the LPCVD based TOPCon concepts on n-type silicon substrates show higher cell production costs that are distributed in all relevant cell proce

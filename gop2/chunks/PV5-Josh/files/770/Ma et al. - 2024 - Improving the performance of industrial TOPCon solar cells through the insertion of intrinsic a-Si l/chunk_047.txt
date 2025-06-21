@@ -1,0 +1,3 @@
+In Fig. 4(d), the contact performance of TOPCon solar cells with different thicknesses of a-Si (i) was measured by TLM. The top views of the structures of samples (III) were illustrated in the figure. It could be seen from the figure that when there was no a-Si (i), the measured contact resistivity achieved the minimum value, showing the best con
+-
+tact performance. When the thickness of introduced a-Si (i) increased to 20 nm, the contact resistivity slightly increased, while the thickness excee

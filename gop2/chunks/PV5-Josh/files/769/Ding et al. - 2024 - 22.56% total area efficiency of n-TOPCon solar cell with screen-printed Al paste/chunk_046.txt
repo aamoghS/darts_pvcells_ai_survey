@@ -1,0 +1,13 @@
+cross-section images in 
+Fig. 7
+.
+As we know, ohmic contact was established with the formation of Al- Si alloy, and Al-Si alloy thickness decreased with the weight percentage of silicon in Al paste increase. Combing with the TLM model, we find that, the test current only goes through n
++
+-poly-Si during lateral trans
+-
+mission in ideal cells, but in fact, the passivation structure (SiO
+x
+/n
++
+- 
+Fig. 8.SEM images of the cross-section of the Al–Si contact: (a) the silicon content in Al paste is

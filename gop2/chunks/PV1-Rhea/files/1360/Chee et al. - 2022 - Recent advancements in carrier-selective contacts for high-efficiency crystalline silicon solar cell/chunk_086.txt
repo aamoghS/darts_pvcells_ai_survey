@@ -1,0 +1,14 @@
+ion and a low 
+
+c 
+leading to an 18.2-% efficient device, thus substituting for the requirement of a heavily doped a-Si:H layer. The thermal and environ
+-
+mental stability of TiO
+x
+-based contacts is also well known [79,84]. Yang et al. [80] showed that on the rear surface of the n-Si wafer, sub-stoichiometric ALD-TiO
+x 
+(~4.5nm thick) in a full-area contact structure provided superior surface passivation (maximum effective surface recombination velocity reduced from a value of 10
+6
+-10
+7 
+cm/s

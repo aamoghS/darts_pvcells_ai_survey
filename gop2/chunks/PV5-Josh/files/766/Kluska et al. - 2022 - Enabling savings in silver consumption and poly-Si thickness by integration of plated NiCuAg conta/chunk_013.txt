@@ -1,0 +1,9 @@
+ition was 2.5 A/dm
+2 
+(front side) and 2.2 A/dm
+2 
+(rear side) and for copper 15.2 A/dm
+2 
+(front side) and 11.5 A/dm
+2 
+(rear side). The silver capping layer was chemically deposited in an immersion plating process. The experiment design is illustrated in Fig. 1. Solar cells with either plated or screen printed metallization were fabricated for each poly-Si thickness. Furthermore, LCO test samples were processed using LCO line patterns with increasing laser pulse energy similar to Arya et al. [

@@ -1,0 +1,2 @@
+0.1 0.6 ±0.1 1.1 ±0.1 Polished (Best Solar Cell) 690.2 40.4 80.4 22.4 0.6 1.1  M. Fırat et al.                                                                                                                                                                                                                                    
+LPCVD-based poly-Si passivating contacts (data not published yet). Second, it is important to note that the certified FF of the best solar cell is 1.1% higher than the corres

@@ -1,0 +1,9 @@
+ after the realization of the DARC, and the best solar cell was also sent to ISFH CalTeC for a calibrated I–V measurement. From the I–V measurements with front illumination, the open circuit voltage (V
+oc
+), the short circuit current density (J
+sc
+), the fill factor (FF), and the power conversion efficiency (
+
+) of the solar cells were extracted. Moreover, the 
+ 
+values obtained with front and rear illumination were used for determining the bifaciality of the solar cells as the ratio of th

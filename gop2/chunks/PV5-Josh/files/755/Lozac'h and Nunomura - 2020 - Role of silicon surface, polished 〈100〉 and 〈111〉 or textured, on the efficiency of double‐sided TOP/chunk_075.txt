@@ -1,0 +1,3 @@
+Technology(MEXT),Japan.ORCIDMickaëlLozac'h
+https://orcid.org/0000-0001-8549-5361
+REFERENCES1.RichterA,BenickJ,MüllerR,etal.Tunneloxidepassivatingelectroncontactsasfull-arearearemitterofhigh-efficiencyp-typesiliconsolarcells.ProgPhotovoltaicsResAppl.2018;26(8):579-586.2.YablonovitchE,GmitterT,SwansonRM,KwarkYH.A720mVopencircuitvoltageSiOx:c-Si:SiOxdoubleheterostructuresolarcell.ApplPhysLett.1985;47(11):1211-1213.3.HaaseF,HollemannC,SchäferS,etal.Lasercontactopeningsforlocalpoly-Si-metalcontact

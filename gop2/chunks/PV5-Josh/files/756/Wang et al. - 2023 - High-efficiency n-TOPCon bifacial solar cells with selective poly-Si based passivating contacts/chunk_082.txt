@@ -1,0 +1,21 @@
+ 2.5, and the total saturation current density in the cell (J
+0,total
+) and the J
+0 
+on the rear non-metallized area (J
+0,passivated area (rear)
+) was calculated using the measured values of J
+0 
+and J
+0,metal 
+ac
+-
+cording to Eq. (1) and (2), respectively. And the J
+sc 
+value was estimated on the reference value of 41.63 mA/cm
+2 
+which is obtained by calcu
+-
+lating the metal shielding area through Griddler 2.5 simulation, and NIR parasitic absorbance current loss density of n
++
+-poly-Si layer a

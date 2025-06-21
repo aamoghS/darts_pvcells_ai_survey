@@ -1,0 +1,10 @@
+ondingbetweensiliconandphosphorusinpolycrystallinesiliconfilms.Theminoritycarrierlifetimeofthepassivatedstructurewastestedbymeansofaquasi-steady-statephotoconductor(SintonInstrumentsWCT-120)undersymmetricpassiv-ationconditionswithaninjectiondensityof1×10
+15
+cm
+�3
+.Theuni-lateralJ
+0
+wasdeterminedusingthehighinjectionmethodproposedbyKaneandSwanson[20].Thecontactresistivity(
+
+c
+)wasmeasuredbythetransferlengthmethod[21](TLM,Ai-shine).TheelectricalperformanceparametersofTOPConsolarcellswereevalua

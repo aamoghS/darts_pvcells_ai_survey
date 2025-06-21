@@ -1,0 +1,5 @@
+des, Fig. 2 illustrates that TOPCon solar cells will gradually grab the market share of approximately 50% (only PERC concept and TOPCon solar cells are considered) within next decade from its current market share of about 6%, indicating its dominancy in SPV industry. On the other hand, Si-heterojunction (HIT/HJT) solar cells will progres
+-
+sively gain a market share of about 10% in 2025 and about 18% in 2031. Fig. 1 again confirms the supremacy of double-sided contact cell con
+-
+cepts over other

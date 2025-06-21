@@ -1,0 +1,3 @@
+ realized by TOPCon/POLO structure still continuous research must be carried on to realize even better passivation quality which in turn will provide higher V
+oc 
+value. The other major issue associated with the TOPCon structure is the parasitic absorption of light by doped poly-Si layer. In essence, the thickness and the doping concentration of doped poly-Si layer are two vital parameters to tune the parasitic absorption of light within it. To conquer the challenge of parasitic absorption of li

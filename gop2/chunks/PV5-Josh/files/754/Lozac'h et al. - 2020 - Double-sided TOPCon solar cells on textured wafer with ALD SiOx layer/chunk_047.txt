@@ -1,0 +1,12 @@
+                                                                                                                      
+iV
+oc
+. Thus, a heavier doping concentration is necessary to increase the PCE. The optimum profile in our study for the (p) stack at 50 sccm has a boron concentration inside the c-Si about 5 �10
+18 
+at/cm
+3 
+and a junction depth about 100 nm. For B
+2
+H
+6 
+flows stronger than 50 sccm, the PCE decreases due to the FF (Fig. 2a). Here also, the pseudo FF (pFF) is consistently slig

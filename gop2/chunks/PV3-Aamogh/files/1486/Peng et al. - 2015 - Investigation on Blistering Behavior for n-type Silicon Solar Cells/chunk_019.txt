@@ -1,0 +1,24 @@
+50E-06 8.00E-06 
+H2
+ in Al
+2O3
+ 5.00E-12 1.30E-08 
+H2
+ in SiN
+X
+ 3.00E-17 4.00E-13 
+D
+SiN
+X
+ << DAl
+2O3
+<< DSiO
+2 
+Fig 4. Implied Voc of the two different gas environments
+ 
+ Zih-Wei Peng et al.  /  Energy Procedia   77  ( 2015 )  827 – 831 831
+4.
+ 
+Conclusion In this work, we investigated the thermal treatment before Al
+2O3
+ ALD with two different gas environment to avoid the surface blistering after high temperature fast firing. A clear correlation between the blistering behavior and thermal

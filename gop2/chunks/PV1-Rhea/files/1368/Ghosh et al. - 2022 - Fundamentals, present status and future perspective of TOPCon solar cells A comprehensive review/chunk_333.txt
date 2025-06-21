@@ -1,0 +1,4 @@
+idered to be one of the most promising routes for the development of a-Si layer due to its higher deposition rate compared to the LPCVD process, availability of in-situ doping without comprising with the deposition rate and the layer uni
+-
+formity, ability of single-sided deposition and hence no possibility of wrap-around of the developed a-Si layer. Nandakumar et al. showed that 
+Fig. 25.Expected trend of average stabilized efficiency values for solar modules comprised of various c-Si solar cel

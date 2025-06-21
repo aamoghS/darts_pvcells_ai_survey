@@ -1,0 +1,5 @@
+ng PECVD is a possibility of in-situ doping of a-Si layers without any compromise to layer homoge
+-
+neity and deposition rates. One of the key challenges is to avoid blis
+-
+tering in thick layers (d >100 nm), which are currently required for industrial TOPCon architecture due to an inherently high hydrogen concentration in the deposited a-Si layer. Although PECVD is loosely considered as a single sided deposition process, avoiding wrap-around of a-Si layers remains a technological milestone for 

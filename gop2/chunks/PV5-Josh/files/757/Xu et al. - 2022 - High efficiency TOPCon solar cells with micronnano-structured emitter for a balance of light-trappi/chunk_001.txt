@@ -1,0 +1,4 @@
+ INFO  
+Keywords: TOPCon Nanopores Light-trapping Wide-angle Surface passivation 
+ABSTRACT  
+At present, conventional micron-pyramid texture is imperfect for further reducing optical reflection loss and improving photoelectric conversion efficiency (PCE) of tunnel oxide passivating contact (TOPCon) solar cells. Herein, reactive ion etching technique is used to fabricate nanopores on top of pre-formed micron-pyramid silicon surface, called NPP structure. The equivalent medium layer with graded re

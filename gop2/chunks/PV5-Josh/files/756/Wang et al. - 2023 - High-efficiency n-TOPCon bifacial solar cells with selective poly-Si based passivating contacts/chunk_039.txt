@@ -1,0 +1,22 @@
+sited on the surface of Si for a certain time. Both influenced the SiO
+x
+/n
++
+-poly-Si profiles, passivation performance (J
+0
+) and contact resistivity (
+
+c
+) of n-TOPCon cells, analyzed using the LPCVD and POCl
+3 
+tube furnace diffusion methods, and the results are shown in Table 1(i). The ECV profiles for the SiO
+x
+/n
++
+-poly-Si layer under different SiO
+x 
+layer process conditions are shown in Fig. 2. In the first type, we varied the t
+pressure 
+under a constant t
+oxidation
+: 1) Condition 1 

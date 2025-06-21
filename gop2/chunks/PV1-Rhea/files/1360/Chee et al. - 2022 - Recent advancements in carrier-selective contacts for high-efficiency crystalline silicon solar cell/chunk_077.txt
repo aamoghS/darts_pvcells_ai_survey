@@ -1,0 +1,9 @@
+contact (p-BSF) [37]. Thus, MoO
+x 
+can be implemented to collect holes in both n- and p-type c-Si absorbers. However, charge carrier injection and recombination at defect sites are known to affect electrical transport properties. Afterwards, Bullock et al. [76] investigated LiF
+x 
+and MoO
+x
+, respectively, for electron- and hole-selective asymmetric heterocontacts, together with a-Si:H(i) membrane passivation on both sides of the SHJ solar cell. The band-bending near the MoO
+x
+/c-Si interface an

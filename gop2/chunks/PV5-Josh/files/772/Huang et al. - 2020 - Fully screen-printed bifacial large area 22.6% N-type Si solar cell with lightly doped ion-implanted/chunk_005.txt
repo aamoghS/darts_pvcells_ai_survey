@@ -1,0 +1,13 @@
+tunnel oxide (SiO
+x
+) capped with phosphorus doped n
+þ
+poly-Si. Several investigators have reported very low recombination current density (J
+0
+) (<10 fA/cm
+2
+) [6–10] for n-TOPCon structure with �1.5 nm SiO
+x 
+capped with n
+þ
+doped poly-Si. As a result, very high efficiency (>25.7%) small area R&D cells have been reported but with full area evaporated Ag on n-TOPCon on the rear [11]. However, to adapt TOPCon technology for industrial production of large-area Si solar cells, several challe

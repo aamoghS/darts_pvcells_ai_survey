@@ -1,0 +1,28 @@
+
+Comparative analysis of radiation-induced effects on the performance of p-type PERC and TOPCon solar cells for space applications 
+Fa-Jun Ma
+a
+, Guo Li
+a
+, Xutao Wang
+a
+, Haoran Wang
+a
+, Zhuangyi Zhou
+a
+, Chukwuka Uzochukwu Madumelu
+a
+, Peter Toth
+b
+, Nicholas J. Ekins-Daukes
+a
+, Gavin Conibeer
+a
+, Bram Hoex
+a
+,
+* 
+a
+Australia Centre for Advanced Photovoltaics, School of Photovoltaic and Renewable Energy Engineering, University of New South Wales, Sydney, NSW, 2052, Australia 
+b
+Extraterrestria

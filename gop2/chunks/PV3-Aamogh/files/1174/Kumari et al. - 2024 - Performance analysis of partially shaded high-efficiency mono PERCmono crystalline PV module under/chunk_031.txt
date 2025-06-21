@@ -1,0 +1,2 @@
+rch article by Indu etal. proposed a novel Su Do Ku arrangement, which could eectively reduce the eect of shading in a PV  
+system18. e bypass diode can prevent a cell voltage from reaching its breakdown voltage while shading. However, Rossi etal. in their experiment concluded that detrimental eects due to shading, such as hotspots, still may appear even if the by-diodes are incorporated into the  module19.A research article proposed a novel topology incorporating BJT with two MOSFETs inst

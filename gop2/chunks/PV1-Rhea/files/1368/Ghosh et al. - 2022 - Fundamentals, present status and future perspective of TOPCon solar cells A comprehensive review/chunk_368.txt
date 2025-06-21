@@ -1,0 +1,17 @@
+
+passivated boron diffused p
++
+emitter at the rear side. A thermal treatment at a temperature of 250
+◦
+C was carried out after ITO deposition to reduce any sputter induced damage. As a result, a very high iV
+oc 
+of 684.7 ±11.3 mV, a total J
+0 
+of 49.2 ±14.8 fA/cm
+2
+, an iFF of 81.9 ±0.8% and a 
+
+c 
+of 60–90 m-cm
+2 
+were obtained for the ITO coated samples. Besides, the developed Si solar cells featuring a local metallic (Ag) contact to the rear emitter and ITO thin films as front-sided 

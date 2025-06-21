@@ -1,0 +1,19 @@
+that combines the growth of ultra-thin tunneling SiO
+x 
+layer with the deposition of amorphous silicon layer at present [25–28]. The combination of ultra-thin tunneling SiO
+x 
+prepared by plasma-assisted N
+2
+O oxidation and n
++
+-poly-Si layer obtained excellent iV
+oc 
+values as high as 730 mV and corresponding J
+0 
+values as low as 4.3 fA/cm
+2 
+[25]. Plasma-assisted N
+2
+O oxidation is the decomposition of N
+2
+O into free radicals such as NO*, O*, N* in a vacuum chamber by capacitively coupled 

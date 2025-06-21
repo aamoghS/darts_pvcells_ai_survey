@@ -1,0 +1,2 @@
+Glunz,Theconceptofskinsfor(silicon)solarcellmodelling,Sol.EnergyMater.Sol.Cells(SiliconPV)(submittedforpublication),
+2017,doi:10.1016/j.solmat.2017.05.012.[34]R.Brendel,Modelingsolarcellswiththedopant-diusedlayerstreatedasconductiveboundaries,Prog.Photovolt.:Res.Appl.20(1)(2012)31–43.[35]A.Fell,K.R.McIntosh,K.C.Fong,Simplieddevicesimulationofsiliconsolarcellsusingalumpedparameteropticalmodel,IEEEJ.Photovolt.6(3)(2016)611–616.[36]R.N.Hall,Electron-holerecombinationingermanium,Phys.Rev.87(2)

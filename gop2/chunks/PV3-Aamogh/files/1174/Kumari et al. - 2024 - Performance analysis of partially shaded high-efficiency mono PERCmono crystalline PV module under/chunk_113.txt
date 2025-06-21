@@ -1,0 +1,2 @@
+aximum eciency, maximum ambient tempera-ture, maximum module temperature proles during the days when the respective shading experiment is done.e results recorded from the outdoor experiment under dierent shading proles are synthesized in Table5. e output power also declines when the shading percentage is increased, similarly as reported in the  
+papers6870. It can be noticed from the results in Table5, that the generated output current is declining as the shading prole varies progress

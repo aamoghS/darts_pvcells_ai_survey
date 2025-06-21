@@ -1,0 +1,7 @@
+n-hydrogen bond as well as accompanying hydrogen diffu
+-
+sion within the c-Si substrate and phosphorous diffusion via the tunnel oxide layer within the n-type substrate. As mentioned earlier, the passivation quality was enhanced by the insertion of the tunnel oxide layer. In this study, passivation of the tunnel oxide junction structure was observed to be excellent for the sample subjected to 950 
+◦
+C thermal annealing. However, the passivation quality decreased with heat treat
+-
+ment above 95

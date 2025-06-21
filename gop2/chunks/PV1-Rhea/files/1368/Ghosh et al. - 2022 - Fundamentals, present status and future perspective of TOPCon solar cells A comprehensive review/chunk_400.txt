@@ -1,0 +1,5 @@
+ivation quality. Fifthly, incomplete absorption of light mainly in longer wavelength region may significantly reduce the value of J
+sc 
+and hence the conversion efficiency. Therefore, the optical path length of the incident light requires to be prolonged through advanced light trapping mechanisms such as incor
+-
+poration of double-layer anti reflection coating at the front side of the cells and placing suitable material in between TOPCon structure and the rear side metallic contact to reflect ba

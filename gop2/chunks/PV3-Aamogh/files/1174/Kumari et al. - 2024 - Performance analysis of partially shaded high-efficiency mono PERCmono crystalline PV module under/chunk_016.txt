@@ -1,0 +1,7 @@
+n illuminated solar cell is called the maximum power point 
+Pmax
+.ae additional parameter sets the maximum power generated with the product of Voc and Isc and is called the Fill Factor (FF).e ratio of the useful output power (delivered by the conversion device) to the incident power (of the solar radiation) is called the eciency ( 
+η
+ ) of a solar cell.S = solar irradiation (W/m2), 
+Ar
+ = module surface area  (m2).e dependability and performance of PV modules may be severely aected by the f

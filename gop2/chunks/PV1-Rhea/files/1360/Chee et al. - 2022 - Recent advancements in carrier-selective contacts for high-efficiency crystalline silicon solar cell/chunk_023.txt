@@ -1,0 +1,3 @@
+t 
+Fig. 1.Energy band diagrams illustrating general concepts of the idealized electron (hole) collecting layer/selective contact positioned at the far left (right) on an n-type c-Si wafer for a (a) homojunction, (b) heterojunction, or (c) dopant-free asymmetric heterocontact, structure. Schematics are not drawn to scale. 
+K.-W.A. Chee et al.                                                                                                                                                             

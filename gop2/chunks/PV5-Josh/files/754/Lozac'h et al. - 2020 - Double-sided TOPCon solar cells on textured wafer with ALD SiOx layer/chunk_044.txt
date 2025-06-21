@@ -1,0 +1,19 @@
+oncentration with an optimum at 50 sccm, where the photoconversion efficiency is improved (Fig. 2a). For a B
+2
+H
+6 
+flow lower than 50 sccm, the PCE decreases due to a voltage loss in V
+oc
+, pV
+oc
+, and iV
+oc
+. The pV
+oc 
+is consistently slightly lower than the iV
+oc
+, likely due to the additional passivation losses induced by the ITO and Ag sputtering processes required to finish the cell fabrication [37], and the measured V
+oc 
+of finished cells is lower than the pV
+oc 
+due to the series resis

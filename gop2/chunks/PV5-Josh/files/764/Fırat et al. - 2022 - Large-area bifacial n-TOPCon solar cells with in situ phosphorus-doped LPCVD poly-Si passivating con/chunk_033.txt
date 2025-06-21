@@ -1,0 +1,9 @@
+n solar cells. This experi
+-
+ment is referred to as the rear surface morphology screening experiment. For this, a reference group of 7 solar cells was prepared with the same design and process as for the t
+poly 
+screening experiment i.e., the rear surface morphology was semi-textured. For this reference group, a single t
+poly 
+value of 150 nm was chosen. In addition, another group of 14 solar cells was fabricated, also with t
+poly 
+=150 nm but a polished rear surface morphology. The design of th

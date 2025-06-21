@@ -1,0 +1,15 @@
+ front and at the back side of the cells. On the other hand, n-type bifacial TOPCon solar cells with an average efficiency of 23.04% (V
+oc 
+=701 mV, J
+sc 
+=40.66 mA/cm
+2
+, and FF =80.80%) were fabricated by Chinese solar giant Jolywood enter
+-
+prise [119]. In this case, the best cell demonstrated an outstanding conversion efficiency of 23.15% with an excellent V
+oc 
+of 703 mV, J
+sc 
+of 40.53 mA/cm
+2
+, and FF =81.25%. However, based on free energy loss analysis (FELA), the authors observed that s

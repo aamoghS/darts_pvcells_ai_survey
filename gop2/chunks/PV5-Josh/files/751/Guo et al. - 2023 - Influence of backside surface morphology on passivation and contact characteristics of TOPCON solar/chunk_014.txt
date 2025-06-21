@@ -1,0 +1,5 @@
+s and screen printed metal contacts. For N-type TOPCon cells, the excellent passivation perfor
+-
+mance, contact performance and minimal parasitic absorption of the back tunnel oxide/N +polysilicon layer are the keys to achieve high efficiency. All three are affected by the topography of the rear surface. Some etching-related research has been done and promoted the further improvement of solar cell efficiency. Inline process using HNO
+3
+/HF solution or batch process using alkaline solution are th

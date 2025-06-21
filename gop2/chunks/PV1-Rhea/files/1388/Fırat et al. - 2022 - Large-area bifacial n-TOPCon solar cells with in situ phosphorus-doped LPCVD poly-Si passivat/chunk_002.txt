@@ -1,0 +1,3 @@
+ Hussein Badrand, Arvid van der Heideb, Jonathan Govaertsb, Filip Duerinckxb, Loic Tousb, Ali Hajjiahd, Jef Poortmansa,b,e aKU Leuven, Department of Electrical Engineering, Kasteelpark Arenberg 10, 3001 Leuven, Belgium bImec (Partner in EnergyVille), Kapeldreef 75, 3001 Leuven, Belgium 
+cKU Leuven, Department of Physics and Astronomy, Celestijnenlaan 200d, 3001 Leuven, Belgium
+ dDepartment of Electrical Engineering, College of Engineering and Petroleum, Kuwait University, 13133 Safat, Kuwait eUH

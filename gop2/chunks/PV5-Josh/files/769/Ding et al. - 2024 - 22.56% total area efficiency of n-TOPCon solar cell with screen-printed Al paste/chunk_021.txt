@@ -1,0 +1,29 @@
+ctural diagram of TOPCon solar cell 
+[5]
+.
+Fig. 2.Fabrication process of TOPCon cells.
+Table 1 LCO parameters adopted in this study.
+Power/W
+Energy Density/Jcm
+�2
+6.3
+0.394
+6.6
+0.413
+6.9
+0.431
+7.2
+0.450
+7.5
+0.469
+Y. Ding et al.                                                                                                                                                                                                                                     
+Solar
+ 
+Energy
+ 
+280
+ 
+(2024)
+ 
+112862
+ 

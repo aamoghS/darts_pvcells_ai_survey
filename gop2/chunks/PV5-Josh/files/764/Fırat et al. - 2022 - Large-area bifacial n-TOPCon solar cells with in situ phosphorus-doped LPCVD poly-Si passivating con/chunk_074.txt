@@ -1,0 +1,17 @@
+‰¥150 nm are attributed to enhanced mitigation of recombination in case of thicker poly-Si. Another benefit of using higher t
+poly 
+is the achievement of lower 
+
+c,r
+, down to 1.7 mcm
+2
+, as Fig. 5b) shows. As for J
+0,p,r
+, the decrease in 
+
+c,r 
+with increasing t
+poly 
+agrees with some [14,15,43], but not all results in the literature [41]. Comparison of all these findings regarding the impact of t
+poly 
+on poly-Si passivating contact properties, obtained here on semi-textured surfaces, wit

@@ -1,0 +1,3 @@
+rmation of tunnel oxide and deposition of intrinsic/doped poly-Si are the two crucial processing steps that are additional to the current PERC processing, and mainly define the process routes for TOPCon processing. The properties of these layers are vital towards designing the subsequent cell processing steps, aiming to achieve high open-circuit voltage (V
+OC
+) and a low series resistance promised by the TOPCon- concept. Apart from these steps, industrial TOPCon cells are mainly based on more ex

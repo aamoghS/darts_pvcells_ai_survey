@@ -1,0 +1,15 @@
+comprised a 20 mm ×20 mm square, with a thickness of 10 
+
+m (EOM thickness), designed for assessing sheet resistance and doping perfor
+-
+mance. The other pattern took the form of a 30 
+
+m wide, 10 
+
+m thick (EOM thickness) line intended for creating deep p
+++
+/n junctions in SE. Following the screen printing process, the Si paste-coated Si wafers were dried at 230 
+◦
+C for 30 s. Subsequently, these Si wafers were spaced at approximately 15 mm intervals and subjected to annealing at tem
+-
+p

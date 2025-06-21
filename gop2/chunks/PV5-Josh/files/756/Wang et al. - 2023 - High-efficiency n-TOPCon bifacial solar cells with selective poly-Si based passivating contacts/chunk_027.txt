@@ -1,0 +1,13 @@
+/n
+++
+-poly-Si layer in the non-mask area. Among them, the SiO
+x
+/n
+++
+-poly-Si layer was removed by a polishing process (KOH/polishing additives) in the non-mask area, whereas the PSG in the contact area acts as an etch mask. The SiO
+x
+/n
++
+-poly-Si layer was also prepared in LPCVD with a high-temperature quartz tube furnace containing POCl
+3 
+gas. After again cleaning the wafers again and removing boron silicate glass (BSG) and PSG, the poly-Si wraparound side was etched in inline treatment wi

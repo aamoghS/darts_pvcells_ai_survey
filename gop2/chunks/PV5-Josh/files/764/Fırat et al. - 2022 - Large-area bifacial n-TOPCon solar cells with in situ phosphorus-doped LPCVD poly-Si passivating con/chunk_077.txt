@@ -1,0 +1,7 @@
+s. This finding agrees with the results of similar recombination loss analyses reported in the literature for n-TOPCon solar cells [5,16]. Overall, these results show that a thick enough poly-Si film with t
+poly 
+≥150 nm is necessary to achieve high-quality passivating contacts and high-efficiency n-TOPCon solar cells for the screen-printed contacts used. While choosing t
+poly 
+>150 nm results in slightly improved elec
+-
+trical properties of the devices, it also leads to optical losses, showin

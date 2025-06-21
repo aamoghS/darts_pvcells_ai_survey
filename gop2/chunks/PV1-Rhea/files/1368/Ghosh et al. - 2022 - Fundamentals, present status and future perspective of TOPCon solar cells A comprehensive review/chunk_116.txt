@@ -1,0 +1,9 @@
+ for further research to lower down the thermal budget. 6.1.2.Effect of the properties of ultra-thin SiO
+x 
+layer on the surface passivation quality Carrier recombination losses at Si/SiO
+x 
+interfaces are greatly influ
+-
+enced by structural and chemical properties of interfacial tunneling layers. Thickness, homogeneity and chemical compositions i.e., stoi
+-
+chiometry of tunneling oxides play a major role to improve the majority carriers collection and to reduce the recombination current density

@@ -1,0 +1,8 @@
+his, in turn, enhances the contact between the silicon (Si) substrate and the metal electrode, thereby facilitating the carrier output [10]. The selection of diffusion concentration and depth for both the p
++
+and p
+++
+layers significantly influences the electrical parameters of the TOPCon cell [11]. Consequently, it becomes crucial to conduct an in-depth analysis of the B diffusion mechanism, optimize the diffusion process, and attain the appropriate diffusion characteristics for the p
++
+and p
++

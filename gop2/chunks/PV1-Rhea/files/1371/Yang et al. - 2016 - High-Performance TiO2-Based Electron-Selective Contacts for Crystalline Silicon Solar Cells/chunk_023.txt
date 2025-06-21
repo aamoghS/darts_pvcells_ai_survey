@@ -1,0 +1,5 @@
+) shows an average efﬁ ciency above 21.0%, a testament to the reproducibility of the silicon solar cells with 
+a full-area SiO 2 /TiO 2  contact (see Table S 1 , Supporting Infor-mation). The result demonstrates that the carrier recombina-
+tion and contact resistance at the rear side are further reduced 
+with the SiO 2 /TiO 2  contact. This very high  η  of 21.6% is the highest value reported to date for the silicon solar cell with a 
+simple and full-area TiO 2 -based selective contact.   Fig

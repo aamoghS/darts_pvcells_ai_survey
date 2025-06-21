@@ -1,0 +1,3 @@
+tching process have not been carefully studied. Relevant research is needed to provide technical support for the selection and optimization of wet process in actual mass production. In this work, a large-area (274.15 cm2) N-type TOPCon solar cell was fabricated using a screen-printed silver paste method to achieve metal
+-
+–semiconductor contact. Electron-selective passivation contacts are based on the thermal oxide growth of a tunnel oxide layer and LPCVD deposition of an intrinsic polysilicon

@@ -1,0 +1,3 @@
+. Bressan etal. similar to this paper work explained that partial shading condition is more critical than full shading. To combat this situation they proposed real time shading fault detection that could prevent  
+hotspotting67. Figure11 represents the maximum temperature and maximum eciency of each shading prole. e maximum temperature of the shaded part in an outdoor setup is dierent 
+Fig. 11.  Values of maximum eciency and recorded hotspot temperature of the shaded cell for a particular

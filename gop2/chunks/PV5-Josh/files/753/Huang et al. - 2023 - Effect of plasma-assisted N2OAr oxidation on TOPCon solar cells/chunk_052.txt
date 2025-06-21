@@ -1,0 +1,29 @@
+ation current density (J
+0
+) and contact resistivity (
+
+contact
+) of poly-Si passivated contact structures with PANAO SiO
+x 
+layers prepared by 7 different N
+2
+O/ Ar flow ratios as described in Section 3.2. The 
+
+, iV
+oc 
+and J
+0 
+values are studied as a function of N
+2
+O/Ar gas flow ratio with the c-Si/SiO
+x
+/Poly-Si (n
++
+) structures before SiN
+x
+:H deposition, after SiN
+x
+:H deposition, after sintering and after dark annealing, as shown in Fig. 6(a) (b) (c). For the c-Si/SiO
+x
+/Poly-Si(n
++

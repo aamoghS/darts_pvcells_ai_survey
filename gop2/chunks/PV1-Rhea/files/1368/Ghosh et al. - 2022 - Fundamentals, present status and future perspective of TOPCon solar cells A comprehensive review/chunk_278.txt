@@ -1,0 +1,7 @@
+ger pitch of 0.5 mm. Optical simulations study performed with OPTOS revealed that textured rear in combination with SiO
+x
+/Ag mirror resulted a gain of 0.5 mA/cm
+2 
+in J
+sc 
+by enhancing the optical confinement inside the solar cells. However, to implement this advanced light trapping mechanisms at the rear sides of the TOPCon cells, full area metal contacts are to be replaced by local contacts. In essence, the authors demonstrated the pathways to fabricate both sides contacted solar cells featu

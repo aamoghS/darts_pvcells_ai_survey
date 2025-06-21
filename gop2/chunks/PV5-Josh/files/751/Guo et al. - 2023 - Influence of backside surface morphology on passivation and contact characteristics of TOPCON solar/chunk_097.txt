@@ -1,0 +1,7 @@
+l
+-
+opment Program of China (2020YFB1506503,2022YFF0709500, 2018YFB1500200), National Natural Science Foundation of China (NSFC, Grant Nos. 12035020, 52072399, 62074165, 12175305, 62104253 and 12105357), Natural Science Foundation of Beijing Mu
+-
+nicipality (4192064, 1212015). References 
+[1]Baker-Finch, S.C., McIntosh, K.R., Yan, D., Fong, K.C., Kho, T.C., 2014. Near- infrared free carrier absorption in heavily doped silicon. J. Appl. Phys. 116 (6) https://doi.org/10.1063/1.4893176. 
+Fig. 10.(a

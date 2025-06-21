@@ -1,0 +1,5 @@
+l con
+-
+ditions, with the area under each curve representing the power output. The HfO2 layer exhibits a slightly higher Jsc and efficiency, suggesting improved performance over the SiO2 layer in this simulation. HfO2’s advantageous attributes for passivation in TOPCon solar cells are increasingly recognized. Its elevated dielectric constant amplifies the internal electric field, fostering superior carrier separation and dimin
+-
+ished recombination activities, which potentially heightens the o

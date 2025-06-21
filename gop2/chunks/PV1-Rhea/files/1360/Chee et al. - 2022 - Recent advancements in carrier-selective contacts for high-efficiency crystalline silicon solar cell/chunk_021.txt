@@ -1,0 +1,6 @@
+
+layer passivated interdigi
+-
+tated back contact (IBC) by SunPower [15]. In the former structure, a stack of a-Si:H layers is deposited on both sides of the c-Si wafer (see Fig. 1b). An intrinsic a-Si:H (a-Si:H(i)) layer is critical to chemically passivate the c-Si surface, and a doped a-Si:H overlayer creates the p-n junction as well as to provide field-effect passivation using fixed charges. On the front (illumination) side, the a-Si:H(i) passivation layer is fol
+-
+lowed by plasma-enhanced che

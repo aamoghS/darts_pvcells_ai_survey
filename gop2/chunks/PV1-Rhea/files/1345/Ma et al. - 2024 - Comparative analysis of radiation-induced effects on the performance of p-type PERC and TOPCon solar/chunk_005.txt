@@ -1,0 +1,4 @@
+effects of radiation-induced defects and the subsequent dopant compensation. Under these circum
+-
+stances, the TOPCon technology demonstrates a significant advantage over PERC, particularly for high electron fluence due to its full area contacts for both minority and majority charge carriers.   
+1.Introduction Solar cells play a vital role in enabling numerous space applications, including satellites, space probes, space stations, and planetary rovers. They provide long-lasting power for scienti

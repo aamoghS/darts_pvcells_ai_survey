@@ -1,0 +1,12 @@
+eover, the contact interface of Al paste and n +-poly-Si was analyzed by SEM and EDS as well.
+When a laser energy density lower than 0.431 Jcm
+�2 
+was not suf
+-
+ficient to open the SiNx layer, because the energy density was too little low to reach the laser ablation threshold, and the EDS results proved it. When laser energy density is higher than 0.431 Jcm
+�2
+, large areas of n
++
+-poly-Si exposed after laser-radiated, because no nitrogen element appeared in the area. From 
+Fig. 6
+, we fin

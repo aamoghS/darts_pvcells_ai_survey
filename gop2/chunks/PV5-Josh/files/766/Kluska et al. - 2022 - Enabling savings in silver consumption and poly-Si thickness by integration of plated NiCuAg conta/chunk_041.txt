@@ -1,0 +1,5 @@
+ECO. These local spots are not visible in PL before LECO but appear in PL after LECO. Feature F3 and F4 in EL are also correlated to automation handling marks. Again, the EL intensity in these areas is increased and homoge
+-
+nized after LECO. In contrast to F2 the PL shows no change before/after 
+Fig. 7.EL and PL measurements of three representative TOPCon solar cells with plated contacts before and after LECO.  
+S. Kluska et al.                                                                   

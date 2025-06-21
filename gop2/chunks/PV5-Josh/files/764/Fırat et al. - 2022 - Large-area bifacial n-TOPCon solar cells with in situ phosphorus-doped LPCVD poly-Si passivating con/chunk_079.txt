@@ -1,0 +1,16 @@
+ solar cells with semi-textured rear surface and varying poly-Si thicknesses in the passivating contacts at the rear. Averages and standard deviations were obtained by measurements on 8 devices per group. Parameters of the best solar cell are also shown.  
+t
+poly 
+[nm] V
+oc 
+[mV] J
+sc 
+[mA/ cm
+2
+] FF [%] 
+ 
+[%] r
+s 
+[cm
+2
+] n 100 681.4 ±1.3 40.0 ±0.1 78.3 ±0.4 21.4 ±0.1 0.8 ±0.1 1.2 ±0.1 150 690.7 ±0.8 39.8 ±0.1 79.3 ±0.3 21.8 ±0.1 0.8 ±0.1 1.1 ±0.1 200 692.5 ±0.9 39.7 ±0.1 79.4

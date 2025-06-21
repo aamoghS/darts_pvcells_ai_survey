@@ -1,0 +1,3 @@
+igher and is mainly responsible for the process consumables costs. 3.2.Industrially viable LPCVD TOPCon routes Fig. 3 schematically shows the TOPCon process routes based upon LPCVD a-Si technology, and the reference process route for bifacial p- PERC. For p-type PERC cell (Bifacial p-PERC), alkaline textured wafers receive a phosphorus emitter by a POCl
+3
+-based low pressure tube diffusion furnace. Afterwards, highly phosphorous-doped regions are selectively formed on the front side by using a l

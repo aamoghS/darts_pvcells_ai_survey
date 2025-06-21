@@ -1,0 +1,5 @@
+sity values [6,50–52]. Huang et al. in their experiment observed the leaking current spots (part of which might be generated from pinholes) from c-AFM images and both the size and the density of leaking current spots were found to be increased with the increment of annealing tem
+-
+perature [38]. The presence of pinholes in ultra-thin SiO
+x 
+layer was also confirmed by various other research reports published at different times [53–58]. Folchert et al. developed two types of TOPCon structures

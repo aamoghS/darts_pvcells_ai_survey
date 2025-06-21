@@ -1,0 +1,10 @@
+ties.ThisintrinsiclimitationisofbasicinterestforPVre-
+search,particularlyascontinuousimprovementsintechnology
+leadtosolarcelloperationconditionsapproachingthisfun-
+damentallimit,e.g.,theopen-circuitvoltageofheterojunction
+siliconsolarcells[1].
+Basedonthedetailedbalancingofincidentandgenerated
+powerdensity,ShockleyandQueisserdeterminedanupperef-
+ﬁciencylimitforidealsingle-junctionsolarcellstakingonly
+radiativerecombinationintoaccount[2].Incrystallinesilicon,
+however,therearealsoconsiderablenonr

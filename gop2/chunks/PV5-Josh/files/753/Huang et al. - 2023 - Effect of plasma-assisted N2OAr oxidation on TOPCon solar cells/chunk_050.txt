@@ -1,0 +1,7 @@
+rus atoms. We believe that more pinholes are generated in the PANAO SiO
+x 
+layer and a large degree of film break-up has occurred at this temperature, similar to the break-up phenomenon observed in chemical silicon oxide [45], resulting in the ECV doping profiles at 940 
+◦
+C as shown in Fig. 5(a). Phosphorus atoms penetrate the PANAO SiO
+x 
+and diffuse into silicon substrate in large quantities, leading to the increase of recombination center in silicon substrate, finally resulting in a sharp 

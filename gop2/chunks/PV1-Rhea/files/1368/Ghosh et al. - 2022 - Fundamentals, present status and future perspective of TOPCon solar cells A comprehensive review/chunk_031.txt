@@ -1,0 +1,3 @@
+d TOPCon solar cells. However, due to the challenges like rear contact openings and carrier crowding at localized metallic contacts, market dominating PERC solar cells are likely to be replaced by TOPCon solar cells in the future. The first report on the development of TOPCon solar cells was published in 2013 by Fraunhofer ISE [20]. In the article, Feldmann et al. revealed that inserting of an ultra-thin silicon dioxide layer (SiO
+2
+) along with a phosphorous-doped poly silicon layer at metal-se

@@ -1,0 +1,14 @@
+
+IEEEJOURNALOFPHOTOVOLTAICS,VOL.9,NO.3,MAY2019
+629
+DevelopmentofthePERCSolarCell
+AndrewBlakers
+Abstract
+Thispaperreviewsthedevelopmentofthepassivated
+emitterandrearcell(PERC)siliconsolarcellinthe1980s,which
+setseveralefﬁciencyrecords,butwasnottakenupcommerciallyat
+thetime.Followingextensivedevelopmentofsuitablefabrication
+processes,materials,andproductiontools,thePERCsolarcell
+isnowontracktobecomethedominantcommercialsolarcell.
+Sincephotovoltaics(PV)itselfisontracktobecomethedominant
+energyg

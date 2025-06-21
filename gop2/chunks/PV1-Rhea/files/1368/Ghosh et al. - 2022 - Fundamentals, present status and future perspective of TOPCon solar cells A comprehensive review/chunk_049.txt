@@ -1,0 +1,3 @@
+istivities of 1, 5and 10 -cm. Solar cells featuring all these variations demonstrated a conversion efficiency of about 25%. However, significant degradation in FF and pseudo-FF (PFF) was observed for the increment of the base resistivity. Quokka simula
+-
+tion study revealed that this reduction of FF may be caused due to the increment of Shockley-Read-Hall recombination losses in c-Si bulk. Simulation study also confirmed that the concentration of impurities in c-Si bulk is strongly dependent on

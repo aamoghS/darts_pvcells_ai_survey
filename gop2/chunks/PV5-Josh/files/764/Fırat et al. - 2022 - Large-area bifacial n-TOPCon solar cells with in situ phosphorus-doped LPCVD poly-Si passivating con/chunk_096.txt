@@ -1,0 +1,11 @@
+ The findings of the solar cell development thus reveal that the use of a sufficiently thick poly-Si film and a polished rear surface morphology are key for enabling high efficiencies. For further increasing the 
+
+, two strategies seem plausible: (i) reducing the total J
+0 
+and thus improving the V
+oc 
+of the devices by enhancing the passivation of the front surface and by passivating the front contacts as the high J
+0,p,f 
+and J
+0,m,f 
+in Fig. 5 suggest, and (ii) improving the relatively low E

@@ -1,0 +1,23 @@
+es due to the reduced degree of dopant diffusion from nc-SiO
+x 
+to the c-Si wafer owing to the thicker SiO
+2 
+layer [27]. The structural analyses of such nc-SiO
+x 
+layers using Raman spectroscopy are shown in Fig. 3a and b. Crystalline volume factor (X
+c
+) as shown in Fig. 3c was derived from the data using the relation X
+c 
+=I
+518,519
+/(
+I518,519 
++I
+480
+), in which I
+518, 519 
+and I
+480 
+are the integrated areas extracted from Gaussian fitting at 518, 519 and 480 cm
+�1
+, respectively. We can

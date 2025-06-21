@@ -1,0 +1,7 @@
+foraseparationoftunnelcurrentsanddirectcurrentflow.Whileforsampleswithlowannealingtemper-
+ature(800C)andintactSiO2layer,tunnelcurrentshavetobeconsid-eredtodescribethemeasurement;forsamplesannealedathigher
+TABLE1
+CalibratedIVparametersofrecordlaboratoryTOPConcells
+(A=4cm2)withfrontorrearjunctiononn-typeandp-typesilicon
+50
+ConfigurationVoc(mV)Jsc(mAcm2)FF(%)η(%)Frontjunction,1cm,n-type724.142.8783.125.8Rearjunction,1cm,p-type732.342.0584.326.0Abbreviation:TOPcon,tunneloxidepassivatedcontacts.

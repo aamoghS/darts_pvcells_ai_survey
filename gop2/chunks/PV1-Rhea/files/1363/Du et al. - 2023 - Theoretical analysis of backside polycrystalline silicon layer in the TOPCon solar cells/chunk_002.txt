@@ -1,0 +1,3 @@
+ poly-Si layer. We found that different crystallization rates or doping of germanium, carbon and other elements in poly-Si can change the band gap of poly-Si, which has an impact on the efficiency (E
+ff
+) of TOPCon solar cells. Therefore, the appropriate band gap is particularly important. At the same time, the internal defect of poly-Si also have great influence on the performance of solar cells. The simulated band diagram, charge carrier concentration and recombination rate were used to deeply

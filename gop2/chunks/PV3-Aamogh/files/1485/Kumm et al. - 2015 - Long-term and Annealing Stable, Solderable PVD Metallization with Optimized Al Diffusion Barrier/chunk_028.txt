@@ -1,0 +1,3 @@
+ing Al. As Al
+2O3
+ is known to be a very efficient diffusion barrier against Al, this stuffed TiN is a more efficient diffusion barrier than pure TiN [8]. We introduce this concept to the TiN layer in our metallization scheme (see Fig. 1) by interrupting the deposition sequence after sputtering the TiN layer. The samples are unloaded and exposed to atmosphere (‘atmospheric stuffing’) before Ti and Ag layers are added in a second deposition process. To evaluate the barrier quality of the stuf

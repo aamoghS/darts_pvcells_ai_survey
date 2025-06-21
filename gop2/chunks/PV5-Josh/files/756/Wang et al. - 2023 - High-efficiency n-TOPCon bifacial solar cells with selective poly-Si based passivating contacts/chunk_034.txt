@@ -1,0 +1,10 @@
+ 1800 860 66.8 2.0 – 10.0 – 880 56.3 1.7 – 7..0 – 900 50.3 1.4 – 4.9 – 905 49.9 1.3 – 9.0 – (iii)：Influence of a-Si layer thickness 30 nm 5 5 600 15 500 30 790 Adjusti-ng P diffusi-on process 900 163.8 2.7 – 13.7 – The influence of n
++
+-poly-Si layer is about 0.0093 mA/cm
+2 
+per nm. 50 nm 20 50 115.5 2.3 – 5.0 – 70 nm 24 70 81.3 1.9 – 5.5 – 90 nm 32 90 62.2 0.9 – 5.6 – 110 nm 40 110 55.6 0.9 – 5.2 – 
+t
+oxidation
+: post-oxidation duration. t
+pressure
+: consta

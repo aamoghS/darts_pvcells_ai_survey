@@ -1,0 +1,16 @@
+ where the interplay of boron and oxygen concentrations imposes an upper boundary on the minority carrier lifetime. This upper limit emerges due to the prevalence of the boron-oxygen (BO) defect complex [13], whose characteristics govern this restriction. Notably, the electron lifetime (
+
+n0
+) was observed to exhibit an empirical dependency on boron concentration (N
+A
+) and ox
+-
+ygen interstitial concentration (O
+i
+), with the relationship articulated as follows: 
+
+n0
+=7.675×10
+39
+N
+�0.824A

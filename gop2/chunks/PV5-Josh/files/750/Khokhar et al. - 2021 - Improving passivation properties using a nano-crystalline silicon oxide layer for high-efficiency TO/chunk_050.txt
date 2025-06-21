@@ -1,0 +1,22 @@
+imate the passivation quality of the resulting wafer surface. Fig. 6(c) shows the effective minority carrier lifetime data of the initial passivated wafer with various thicknesses of the nc-SiO
+x 
+layer which exposed to post-deposition annealing (PDA) at 950 
+◦
+C. 3.3.Analysis of SiO
+x
+/nc-SiO
+x 
+contact passivation properties (J
+o 
+and 
+
+) and (D
+it 
+and i-V
+oc
+) To examine the passivated contact characteristics at the minimum J
+o 
+value, we first identified low 
+
+contact 
+values, which per

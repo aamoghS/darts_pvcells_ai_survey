@@ -1,0 +1,13 @@
+ removal but a more concentrated HF/HNO
+3 
+mixture. In more detail, the volume concentrations of 49% HF and 70% HNO
+3 
+in the polishing so
+-
+lution were 20% and 80%, respectively. The wafer speed was 1.5 m/ min, identical to the emitter removal process, but the process temper
+-
+ature was slightly higher, at 12 
+◦
+C. The polishing process was applied a single time to each wafer, which removes ~6 
+
+m of Si and yields a flatter rear surface, which, however, does not correspond to a mirror-polish

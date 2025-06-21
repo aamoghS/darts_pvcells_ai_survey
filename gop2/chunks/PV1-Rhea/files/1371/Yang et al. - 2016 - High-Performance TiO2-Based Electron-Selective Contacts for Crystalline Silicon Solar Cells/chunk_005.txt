@@ -1,0 +1,7 @@
+ar cells, there are some intrinsic challenges such as thermal instability 
+and parasitic photon absorption of a-Si:H ﬁ lms, complicated deposition process, and high fabrication cost. Moreover, the 
+doped a-Si:H layers are deposited by plasma-enhanced chemical 
+vapor deposition (PECVD), which is a capital-intensive system 
+with mandatory safety systems because of the pyrophoric silane 
+and toxic boron/phosphorous gas precursors employed. There-
+fore, it is essential to develop high quality CSCs

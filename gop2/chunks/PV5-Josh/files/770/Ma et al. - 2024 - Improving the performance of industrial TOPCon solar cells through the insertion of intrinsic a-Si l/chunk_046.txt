@@ -1,0 +1,3 @@
+. This could be attributed to the few phosphorus atoms diffused to the Si substrate with the increased thickness of a-Si (i), which aligned well with the ECV re
+-
+sults. As the thicknesses of a-Si (i) further increased to more than 20 nm, the passivation performance began to slightly decrease, revealing the best result was acquired at the thicknesses of 20 nm. This might be related to the blistering phenomenon of poly-Si film as shown in Fig. 3. In Fig. 4(d), the contact performance of TOPCon so

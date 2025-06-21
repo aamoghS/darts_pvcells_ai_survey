@@ -1,0 +1,5 @@
+er recombination, decreased contact recombination, and lower contact resistivity [12,18,31,32]. When the B emitter is formed in the solar cell with reduced doping concentration, it results in diminished Auger recombination and improved solar cell characteristics, particu
+-
+larly the short circuit current density (J
+sc
+) and FF. Voc is mainly affected by the doping concentration of bulk Si and pn junction(p+/n). However, in this study, the sheet resistivity of p+/n layer is 108.69 /, which is s

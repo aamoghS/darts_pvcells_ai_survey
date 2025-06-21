@@ -1,0 +1,10 @@
+on b) module’s maximum power (p
+max
+), c) module’s open circuit voltage (V
+oc
+), and d) module’s short circuit current (I
+sc
+). Adapted from Ref. Virtuani et al., [124]. 
+M.A. Fazal and S. Rubaiee                                                                                                                                                                                                                   
+order of cell technologies in terms of temperature coefficients is TF-Si (�0.48%/
+�

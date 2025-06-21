@@ -1,0 +1,12 @@
+der various shadow  situations21. Soware-implemented research is also one of the approaches used to analyze PV modules under shading. Several methodologies have been identied in recent research such as articial neural networking to recognize the short circuit types of faults 
+                             
+(
+a
+)
+                                                                      
+(
+b
+)
+Fig. 3.  IV characteristics of a module (a) Uniformly illuminated (b) Partially shaded.
+5
+Scientific Repo

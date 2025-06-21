@@ -1,0 +1,3 @@
+g contact inherently a two-step process [2]. By contrast, an alter
+-
+native approach based on in situ doping can allow producing the entire passivating contact in a single step, offering the possibility of leaner fabrication. Device integration of poly-Si passivating contacts fabricated by the standard industrial approach based on LPCVD and ex situ P-doping has been the focus of a plethora of studies [2,5,10,11]. As a result, the impact of various n-TOPCon solar cell design parameters on the ex 

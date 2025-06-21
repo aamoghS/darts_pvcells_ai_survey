@@ -1,0 +1,5 @@
+the quality of the HfO2-Silicon interface, interface traps, and the impact of HfO2 on carrier mobility and lifetime are analyzed in detail (Fig. 5). The color coding corresponds to different materials, as explained in the legend, indicating the presence and order of various materials such as silicon nitride (SiN
+4
+), polysilicon, silicon (Si), HfO
+2
+, silver, and aluminum. These diagrams are critical for visualizing the design and understanding how each layer contributes to the cell’s function

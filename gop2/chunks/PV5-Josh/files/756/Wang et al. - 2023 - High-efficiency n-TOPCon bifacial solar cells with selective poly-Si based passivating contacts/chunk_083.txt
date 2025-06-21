@@ -1,0 +1,22 @@
+bance current loss density of n
++
+-poly-Si layer according to Eq. (3). The saturation current density of the bulk material (J
+0,bulk
+) was estimated to be 5 fA/cm
+2
+. The cell V
+oc 
+and FF values were calculated from J
+0,total 
+and 
+
+c 
+using an ideal one-diode model,the data related to B- SE simulation came from the previous studies [7] and the cell efficiency values were calculated by formula E
+ff 
+=V
+oc 
+×J
+sc 
+×FF, the results are shown in Table 4. The Poly-SE with a n
++
+-poly-Si layer of

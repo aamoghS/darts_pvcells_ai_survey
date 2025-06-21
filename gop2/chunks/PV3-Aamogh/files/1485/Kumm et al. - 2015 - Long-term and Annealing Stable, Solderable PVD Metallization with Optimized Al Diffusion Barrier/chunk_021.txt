@@ -1,0 +1,4 @@
+The passivation on the rear side is locally opened by laser ablation. Then the rear side is metallized with one of three PVD metallization schemes listed in Table 1 and forming gas annealed to improve the contact resistance. Finally, the cell efficiency is measured.   Table 1: PVD metallization schemes applied on n-type PERT solar cells to evaluate influence on cell efficiency  Group # cells Metallization scheme 
+I
+II - Stack 1 11 2 μm Al / 100 nm TiN / 20 nm Ti / 150 nm Ag 
+III - Stack 2 10 2 

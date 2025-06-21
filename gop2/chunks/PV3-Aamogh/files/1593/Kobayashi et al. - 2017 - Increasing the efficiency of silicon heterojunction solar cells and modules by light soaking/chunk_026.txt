@@ -1,0 +1,2 @@
+dSHJsolarcellsusingLSunderopen-circuitconditionswithtwodif-ferentlightincidentdirections,onefromthea-Si:H(p)side,theotherfromthea-Si:H(n)side(samplesetAandB,respectively,seealsoFig.1).Inthisgraph,t1-sunisthe1-sunLStime.TheaveragedinitialE.Kobayashietal.Solar Energy Materials and Solar Cells 173 (2017) 43–4944
+valuesofηofsamplesetAandsamplesetBwere21.8%and21.9%,respectively.Averysimilarabsolutegainofabout0.3%wasobservedduringLSinbothcongurations,mainlydrivenbyincreasingVocandFFvalues.Itiswell

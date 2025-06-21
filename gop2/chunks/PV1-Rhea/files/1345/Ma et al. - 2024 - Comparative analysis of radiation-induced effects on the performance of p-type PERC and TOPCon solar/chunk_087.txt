@@ -1,0 +1,5 @@
+act. In scenarios where an effective defect recovery mechanism or a robust cover glass is lacking, substrates characterized by low doping levels proved to be more sus
+-
+ceptible to the detrimental influences of radiation-induced defects and the ensuing majority carrier removal. Within this context, TOPCon technology shows a slight advantage over PERC due to its full area contact for both minority and majority carriers. For substrates charac
+-
+terized by high doping concentrations, the EOL perfor

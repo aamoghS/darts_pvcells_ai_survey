@@ -1,0 +1,4 @@
+
+1
+Scientific Reports |        (2024) 14:21587  | https://doi.org/10.1038/s41598-024-72502-z
+Performance analysis of partially shaded high‑efficiency mono PERC/mono crystalline PV module under indoor and environmental conditionsNeha Kumari 1, Sanjay Kumar Singh 1*, Sanjay Kumar 2 & Vinay Kumar Jadoun 3*The ever‑increasing demand for sustainable energy has drawn attention towards photovoltaic efficiency and reliability. In this context, the shading and associated hotpot degradation within PV 

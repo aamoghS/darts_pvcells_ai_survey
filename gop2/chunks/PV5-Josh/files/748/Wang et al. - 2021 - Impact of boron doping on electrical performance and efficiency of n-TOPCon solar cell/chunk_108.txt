@@ -1,0 +1,22 @@
+ editing. 
+Table 4 Detailed calculation of V
+oc 
+using an ideal one-diode model from the measured values of J
+0e,passivated 
+and J
+0e,metal.  
+Processes D1 D2 D3 N1 N2 N
+max 
+(atoms/cm
+3
+) 1.15E +19 2.23E +19 2.89E +19 1.22E +19 1.49E +19 4.00E +19 1.94E +19 2.63E +19 3.14E +19 3.00E +19 2.60E +19 Junction depth (
+
+m) 0.5 0.63 0.8 0.5 0.8 1 0.5 0.85 J
+0e,metal 
+(front fingers) [fA/cm
+2
+] 828 680 645 784 826.4 342.4 550 445.4 412 645 412 699.3 660.9 445.4 J
+0e, passivated 
+(front) [fA/cm
+2
+] 18.

@@ -1,0 +1,7 @@
+cs modeling Molecular simulation [19–22] stands as a potent tool for scrutinizing the structural characteristics, properties, and physical–chemical in
+-
+teractions among nanoscale particles. In this study, molecular dynamics simulations were conducted utilizing the LAMMPS software package. The simulation employed the Tersoff [23] potential to depict the in
+-
+teractions among Si atoms, providing a commendable balance of per
+-
+formance and substantiated accuracy in simulating Si interactions. 

@@ -1,0 +1,19 @@
+nt, but also to decrease the H effusion from the SiO
+x 
+interface and from the (p) poly-Si. Moreover, the H concentration inside the (p) poly-Si layers is decreasing with higher B
+2
+H
+6 
+flow. The concentration of H remains one order of magnitude higher at SiO
+x 
+interface about 2.0 �10
+21 
+at/cm
+3 
+and inside the (p) poly-Si layer about 1.5 �10
+20 
+at/cm
+3 
+for the best condition, enhancing the implied open circuit iV
+oc 
+at 655 mV (Fig. 2a). It is known that the accumulation of H concentra

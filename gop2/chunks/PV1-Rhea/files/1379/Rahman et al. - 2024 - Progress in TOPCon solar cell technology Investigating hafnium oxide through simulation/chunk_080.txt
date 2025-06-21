@@ -1,0 +1,3 @@
+n VB and CB differentiate it from SiO2, influencing carrier transport differently [41]. The energy levels at the HfO2-silicon inter
+-
+face play a critical role in carrier recombination and transport [42]. These diagrams help us understand how passivation layers impact charge carrier behavior, band bending, and recombination mechanisms, essential for engineers and researchers to optimize solar cell designs and improve solar energy conversion efficiency (Fig. 6). The J�V (current-voltage) charac

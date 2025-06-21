@@ -1,0 +1,3 @@
+ndustrial TOPCon cells are mainly based on more expensive n-type substrates, and require integration of the boron emitter diffusion process with less industrial maturity in comparison to the phosphorous diffusion process typically used in p- PERC cells. Low pressure chemical vapour deposition (LPCVD) of a-Si layers after an in-situ grown thermal tunnel oxide is the current production- ready technology for industrial processing of TOPCon cells. Mean
+-
+while, the TOPCon process routes that are bas

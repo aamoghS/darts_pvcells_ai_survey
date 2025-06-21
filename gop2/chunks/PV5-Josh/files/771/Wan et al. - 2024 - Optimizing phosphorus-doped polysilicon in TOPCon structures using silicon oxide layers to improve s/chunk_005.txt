@@ -1,0 +1,7 @@
+intunneledSiO
+x
+layer(1.4–1.8nm),whichresultsinTOPConcontactscanachieveaverylowsurfacerecombinationcurrentdensity(J
+0
+)oflessthan1fA/cm
+2
+[5].Inaddi-tion,calculationscarriedoutbytheGermanSolarEnergyResearchInstituteinHamelinshowthatthetheoreticalefficiencylimitofTOPConcellsis28.7%[6].ThisshowsthatTOPConsolarcellshavegreatpo-tentialforincreasingtheefficiencyofphotovoltaicconversion.Consideringthecostandperformance,thepredominantpreparationmethodsintheindustrytodayareLPCVDandPECVD[7,8].Asthetech

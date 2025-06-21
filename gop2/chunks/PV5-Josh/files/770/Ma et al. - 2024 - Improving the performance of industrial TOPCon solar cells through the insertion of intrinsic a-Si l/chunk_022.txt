@@ -1,0 +1,7 @@
+introduced a-Si (i) film, revealing the blistering phe
+-
+nomenon occurs when the thickness is 30 nm and above. The active dopant profile results by electrochemical capacitance-voltage profiling (ECV) show that the in-diffusion dopant can be tailored by the intro
+-
+duced a-Si (i) layer. Passivation and contact performance of TOPCon solar cells have been investigated under different thicknesses of a-Si (i) film, and then confirmed the optimal electrical properties at the thick
+-
+ness of 20 nm. Las

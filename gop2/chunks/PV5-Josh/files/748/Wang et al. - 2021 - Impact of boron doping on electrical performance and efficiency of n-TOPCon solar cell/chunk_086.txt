@@ -1,0 +1,21 @@
+tion activity in the cell (J
+0e,total
+) was calculated by using the measured values of J
+0e,passivated 
+and J
+0e,metal 
+according to equation (1). The saturation current density of the bulk (J
+0,bulk
+) was estimated from testing, about 8 fA/cm
+2
+. The cell V
+oc 
+was calculated from J
+0e,total 
+using an ideal one-diode model and compared against the measured V
+oc
+. A detailed calculation of the total J
+0e,total 
+and comparison of the calculated and measured V
+oc 
+values are shown in Table 4. The 

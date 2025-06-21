@@ -1,0 +1,4 @@
+.518.826.2J.Schmidtetal.Solar Energy Materials and Solar Cells 187 (2018) 39–5444
+Thedetailedcalculation[64]showsthat
+=	Spµnµpn0p0n00
+(11)fortheelectronicallytransparentcasewheretherecombinationatthec-Si/metalinterfaceisstrongandisthuslimitedbytransporttowardstheinterface.Dependingonthedoping(orthebandbendinginotherstructures),theratiop0/n0easilyspans18ordersofmagnitudeandalwayscontrolstheselectivityasthemobilitiesµnforelectronsandµpforholesareofthesameorderofmagnitudeinc-Si[64].Itbecomesi

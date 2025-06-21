@@ -1,0 +1,26 @@
+ast, relatively poor result with an iV
+oc 
+of 739 mV, 
+
+eff 
+of 7.5 ms and a J
+0 
+of 2.2 fA/cm
+2 
+was obtained for carbon free samples. In the device level (active cell area =4 cm
+2
+), the best con
+-
+version efficiency was found to be as high as 24.27% (V
+oc 
+=696.4 mV, J
+sc 
+=42.11 mA/cm
+2 
+and FF =82.77%) for TOPCon solar cells featuring carbon doping poly-Si layer whereas the same was found to be 23.09% (V
+oc 
+=688.2 mV, J
+sc 
+=41.80 mA/cm
+2 
+and FF =80.28%) for the TOPCon solar cells featur

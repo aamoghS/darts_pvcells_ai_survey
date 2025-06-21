@@ -1,0 +1,9 @@
+the areas of solar cells in recent years. Due to the potential for high theoretical limit efficiency as high as 28.7% and low cost [1], TOPCon solar cells have become one of the prospective technologies in the photovoltaic (PV) market [2]. At pre
+-
+sent, the highest efficiency for n-TOPCon has achieved 26.4% on an area of 330.15 cm
+2 
+at JinkoSolar [3]. The TOPCon structure consists of an ultrathin silicon oxide (SiO
+x
+) film and an n(
++
+) doped polysilicon (poly-Si) layer, which uses the concep

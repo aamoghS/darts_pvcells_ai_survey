@@ -1,0 +1,16 @@
+ D also interprets that when heat gained by water increases by 0.00228 W, then collector efficiency will increase by 1%.   ηi = 63.75 - 0.25(V) - 0.255(Ib) + 0.00228(Qu) ------------------------------- (D) 
+586062646668707274766080100120140
+160180200
+220
+240
+ Outlet water Temperature(oC)
+ Total Heat loss from receiver (W/m)
+ Collector Efficiency(%)Receiver Temperature (oC)Outlet water Temperature(oC)Total Heat loss from receiver (W/m)5051
+525354
+55
+56
+57
+585960
+61
+Collector Efficiency(%)
+ Atul 

@@ -1,0 +1,9 @@
+ofiles (e.g. 1 ×10
+14 
+cm
+�2
+) at each acceptor concentration, thereby yielding a comparable V
+oc 
+response. The dopant compensation (majority carrier removal) is directly proportional to the magnitude of electron fluence. Consequently, substrate resistivity changed as a function of electron fluence with a relatively higher impact for lightly doped substrates. In comparison to the p-TOPCon configu
+-
+ration, the PERC cell has a higher series resistance, as the majority carriers must diffuse la

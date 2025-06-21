@@ -1,0 +1,11 @@
+
+�3 
+for both configurations. Three discrete electron fluence levels, namely 1 ×10
+14
+, 5 ×10
+14 
+and 1 ×10
+15 
+cm
+�2
+, were examined. Within an LEO environment, these fluence values correspond approximately to anticipated operational periods of around one, five, and ten years, respectively. As depicted in Fig. 8, the EOL efficiency of both cell types exhibited a marked reduction with decreasing substrate acceptor doping levels, with the effect being more pronounced in the case of the PER

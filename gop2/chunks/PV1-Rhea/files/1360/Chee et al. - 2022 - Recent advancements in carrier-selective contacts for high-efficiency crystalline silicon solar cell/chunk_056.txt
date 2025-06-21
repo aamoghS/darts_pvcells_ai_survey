@@ -1,0 +1,14 @@
+tures/technologies. A is active area and t
+n 
+(t
+p
+) is the n-(p-)type c-Si wafer thickness. FF is fill factor and PCE is power conversion efficiency.  
+Technology features and passivating scheme/materials Wafer doping type and thickness Performance levels Ref. Top/rear a-Si:H(i) passivation, with front side dielectric antireflective layer, and a-Si: H(n/p) rear side contact layers, A=180cm
+2 
+cell (IBC-HIT) n-type; 165µm V
+oc
+=0.744V, J
+sc
+=42.3mA/cm
+2
+, FF=83.8, PCE=26.3% [12] Top/rear a-Si:H

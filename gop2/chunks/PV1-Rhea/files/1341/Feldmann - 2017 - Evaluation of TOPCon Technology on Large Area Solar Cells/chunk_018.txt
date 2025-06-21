@@ -1,0 +1,42 @@
+1%
+abs
+ 
+can be 
+attributed to 
+the grid resistance.
+ 
+This is supported by the 
+measurement of the grid resistance (busbar to busbar) which 
+revealed a resistance of 80
+ 
+mΩ, amounting to approx. one third 
+of 
+R
+S
+.
+ 
+The 
+J
+sc
+ 
+was 40.8
+ 
+mA/cm².
+ 
+Due to a metal coverage of ~2%, 
+the main 
+J
+sc
+ 
+loss can be attributed to shading by the front metal 
+grid.
+ 
+The influence of ghost plating was present but 
+is
+ 
+yet to be 
+quantified.
+ 
+In total an efficiency of 22.9% was measured. 
+Fig.
+ 

@@ -1,0 +1,14 @@
+as the J
+0, metal 
+test. The Ag paste was then exposed to fire in an industrial belt-firing furnace at a peak firing tem
+-
+perature of 735 ±5 
+◦
+C with the finger side facing up. The J
+0,metal 
+values for the different metallization fractions f were calculated by the Weixin PL system (VS-6841A-210). Meanwhile, the contact resistivity (
+
+c
+) was obtained from the H patterns (16 busbar (BB) - 142 fingers) printed on one side of the J
+0 
+sample of 0.8–1  cm n-type Cz–Si wafers. Fig. S1 sho

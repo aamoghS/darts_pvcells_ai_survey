@@ -1,0 +1,10 @@
+TOPCon solar cells with in situ P-doped LPCVD poly-Si films has been limited due to challenges arising from combining LPCVD with in situ P-doping, which has made ex situ doping the preference of the PV industry so far [23–25]. The main challenge is to achieve a high active doping level (N
+D, act
+) in the deposited Si film, which is needed for obtaining low J
+0 
+and 
+
+c
+, together with a high deposition rate (r
+dep
+) and thus throughput, as P-containing precursors slow down the Si film growth 

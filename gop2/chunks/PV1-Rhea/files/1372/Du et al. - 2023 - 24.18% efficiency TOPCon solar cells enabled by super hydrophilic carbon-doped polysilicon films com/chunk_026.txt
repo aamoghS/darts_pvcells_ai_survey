@@ -1,0 +1,3 @@
+ R values was first investigated by measuring the contact angles of the distilled water droplets. For the C-free sample (i.e., R =0), the distilled water droplets were difficult to spread, suggesting a high surface tension in the C-free polysilicon film. As a result, a large contact angle of 84 ±3
+◦
+was obtained as shown in Fig. 1(a). With the incorporation of C atoms, the wettability of the polysilicon films was significantly improved with the corresponding water contact angles decreasing as

@@ -1,0 +1,26 @@
+◦
+C/880 
+◦
+C/900 
+◦
+C/920 
+◦
+C/940 
+◦
+C) on the passivation quality were explored. Four-probe tester (Four Dimensions, Inc, 280SI) was used for studying the function between the sheet resistance (R
+sh
+) and N
+2
+O/Ar gas flow ratios and annealing temperatures on the SiO
+x
+/ poly-Si(n
++
+) structure, as shown in Fig. 1 (b). For the measurement of minority lifetime (
+
+), implied open circuit voltage (iV
+oc
+) and single side saturated recombination current density (J
+0
+), The SiO
+x
+/poly-S

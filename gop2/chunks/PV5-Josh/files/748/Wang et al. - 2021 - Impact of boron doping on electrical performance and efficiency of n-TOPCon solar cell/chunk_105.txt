@@ -1,0 +1,14 @@
+les satisfy the conditions of corroded depth and 
+
+c 
+of the Ag/Al paste, a balance between the peak concentration and junction depth must be found for obtaining a good V
+oc 
+and FF. The optimization of B-diffusion processes (the peak concentration of 1–1.5 ×10
+19 
+atoms/cm
+3
+, junction depth of 0.75–1.0 
+
+m) and front passivation could improve the efficiency and opticalproperties of the solar cells. Meanwhile, B-selective emitters with low emitter recombi
+-
+nation, low contact resistance

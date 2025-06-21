@@ -1,0 +1,3 @@
+energyatlasforPakistan;wind,solarandcooling.RenewableSustainableEnergyRev.2018;97:14-27.20.LudinNA,MustafaNI,HanafiahMM,etal.Prospectsoflifecycleassessmentofrenewableenergyfromsolarphotovoltaic
+technologies:areview.RenewableSustainableEnergyRev.2018;96:11-28.21.StambouliAB,KhiatZ,FlaziS,KitamuraY.AreviewontherenewableenergydevelopmentinAlgeria:currentperspec-
+tive,energyscenarioandsustainabilityissues.RenewableSus-tainableEnergyRev.2012;16(7):4445-4460.22.LotfiR,KargarB,HoseiniSH,NazariS,SafaviS

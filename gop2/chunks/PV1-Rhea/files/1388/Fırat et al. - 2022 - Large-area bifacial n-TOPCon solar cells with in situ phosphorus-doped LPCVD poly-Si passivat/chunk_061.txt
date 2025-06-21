@@ -1,0 +1,6 @@
+ half width: 10-35 µm; Shading width: 6.5-19.5 µm; Front unit cell width: 250-1125 µm; Rear unit cell width: 100-700 µm 
+4 BSF: 38-76 Ω/□, 150-75 nm deep; Fixed Z: 12.82-16.72 
+5 Transmission for DARC: Calculated with OPAL 2 (PV Lighthouse optical simulator) for 50 nm SiNx & 90 nm SiOx 
+6 Advanced emitter: 130 Ω/□, 2 µm depth, 94% collection efficiency Front side non-contacted region: J0,E = 16 fA/cm2 
+7 Front side contacted region: J0,E = 50-632.2 fA/cm2 
+8 Front side non-contacted r

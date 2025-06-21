@@ -1,0 +1,7 @@
+r cell incorporating an in situ doped LPCVD- based poly-Si passivating contact, according to our knowledge [25]. Moreover, the achieved 
+ 
+is also on par with the highest certified 
+ 
+of 23.06% obtained in our group using the conventional ex situ doped 
+Fig. 6.Scanning electron microscopy (SEM) images of a) a fully textured, b) the semi-textured, and c) the polished rear surface morphology.  
+Table 4 I–V parameters of n-TOPCon solar cells with 150 nm thick poly-Si in the passivating contact 

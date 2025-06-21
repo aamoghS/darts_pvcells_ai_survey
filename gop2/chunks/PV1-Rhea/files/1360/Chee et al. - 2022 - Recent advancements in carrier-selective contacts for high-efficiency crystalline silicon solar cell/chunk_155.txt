@@ -1,0 +1,13 @@
+ their study, Ali et al. [148] reported minimal 
+
+c 
+using MoO
+x
+/Al-based front metal grid contacts for ITO-free technol
+-
+ogies. Excellent ohmic contacts were realized with great resilience to degradation effects after low-temperature annealing. Compared to ITO/MoO
+x
+/a-Si:H(i) contacts, the annealing temperature effects on MoO
+x
+/Al contacts were striking. Nonetheless, a potentially high degree of manufacturability of c-Si solar cells has recently been illustrated using 
+K.-W.A. Chee et al. 

@@ -1,0 +1,4 @@
+es
+) value gets increased. This resulted in obtaining lower FF. However, too much transportation of charge carriers through pinholes resulted in lowering down the cell performance. Therefore, an optimized pinhole density and pinhole size may feature an improved cell performance, the process of which is a subject of further research. 6.2.Poly-Si layer Apart from ultra-thin SiO
+x 
+tunnelling layer, doped poly Si layer also plays a significant role in the passivating quality of TOPCon structure. Th

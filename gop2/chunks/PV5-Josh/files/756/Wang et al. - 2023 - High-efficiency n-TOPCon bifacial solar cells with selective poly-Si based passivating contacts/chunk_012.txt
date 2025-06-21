@@ -1,0 +1,6 @@
+ge density, which further results in obtaining high J
+0 
+and 
+
+c 
+values [6,7]. Many efforts and processes have resolved these problems, such as optimizing process parameters [8,9] and boron-doped silicon paste [10]. Selective emitter (SE) technology is an industry-relevant promising strategy which features a lightly doped emitter in the passivated region and a heavily doped emitter underneath the metal fingers, which of high doping concentration and deep depth can effectively reduce interfacia

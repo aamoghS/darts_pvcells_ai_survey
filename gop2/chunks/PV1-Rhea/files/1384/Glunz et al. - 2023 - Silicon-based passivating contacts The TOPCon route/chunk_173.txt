@@ -1,0 +1,7 @@
+e/silicontandemsolar
+cells.IEEEJPhotovolt.2021;11(6):1-8.
+https://doi.org/10.1109/JPHOTOV.2021.3101177
+115.HaugF-J,MorissetA,WyssP,etal.Passivatingpolysiliconrecombi-nationjunctionsforcrystallinesiliconsolarcells.Phys.StatusSolidiRRL.2021;15(9):2100272.
+https://doi.org/10.1002/pssr.202100272
+116.TutschL,FeldmannF,PolzinJ,etal.Implementingtransparentcon-ductingoxidesbyDCsputteringonultrathinSiOx/poly-Sipassivat-ingcontacts.SolEnergyMaterSolCells.2019;200:109960.
+https://doi.org/10.1016/j.solmat.2

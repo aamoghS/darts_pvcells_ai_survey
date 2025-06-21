@@ -1,0 +1,11 @@
+ of the n
+++
+-poly-Si layer sample with different metallization fractions is shown in Fig. 12a and the values of J
+0,metal,n++
+≈73.8 fA/cm
+2 
+are displayed in Fig. 12b based on a simple linear interpolation of the measured data points calculated by the previous research method [35]. We simulated one batch of BKM (best known method, 110 nm) solar cells and Poly-SEs with different n
++
+-poly-Si layers on n
+++
+-poly-Si layer (110 nm) using Griddler 2.5, and the total saturation current density in 

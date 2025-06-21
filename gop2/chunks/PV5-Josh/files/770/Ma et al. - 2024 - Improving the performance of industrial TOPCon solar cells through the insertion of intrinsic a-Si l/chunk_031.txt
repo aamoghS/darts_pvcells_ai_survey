@@ -1,0 +1,5 @@
+ by Halm 3600 under standard test conditions (AM 1.5G spectrum, 25 
+◦
+C). 3.Results and discussion In this study, we have introduced the a-Si (i) film as a barrier layer situated between SiO
+x
+/a-Si (n) layers. The main purpose of this addition is to retard the diffusion of phosphorus into the Si substrate, mitigating the recombination loss that arises from excessive phosphorus diffusion during the annealing process, as previously reported [39]. While the tunneling oxide also contributes to pr

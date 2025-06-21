@@ -1,0 +1,13 @@
+er 1000-h DH85 testing.  
+X. Wu et al.                                                                                                                                                                                                                                      
+JSIM modules experienced only a ~2.1%
+rel 
+decrease in maximum power (P
+max
+), whereas baseline modules encountered a more substantial ~7.3%
+rel 
+reduction in PCE. The reduction in short-circuit current (I
+sc
+) was ~1.2%
+rel 
+for J

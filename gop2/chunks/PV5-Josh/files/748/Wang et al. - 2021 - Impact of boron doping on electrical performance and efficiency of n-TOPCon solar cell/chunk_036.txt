@@ -1,0 +1,19 @@
+ of the BCl
+3 
+diffusion processes, because the solubility of B is higher in silicon oxide than in silicon (Grove et al., 1964). Different junction depths are determined at a dopant concentration of N =10
+16 
+atoms/cm
+3
+. In this study, we con
+-
+ducted two types of experiments, whose specifications are as shown in Table 1. In the first type, we varied the peak concentration under a constant junction depth: 1) emitter type D1 [d
+1 
+≈0.5 
+
+m (N
+max 
+≈1.15 / 2.23 / 2.89 ×10
+19 
+atoms/cm
+3
+)],

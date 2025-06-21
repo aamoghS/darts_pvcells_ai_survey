@@ -1,0 +1,4 @@
+hermaltreatment.Thecellefficiencyηinthistestbatchislimitedbythreeaspects,whicharenotrelatedtotheSiTJ:theplanarsurfaceofthec-Si
+absorber,limitingtheshort-circuitcurrentdensityJscto≈32.0mAcm2(notshown),theTCO/poly-Si(p+)contactresistance[
+116
+],andthelowpseudofillfactorpFF<80%.Thelatterismainlycausedbytheso-calleddarkemittereffect,sincethepoly-Si(p+)area—andthustheemitter—waslargerthantheilluminatedarea.Duetononnegligiblelateralconductivityinthe35-nm-thickpoly-Si(p+)layer,thecellsareconnec

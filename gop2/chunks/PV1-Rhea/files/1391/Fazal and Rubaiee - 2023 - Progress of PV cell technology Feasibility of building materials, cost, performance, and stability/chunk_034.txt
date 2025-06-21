@@ -1,0 +1,3 @@
+ increase efficiency further [32]. Fig. 2 illustrates the cell structure of traditional c-Si, PERC, and SHJ. A traditional c-Si cell as shown in Fig. 2(a) has a PN-junction consisting of p- and n-doped layers. At the back of the PERC cells presented in Fig. 2 (b), there is an additional passivation layer for capturing more sunlight and making PERC more efficient in producing electricity. The silicon nitride (SiN
+x
+) layer on top of a PN-junction in PERC serves as an anti- reflecting coating to r

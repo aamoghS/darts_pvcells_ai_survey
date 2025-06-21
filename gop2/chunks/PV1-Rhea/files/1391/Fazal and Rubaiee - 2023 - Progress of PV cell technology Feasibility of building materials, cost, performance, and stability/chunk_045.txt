@@ -1,0 +1,5 @@
+. Like PERC, the TOPCon [24,66] and HJS [58] in the upcoming two/three years are expected to be in mainstream PV technology as these technologies show a clear edge in cost control, raw materials availability, easy processing sequence, high-efficiency poten
+-
+tial and market share. The energy yield performances of SHJ and TOP
+-
+Con modules in 2022 are experimentally observed to be respectively 8.79% and 5.55% higher than that of PERC modules [67]. As per the market estimation performed by ITRPV (

@@ -1,0 +1,3 @@
+. The energy price of wind, gas, and coal in 2009 was reduced by 69.63%, 32.53%, and 1.8% as compared to those in 2009. Among all energy sources, PV has demonstrated the most potential energy tech
+-
+nology in recent times due to its lowest energy price (40 USD/MWh) and highest cost reduction (89%) with time. Many researchers [122,123] conducted simulation and experimentations to identify the technical and cost-effective configuration for different PV technologies. In most cases, c-Si PV is repor

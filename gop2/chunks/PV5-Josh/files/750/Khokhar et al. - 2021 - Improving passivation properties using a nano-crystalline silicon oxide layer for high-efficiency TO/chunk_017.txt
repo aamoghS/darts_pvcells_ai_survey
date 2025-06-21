@@ -1,0 +1,5 @@
+ were consecutively cleaned by employing the standard RCA-1 and RCA-2 cleaning processes to remove organic and metallic impu
+-
+rities [25]. Afterward, the samples were dipped in HCl solution and then in HF solution for 2 min each. Finally, the deionized water was used for the cleaning of samples. The cleaned samples were immediately placed in a thermal oxide furnace. The thermally growth of a SiO
+2 
+tunnel layer with a thickness of approximately 1.5 nm on the front and back sides of the cleaned 

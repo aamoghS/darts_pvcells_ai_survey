@@ -1,0 +1,22 @@
+esign concepts Commonplace in industry is the textured front surface of a boron- diffused p
++
+emitter passivated using an Al
+2
+O
+3
+/SiN
+x 
+stack [26,41,80]. The industrially viable transparent TiO
+x 
+layer thickness in the contact layer determines the V
+oc 
+and FF through the trade-off between surface passivation and 
+
+c
+. The now-familiar thin SiO
+x 
+layer in TOPCon tech
+-
+nology was recently introduced, along with extremely-low-WF alkaline metals (in place of an n
++
+-poly-Si layer), such as M

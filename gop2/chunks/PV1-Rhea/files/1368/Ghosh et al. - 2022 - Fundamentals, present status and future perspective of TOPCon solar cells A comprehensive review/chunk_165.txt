@@ -1,0 +1,15 @@
+o undoped a-Si layers while slightly less iV
+oc 
+of 720 mV was realized when P implan
+-
+tations was made into in-situ B-doped a-Si layers [62]. In contrast, p-type passivated contacts were realized by either implanting BF
+2 
+or B into intrinsic a-Si layers. BF
+2 
+implantation provided excellent passivation quality with an iV
+oc 
+of 690 mV where as poor passivation quality was obtained for B implantations with an iV
+oc 
+of 640 mV. Improvement in the passivating quality by implanting BF
+2 
+instead

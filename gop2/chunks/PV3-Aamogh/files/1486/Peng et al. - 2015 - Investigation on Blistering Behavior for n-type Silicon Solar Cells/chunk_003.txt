@@ -1,0 +1,13 @@
+yer, the amount of hydrogen out-diffusing towards the SiN
+X
+ ARC layer after firing can be reduced to achieve blistering free silicon solar cells. 
+ 
+© 2015 The Authors. Published by Elsevier Ltd. 
+Peer review by the scientific conference committee of SiliconPV 2015 under responsibility of PSE AG. Keywords: blistering; passivation; Al
+2O3
+; slianol; diffusivity; n-type silicon solar cells 
+1.
+ 
+Introduction Al
+2O3
+ films are often used in n-type silicon solar cells for passivation of p+ doped s

@@ -1,0 +1,7 @@
+ at the front and rear surfaces as an anti-reflective and conductive coating. A low temperature post annealing step is widely used to recover from the ITO sputtering damage [12,33,34]. In this study, a low temperature post annealing is performed at 160 
+�
+C for 2 h. Then, the front and rear Ag contacts are deposited. The current-voltage (I–V) characteristics of the solar cells are per
+-
+formed under the standard AM 1.5G (100 mW/cm
+2
+) irradiance. The illuminated area, used for the measuremen

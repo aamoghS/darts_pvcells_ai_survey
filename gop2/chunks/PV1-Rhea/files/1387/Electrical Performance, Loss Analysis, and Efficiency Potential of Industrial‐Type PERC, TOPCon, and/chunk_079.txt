@@ -1,0 +1,11 @@
+r SHJ and TOPCon cells also exhibited a poor response at the wavelength of < 1000 nm, which is at-tributed to the parasitic absorption of a- Si:H/nc- SiOx:H(p+) and SiOx/n+- poly- Si layer.
+FIGURE     |    The J0 loss percentage for PERC, TOPCon, and SHJ cells.
+FIGURE     |    iVoc (A) and effective carrier lifetime (B) of PERC, TOPCon, and SHJ structure cells.
+715.8
+736.7
+749.8
+PERCTOPConSHJ710720730740750760iVoc[mV](A)
+225.0
+1264.5
+2796.7
+PERCTOPConSHJ050010001500200025003000Effectivecarrier

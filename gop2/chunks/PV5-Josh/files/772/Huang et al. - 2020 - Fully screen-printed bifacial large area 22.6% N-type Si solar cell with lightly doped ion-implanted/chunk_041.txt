@@ -1,0 +1,13 @@
+onent and interface recombination velocity of each region. Results indicated that the metallized J
+0 
+of the lightly doped B emitter (J
+0e 
+¼~31 fA/cm
+2
+) and ~1 ms bulk lifetime wafer (J
+0_bulk 
+¼22 fA/cm
+2
+) limited the voltage to 702 mV and cell efficiency to 22.6%. Model cal
+-
+culations also showed that a combination of B selective emitter, improved bulk lifetime and multiwire contacts on the front can raise the cell efficiency to ~24%. Declaration of competing interest The authors declare

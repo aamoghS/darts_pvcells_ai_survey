@@ -1,0 +1,3 @@
+elective Emitter Formation With Un-metallized J0e of 13fA/cm
+2 
+For Silicon Solar Cell Applications. IEEE 47th Photovoltaic Specialists Conference (PVSC). Altermatt, P.P., Schumacher, J.O., Cuevas, A., Kerr, M.J., Glunz, S.W., King, R.R., Heiser, G., Schenk, A., 2002. Numerical modeling of highly doped Si: P emitters based on Fermi-Dirac statistics and self-consistent material parameters. J. Appl. Phys. 92 (6), 3187–3197. Armand, J., Oliver, C., Semmache, B., et al., 2011. Modeling and analysi

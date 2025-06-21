@@ -1,0 +1,3 @@
+thedashedlineshowsthemeasuredEQEundershort-circuitconditionswithoutglasslters.Calculatedcurrentden-sitieswereobtainedfromthespectraloverlapbetweentheAM1.5G(1000Wm−2)spectrumandtheEQEspectraofthecellswithandwithoutlong-passlters.Withoutλcandwithλcof395nm,495nm,
+Fig.1.Schematicofthefoursiliconheterojunctionsolarcellstructuresandaprecursor(nottoscale).(a)SamplesetA:3-busbarcellwithfront-emitter.(b)SamplesetB:3-busbarcellwithrear-emitter.(c)SamplesetC:Busbarlesscellwithrear-emitter.(d)
+Samples

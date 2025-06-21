@@ -1,0 +1,4 @@
+ucture, it is inevitable that the oxide layer is burnt through by the metal. This has a significant effect on the contact resistance 
+
+c, B 
+and is very dependent on the surface topography. In the practical fabrication of TOPCon cells, it may be necessary to have backside roughness to improve metal contact, even at the expense of passivation. 3.2.Effect of back surface topography on TOPCon solar cell efficiency In the TOPCon solar cell fabrication process, edge isolation and backside morphology

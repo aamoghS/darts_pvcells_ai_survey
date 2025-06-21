@@ -1,0 +1,3 @@
+yer AR coating on front. For the quantitative study of the effect of screen-printed fire-through metallization on recombination current density of our implanted B emitter and rear n-TOPCon, the above test structures with different metal fraction on one side (Fig. 2) were measured by the PCD tester with the light flashing on the no-metal side to avoid any shading effect. In addition, specific contact resistance was measured using TLM pattern on the same samples, resulting in 2 and 4 m-cm
+2 
+valu

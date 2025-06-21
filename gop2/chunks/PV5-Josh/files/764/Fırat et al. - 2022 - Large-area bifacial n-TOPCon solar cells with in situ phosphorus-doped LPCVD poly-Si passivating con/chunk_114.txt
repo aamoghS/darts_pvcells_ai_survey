@@ -1,0 +1,3 @@
+e glass-backsheet configuration. Furthermore, for a complete study of the reliability of PV modules based on the developed n-TOPCon solar cells, further investigations such as potential induced degradation and humidity freeze tests are required and will be per
+-
+formed in the future. Further analysis of the I–V parameters of the laminates leads to a few more conclusions. First, for both laminates, the cell-to-laminate losses were found to be high, with the laminates having ~2% absolute lower 

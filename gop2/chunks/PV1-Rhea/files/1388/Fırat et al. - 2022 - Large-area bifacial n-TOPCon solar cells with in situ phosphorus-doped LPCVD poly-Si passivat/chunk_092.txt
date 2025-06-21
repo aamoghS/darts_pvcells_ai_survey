@@ -1,0 +1,4 @@
+ 
+Polished 689.5±1.1 40.3±0.1 80.2±0.3 22.3±0.1 0.6±0.1 1.1±0.1 
+Polished (Best Solar Cell) 690.2 40.4 80.4 22.4 0.6 1.1 
+  Table 4 also reveals that the flatter rear surface morphology resulting from polishing allows the fabrication of n-TOPCon solar cells which are 0.4% more efficient on average. While minor improvements are observed in Voc and FF of the solar cells with polished rear, the main reason behind the efficiency gain is clearly the 0.5 mA/cm2 increase in Jsc. Results of R and 

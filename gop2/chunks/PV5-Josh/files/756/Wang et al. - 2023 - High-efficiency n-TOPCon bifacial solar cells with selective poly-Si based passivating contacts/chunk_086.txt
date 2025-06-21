@@ -1,0 +1,19 @@
+ly-SE solar cell (n
+++
+/n
++
+layer, 50/110 nm) and normal cells (BKM, 110 nm) based on the best simulation conditions, as shown in Table 4. The mask line of the n
+++
+-poly-Si layer was relatively uniform with the 3D printing mask, the width of the mask line decreased from 180 to 150 
+
+m after polishing and RCA washing, and the mask line became smooth and clear, as shown in Fig. 13. The surface concentrations of the n
+++
+and n
++
+-poly-Si layers were 2.1 ×10
+20 
+and 1.85 ×10
+20 
+atoms/cm
+3 
+resp

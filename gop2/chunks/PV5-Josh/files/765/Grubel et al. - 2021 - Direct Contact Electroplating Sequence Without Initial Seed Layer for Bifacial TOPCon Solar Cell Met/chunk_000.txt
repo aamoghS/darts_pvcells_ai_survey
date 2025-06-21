@@ -1,0 +1,16 @@
+
+584
+IEEEJOURNALOFPHOTOVOLTAICS,VOL.11,NO.3,MAY2021
+DirectContactElectroplatingSequenceWithout
+InitialSeedLayerforBifacialTOPConSolar
+CellMetallization
+BenjaminGrübel
+,GiselaCimiotti,ChristianSchmiga,VarunArya,BerndSteinhauser
+,NorbertBay,
+MichaelPassig,DamianBrunner,MarkusGlatthaar
+,andSvenKluska
+Abstract
+Themetallizationofbifacialtunnelingoxideandpas-
+sivatingcontacts(TOPCon)solarcellswithoutinitialmetalseed
+layerbyelectroplatingofNi/Cu/Agisdemonstrated.Thepresented
+approachallowsalead-free

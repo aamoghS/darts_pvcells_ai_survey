@@ -1,0 +1,15 @@
+  
+TkEBAekTk�Ÿ���Ÿ� /0)(
+   (1) The thickness of the ‘consumed’ layer 
+tc 
+is then given by (2), 
+tTktc�Ÿ� )(2
+   (2)
+ 
+and we assume that the solder-joints fail when 
+tc
+ reaches the initial Ag layer thickness of 50 nm or 100 nm Ag respectively. From the peel-test results after ageing at 
+T
+ = 130°C, 140°C, 150°C we get values for k(T) which we plot in Fig. 2. The data of the 50 nm Ag stack is linearly fitted through the obtained interval and values for 
+k0 
+and the acti

@@ -1,0 +1,16 @@
+ SiO
+x 
+tunnelling layers demonstrated an outstanding interface passivation quality up to 900
+◦
+C annealing temperature for both planar and textured samples with an iV
+oc 
+of higher than 720 mV and 710 mV, respectively. Moldovan et al. further carried out an investigation on the dependence of the passivating quality of ultra-thin SiO
+x 
+tunnelling layer for different oxide development pro
+-
+cess such as hot nitric acid oxidation, photo-oxidation in ozonized DI-H
+2
+O (DIO
+3
+) process and UV/O
+3

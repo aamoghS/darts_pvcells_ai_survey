@@ -1,0 +1,5 @@
+inthe35-nm-thickpoly-Si(p+)layer,thecellsareconnectedtononilluminatedemitterareas(pn-junctions)actingasasinkforchargecarriers,thatis,ahighlyrecombination-activeregion.Thiseffectwasquantifiedmeasuringthe
+pFFofthesolarcellsusingtheSunsVocmethod.
+117
+Measuringwithandwithouta2.02.0-cm2maskresultedinadifferenceinpFFof≈4%abs.Forcomparison,theSunsVocmethodwasalsoperformedonsiliconheterojunction(SHJ)frontemittercellswithandwithoutmask.
+There,onlyaminordifferenceof≈0.2%abswasmeasured,whichwasmostlik

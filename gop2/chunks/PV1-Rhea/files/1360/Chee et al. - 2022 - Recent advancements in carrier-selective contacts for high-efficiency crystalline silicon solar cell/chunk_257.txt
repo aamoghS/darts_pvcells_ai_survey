@@ -1,0 +1,3 @@
+. Yin, M. Zheng, C. Ballif, Silicon heterojunction solar cell with passivated hole selective MoOx contact, Appl. Phys. Lett. 104 (2014), 113902, https://doi.org/10.1063/1.4868880. [76]J. Bullock, et al., Efficient silicon solar cells with dopant-free asymmetric heterocontacts, Nat. Energy 1 (2016) 15031, https://doi.org/10.1038/ nenergy.2015.31. [77]H. Dai, L. Yang, S. He, <50-
+
+m thin crystalline silicon heterojunction solar cells with dopant-free carrier-selective contacts, Nano Energy 64 (20

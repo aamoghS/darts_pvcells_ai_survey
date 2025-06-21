@@ -1,0 +1,9 @@
+el. Next, the samples are annealed in a furnace at 820 
+�
+C for 1 h under vacuum condition. The temperature ramps are set as low as 100 
+�
+C/h for the annealing and the cooling down to prevent blistering effect on sur
+-
+face [26,27]. 2.3.Hydrogen plasma treatment During the high-T annealing step, the hydrogen atoms effuse from the material, resulting in a poor passivation property of the poly-Si/SiO
+x 
+stack [10]. Thus, a hydrogenation step is necessary to terminate the defects such as dangl

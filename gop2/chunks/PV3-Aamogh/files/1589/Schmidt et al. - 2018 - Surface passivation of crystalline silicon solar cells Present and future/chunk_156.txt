@@ -1,0 +1,5 @@
+matt,P.J.Verlinden,22.13%ecientindustrialp-typemonoPERCsolarcell,in:Proceedingsofthe43rdIEEEPhotovoltaicSpecialistsConference.,
+Portland,USA,2016,pp.3360–3365.[22]R.R.King,R.M.Swanson,Studiesofdiusedboronemitters:saturationcurrent,bandgapnarrowing,andsurfacerecombinationvelocity,IEEETrans.Electron
+Dev.38(1991)1399–1409.[23]M.J.Kerr,Surface,EmitterandBulkRecombinationinSiliconandDevelopmentof
+SiliconNitridePassivatedSolarCells(Ph.D.thesis),AustralianNational
+University,2002.[24]J.Zhao,J.Sch

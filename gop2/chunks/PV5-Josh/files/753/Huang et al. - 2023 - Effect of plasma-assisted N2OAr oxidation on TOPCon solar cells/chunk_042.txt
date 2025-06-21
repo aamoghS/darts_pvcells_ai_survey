@@ -1,0 +1,11 @@
+ as shown in Fig. 2(a)), which leads to the decrease of its ability to prevent phosphorus diffusion [47]; (2) The decrease of O concen
+-
+tration leads to the quality of SiO
+x 
+layer decreases, as shown in Fig. 3(b), and it also may leads to the increase of defects in SiO
+x 
+film, thus reducing the blocking ability of phosphorus diffusion in SiO
+x 
+film. In Fig. 4 (b), it can be found that the sheet resistances (R
+sh
+) measured by four probes tester decreases with the increase of Ar flow. The low

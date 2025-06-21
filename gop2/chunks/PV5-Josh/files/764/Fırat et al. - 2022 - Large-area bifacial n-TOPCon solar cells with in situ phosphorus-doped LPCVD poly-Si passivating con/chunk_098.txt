@@ -1,0 +1,11 @@
+N
+x 
+and 90 nm SiO
+x 
+films on four of the best solar cells with polished rear surface. First, the best solar cell with a certified 
+ 
+of 23.01% and a high V
+oc 
+of 691.7 mV (see Fig. 10), fabricated with the industrial process in Fig. 1b), clearly demonstrates the potential of passivating contacts with in situ P-doped poly-Si films deposited by LPCVD. This result matches the highest 
+ 
+obtained in the literature with a large-area n-TOPCon solar cell incorporating an in situ doped LPCVD- based

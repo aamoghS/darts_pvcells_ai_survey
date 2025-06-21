@@ -1,0 +1,17 @@
+ mV) was noticed for a 50 
+
+m thick substrate due to lesser bulk recombination for thinner sub
+-
+strates. On the other hand, improvement in V
+oc 
+due to the increment in doping density of poly-Si layer from 10
+19 
+to 5 ×10
+21 
+cm
+�3 
+may be attributed to the restriction of minority carrier flow from the n-c-Si substrate to n
++
+poly-Si layer. However, the dependence of V
+oc 
+on poly-Si doping density was found to be pronounced only for very low rear surface recombination velocity. The authors

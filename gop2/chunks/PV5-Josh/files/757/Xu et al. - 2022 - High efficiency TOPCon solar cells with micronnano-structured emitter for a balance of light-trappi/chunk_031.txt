@@ -1,0 +1,7 @@
+electrons [27,31]. Meanwhile, the zoom-in images at cross-section view shown in Fig. 2 indicate that the surface flatness of NPP structures at the P
+RF 
+of 600 W is smoother than that of 100 W and 300 W, which is likely that the sharp and highly reactive structures formed previously were removed from the surface. To comprehensively investigate the optical properties of NPP struc
+-
+tures at different P
+RF
+, we measured the reflectance and transmittance spectra in the wavelength region of 300–11

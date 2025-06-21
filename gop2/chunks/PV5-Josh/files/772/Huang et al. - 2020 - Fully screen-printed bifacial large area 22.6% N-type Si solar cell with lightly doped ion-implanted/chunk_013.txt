@@ -1,0 +1,9 @@
+ide with a dose of 1.2e15/cm
+2 
+at 10 KeV ion energy fol
+-
+lowed by an annealing and oxidation process at high temperature (~1050 
+�
+C), which resulted in sheet resistance of 180 /. After the removal of oxide thermally grown during the implant anneal, a PECVD SiN
+x 
+was deposited on the front side as a mask to protect the emitter during back planarization and front poly-Si etching. A heated KOH treatment was used to planarize the back. After an acid clean and HF dip, a ~15 Å tunnel oxide lay

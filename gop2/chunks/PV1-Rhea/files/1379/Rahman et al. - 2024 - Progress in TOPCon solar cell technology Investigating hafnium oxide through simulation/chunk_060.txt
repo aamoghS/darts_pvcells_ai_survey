@@ -1,0 +1,3 @@
+ displays the p-type setup, where holes predominate. The dashed lines demarcate the conduction and valence bands, with the placement of the Fermi level influenced by the doping type. 
+R.U. Rahman et al.                                                                                                                                                                                                                             
+on both the top and bottom interfaces of the silicon wafer. Accurate modelin

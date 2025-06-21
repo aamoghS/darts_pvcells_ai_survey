@@ -1,0 +1,5 @@
+ as an additional RIE step and a pore-widening process. All silicon wafers were inserted in one graphite boat to form a p-type emitter using boron tribromide source, consisting of a boron trioxide deposition process and a subsequent drive-in process. Then, after etching rear borosilicate glass by HF/HNO
+3 
+mixed solution, a tunnel SiO
+x 
+film (~1.5 nm) and an intrinsic amorphous silicon layer (~140 nm) were deposited on both sides of silicon wafers in thermal oxidation method and low-pressure ch

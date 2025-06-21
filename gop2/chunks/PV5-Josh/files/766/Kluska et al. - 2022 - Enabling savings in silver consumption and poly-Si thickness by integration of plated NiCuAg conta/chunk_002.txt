@@ -1,0 +1,3 @@
+
+) is analysed and the impact of laser-induced damage during laser contact opening (LCO) is characterized. Furthermore, mitigation strategies to systematic fill factor losses are developed including laser-induced nano-roughness within the LCO to increase contact adhesion and current-annealing to improve contact resistance.   
+1.Introduction Resource availability becomes an increasingly important topic in the transition of a PV production market heading towards a multi terawatt production capacit

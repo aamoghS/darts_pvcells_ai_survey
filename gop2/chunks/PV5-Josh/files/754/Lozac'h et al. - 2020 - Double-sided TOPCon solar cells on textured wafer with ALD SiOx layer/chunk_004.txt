@@ -1,0 +1,5 @@
+elds an excellent passivation for the polished c-Si surface. However such passivation is strongly degraded for the textured surfaces [6,8]. Besides, the passivation is known to be weakened by the (p) poly-Si/SiO
+x 
+stack, compared with the (n) poly-Si/SiO
+x 
+stack for n-type Si wafer [8–18]. Therefore, the surface passivation of a textured c-Si wafer for the p-side is crucial for further development of high-efficiency TOPCon solar cells. Recent works already mention the use of front and rear T

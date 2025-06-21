@@ -1,0 +1,3 @@
+ adversely affect cell performance. The close monitoring and analysis of degradation and its remedial measures are important to enhance the service life of PV cells. 7.Future outlooks and prospects  i) Currently, tremendous research efforts are dedicated to PERC, SHJ, Si-tandem, IBC, and TOPCon to further enhance the per
+-
+formance, stability, and technology upscaling. However, the operational challenges, projected cost, and techno-economic analysis of these new technologies under the same envir

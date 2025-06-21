@@ -1,0 +1,11 @@
+11,735 14,400 900 Rear Plasma hydrogenation 50 12,000 0 0 15,000 1800 SiN
+x 
+deposition 145 9800 2200 0 15,500 1800 Plasma hydrogenation 50 16,000 0 0 15,500 1900 SiN
+x 
+deposition 180 14,000 2000 0 16,500 1900 Plasma hydrogenation 50 15,200 0 0 15,500 1900 SiN
+x 
+deposition 390 14,400 1400 0 16,500 1900  
+Fig. 2.The change of AlOx XPS results at O 1s peak caused by PO treatment (a) and the effect on iV
+oc 
+values of final sample (b).  
+Table 2 Effect of PO treatment on electrical performance of

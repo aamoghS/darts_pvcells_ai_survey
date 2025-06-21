@@ -1,0 +1,17 @@
+ECVD),usingsilane(SiH
+4
+),hydrogen(H
+2
+),andphosphine(PH
+3
+)asprecursorgases.ThislayeriscriticalforformingtheTOPConstructure.Theannealingofthen-a-Si:Hlayerat900
+◦
+CinanN
+2
+atmospherefor25mintransformsitintophosphorus-dopedpolycrystallinesilicon(n+-poly-Si)layers.TheselayersareintegraltotheelectricalpropertiesoftheTOPConcell.Furthermore,astackof8nmofAl
+2
+O
+3
+onthefrontsideand80–90nmofSiN
+x
+(viaPECVD)onthebacksideisdeposited.Theselayersserveaspassivationandanti-reflectioncoatings,significantly
