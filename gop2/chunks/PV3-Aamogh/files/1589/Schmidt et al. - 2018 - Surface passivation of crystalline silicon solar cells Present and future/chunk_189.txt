@@ -1,2 +1,0 @@
-.Photovolt.4(2014)841–850.[96]G.J.M.Janssen,M.K.Stodolny,I.G.Romijn,L.J.Geerligs,Theroleoftheoxideinthecarrierselectivityofmetal/poly-Si/oxidecontactstosiliconwafers,in:
-Proceedings33rdEurop.Photovolt.Sol.En.Conference.,Amsterdam,TheNetherlands,2017,pp.256–261.[97]K.Lancaster,S.Großer,F.Feldmann,V.Naumann,C.Hagendorf,Studyofpinholeconductivityatpassivatedcarrier-selectedcontactsofsiliconsolarcells,EnergyProcedia92(2016)116–121.[98]D.Tetzla,J.Krügener,Y.Larionova,S.Reiter,M.Turcu,R.Peibs

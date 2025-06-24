@@ -1,3 +1,0 @@
-iginally developed for the fabrication of industrial grade TOPCon solar cells based on monocrystalline CZ Si wafers [118,120]. According to the report, significant power loss of almost 4% may be occurred due to the bulk recombination losses in quasi-mono Si wafers and hence enhancement in the power conversion efficiency may be 
-Fig. 34.(a) Schematic diagram and (b) simulated structure of GaInP/Si dual-junction solar cell [145].  
-D.K. Ghosh et al.                                                 

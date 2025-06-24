@@ -1,5 +1,0 @@
-t density (J
-sc
-). However, the cost is almost twice that of conventional cells. Compared to HJT and IBC, TOPCon solar cells have a unique advantage in terms of manufacturing process, which is highly compatible with PERC cells, requiring only additional boron diffusion equipment and tunneling layer and poly-Si deposition equip
--
-ment. This greatly reduces the cost of solar cells iterations. Therefore, considerations from an economic point of view, the commercialization of TOPCon solar cells has 

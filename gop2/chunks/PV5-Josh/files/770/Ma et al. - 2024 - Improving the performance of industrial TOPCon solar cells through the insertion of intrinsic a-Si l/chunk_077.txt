@@ -1,3 +1,0 @@
- Schmidt, R. Peibst, R. Brendel, Surface passivation of crystalline silicon solar cells: present and future, Sol. Energy Mater. Sol. Cells 187 (2018) 39–54. [11]T.G. Allen, J. Bullock, X. Yang, A. Javey, S.D. Wolf, Passivating contacts for crystalline silicon solar cells, Nat. Energy 4 (2019) 914–928. [12]A.G. Aberle, S.W. Glunz, A.W. Stephens, M.A. Green, High-efficiency Silicon solar cell: Si/SiO
-2 
-interface parameters and their Impact on Device Performance, Prog. Photovoltaics Res. Appl.

@@ -1,14 +1,0 @@
-perature to increase and consequently leading to hotspot. A bypass diode is therefore needed to prevent irreversible damage to the shaded solar module. e most frequent causes of shadowing a PV module are vegetation, buildings, the build-up of dust and soil, and animal and bird waste. A shading defect caused by any of these reasons leads to a drop in generated output power. Entire PV panels in the (2)
-Pmax=Vmp∗Imp
-(3)
-FF
-=
-Pmax
-Isc∗Voc
-(4)
-η
-=
-Vmp∗Imp
-S∗Ar
-4
-Scientific Reports |        

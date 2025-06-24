@@ -1,3 +1,0 @@
-velized cost of energy; LETID, Light and elevated temperature induced degradation; MSP, Minimum sustainable price; mc-Si, Multi-crystalline silicon; NREL, National Renewable Energy Labo
--
-ratory; OSC, Organic solar cell; PVK/Si, Perovskite/silicon tandem cell; PV, Photovoltaic; PR, Performance ratio; PERC, Passivated emitter and rear cell; sc-Si, Single crystalline silicon; SHJ, Silicon heterojunction; STC, Standard test conditions; TCO, Transparent conductive oxide; TOPCon, Tunneling-oxide pass

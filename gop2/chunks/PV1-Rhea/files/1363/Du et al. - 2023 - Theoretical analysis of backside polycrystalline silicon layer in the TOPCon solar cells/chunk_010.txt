@@ -1,5 +1,0 @@
-
-Solar Energy Materials and Solar Cells 
-journal homepage: www.elsevier.com/locate/solmat 
-https://doi.org/10.1016/j.solmat.2023.112555 Received 18 July 2023; Received in revised form 31 August 2023; Accepted 8 September 2023   
-etc., so there is no light induced degradation (LID) effect in HJT [8]. The absence of an insulating layer on the surface also makes it possible to avoid the potential induced degradation (PID) effect. Currently, Liu et al. [9] have successfully developed flexible HJT so

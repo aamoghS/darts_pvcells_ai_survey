@@ -1,9 +1,0 @@
-t for antireflection. A Si nitride passivation layer (82 nm-SiN
-x
-) was deposited on the back surface using PECVD. Electrodes were created by screen printing pastes onto the front and back surfaces. The front printed pattern of the wafer corresponds to the screen pattern of the applied Si paste, while the back adheres to the standard production line’s pattern grid design. The front metal electrode with 15–––25 
-
-m width and 5–––10 
-
-m height was screen printed above the p
-++
-laye

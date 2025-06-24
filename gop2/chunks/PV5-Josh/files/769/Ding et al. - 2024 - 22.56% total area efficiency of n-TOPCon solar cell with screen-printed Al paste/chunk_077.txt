@@ -1,8 +1,0 @@
-ing technologies for silicon solar cell metallization: A comprehensive review, Prog. Photovolt. Res. Appl. 31 (2023) 557–590
-.
-[14]
-J.-T. Tsai, L.-K. Lin, S.-T. Lin, L. Stanciu, M.-B.-G. Jun, The influence of Bi2O3 glass powder in the silver paste and the impact on silicon solar cell substrates, Mater. Des. 200 (2021)
-.
-[15]
-A.A. Wereszczak, M.C. Modugno, B.R. Chen, W.M. Carty, Contact drying of printed sinterable-silver paste, IEEE Trans. Compon. Packag. Manuf. Technol. 7 (2017) 2079–2086
-.

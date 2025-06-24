@@ -1,7 +1,0 @@
-hin tunneling SiO
-x 
-layer. In addition, we combine the deposition of ultra-thin tunneling SiO
-x 
-films and doped amorphous silicon (n
-+
--a-Si) films in a single PECVD chamber. This provide a simple, fast and clean method to fabricate polysilicon passivated contacts. Meanwhile, The control of deposition time, process gas flow ratio, deposition pressure, deposition temperature and deposition RF power allow us to control the chemical composition and deposition rate of the ultra-thin tunneling SiO

@@ -1,3 +1,0 @@
-clean quartz furnace, resulting in a p +  emitter with a sheet resistance of ≈120 Ω sq −1 . An Al 2 O 3 /SiN  
-x   stack, which was deposited by plasma ALD (Al 2 O 3  ≈20 nm) and plasma enhanced chemical vapor deposition (PECVD SiN  x  , ≈50 nm), was used to passivate the front emitter. The rear TiO 2  contact was formed by depositing a TiO 2  ﬁ lm (4.5 nm) and evaporating an Al/Ag (20/2000 nm) stack. Cells featuring a 
-full-area SiO 2 /TiO 2  contact were subjected to a short therma

@@ -1,3 +1,0 @@
-cAl2O3,Appl.Phys.Lett.91(11)(2007)112107.[25]A.Richter,J.Benick,M.Hermle,BoronemitterpassivationwithAl2O3andAl2O3/SiNxstacksusingALDAl2O3,IEEEJ.Photovolt.3(1)(2013)236–245.[26]H.Steinkemper,M.Hermle,S.W.Glunz,Comprehensivesimulationstudyof
-industriallyrelevantsiliconsolarcellarchitecturesforanoptimalmaterial
-parameterchoice,Prog.Photovolt.:Res.Appl.24(10)(2016)1319–1331.[27]F.Feldmann,M.Simon,M.Bivour,C.Reichel,M.Hermle,S.W.Glunz,Ecientcarrier-selectivep-andn-contactsforSisolarcells,Sol.Ene

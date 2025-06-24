@@ -1,3 +1,0 @@
-junction. A firing-through Ag/Al paste was used to metallize the passivated p
-+
-layers. Because the paste may deteriorate the passivation ability of the stack, the samples with four different metallization fractions were screen-printed, as described in Subsection 2.1. Fig. 4a illustrates the photograph of screen-printing pattern of the sample with different metallization fractions and Fig. 4b shows the photoluminescence (PL) image of a sample after firing and removing the Ag/Al contact lines. Re

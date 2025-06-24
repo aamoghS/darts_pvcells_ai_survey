@@ -1,6 +1,0 @@
-ntonWCT-120life-
-timetester[13].Here,theimpliedopen-circuitvoltage(iVoc)atonesunisgivenasameanstoassessthesurfacepassivation
-quality.Furthermore,thePorBatomsthatdiffusedfromthepoly-
-Silayerintothec-Siweremeasuredbyelectrochemicalcapaci-
-tance-voltage(ECV)prolingstartingonthepoly-Silm.Simple22cm2sizedplanarsolarcellswerepreparedinordertoassessthecarrierselectivityofbothpoly-Sicontacts.Thesolarcell
-structureisshowninFig.1.Theabsorberisa250mmthickp-type1ΩcmFZSiwafer.Tothisend,thenþ-poly-Siand

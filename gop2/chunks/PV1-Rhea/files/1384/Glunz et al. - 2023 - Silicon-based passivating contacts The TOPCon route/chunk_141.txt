@@ -1,6 +1,0 @@
-doi.org/10.7567/JJAP.56.08MB15
-46.HermleM,FeldmannF,BivourM,GoldschmidtJC,GlunzSW.Pas-sivatingcontactsandtandemconcepts:Approachesforthehighestsilicon-basedsolarcellefficiencies.ApplPhysRev.2020;7(2):21305.
-https://doi.org/10.1063/1.5139202
-47.SchmidtJ,PeibstR,BrendelR.Surfacepassivationofcrystallinesili-consolarcells:Presentandfuture.SolEnergyMaterSolCells.2018;187:39-54.
-https://doi.org/10.1016/j.solmat.2018.06.047
-48.MelskensJ,vandeLooBWH,MaccoB,BlackLE,SmitS,KesselsWMM.Passivatingcontactsfor

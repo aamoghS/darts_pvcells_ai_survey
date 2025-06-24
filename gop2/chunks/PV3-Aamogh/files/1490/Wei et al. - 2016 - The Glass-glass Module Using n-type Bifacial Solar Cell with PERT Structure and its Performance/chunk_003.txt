@@ -1,4 +1,0 @@
-V, while the LID was about 0.19 % under the IEC standard of 60 kW·h/m2 illumination. As expected, power output gains of 15% on sand and 30% on snow were recorded 
-for the glass-glass bifacial modules compared with mono-facial modules in our outdoor experiments.  © 2016 The Authors. Published by Elsevier Ltd. 
-Peer review by the scientific conference committee of SiliconPV 2016 under responsibility of PSE AG. Keywords: n-type solar cell; PERT; bifacial; glass-glass module 
-1. Introduction The g

@@ -1,9 +1,0 @@
-tant as its calculation considers the effects of metal spikes penetrating the B- doped emitters (W¨ohrle et al., 2016). To derive a high J
-sc 
-and FF, a trade- off between the peak concentration and junction depth of the doping profile, which considers the effects of 
-
-c 
-and J
-0e
-, is inevitable (Schmidt et al., 2018). According to Fig. 9a, the ideal efficiency would be more than 23.4%, which would be possible if the peak concentration and junction depth of B-doped profile were 1–1.5 ×10
-1

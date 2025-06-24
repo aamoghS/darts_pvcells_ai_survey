@@ -1,3 +1,0 @@
-.38Then,theohmiccontactsareformedbyDCmagnetronsputteringa3.6-m-thickAgforthefrontgridanda0.7-m-thickAgfortherearcontactonthefullarea.Duringthesputtering,the
-TOPConsurfaceisheatedbythemagnetronplasma,39whichmayinducetheHeffusionfromtheinterfacialareaof(p)poly-Si/SiOx/c-Si,andcouldresultinthepassivationdegradation.Thecurrent–voltage(I–V)characteristicsofthesolarcellsareper-formedunderthestandardAM1.5G(100mW/cm2)irradiance.Theilluminatedareausedforthemeasurementoftheshort-circuitcurrent
-(Jsc)

@@ -1,7 +1,0 @@
-ll-denedexample,suchasanAl-dopedp+backsurfaceeldregion.TherecombinationofthiscontactisquantiedbyanelectrondiusionlengthLnwithinthep+regionandarecombinationvelocitySnattheAl/p+-Siinterface.Thewell-knownrecombinationcurrentparameterofthiscontactisthengivenbytheequation
-=++++++()()()()
-J
-nDLqsinhcoshcoshsinh
-,
-WLSLDWLWLSLDWL0,c0nnppppnnnnnnnnnn
-(9)wheren0istheequilibriumminority-carrierconcentrationwithintheAl-p+region,DnistheelectrondiusivityandWp+isthewidthoftheAl-p+region.Sincethecontactres

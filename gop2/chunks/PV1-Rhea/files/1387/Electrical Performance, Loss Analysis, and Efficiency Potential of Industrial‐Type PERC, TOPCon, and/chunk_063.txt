@@ -1,3 +1,0 @@
-
-TABLE     |    Preparation process of the three types of solar cell.
-Process flowchartStructurePERCTOPConSHJ1P- type Cz waferN- type Cz waferN- type Cz wafer2Alkaline texturizationAlkaline texturizationAlkaline texturization3Front P- doped n+ emitterFront B- doped p+ emitterGettering4Laser doping n++emitterLaser doping p++emitterFront a- Si:H/nc- SiOx:H(n+) and rear a- Si:H/nc- SiOx:H(p+)5Wet chemical edge isolationFormed SiOx layer to protect n++ layerITO on the both sides6Front SiOx passiva

@@ -1,5 +1,0 @@
-ction with an annual production output of 5000 MWp/a is per
--
-formed. The TOPCon-concepts show higher cell and module costs in comparison to the PERC benchmark, which is mainly dominated by a higher CAPEX and OPEX due to additional equipment need, an increased usage of process consumables, and a higher price of the n-type substrate. Looking at the TCO results, no clear winner could be elected among TOPCon concepts, especially looking at uncertainty margins of our as
--
-sumptions. Nevertheless, es

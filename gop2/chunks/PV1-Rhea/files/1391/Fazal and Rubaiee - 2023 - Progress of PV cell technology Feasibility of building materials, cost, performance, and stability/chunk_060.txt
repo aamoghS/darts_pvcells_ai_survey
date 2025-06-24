@@ -1,5 +1,0 @@
-es [80]. During a short span of time, the ef
--
-ficiency of perovskite cells has increased to 25.5% [39]. However, the major challenge of perovskite is its instability and toxic lead content [32]. Researchers are potentially working on using Sn [81] and Bi [82] instead of Pb for making lead-free perovskite cells. Though the insta
--
-bility of perovskite cells is another major concern until now [83], this issue can be overcome, and other properties can be improved. This emerging technology aims to 

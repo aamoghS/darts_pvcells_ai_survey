@@ -1,2 +1,0 @@
-deed,thesurfacerecombinationvelo-citiesSn0andSp0atthec-Si/SiOxinterface,asdeducedfromthemea-suredJ0valuesofn+andp+poly-Sijunctions[94],areinexcellentagreementwiththeresultsobtainedforhigh-temperature-grownSiO2onboron-[26]andphosphorus-[101]dopedc-Sisurfaceswithcom-parablesurfacedopingconcentrations.Thisisinparticularremarkable
-sincetheoxidepassivationinRefs.[100,101]wasgrownatmuchhighertemperatures(1035°CinRef.[101])thanthethininterfacialoxidesofthepoly-Sijunctions(grownat600°CinRef.[94]).Duet

@@ -1,3 +1,0 @@
-cells with a laser structured and plated metallization approach without significant V
-oc 
-losses. 3.3.Series resistance and fill factor characteristics The IV measurements of the whole data set of plated solar cells revealed in this experiment large FF spreading in the range of 50–83%. Optical inspection and EL measurements allowed to categorize solar cells with decreased FF compared to the screen printed references. Two reasons for this could be identified for the plated groups. First, solar 

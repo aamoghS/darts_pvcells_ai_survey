@@ -1,2 +1,0 @@
-1038/s41598-024-72502-z
- 36. Olalla, C., Hasan, M. N., Deline, C. & Maksimović, D. Mitigation of hot-spots in photovoltaic systems using distributed power electronics. Energies 11(4), 726 (2018). 37. Dhimish, M., eristis, M. & dAlessandro, V. Photovoltaic hotspots: A mitigation technique and its thermal cycle. Optik 300, 171627 (2024). 38. Ghosh, S., Yadav, V. K. & Mukherjee, V. A novel hot spot mitigation circuit for improved reliability of PV module. IEEE Trans. Dev. Mater. Reliab. 20(1), 

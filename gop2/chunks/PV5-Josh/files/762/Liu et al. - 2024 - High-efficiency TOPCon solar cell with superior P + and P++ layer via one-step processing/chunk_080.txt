@@ -1,5 +1,0 @@
-n
--
-dard production line procedure using the same batch of wafers. A summary of this comparative analysis is provided in Table 1. In general, TOPCon +cells with printed Si paste under appropriate thermal diffu
--
-sion conditions exhibit higher efficiency than TOPCon cells without printed Si paste. This technology increases the efficiency of TOPCon cells on the normal production line by an average of approximately 0.12 % and up to 0.23 % in the most significant cases. A substantial portion of the 

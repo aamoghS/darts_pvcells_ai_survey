@@ -1,2 +1,0 @@
-112[80]LPCVDpoly-Si,p+wet-chemicaltexturedFGA71[80]LPCVDpoly-Si,p+thermaltexturedSiNx,Al2O3orH-plasma27[80]LPCVDpoly-Si,p+ozonetexturedSiNx,Al2O3orH-plasma48[80]LPCVDpoly-Si,p+wet-chemicaltexturedSiNx,Al2O3orH-plasma40[80]J.Schmidtetal.Solar Energy Materials and Solar Cells 187 (2018) 39–5447
-experimentallyconrmedonc-SisolarcellsforthetransitionmetaloxidesvanadiumoxideVOx[124–126],molybdenumoxideMoOx[126-129]andtungstenoxideWOx[125,126,129]andalsoforthehole-conductingpolymerpoly(3,4-ethylen

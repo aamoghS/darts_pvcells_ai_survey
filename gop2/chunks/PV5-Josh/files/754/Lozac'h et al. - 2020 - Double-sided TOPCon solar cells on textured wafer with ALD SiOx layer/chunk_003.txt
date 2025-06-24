@@ -1,9 +1,0 @@
- using front and rear ohmic contacts, easily transferable at industrial scale [1]. This TOPCon, also called poly-Si, SIPOS [2], or POLO-IBC [3, 4], is composed of a doped polycrystalline Si (poly-Si)/silicon oxide (SiO
-x
-) stack. The thickness of the SiO
-x 
-layer should be below ~1.5 nm to allow the tunneling transport of photocarriers [5]. The ultrathin SiO
-x 
-layer is prepared by wet chemical oxide [5,6], dry oxide [3], or UV-O
-3 
-[7], which yields an excellent passivation for the polished c-S

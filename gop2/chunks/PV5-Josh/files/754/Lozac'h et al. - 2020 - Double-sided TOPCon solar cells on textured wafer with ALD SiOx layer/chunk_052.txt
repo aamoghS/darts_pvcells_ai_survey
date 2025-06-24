@@ -1,5 +1,0 @@
-ed with a high J
-sc 
-measured above 39 mA/cm
-2 
-considering a front contact structure and the grid shadow, with the EQE showing excellent response at short and long wavelengths (Fig. 2c). Indeed, the EQE at short wavelengths at 500 nm is excellent compared to conventional heterojunction solar cells using a (p) a-Si:H layer [42]. The EQE at 5 sccm has a lower response from 480 nm to 800 nm than the optimized condition due to the weak junction, while the EQE at 200 sccm underlines a loss for broad

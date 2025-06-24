@@ -1,7 +1,0 @@
-ther innovative approaches.One may concern that use of low frequency industrial scalable direct plasma PECVD technique for depositing doped silicon layer onto ultra-thin SiO
-x 
-tunnelling layer may severely damage the oxide layer and hence the passivation quality will also be degraded with an immediate effect. However, excellent surface passivation quality with an implied V
-oc 
-(iV
-oc
-) of above 735 mV and an implied FF (iFF) of 87.9% was realized when industrial scalable low frequency plasma en

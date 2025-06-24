@@ -1,5 +1,0 @@
-ulti-crystalline Si (mc-Si). The mc-Si PV was the dominant technology until 2015 when the price of sc-Si dras
--
-tically reduced [51]. In addition to Si-based PV cells, many innovative PV cells are still being developed and continuously improved with in
--
-terest in their enhanced power efficiency and reduced manufacturing, operating, and maintenance costs. The existing PV technologies can be classified into four groups (known as generations) depending on the materials used, adapted manufacturing 

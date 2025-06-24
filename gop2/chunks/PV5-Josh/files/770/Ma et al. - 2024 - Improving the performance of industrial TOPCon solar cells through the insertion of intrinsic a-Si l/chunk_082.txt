@@ -1,3 +1,0 @@
-an, X.Y. Zhang, Q. Wang, H. Jin, M. Al-Jassim, C.H. Shou, Y.H. Zeng, B.J. Yan, J.C. Ye, Ultrathin silicon oxide prepared by in-line plasma-assisted N
-2
-O oxidation (PANO) and the application for n-type polysilicon passivated contact, Sol. Energy Mater. Sol. Cells 208 (2020) 110389. [21]B. Liao, W.L. Wu, R.J. Yeo, X.Y. Wu, S. Ma, Q. Wang, Y.M. Wan, X.D. Su, W.Z. Shen, X. Li, W.M. Li, G.Q. Xing, B. Hoex, Atomic scale controlled tunnel oxide enabled by a novel industrial tube-based PEALD technology

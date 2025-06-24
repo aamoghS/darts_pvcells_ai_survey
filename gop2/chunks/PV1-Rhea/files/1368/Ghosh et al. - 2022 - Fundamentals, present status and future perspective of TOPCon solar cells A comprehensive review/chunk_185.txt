@@ -1,3 +1,0 @@
-amples based onto n-type c-Si wafers were fabricated and the highest value of iV
-oc 
-was found to be 695 mV whereas the median value was 680 mV. Therefore, from Ref. [69,70] we may conclude that both p-TOPCon and n-TOPCon structure may be developed with notable surface passivation quality by using simple sputtering process. Most importantly, use of toxic gases like silane, diborane and phosphine may be avoided if sputtering is used for the development of doped silicon layers. However, significan

@@ -1,8 +1,0 @@
- 225009, PR China. **Corresponding author. E-mail addresses: wangqinqin@yzu.edu.cn (Q. Wang), dingjn@yzu.edu.cn (J. Ding).  
-Contents lists available at ScienceDirect 
-Solar Energy Materials and Solar Cells 
-journal homepage: www.elsevier.com/locate/solmat 
-https://doi.org/10.1016/j.solmat.2023.112458 Received 28 March 2023; Received in revised form 27 June 2023; Accepted 4 July 2023   
-of n
-+
--poly-Si layer, which is mainly attributed to a large difference of the diffusion characteristics of ph

@@ -1,4 +1,0 @@
-Si:H/nc- SiOx:H(n+)10.3216.94.1829.2n- Type Si [62]252213.710026.8TABLE     |    The S10,h, fh,max, and ηh,max on the hole- selective contacts.
-Electron- selectiveJ0,h [fA/cm2]ρc [mΩ.cm2]S10,hfh,max [%]ηh,max [%]Al- BSF400313.30.8627.77B- diffused p++250.715.21.2829.07SiOx- p+- poly- Si6315.25.4229.07a- Si:H/nc- SiOx:H(p+)13.215.913.4529.16
-899
-Progress in Photovoltaics: Research and Applications, 2024back- contact (TBC), and HBC, as shown in Figure8. The ef-ficiency of ηb,e,h,m,max was 

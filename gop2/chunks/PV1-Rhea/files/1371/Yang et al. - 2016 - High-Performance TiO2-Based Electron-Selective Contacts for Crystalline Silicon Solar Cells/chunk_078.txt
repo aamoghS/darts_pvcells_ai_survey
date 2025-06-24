@@ -1,5 +1,0 @@
- measurement system (QE-1400-03). The front-side reﬂ ectance measurements were taken using a PerkinElmer Lambda 1050 UV/
-VIS/NIR spectrophotometer. The IQE was calculated by the measured 
-reﬂ ectance and EQE data using IQE = EQE/(1 −  R ). Specimens for transmission electron microscopy (TEM) were prepared by focussed ion 
-beam (FIB) technique with the help of FEI 200 TEM FIB. TEM studies of 
-Si/TiO 2 /Al and Si/SiO 2 /TiO 2 /Al contacts were carried out on FEI Tecnai F30 TEM operating at 3

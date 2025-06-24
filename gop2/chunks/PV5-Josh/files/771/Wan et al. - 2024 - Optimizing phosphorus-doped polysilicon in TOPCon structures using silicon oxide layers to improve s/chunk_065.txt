@@ -1,3 +1,0 @@
-trolinpoly-Si/SiO
-x
-/c-Sipassivatedcontactsolarcellswith734mVimpliedopencircuitvoltage,SolEnergMatSolC189(2019)21–26.[3]J.Kim,H.-J.Kim,Y.Ko,Y.Kim,Ieee,developmentofmachinevisionsystemfordetectionofWrap-aroundinn-TOPConsolarcells,in:IEEE50thPhotovoltaicSpecialistsConference(PVSC),2023.SanJuan,PR.[4]Y.Chen,H.Chen,S.Zhang,L.Wang,C.Liu,D.Chen,J.Xu,P.Altermatt,Z.Feng,P.Verlinden,WPN-typeI-TOPConModulesinMassProductionwith>25%EfficiencySolarCellsBasedonLarge-Area210MmWafers,2023,690.[5]R.Basnet,D.Ya

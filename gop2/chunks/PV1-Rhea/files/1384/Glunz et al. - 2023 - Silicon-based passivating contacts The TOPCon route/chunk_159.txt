@@ -1,7 +1,0 @@
-chterA,EberleR,SchubertMC.Extraor-dinarilyhighminoritychargecarrierlifetimeobservedincrystallinesilicon.SolarRRL.2021;5(11):2100605.
-https://doi.org/10.1002/solr.202100605
-85.YablonovitchE,AllaraD,ChangC,GmitterT,BrightT.Unusuallylowsurface-recombinationvelocityonsiliconandgermaniumsur-
-faces.PhysRevLett.1986;57(2):249-252.
-https://doi.org/10.1103/physrevlett.57.249
-86.KaneDE,SwansonRM.Measurementoftheemittersaturationcur-rentbyacontactlessphotoconductivitydecaymethod(siliconsolar
-cells).In:18th

@@ -1,3 +1,0 @@
-eas. At the same time PL imaging reveals that at some (but not all) positions the improvements in EL signal correlate with local decrease in PL (new local recombination features) after LECO. LECO is known to change the contact interface by creating metal- silicon spikes due to locally increased temperatures during the current annealing [18]. These local temperature increase can act twofold at the Ni–Si interface. Temperatures above 200 
-◦
-C would enable nickel silicide growth assuming an oxi

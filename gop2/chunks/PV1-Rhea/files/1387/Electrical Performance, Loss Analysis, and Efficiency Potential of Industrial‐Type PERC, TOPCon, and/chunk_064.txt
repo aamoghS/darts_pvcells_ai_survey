@@ -1,3 +1,0 @@
- n++ layerITO on the both sides6Front SiOx passivationWet chemical edge isolationScreen printing Ag paste on the both sides7Rear AlOx/SiNx passivationSiOx + i- Poly8Laser ablation the rear siden+- doped poly- Si9Screen printing Ag paste on the front side and Al paste on the rear sideAlOx/SiNx passivation10Screen printing AgAl paste on the front side and Ag paste on the rear side
-894
-cell, the J0 losses of TOPCon and SHJ cells have been reduced by 64% and 87%, respectively, which is mai

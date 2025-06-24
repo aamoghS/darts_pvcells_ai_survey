@@ -1,7 +1,0 @@
-optimization of the passivation characteristics of symmetric struc
--
-tures using a Quasi-Steady-State Photoconductance (QSSPC) measure
--
-ment system. 2.Experimental Czochralski-grown phosphorus-doped n-type wafers (200 µm thick with 3–5 -cm,) were used in this study. The first step was the removal of surface defects by employing an etching solution comprising sodium hydroxide (NaOH) at 70–80 
-◦
-C for approximately 10 min. Further, samples were consecutively cleaned by employing the stand

@@ -1,5 +1,0 @@
-hown in Section D, into the substrate. This integration maintained the original SRH lifetimes without BO defects. The intro
--
-duction rates for these five defects were kept constant, ensuring a linear scaling of defect densities with electron fluence. The resultant perfor
--
-mance characteristics, following exposure to various fluence levels during 1 MeV electron irradiation, were normalized with respect to their BOL counterparts. Illustrated in Fig. 7, a gradual degradation in all performance ch

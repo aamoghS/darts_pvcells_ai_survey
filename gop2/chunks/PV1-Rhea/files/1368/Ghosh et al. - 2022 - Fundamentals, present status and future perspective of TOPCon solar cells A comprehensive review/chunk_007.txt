@@ -1,9 +1,0 @@
-� may also be abbreviated as ‘POLO’ (Polysilicon on Oxide) [6]. A constant uptrend in the power conversion efficiency of these various crystalline silicon based solar cells has been thus observed. For an example, in 2015, Kaneka reported about the development of 25.1% (V
-oc 
-=738 mV, J
-sc 
-=40.8 mA/cm
-2 
-and FF =83.5%) HIT solar cells based on n-type CZ-Si wafers with an active cell area of 151.9 cm
-2 
-[7]. On the other hand, SunPower also claimed almost similar result with a conversion effi

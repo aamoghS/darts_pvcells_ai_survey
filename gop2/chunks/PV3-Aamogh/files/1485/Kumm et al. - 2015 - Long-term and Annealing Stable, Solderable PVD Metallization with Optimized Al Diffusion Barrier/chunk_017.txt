@@ -1,2 +1,0 @@
- 374 – 381 
-and/or silver leaching or shows insufficient stability in the peel-test, it is concluded that Al has diffused to the Ag top layer and the barrier has failed.  The long-term stability of the solder-joints is tested by thermal ageing. The metallization schemes of stack 1 and stack 2 are deposited on saw-damage etched Cz Si wafers. Subsequently, the samples are annealed in forming gas for 2 min at 300°C and a common cell-interconnector with Cu core and a SnPbAg solder coating is sold

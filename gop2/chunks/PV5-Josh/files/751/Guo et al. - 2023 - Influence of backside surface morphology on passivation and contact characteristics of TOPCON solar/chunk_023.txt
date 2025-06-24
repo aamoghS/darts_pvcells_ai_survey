@@ -1,8 +1,0 @@
-re phosphorous diffusion doping was per
--
-formed using a tubular diffusion furnace. Use HF solution to remove PSG and perform Radio Corporation of America (RCA) cleaning. Finally, double-sided silicon nitride films are grown by PECVD. The dopant profiles of the samples were measured by an ECV device (WEP CVP21). J
-0, Auger 
-in the c-Si substrate was estimated using simulations on EDNA2 provided by PVlighthouse.Minority carrier lifetime (
-
-eff
-), Implied open circuit voltage (iVoc), and recombin

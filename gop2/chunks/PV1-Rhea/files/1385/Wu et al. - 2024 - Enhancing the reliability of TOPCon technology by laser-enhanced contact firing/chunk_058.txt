@@ -1,3 +1,0 @@
-nhances the corrosion resistance of TOPCon solar cells. This improve
--
-ment is attributed to the broader processing window offered by the firing technique and the capability to employ pastes that do not contain aluminum to contact the lightly-doped boron surface at the front of the TOPCon solar cell. In this work we used the Jolywood Special Injected Metallization (JSIM) method and compared it to baseline TOPCon solar cells fabricated using conventional pastes and firing. Solar cells were expose

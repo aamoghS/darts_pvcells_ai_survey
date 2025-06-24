@@ -1,3 +1,0 @@
-and (iv) post-annealing hydrogenation treat
--
-ment to minimize the defect states within doped poly-Si layer [21]. Consequently, it is understood that the improvement in all of these processing steps may facilitate the fabrication of high efficiency TOPCon solar cells. Besides, rear side light management and use of selective emitter may also aid the power output of the TOPCon solar cells. The average stabilized efficiency of the large area n-TOPCon solar cells in mass production has been found to

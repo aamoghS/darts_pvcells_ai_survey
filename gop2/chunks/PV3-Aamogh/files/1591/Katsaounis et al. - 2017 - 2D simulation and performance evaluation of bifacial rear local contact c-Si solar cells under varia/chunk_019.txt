@@ -1,5 +1,0 @@
-sedintermsofaquasi-Fermipotential˚n,Lnisthedi�usionlengthandVCismultipleofthethermalvoltageVT.Tothebestofourknowledgethisscalingofvariablesisnewintheliterature.Usingthischangeofvariableswederiveanewsystem,whichisdimensionless���+�=gn;��u+�=gn;(6)wheregn=GL2n
-NADn.Thenewformoftheboundaryconditionsis�Verticalsides:x=0;L;z2(0;w),r���=0;ru��=0:(7)�Topside:z=0;x2(0;L),�2A�=exp�VC
-VT(Vb+u)��1;ru��=�2Aj0�1�exp��VC
-VT(Vb+u)��:(8)3
-�Bottomside:

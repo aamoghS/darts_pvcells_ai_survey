@@ -1,3 +1,0 @@
-ion, which after removing the PSG layer subsequently performs single-sided etching of polysilicon (SSE), followed by BSG removal and finally ozone-based wet-chemical cleaning step. The SSE process is assumed to be performed in a diluted alkaline solution [22], where the intact BSG layer on the textured side prevents etching of p
-+
-emitter by acting as a barrier layer. Afterwards, boron emitter passivation is performed by first growing a thin low-temperature thermal oxide of 1–2 nm in a tube fu

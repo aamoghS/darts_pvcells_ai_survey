@@ -1,5 +1,0 @@
-adjust introduction rates of the rest traps to fit the J
-sc 
-degradation data. In this work, capture cross section values from DLTS measurements [21] were adopted while all introduction rates were treated as fitting variables. As explained earlier, it was necessary to assume a nonuniform introduction of traps, which was modelled using an exponential decay function with a depth factor of 960 
-
-m and the introduction rates in Table 5 were calculated from the front surface. The introduction rates 

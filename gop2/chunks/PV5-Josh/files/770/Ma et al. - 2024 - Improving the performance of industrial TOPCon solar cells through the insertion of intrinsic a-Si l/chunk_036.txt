@@ -1,5 +1,0 @@
-neling oxide, intrinsic a-Si and in-situ phosphorus-doped a-Si, annealing and hydrogenation (deposition of SiN
-x
-). 
-Fig. 2.Sketch of phosphorus diffusion into Si substrate during the annealing process with different thicknesses of a-Si (i) film. The thickness of a-Si (i) film was 0 nm, 10 nm, 20 nm, 30 nm, and 40 nm, corresponding to the groups of Baseline, G1, G2, G3, and G4, respectively. 
-S. Ma et al.                                                                                            

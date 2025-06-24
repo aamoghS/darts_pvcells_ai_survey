@@ -1,5 +1,0 @@
- contacts at the rear side and no metal induced shading losses at the front side of the cell were the key features to realize such high efficiency value. Furthermore, they re
--
-ported that laser ablation technique was used instead of photolithog
--
-raphy process for the contact opening purpose; the use of which may facilitate to adopt screen printing based metallization technique during the cell fabrication process. Besides, through the Quokka2.0 simulation study Peibst et al. predicted that the 

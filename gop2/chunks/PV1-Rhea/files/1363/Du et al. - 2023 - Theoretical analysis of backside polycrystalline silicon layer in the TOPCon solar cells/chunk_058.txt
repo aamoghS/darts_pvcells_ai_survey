@@ -1,3 +1,0 @@
--
-dation of China (NSFC, Grant Nos. 12035020, 52072399, 62074165, 12175305, 62104253 and 12105357), Natural Science Foundation of Beijing Municipality (4192064, 1212015), National Key Research and Development Program of China (2018YFA0703700). References 
-[1]R.S. Bonilla, et al., Dielectric surface passivation for silicon solar cells: a review, Phys. Status Solidi 214 (7) (2017), 1700293, https://doi.org/10.1002/ pssa.201700293. [2]S.W. Glunz, et al., A Passivated Rear Contact for High-Efficienc

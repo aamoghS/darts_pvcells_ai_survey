@@ -1,5 +1,0 @@
-raphy and passivation characteristics and contact resistance of SiO
-x
-/n +poly Si passivated contact structures were investigated by finely controlling the etching process. Studies have shown that for textured surfaces, both increasing the roundness of the pyramids (acid polishing) and flattening the pyramids (alkaline polishing) lead to a more uniform SiO
-x 
-layer, which improves surface passivation. The significant deterioration of the contact resistance of the alkali-polished flat surface may

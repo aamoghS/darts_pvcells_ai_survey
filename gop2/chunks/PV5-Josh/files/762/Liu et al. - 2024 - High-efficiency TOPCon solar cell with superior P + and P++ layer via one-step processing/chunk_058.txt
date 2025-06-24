@@ -1,6 +1,0 @@
-                                                                                            
-These MSD-t curves were subjected to linear fitting, and the corre
--
-sponding diffusion coefficients were computed using Formulas 1 and 3. The relationship between the diffusion coefficient of B atoms and tem
--
-perature is presented in Fig. 9. It is evident that within the simulation system, higher temperatures lead to larger diffusion coefficients for B atoms. The findings indicate that when the tempera

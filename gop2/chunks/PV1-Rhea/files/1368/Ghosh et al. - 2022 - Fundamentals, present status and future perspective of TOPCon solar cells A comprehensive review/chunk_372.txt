@@ -1,9 +1,0 @@
-ify the commercialization process of TOPCon solar cells. Nevertheless, in accordance to the basic nature of research, there are still scopes of further explorations. Some of these have been pointed below: A. Improvement of PCE and cost-effectiveness 
-Table 1 Surface passivation quality of ultra-thin SiO
-x 
-layer grown by different routes on various types of wafers.  
-Type of Fabricated TOPCon Structure Fabrication route Wafer type iV
-oc 
-(mV) Refs. n-TOPCon Wet chemical oxidation in hot HNO
-3 
-a

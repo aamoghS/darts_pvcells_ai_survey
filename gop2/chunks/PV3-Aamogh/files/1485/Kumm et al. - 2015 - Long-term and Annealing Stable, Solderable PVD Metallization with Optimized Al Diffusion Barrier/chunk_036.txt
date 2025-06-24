@@ -1,5 +1,0 @@
-aling step for 15 min at 425°C, see Table 4. In-situ stuffing 
-with heating can therefore replace atmospheric stuffing and enables a similarly stable barrier quality that is sufficient 
-for all common cell structures. Additionally, it is an industrially applicable process. 5.
- 
-Long-term stability of solder joints  Long-term stability of solder joints is an important issue regarding industrial application, therefore common cell interconnectors are soldered on the presented atmospherically stuff

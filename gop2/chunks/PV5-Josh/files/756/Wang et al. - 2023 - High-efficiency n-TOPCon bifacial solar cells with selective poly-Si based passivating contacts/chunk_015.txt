@@ -1,3 +1,0 @@
-r methods such as laser-assisted doping. The fabrication of poly-Si films can be categorized into two main approaches—chemical vapour deposition (CVD) including plasma enhanced CVD (PECVD) [19,20], low pressure CVD (LPCVD) [21,22], atmospheric pressure CVD (APCVD) [23] and hot wire CVD (HWCVD) [24] and physical vapour deposition (PVD) including sputtering [25,26] or electron beam evaporation [27]. The SiO
-x 
-layer can be grown by chemical oxidation [28], ozone oxidation [29] and PECVD [30]. LP

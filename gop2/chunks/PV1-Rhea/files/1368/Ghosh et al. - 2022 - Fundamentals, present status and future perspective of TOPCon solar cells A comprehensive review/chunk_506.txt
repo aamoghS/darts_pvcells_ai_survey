@@ -1,3 +1,0 @@
-ao, S. Yang, Y. Cao, H. Qu, Study of boron diffusion for p 
-+
-emitter of large area N-type TOPCon silicon solar cells, Appl. Phys. A 126 (9) (2020) 671, https://doi.org/10.1007/s00339-020-03851-5, article id. [124]Y.Y Huang, Y.W. Ok, K. Madani, W. Choi, A.D. Upadhyaya, V.D. Upadhyaya, A. Rohatgi, Fully screen-printed bifacial large area 22.6% N-type Si solar cell with lightly doped ion-implanted boron emitter and tunnel oxide passivated rear contact, Solar Energy Mater. Solar Cells 214 (2020), 1

@@ -1,8 +1,0 @@
-79.doi:
-10.1016/j.renene.2021.11.031
-19.DhimishM,BadranG.Recoveryofphotovoltaicpotential-induceddegradationutilizingautomaticindirectvoltagesource.IEEETransInstrumMeas.2021;71:1-9.doi:
-10.1109/TIM.2021.3134328
-20.ibneMahmoodF,TamizhmaniG.Impactofdifferentbacksheetsandencapsulanttypesonpotentialinduceddegradation(PID)ofsilicon
-PVmodules.SolEnergy.2023;252:20-28.doi:
-10.1016/j.solener.2023.01.047
-21.LuoW,KhooYS,HackeP,etal.Potential-induceddegradationinphotovoltaicmodules:acriticalreview.EnergEnvi

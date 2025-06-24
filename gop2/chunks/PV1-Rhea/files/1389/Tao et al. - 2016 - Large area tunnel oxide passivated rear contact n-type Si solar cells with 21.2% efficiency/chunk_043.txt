@@ -1,3 +1,0 @@
-voltaicSolarEnergyConference,Hamburg,Germany,2011;p.875.16.RyuK,UpadhyayaA,SongH,ChoiC,RohatgiA,OkY.Chemicaletchingofboron-richlayeranditsimpactonhighefciencyn-typesiliconsolarcells.AppliedPhysicsLetters2012;101:073902.17.TaoY,RohatgiA,“High-efciencylargeareaion-implantedn-typefrontjunctionSiSolarcellswith
-screen-printedcontactsandSiO2passivatedboronemitters”,inProceedingsofthe40thIEEEPhotovol-taicSpecialistsConference,Denver,Colorado,USA,
-2014;pp.3654–3658.18.BösckeTS,KaniaD,Schöllhor

@@ -1,2 +1,0 @@
- to validate the effects of variables is the half-normal probability plot for variables (see Fig. 1.). The preference of the probability plot is in the arrangement of effects from variables on the variability (“noise” line in software). The more distant variable is from the variability line, the greater effect on the pH value with higher 
-accuracy can be obtained.   Fig. 3. Half – Normal Plot for pH. Fig. 3. shows that more distance from the variability line is for mixture, where temperatu

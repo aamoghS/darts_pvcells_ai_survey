@@ -1,5 +1,0 @@
-tructure was presented by Markle et al. in the 35th European Photovoltaic Solar Energy Conference and Exhibition (EU PVSEC) which was held in 2018 [67]. According to that report, after performing high temperature thermal treatment and subsequent hy
--
-drogenation step adequate surface passivation quality was obtained for both n-type and p-type passivated contacts which featured chemically or thermally grown ultra-thin SiO
-x 
-layer and APCVD coated doped silicon layer. Quantitatively, the hydrogen

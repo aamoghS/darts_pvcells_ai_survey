@@ -1,9 +1,0 @@
-over, with a TMO having a high WF and excellent optical transparency such as MoO
-x
-, superior hole-selectivity in tandem with a-Si:H(i) passivation of the front surface is predicted to achieve a 21.8-% efficiency [120]. Further, the MoO
-x 
-layer thickness dictates the lateral conductivity to the contacts. Effective field-effect and chemical passivation schemes have been demonstrated using PECVD-grown AlO
-x
-/SiN
-x 
-dielectric stacks to passivate heavily doped p-Si emitters [122,123], thus enablin

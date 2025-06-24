@@ -1,3 +1,0 @@
-acceptor-like defect states. When the defect states concentration of the acceptor-like defect states is less than one order of magnitude of doping concentration, the cell E
-ff 
-decreases rapidly with the increase of defect states concentration. Compared with the acceptor-like defect states, the donor-like defect states have much less impact on TOPCon solar cells. The recombination rate at the interface of poly-Si increases with the increase of donor-like defect states concentration. As can be se

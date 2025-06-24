@@ -1,3 +1,0 @@
-uting to the instability observed in TOPCon solar cells, war
--
-ranting urgent optimization efforts [24–27]. Consequently, commercial TOPCon modules are primarily glass-glass (G-G) modules with high-quality encapsulants such as POE (polyolefin elastomers), and edge sealants to ensure that water cannot enter the module. However, this approach results in more expensive and heavier modules, so the industry is keen to address the intrinsic sensitivity of the TOPCon solar cells to allow for the use 

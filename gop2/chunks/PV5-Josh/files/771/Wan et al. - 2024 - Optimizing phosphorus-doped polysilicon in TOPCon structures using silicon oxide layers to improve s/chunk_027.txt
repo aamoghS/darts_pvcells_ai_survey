@@ -1,7 +1,0 @@
-lperformanceparametersofTOPConsolarcellswereevaluatedusingaMaxwelltesterunderstandardtestconditionsofAM1.5Gspectraat25
-◦
-C.3.ResultsanddiscussionTheSEMcross-sectionofthebaseline(singlepoly-Si/SiO
-x
-)inFig.3(a)showsthatthethicknessofthesingle-layerpoly-Siis120nm,consistentwiththethicknessofthepoly-SilayerintheTOPConstruc-tureusedindustrially.Theimagefortheexperimentalgroup(Fig.3(b))(doublepoly-Si/SiO
-x
-)revealsthatthebottomlayerthicknessis65nmandthetoplayeris55nm.Itisevidentthatthereisacleardel

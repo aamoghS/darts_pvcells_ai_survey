@@ -1,5 +1,0 @@
-ce and interfacial recombination, and an increase 
-in the shunt resistance for devices with the TiO 2 -based contacts, consistent with the improved cell parameters shown in Table 
- 1 . To further investigate the effects of the TiO 2  contact incor-poration on the photovoltaic properties, the internal quantum 
-efﬁ ciency (IQE) spectra of these devices were measured (Figure  1 d). All the devices show a very high IQE in the short wave-
-length range (300–800 nm), which demonstrates a low surfac

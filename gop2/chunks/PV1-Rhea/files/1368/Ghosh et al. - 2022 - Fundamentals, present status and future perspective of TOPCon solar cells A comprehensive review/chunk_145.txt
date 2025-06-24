@@ -1,5 +1,0 @@
-min. However, the rapid heating/cooling process produced compressive/
--
-tensile stress and as a result, significant amount of pinholes were formed inside the SiO
-x 
-layer which also featured much lower thermal expansion coefficient in compared to bulk Si layer and doped poly-Si layer. Therefore, it may be stated that the formation of pinholes mostly depend upon the heating/cooling rate of the TOPCon/POLO structure rather than the duration of thermal treatment. Feldmann et al. investigated the tr

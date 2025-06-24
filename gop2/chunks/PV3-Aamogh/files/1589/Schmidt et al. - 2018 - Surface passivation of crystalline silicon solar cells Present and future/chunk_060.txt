@@ -1,3 +1,0 @@
-mizingcontactingareafractionfe,maxandthemaximumeciencyηe,maxarecalculatedusingEqs.(6),(8),(13),and(14).Electron-selectiveJ0,e[fA/cm2]ρc,e[cm2]Ref.S10,efe,max[%]ηe,max[%]P-diusedn+1090.26[57]12.044.025.0a-Si:H(i)/a-Si:H(n)20.1[58]14.157.928.6SiOx/poly-Si(n+)50.016[84]14.514.128.9[thermaloxide/PECVD]SiOx/poly-Si(n+)2.70.0013[59]15.95.2229.2[thermaloxide/LPCVD]
-SiOx/poly-Si(n+)100.0001[60]16.40.74429.2[chemicaloxide/LPCVD]
-SiOx/TiO2500.026[133]13.37.2727.7MgOx9500.0175[134]12.23.0625.5J.Schmi

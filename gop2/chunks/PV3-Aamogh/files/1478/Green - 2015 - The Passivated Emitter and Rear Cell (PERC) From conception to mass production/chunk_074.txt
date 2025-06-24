@@ -1,2 +1,0 @@
-ypesiliconwafers,Prog.Photovolt.:Res.Appl.20(3)(2012)260–268.[33]C.Arndt,D.Stichtenoth,N.Muller,M.Reinicke,D.Grote,U.Schröder,M.Scherr,M.Weser,F.Lange,P.Voigt,P.Olwal,L.Schubert,F.Satian,M.Döring,
-M.Neitzert,T.Geiler,K.Meyer,O.Gybin,F.Dreckschmidt,J.Neusel,S.Alt-mannshofer,M.Mach,C.Markscheffel,A.Froitzheim,M.Muller,C.Koch,G.FischerandE.Schneiderloechner,Manufacturingof300WpModulesbyIndustrializationofPERCSolarCellTechnologyIncludingCrystal,CellandModuleDevelopment,in:Proceedingsofthe29thE

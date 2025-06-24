@@ -1,3 +1,0 @@
-tionsolarcellfeaturinganelectron-
-selectiveSiO2/TiOxcontactattherearsideunderAM1.5.Forcomparison,para-metersofsolarcellswitha3.5nmTiOxoratunnelSiO2attherearsideareshowntogether.Thepseudollfactor(pFF)measuredbySuns-Vocandthecalculatedseriesresistance(Rs)arelistedtogether.DeviceVoc(mV)Jsc(mA/cm2)FF(%)pFF(%)η(%)Rs(mcm2)TiOx(3.5nm)60339.180.383.318.90.55SiO2(1.5nm)60839.074.880.117.71.03SiO2/TiOx65039.580.083.020.50.59X.Yangetal./SolarEnergyMaterials&SolarCells150(2016)32–3836
-conrmsthatthecon

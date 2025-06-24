@@ -1,6 +1,0 @@
-iconheterojunctionsolarcellsanalysisandbasicunder-standing.DissertationFreiburgImBreisgau.2015.14.BattagliaC,deNicolásSM,WolfSde,YinX,ZhengM,BallifC,JaveyA.Siliconheterojunctionsolarcellwithpassivatedholeselec-
-tiveMoOxcontact.ApplPhysLett2014;104(11):113902.
-https://doi.org/10.1063/1.4868880
-15.NeuselL,BivourM,HermleM.SelectivityissuesofMoOxbasedholecontacts.EnergyProcedia.2017;124:425-434.
-https://doi.org/10.1016/j.egypro.2017.09.268
-16.BullockJ,WanY,XuZ,etal.Stabledopant-freeasymmetrichetero

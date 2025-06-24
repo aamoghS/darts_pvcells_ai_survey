@@ -1,9 +1,0 @@
-ype base and p-a-Si:H front emitter demonstrated a power conversion efficiency of 21.8% (V
-oc 
-=715 mV, J
-sc 
-=40.9 mA/cm
-2
-, and FF =74.7%) with an effective cell area of 4 cm
-2
-. In the cell structure, in-situ P-doped poly-Si layer served the purpose of rear side passivating contact. Furthermore, the authors performed a simulation study with the help of Quokka2 simulation tool and the study revealed that the power conversion efficiency may be enhanced up to 26% by improving the wafer quality a

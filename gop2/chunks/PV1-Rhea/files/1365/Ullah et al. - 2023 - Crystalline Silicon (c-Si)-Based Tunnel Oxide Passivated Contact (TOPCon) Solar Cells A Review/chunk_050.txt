@@ -1,4 +1,0 @@
-photovoltaicsolarenergyconversionsystem.Proc.IEEE1979,67,446–447.[CrossRef]
-Energies2023,16,715
-9of10
-21.Green,M.A.;Blakers,A.W.Advantagesofmetal-insulator-semiconductorstructuresforsiliconsolarcells.Sol.Cells1983,8,3–16.[CrossRef]22.Inoue,N.;Miyakawa,T.;Wilmsen,C.W.AnanalysisofEBICResponseofITO/poly-SiSolarcells.JJAP1981,20,11–15.[CrossRef]23.Yablonovitch,E.;Gmitter,T.;Swanson,R.M.;Kwark,Y.H.A720mVopencircuitvoltageSiOx:C-Si:SiOxdoubleheterostructuresolarcell.Appl.Phys.Lett.1985,47,1211�

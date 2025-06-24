@@ -1,9 +1,0 @@
- were annealed at 900 
-◦
-C for 60 min [26]. Afterwards, the front surface was passivated with 5 nm thick atomic 
-M. Fırat et al.                                                                                                                                                                                                                                    
-layer deposited (ALD) AlO
-x 
-and 70 nm thick PECVD SiN
-x
-:H films, the latter of which also acts as an antireflection coating (ARC). A 70 nm

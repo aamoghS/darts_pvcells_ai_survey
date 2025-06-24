@@ -1,5 +1,0 @@
- can be accomplished by using the energy band offset due to the material WF. An adequately high or low WF can sustain either an accumulation or inversion regime at the surface under illumination, thus resulting in asymmetric electron or hole conduction. This contact strategy was initiated a few years ago as a cost-effective design, but recent ad
--
-vancements in industrial processes and guidelines to realize CSC pro
--
-duction pathways have made it ever more attractive [57]. For example, low-tempe

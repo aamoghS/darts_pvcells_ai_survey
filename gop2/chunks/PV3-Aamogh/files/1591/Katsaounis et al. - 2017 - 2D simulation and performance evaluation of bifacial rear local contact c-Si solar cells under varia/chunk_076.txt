@@ -1,2 +1,0 @@
-,K.Krauss,E.Lohmueller,S.Meier,A.Wolf,andS.Rein.Bifacialpotentialofsingleanddouble-sidedcollectingsiliconsolarcells.ProgressinPhotovoltaics,24(6):818{829,2016.[24]InstructionsformodelingtheI-Vbehaviorofcellsthatareilluminatedsimultaneouslyfrombothfrontandrearsurfaces.13
-[25]K.KotsovosandK.Misiakos.Three-dimensionalsimulationofcarriertransporte�ectsinthebaseofrearpointcontactsiliconsolarcells.JournalofAppliedPhysics,89(4):2491{2496,2001.[26]A.deMari.Anaccuratenumericalone-dimensionalsolutionoft

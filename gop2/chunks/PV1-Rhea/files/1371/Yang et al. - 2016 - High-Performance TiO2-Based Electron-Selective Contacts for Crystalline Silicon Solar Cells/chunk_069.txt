@@ -1,4 +1,0 @@
-d HF before TiO 2  ﬁ lm deposition. TiO 2  ﬁ lms with different thicknesses (2.5–5.5 nm) were deposited on both 
-sides of silicon wafers, and QSSPC measurements were performed 
-before and after FGA annealing. TiO 2  ﬁ lm thicknesses were determined from ellipsometry measurement by ﬁ tting polarized reﬂ ectance data of single side polished silicon wafers. Some of the samples were subjected 
-to a short thermal oxidation before TiO 2  ﬁ lms deposition. The oxidation was performed in a

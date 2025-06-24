@@ -1,4 +1,0 @@
-9 695 701 697 696 700 696 692 700 697 V
-oc 
-(measured, average)[mV] 694 695 692 702 701 695 702 697 696 692 697 696 697 697  Q. Wang et al.                                                                                                                                                                                                                                   
-Fig. 10.The curve for internal quantum efficiency (IQE) and the dashed line curve for optical reflection for (a) emitter D1, (b) emit

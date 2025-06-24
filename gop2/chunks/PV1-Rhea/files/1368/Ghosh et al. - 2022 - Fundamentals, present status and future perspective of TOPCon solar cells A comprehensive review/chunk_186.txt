@@ -1,5 +1,0 @@
-pment of doped silicon layers. However, significant improvement in the pasivating properties of the TOPCon structure comprising of sputter deposited poly-Si layer is yet to be realized to compete with the state-of-the-art TOPCon structure featuring chemical vapour deposited poly-Si layer. So far we have realized that high temperature annealing is a neces
--
-sary and very important step to for the dopant activation and crystalli
--
-zation of the doped silicon layer. However, involvement of such hig

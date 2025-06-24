@@ -1,4 +1,0 @@
- polysilicon, capped with an HfO
-2 
-layer. It highlights the energy bands critical for semiconductors: the conduction band, valence band, and Fermi level. This visualization is key in semiconductor design, offering insights into potential barriers and electronic behavior that dictate the performance of the device. 
-R.U. Rahman et al.                                                                                                                                                                     

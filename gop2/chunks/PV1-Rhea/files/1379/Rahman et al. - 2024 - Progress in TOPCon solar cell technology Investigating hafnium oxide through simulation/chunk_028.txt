@@ -1,8 +1,0 @@
-sting literature by highlighting the precision of simulation techniques and specific quantitative advance
--
-ments discerned. This research illuminates the superior material prop
--
-erties of HfO2, such as its higher dielectric constant relative to SiO2 and its exceptional thermal stability, which significantly contribute to its 
-Table 1 Simulated Parameters for TOPCon [27], The various materials in the table are distinguished by their unique electrical properties, which impact their perfor
--
-manc

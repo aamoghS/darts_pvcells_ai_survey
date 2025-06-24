@@ -1,7 +1,0 @@
-the materials and interfaces within the solar cell structure. Overall, these metrics affirm the high performance and efficiency of the investigated 
-Fig. 7.The figure presents current-voltage (J–V) characteristics of TOPCon solar cells with different passivation layers. (a) Shows a cell with a Silicon Dioxide (SiO2) passivation layer, and (b) shows a cell with a Hafnium Oxide (HfO2) passivation layer, each with a thickness of 1.2 nm. 
-Fig. 6.The schematic a) HfO
-2 
-and b) SiO
-2 
-band diagram o

@@ -1,3 +1,0 @@
-� lms deposition. The oxidation was performed in a preheated quartz tube furnace at 700 °C for only 150 s in O 2  atmosphere, resulting in a tunnel SiO 2  thickness of ≈1.2 nm. The passivation quality of the TiO 2  and SiO 2 /TiO 2  layers was quantiﬁ ed in terms of the effective lifetime (τ eff ) and effective surface recombination velocity ( S  eff ), which is calculated from  τ  eff  by the expression: [ 21 ]  
-112effbulkeffSWττ=+
-  (1)  with  τ  bulk  being the  c -Si bulk lifetime

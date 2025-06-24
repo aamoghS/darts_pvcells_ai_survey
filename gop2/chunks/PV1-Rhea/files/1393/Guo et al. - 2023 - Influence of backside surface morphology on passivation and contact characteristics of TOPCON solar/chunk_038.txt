@@ -1,3 +1,0 @@
-g can significantly change the surface roughness of silicon wafers, but the surface roughness of acid-polished samples is significantly lower than that of alkali-polished samples. After acid polishing, the shape of the pyramid of the sample has changed, and the sharp pyramid tip disap
--
-pears and becomes a sloped hill, similar to a rounded pyramid. As the weight reduction increases, the slope becomes smaller, the sharpness of the peak decreases, and the flatness of the surface increases. With th

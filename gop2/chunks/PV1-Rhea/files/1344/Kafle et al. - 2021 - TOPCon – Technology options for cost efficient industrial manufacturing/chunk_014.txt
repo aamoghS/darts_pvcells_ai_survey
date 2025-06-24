@@ -1,3 +1,0 @@
- ISE, we first discuss the up-to-now industrialized LPCVD based process routes for the TOPCon concept. We then outline and discuss status of various alternative technologies. Based on the results of the production readiness, we perform cost of ownership (COO) calcu
--
-lations of different amorphous silicon (a-Si) deposition technologies, with the intent of identifying and outlining technologically feasible process routes for the industrial TOPCon solar cell architecture, and analyze their competi

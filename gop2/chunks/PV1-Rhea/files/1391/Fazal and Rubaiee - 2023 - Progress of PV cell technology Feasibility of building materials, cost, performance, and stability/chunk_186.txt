@@ -1,2 +1,0 @@
-.org/10.1016/j.solmat.2022.111867. M.A. Fazal and S. Rubaiee                                                                                                                                                                                                                   
-[62]Yousuf, E.H., Khokhar, M., Chowdhury, S., Pham, D.P., Kim, Y., Ju, M., Cho, Y., Cho, E., Yi, J., 2021. A Review on TOPCon Solar Cell Technology. Current Photovoltaic Research. 9, 75–83. https://doi.org/10.21218/CPR.2021.9.

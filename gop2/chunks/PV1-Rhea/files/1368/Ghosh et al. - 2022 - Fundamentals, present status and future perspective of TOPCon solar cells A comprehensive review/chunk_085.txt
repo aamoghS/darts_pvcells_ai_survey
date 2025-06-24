@@ -1,3 +1,0 @@
- of electron-hole pairs upon light exposure and easy transportation of these photo-generated carriers into external circuit. In other words, improving the surface passivating quality and enhancing the optical confinement inside the absorbing layers of the solar cells may result in developing high efficiency TOPCon solar cells. The improvement in the passivating quality of TOPCon structure may be realized by improving the quality of ultra-thin SiO
-x 
-tunnelling layer and doped poly-Si layer. Besi

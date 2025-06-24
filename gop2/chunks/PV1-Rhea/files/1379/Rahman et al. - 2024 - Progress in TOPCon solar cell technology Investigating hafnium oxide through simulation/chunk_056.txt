@@ -1,3 +1,0 @@
-mula
--
-tion effort was underscored by the objective to assess the impact of these refractive indices on the solar cell’s light absorption, charge carrier generation, and overall efficiency. To ensure the reproducibility and validity of our findings, the simulation parameters, including the structure definition, material properties, boundary conditions, and light source configuration, were meticulously documented. 3.2.Simulation of TOPCon solar cell for SiO2 and HfO2 passivated layer The simula

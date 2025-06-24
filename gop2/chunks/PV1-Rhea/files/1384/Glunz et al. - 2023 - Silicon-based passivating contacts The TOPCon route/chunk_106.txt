@@ -1,7 +1,0 @@
-ionofalow-resistivecontacttotheholetransportlayerofthetopcell,doesnotsignificantlyincreasetheresistanceofthepoly-Si(n+)/SiOxpassiv-atingcontact(TOPCon).Asaresult,fortheSiTJroutewithFA,very
-lowρc≈10mcm2wereobtainedatTRTP=800C,
-113
-andρc<100mcm2wereachievedoverawiderangeofTRTP.
-114
-Thisisaverypromisingresult,sinceitleavessomeroomforoptimizingthe
-combinationofpoly-Si/SiOxpassivatingcontacts(TOPCon)andthePERCtechnologytoformanefficientbutlow-cost,industrial-feasibleSibottomcellfortandemapplic

@@ -1,2 +1,0 @@
-
-ation, are important features of TCDs that render them vast research and practical application areas of interest as dopant-free CSCs. While doped a-Si:H passivation layers may be highly effective, parasitic absorption losses are very significant in contrast to dopant-free CSCs. Furthermore, in a diffused junction a high doping concentration is needed to overcome strong interface-related Fermi level pinning (FLP). Otherwise, dopant-free CSCs are essential to combat FLP effects [8,30,43,40,55,56]

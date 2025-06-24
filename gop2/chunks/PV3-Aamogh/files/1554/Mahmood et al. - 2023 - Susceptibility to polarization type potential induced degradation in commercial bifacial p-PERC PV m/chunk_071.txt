@@ -1,5 +1,0 @@
-inovic,M,DeCeusterD,etal.Thesurfacepolarizationeffectinhigh-efficiencysiliconsolarcells.In15thPVSEC;2005.17.PingelS,FrankO,WinklerM,etal.Potentialinduceddegradationofsolarcellsandpanels.In201035thIEEEPhotovoltaicSpecialists
-Conference,2010:002817-002822.18.BouaichiA,MerrouniAA,elAmraniA,etal.Long-termexperimentonp-typecrystallinePVmodulewithpotentialinduceddegradation:impactonpowerperformanceandevaluationofrecoverymode.
-RenewEnergy.2022;183:472-479.doi:
-10.1016/j.renene.2021.11.031
-19.DhimishM,B

@@ -1,7 +1,0 @@
- to develop TOPCon solar cells with a power conversion efficiency of beyond 20%. Nevertheless, according to the study, further improvement in the texturization of the samples may lead to maximize the efficiency potential of the solar cells. Eventually, the best practical solar cell based on n-type multicrystalline silicon demonstrated a conversion efficiency of 19.3% with V
-oc 
-=663.01 mV, J
-sc 
-=38.04 mA/cm
-2
-, and FF =76.39%. The reason for obtaining low FF may be attributed to the large serie

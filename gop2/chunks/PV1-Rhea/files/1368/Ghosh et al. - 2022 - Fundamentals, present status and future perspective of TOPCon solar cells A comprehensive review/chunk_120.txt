@@ -1,9 +1,0 @@
- on the homogeneity of the interfacial oxide layer was clearly visible in TEM investigation techniques. The study revealed that more homogeneity at Si/SiO
-x 
-interfaces was obtained for the annealed sam
--
-ples where as the non-annealed samples resulted the presence of in
--
-homogeneity with a depth of about 5 nm. Besides, ToF-SIMS measurements demonstrated that the first few atomic layers in the Si substrate contained lower oxygen content. Finally, bias dependent spe
--
-cific transfer resistance p

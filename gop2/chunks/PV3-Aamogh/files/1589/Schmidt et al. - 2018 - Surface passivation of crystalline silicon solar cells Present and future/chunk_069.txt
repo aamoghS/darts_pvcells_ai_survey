@@ -1,6 +1,0 @@
-ndWp+isthewidthoftheAl-p+region.Sincethecontactresistance
-=
-+ρ
-qpW1pc0p
-(10)isinverselyproportionaltotheequilibriummajoritycarriercon-centrationp0,theselectivitySasgivenbyEq.(8)isproportionaltop0/n0.InEq.(10),µpdenotestheholemobilitywithintheAl-p+region.
-Table2ExperimentalrecombinationcurrentdensityparametersJ0,handcontactresistancesρc,hofhole-selectivecontactstakenfromthegivenreference.TheresultingselectivitiesS10,h,themaximumecienciesηh,maxandtheeciency-maximizingcontactingareafh,maxare

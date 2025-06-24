@@ -1,5 +1,0 @@
-.44 eV are 0.0749 eV, 0.0827 eV, 0.0794 eV and 0.0794 eV, respectively. According to Eq. (3), the electron concentration reaches its minimum when the band gap width is 1.22 eV. With the increase of the band gap width of poly-Si, the value of (E
-fp
--E
-v
-) shows an increasing tendency and the hole concentration decreases. According to the energy band diagram of illumination shown in Fig. 3, when the band gap of poly-Si is small, the bending of valence band at the interface between poly-Si and mono

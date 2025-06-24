@@ -1,7 +1,0 @@
-lver reduction for iTOPCon rear side metallization, Sol. Energy Mater. Sol. Cells 266 (2024)
-.
-[18]
-S. Guo, G. Gregory, A.M. Gabor, W.V. Schoenfeld, K.O. Davis, Detailed investigation of TLM contact resistance measurements on crystalline silicon solar cells, Sol. Energy 151 (2017) 163–172
-.
-[19]
-S. Duttagupta, F. Ma, B. Hoex, T. Mueller, A.G. Aberle, Optimised antireflection coatings using silicon nitride on textured silicon surfaces based on measurements and multidimensional modelling, Energy

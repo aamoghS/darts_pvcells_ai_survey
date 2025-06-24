@@ -1,9 +1,0 @@
-hick PECVD-SiO
-x 
-layer may act not only just as an anti-reflection layer, but as a barrier layer to protect the TCO from impurity diffusion due to the Cu plating. Never
--
-theless, mainstream industry production is evolving to higher efficiency PERC cell technology, and additional cost reductions, as well as further efficiency advancements, are expected from bifacial cell designs, and tandem stacked cell architectures [170]. The SiO
-2
-/SiN
-x
-:H passivation stack for c-Si solar cell front contact

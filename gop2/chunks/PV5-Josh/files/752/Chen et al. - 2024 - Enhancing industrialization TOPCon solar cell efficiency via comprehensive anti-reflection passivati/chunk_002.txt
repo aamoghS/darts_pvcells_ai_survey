@@ -1,5 +1,0 @@
-ss before depositing silicon nitride on alumina, aiming to enhance the quality of the alumina layer and improve overall passivation. In the case of the rear film, we introduce a NH
-3 
-plasma treatment to elevate hydrogen content of SiN
-x
-. These additional hydrogens diffuse into the interfacial silicon oxide during the firing process to help reduce the number of surface dangling bonds and inhibit the degradation of the passivating contacts, which significantly contributes to enhanced passivation

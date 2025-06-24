@@ -1,4 +1,0 @@
-inuous exploration and refinement of band engineering techniques are pivotal for advancing TOPCon cell technology towards greater effi
--
-ciencies and broader commercial applications in renewable energy contexts [12]. 
-Fig. 1.Schematic of TOPCon Solar Cells with differing tunnel oxide layers: (a) employs Silicon Dioxide (SiO2), (b) uses Hafnium Oxide (HfO2). In the schematic of TOPCon Solar Cells, replace Hafnium Oxide (HfO2) with Silicon Dioxide (SiO2) to reflect the use of a more conventional t

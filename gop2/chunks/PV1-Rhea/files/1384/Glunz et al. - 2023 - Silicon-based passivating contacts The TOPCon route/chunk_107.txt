@@ -1,7 +1,0 @@
-ost,industrial-feasibleSibottomcellfortandemapplication(TOPerc).Similarly,Haugetal.
-usedexsitu(oxidation)andinsitu(carbonalloying)treatmentsatthe
-SiTJinterfacetopreventdopantinterdiffusionandachievedρcvaluesaslowas7mcm2.
-115
-Further,byusingawet-chemically(HNO3)grownSitunnelingoxide,aSiTJwithgoodsurfacepassivation(iVoc=711mV)andverylowρcdownto≈30mcm2wasachievedwiththehighlydesirable“fired-SiTJ”processroutecomprisingonlyasinglerapidpost-depositionthermaltreatmentatTRTP=850C.
-114
-Inthene

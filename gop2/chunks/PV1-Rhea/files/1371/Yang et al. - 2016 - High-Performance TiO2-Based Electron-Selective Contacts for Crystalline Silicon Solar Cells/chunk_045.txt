@@ -1,3 +1,0 @@
-ivation of SiO 2 /TiO 2  stacks degrades at a high tem-perature (>350 °C) can be attributed to the reduced ﬁ eld-effect passivation of TiO 2  ﬁ lm due to the phase transformation.  We have demonstrated that ultrathin TiO 2  and SiO 2 /TiO 2  stack can provide high quality surface passivation on n-type 
-silicon surface, and next we will investigate the contact resis-
-tivity ( ρ  c ) at the n-Si/TiO 2  and n-Si/SiO 2 /TiO 2  heterojunctions. A structure (see Figure S3, Supporting Information

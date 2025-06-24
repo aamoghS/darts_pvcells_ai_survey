@@ -1,3 +1,0 @@
-hy on the passivation quality of TOPCon is shown in Fig. 6. It can be observed that both alkali pol
--
-ishing and acid polishing can improve the passivation characteristics of symmetrical samples. Compared with acid polishing, alkali polishing makes the surface smoother, and the quality and uniformity of the ultra- thin tunnel oxide layer are better, so the passivation characteristics are more advantageous [21,22,23]. The passivation characteristics become better as the etch weight loss increases

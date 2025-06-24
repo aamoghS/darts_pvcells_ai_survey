@@ -1,5 +1,0 @@
-vation for IBC-SHJ and TOPCon technologies. In sum, while single-layer (such as poly-Si) passivation was shown to be highly sus
--
-ceptible to degradation under high-temperature industrial firing con
--
-ditions, the solar cell performance parameters are more stable when using the appropriate passivating multilayered stack based on TCDs and/or TCOs. A thicker dielectric stack will reduce the effectiveness of field-effect passivation, as according to the simple model capacitor of Eq. 1, so that the 

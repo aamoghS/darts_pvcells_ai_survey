@@ -1,6 +1,0 @@
-
-and FF =80.28%) for the TOPCon solar cells featuring carbon free poly-Si layer. The improvement in V
-oc 
-and FF for carbon doped devices might be ascribed to the realization of superior passivation quality as stated above whereas the gain in J
-sc 
-might be attributed to the lower parasitic absorption of evanescent light due to the presence of wide band gap poly-SiCx layer. Furthermore, the study revealed the certified efficiency value of 23.82% for the TOPCon solar cells featuring carbon doped 

@@ -1,5 +1,0 @@
- in the process atmosphere. Cathode power, tray velocity and Ar and N
-2
- gas flows can be varied and we can therefore influence the composition of the sputtered TiN layer at a given cathode power by varying the N
-2
--to-Ar gas flow ratio. Additionally, ambient air can be let into the sputter chamber through a valve. Infrared (IR) heaters are installed close to the sputter chamber to allow preheating of the samples. The deposition temperature is measured with a Datapaq logger and thermocouples whi

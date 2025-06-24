@@ -1,7 +1,0 @@
-tact cell performance. Detailed characterizations are carried out to investi
--
-gate the underlying mechanisms of the films with the introduction of a- Si (i), including surface microscopy, active dopants profile, crystallo
--
-graphic structure, elemental distribution and electrical properties. The morphology of the poly-Si film has been investigated by scanning elec
--
-tron microscope (SEM) and optical microscope (OM) with different thicknesses of introduced a-Si (i) film, revealing the blistering

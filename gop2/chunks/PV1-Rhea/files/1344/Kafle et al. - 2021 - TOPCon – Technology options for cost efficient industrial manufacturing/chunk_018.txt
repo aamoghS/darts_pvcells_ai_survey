@@ -1,5 +1,0 @@
-vate the dangling bonds in Si–SiO
-2 
-interface [9,10]. Metallization is performed by screen-printing of Ag or Ag–Al grid on front and Ag-grid on rear considering bifacial application. The reference PERC cell is a p-type bifacial solar cell, featuring phosphorus (n
-++
-)-emitter, front and rear passivation layers and both-sided screen-printed contacts. Detailed process routes for the investigated cell types are outlined in respective sections of the paper. The bottom up total cost of ownership

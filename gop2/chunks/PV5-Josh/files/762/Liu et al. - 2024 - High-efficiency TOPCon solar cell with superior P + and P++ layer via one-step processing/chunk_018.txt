@@ -1,9 +1,0 @@
-ween p
-+
-and p
-++
-layers. Then, the influence of time and temperature on the diffusion characteristics of B atoms was analyzed and an optimization experimental scheme was proposed. The appropriate sheet resistance in p
-+
-layer and the optimum range of the junction depth in p
-++
-layer were determined. Using the optimized one- step B diffusion process, the batch efficiency of TOPCon +solar cells can achieve a gain of 0.1–0.3 %. 2.Molecular dynamics modeling Molecular simulation [19–22] stands 

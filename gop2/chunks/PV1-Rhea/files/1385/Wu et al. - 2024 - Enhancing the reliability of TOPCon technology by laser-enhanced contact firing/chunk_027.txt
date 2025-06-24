@@ -1,3 +1,0 @@
-tification of contact resistances involved utilizing the transfer length method (TLM) facilitated by a PV-tools TLM-SCAN+. Measure
--
-ments were conducted before and after subjecting the cells to a 20-h accelerated DH85 test. Moreover, a Zeiss 550 Crossbeam cryo-focused ion-beam scanning electron microscope (cryo-FIB-SEM) was utilized to obtain cross- sectional images for analyzing metal contacts. Operating at 1.5 nA, the SEM probe maintained a high-tension electron (EHT) voltage of 20 kV. In sta

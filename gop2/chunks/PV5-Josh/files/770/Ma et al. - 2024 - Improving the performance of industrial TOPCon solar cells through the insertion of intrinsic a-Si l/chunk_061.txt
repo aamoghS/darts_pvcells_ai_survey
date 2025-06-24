@@ -1,5 +1,0 @@
-from 23.58 % to 23.83 % as the a-Si (i) thickness increased from 0 nm to 20 nm. This improvement indicated that the introduction of a-Si (i) could substan
--
-tially enhance the electrical properties of TOPCon solar cells. On the other hand, when the thickness exceeded 20 nm, both the cell efficiency and V
-OC 
-slightly dropped (23.71 % and 23.43 %), potentially due to the blistering phenomenon of poly-Si discussed earlier in Fig. 3. Our research showed that when the thickness of introduced a-Si (i

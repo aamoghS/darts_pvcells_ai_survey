@@ -1,2 +1,0 @@
-nhetero-junctionsolarcells:areview,Green2(2012)7–24.[11]M.Tanaka,M.Taguchi,T.Matsuyama,T.Sawada,S.Tsuda,S.Nakano,H.Hanafusa,Y.Kuwano,Developmentofnewa-Si/c-Siheterojunctionsolarcells:ACJ-HIT(articiallyconstructedjunction-heterojunctionwithintrinsicthin-layer),Jpn.J.Appl.Phys.31(1992)3518–3522.[12]K.Yoshikawa,H.Kawasaki,W.Yoshida,T.Irie,K.Konishi,K.Nakan,T.Uto,
-D.Adachi,M.Kanematsu,H.Uzu,K.Yamamoto,Siliconheterojunctionsolarcellwithinterdigitatedbackcontactsforaphotoconversioneciencyover26%

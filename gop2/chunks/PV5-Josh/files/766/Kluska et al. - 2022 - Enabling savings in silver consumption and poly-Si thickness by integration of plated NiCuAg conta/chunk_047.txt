@@ -1,3 +1,0 @@
-kness on the TOPCon rear side for the case of plated metal con
--
-tacts. Microscopic analysis allowed to identify laser-induced nano structures within the LCO as crucial element to achieve contact adhesion of plated contacts on planarized surfaces. Furthermore, it could be shown that the application of current-induced annealing by the LECO process improves the contact resistance of plated contacts in TOPCon solar cells. Further investigations are necessary to characterize the rear side contact re

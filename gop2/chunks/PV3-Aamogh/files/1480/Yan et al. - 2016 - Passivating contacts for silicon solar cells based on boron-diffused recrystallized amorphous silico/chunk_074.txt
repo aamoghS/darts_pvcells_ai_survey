@@ -1,2 +1,0 @@
-alistsConference,1996,pp.457–460.[15]R.H.Cox,H.Strack,OhmiccontactsforGaAsdevices,Solid-StateElectron.10(12)(1967)1213–1218.[16]R.C.Jaeger,IntroductiontoMicroelectronicFabrication,Addison-WesleyPublishingCompany,1988.[17]D.Yan,A.Cuevas,Empiricaldeterminationoftheenergybandgapnarrowinginpþsiliconheavilydopedwithboron,J.Appl.Phys.116(2014)194505.[18]H.Steinkemper,F.Feldmann,M.Bivour,M.Hermle,Numericalsimulationofcarrier-selectiveelectroncontactsfeaturingtunneloxides,IEEEJ.Photovolt.5
-(2015)13

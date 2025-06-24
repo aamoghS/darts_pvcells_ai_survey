@@ -1,7 +1,0 @@
- is observed to be the Y-axis, Z-axis, Z-axis respec
--
-tively, as depicted in Fig. S1. It is evident that the diffusion of B atoms primarily occurs along the Z-axis. The reason for not observing a pre
--
-dominant Z-direction diffusion at 750℃ is attributed to the low tem
--
-perature which results in a lower B diffusion coefficient. Consequently, it becomes challenging for B atoms to spread towards Si along the Z-axis. Most of the displacement of B atoms occurs only inside the B source, as shown 

@@ -1,5 +1,0 @@
-icon passivating contact structure, when subjected to the firing process required for metallization, can suffer from substantial degradation in passivation quality [12]. To address this issue, a frequent practice is to shield the polysilicon with a hydrogen-rich SiN
-x 
-film, which effectively prevents the occurrence of passivation quality degradation and leads to a notable improvement in the overall passivation performance, due to the pres
--
-ence of hydrogen [13]. The significance of hydrogen co

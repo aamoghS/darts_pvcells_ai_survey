@@ -1,6 +1,0 @@
- been tested with glass cover and without glass cover yeilds instantaneous 
-efficiency of 51 % and 39 % with glass cover and without glass cover respectively.[4] A solar thermal 
-concentrator system has been proposed by Chung-Yu Tsai , Psang Dain Lin comprising a cylindrical heat-
-pipe receiver and a variable-focus-parabolic-trough (VFPT) reflector in which the focal length varies as a 
-function of the vertical displacement of the incidence point relative to the horizontal centerline of the 
-rec

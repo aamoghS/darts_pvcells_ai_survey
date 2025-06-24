@@ -1,3 +1,0 @@
-, industrial viability etc. [85,86]. Hence, maintaining the passivation quality of the TOPCon structure even after high tem
--
-perature firing process is a challenging task. To conquer this challenge Polzin et al. investigated the thermal stability of both hydrogenated (by various ways) and non-hydrogenated TOPCon structure and the study revealed that hydrogenated TOPCon structure which featured no capping layer might lose some part of its passivation quality upon thermal treatment [87]. This phe

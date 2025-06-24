@@ -1,7 +1,0 @@
- that the removal of sharp pyramid apexes and reduction of texture slopes can also improve metal contact passivation properties. The E4 and P4 samples with the largest weight loss achieved the largest J
-0, metal
-, which were 51.46 and 41.77fA/cm
-2
-, respectively. This is almost a third of the J
-0, metal 
-of the texturing sample. This indicates that the adjustment of the surface topography has a much greater effect on the passivation performance of the metal contact area than that of the non-meta

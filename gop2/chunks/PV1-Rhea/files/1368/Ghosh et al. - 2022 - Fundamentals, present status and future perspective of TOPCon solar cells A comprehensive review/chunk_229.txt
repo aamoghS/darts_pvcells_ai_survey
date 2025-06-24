@@ -1,5 +1,0 @@
- doped poly-Si layer during the high temperature firing process (can protect the passivation quality up to 825
-◦
-C). 6.4.Metallization and rear side light management Passivating quality of TOPCon structure should not be altered due to the realization of metal contacts onto it. Hence, metal contacts on the TOPCon structure should be deposited in such a way so that the possi
--
-bility of damages due to the metallization gets reduced. Therefore, Feldmann et al. first used thermally evaporated Ti/P

@@ -1,4 +1,0 @@
-                                                                                                        
-where 〈〉pairs should average all atoms in the group, and N corresponds to the number of atoms in the group. In this study, based on the principles of the fluctuation–dissipation theory in statistical mechanics, two equivalent formulas can be employed to determine the diffusion coefficient (D) (m
-2
-/s) in molecular dynamics simulation. The first method involves the Einstein relation, whi

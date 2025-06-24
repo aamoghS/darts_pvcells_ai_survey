@@ -1,7 +1,0 @@
-s was found to be increased with the increment of annealing temperature, converged well with the other reports [47,48]. Furthermore, Tetzlaff et al. revealed that pinhole densities had strong impact on the saturation current densities (J
-0
-) and J
-0 
-was found to be increasing in nature with the increment pinhole densities [49]. The trend of this increasing nature of J
-0 
-with pinhole densities was found to be more prominent at higher pinhole density values [6,50–52]. Huang et al. in their exp

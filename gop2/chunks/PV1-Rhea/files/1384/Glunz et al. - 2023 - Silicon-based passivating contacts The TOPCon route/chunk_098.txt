@@ -1,7 +1,0 @@
-ersmustallow(i)excellentpassivationofthe
-c-Sisurface,(ii)lowcontactresistanceatthepoly-Si/c-Sicontact,(iii)lowresistanceatthepoly-Si(p+)/poly-Si(n+)tunnelingjunction,and(iv)lowcontactresistancebetweenthetunnelingjunctionand
-thefirstlayerofthetopcell.ThestructuretodeterminethecontactresistancesisshowninFigure
-12B
-.TwoprocessrouteshavebeenevaluatedtoformtheSiTJasshowninFigure
-12A
-.InthestandardSiTJroute,theSiTJisformedbydepositinga-Si:H(p+)onn-TOPCon,followedbyarapidthermalprocessstep(RTP)tocrysta

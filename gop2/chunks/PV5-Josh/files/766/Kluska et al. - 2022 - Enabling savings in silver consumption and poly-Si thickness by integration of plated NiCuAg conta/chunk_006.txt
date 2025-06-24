@@ -1,5 +1,0 @@
-a [9] and Grübel [10] also indicate that the application of plated contacts could enable to reduce the poly-Si thick
--
-ness of the TOPCon rear side enabling further reductions in production cost by increased throughput of the poly-Si deposition. This work demonstrates the application of laser structured and plated metal contacts on industrial type bifacial TOPCon solar cells with decreased poly-Si thickness on the TOPCon rear side down to approxi
--
-mately 60 nm. Furthermore, the aim of this wor

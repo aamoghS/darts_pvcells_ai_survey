@@ -1,9 +1,0 @@
- 67.26fA/cm
-2
-, iVoc ~ 740 mV) and contact characteristics (
-
-c, B 
-~ 1.67mcm
-2
-), and achieve the highest average cell efficiency (24.05%).   
-1.Introduction At present, the efficiency of P-type PERC cells exceeds 23%, which is close to its efficiency limit, so the process of improving efficiency is slowing down [27,50]. Based on the concept of carrier selectivity, the German Institute ISFH analyzed the theoretical limit efficiencies of PERC, HIT, and TOPCon cells of 24.5%, 27.5%, and 28.7%, 

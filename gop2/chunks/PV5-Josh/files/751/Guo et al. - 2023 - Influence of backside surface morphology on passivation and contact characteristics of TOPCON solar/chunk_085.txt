@@ -1,5 +1,0 @@
-recursor structure samples.  
-Table 2 I-V parameters of Texture, Acid polishing, Alkali polishing,TOPCon cells.   
-Uoc （（mV）） Jsc（（mA/ cm
-2
-）） Rs （（m）） FF （（%）） Eff （（%）） Texturing sample 701  40.77  3.23  83.52  23.87 Acid polishing sample 706  41.05  3.49  82.99  24.05 Alkalipolishing sample 710  41.32  7.23  80.86  23.72  C. Guo et al.                                                                                                                       

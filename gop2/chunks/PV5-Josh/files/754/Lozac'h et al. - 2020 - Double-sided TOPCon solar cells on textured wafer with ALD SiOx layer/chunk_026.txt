@@ -1,3 +1,0 @@
--Si compared to the one of the bulk c-Si, the poly-Si does not present a clear organization such as the bulk, which confirms the “not completely” crystallized nature of the poly-Si layer [18]. Fig. 1e and Fig. 1f show the (p) stack after high-T annealing on textured c-Si surfaces. Here, the main advantage of the ALD technique is underlined with a uniform SiO
-x 
-layer even at the bottom of the textured valley (Fig. 1e). The magnification (Fig. 1f) underlines also a poly-Si nature with random 

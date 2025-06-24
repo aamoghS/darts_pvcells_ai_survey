@@ -1,5 +1,0 @@
-evelopedandimplementedintohighefciencysiliconsolarcells.In2014,a-Si:H-basedCSCsdemonstrated
-spectacularperformanceinPanasonic’scurrentworld-record25.6%heterojunctioninterdigitatedback-contact(IBC)cell[10].Recently,n-typesiliconsolarcellsfeaturinganelectron-selective
-SiO2/nþpc-Sicontactattherearandadiffusedfrontpþemitterhavebeenachievedaremarkablyhighefciencyof24.9%[12].Additionally,anorganic-basedhole-selectivecontact,poly(3,4-
-ethylenedioxythiophene):poly(styrenesulfonate)(PEDOT:PSS),
-has

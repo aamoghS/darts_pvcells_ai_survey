@@ -1,8 +1,0 @@
-ainedintheasdepositedstate.ThermalprocessingleadstoPdiffusioninbothdirections,intothec-SiabsorberandintotheSi(p+)region.Diffusionintothec-Sisubstrate(right)isnecessarytosomeextentforcontact
-formation.Itiscontrolledbytheinterfacialoxide,whichactsasadif-fusionbarrierforPaspointedoutinsection
-3
-.Pisknowntopile-upatSi/SiOxinterfaces.
-88,90
-Asasharp/abrupttransitionbetweenp+andn+necessarytoformaSiTFwithanarrowdepletionwidthisdesirable(Figure
-13B
-),dopantexchangeofthen+andp+regionsshouldbepreventedasm

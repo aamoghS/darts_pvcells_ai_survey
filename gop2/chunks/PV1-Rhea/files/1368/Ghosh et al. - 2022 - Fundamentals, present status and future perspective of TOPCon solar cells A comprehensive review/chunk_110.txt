@@ -1,9 +1,0 @@
-developed by other methods. Apart from the above mentioned methods, plasma enhanced atomic layer deposited (PE-ALD) was also used to develop ultra-thin hydroge
--
-nated silicon oxide layer (SiO
-x
-:H) [41]. In this study, passivation prop
--
-erty of stack layers consisting of plasma enhanced atomic layer deposited (PE-ALD) ultra-thin hydrogenated silicon oxide layer (SiO
-x
-:H) and plasma enhanced chemical vapor deposited (PECVD) hydrogenated amorphous silicon [either intrinsic (a-Si:H) or doped (p-

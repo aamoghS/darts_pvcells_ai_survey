@@ -1,9 +1,0 @@
-oly-Si layer as 10
-19
-cm
-�3
-. On the other hand, by using ATLAS TCAD simulation tool, Verma et al. also observed that the distribution of electric field in the tunnel oxide region in TOPCon solar cells is strongly dependent on the thickness of the ultra-thin tunnel oxide layer [103]. In the study, the thickness of SiO
-x 
-tunnel oxide layer was varied from 0.2 nm to 1.4 nm and the electric field was found to be increased upon decreasing the oxide layer thick
--
-ness. Actually, the reduction of o

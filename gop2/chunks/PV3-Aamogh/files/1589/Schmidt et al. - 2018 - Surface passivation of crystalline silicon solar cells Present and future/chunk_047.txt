@@ -1,2 +1,0 @@
-li-
-cationtotherearsurfacepassivationofindustrialPERCsolarcells.Al2O3canbedepositedbyvarioustechniques,suchasatomiclayerdeposition(ALD)leadingtothebestpassivationproperties[42,43],plasma-enhancedchemicalvapordeposition(PECVD)[32,44,49,50],inductivelycoupledplasma(ICP)deposition[51],atmosphericpressurechemicalvapordeposition(APCVD)[10,52],orreactivesputtering[45].ItwasdemonstratedtobeideallysuitedtotherearpassivationofPERCsolarcells,astheabove-mentionedparasiticshuntingiscom-pletelyabsent–thank

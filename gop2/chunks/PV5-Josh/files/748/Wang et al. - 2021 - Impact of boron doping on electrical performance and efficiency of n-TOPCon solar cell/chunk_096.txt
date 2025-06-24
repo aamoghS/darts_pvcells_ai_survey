@@ -1,3 +1,0 @@
-rrent density was analyzed via simulation (Fig. 11). Based on the Yablonovitch limit of 46.43 mA/cm
-2
-, the light-trapping ability of the solar cell may be estimated (Yablonovitch, 1987). From emitters D1–D3 (Fig. 11a-c) and N1–N2 (Fig. 11d-e), there were three main losses: one was the “blue loss” and the other “base collection loss.” Both losses lead to low short-circuit values. In this study, the recombination-induced current loss was due to the finite diffusion length in the emitt

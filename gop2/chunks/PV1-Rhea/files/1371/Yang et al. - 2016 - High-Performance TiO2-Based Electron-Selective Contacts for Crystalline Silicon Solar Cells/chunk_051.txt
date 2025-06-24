@@ -1,2 +1,0 @@
-SiO 2 /TiO 2  heterojunctions. Although a tunnel SiO 2  insertion between n-Si and TiO 2  interface may not change the energy barrier height (Figure  3 d),  ρ  c  increases slightly due to the presence of tunnel resistance. The relatively 
-large  ρ  c  at the n-Si/TiO 2  and n-Si/SiO 2 /TiO 2  heterojunctions might be attributed to the amorphous TiO 2  interlayer with a low conductivity. The cells featuring a full-area TiO 2  or SiO 2 /TiO 2  contact exhibit a low FF (<70%) before ﬁ nal FGA 

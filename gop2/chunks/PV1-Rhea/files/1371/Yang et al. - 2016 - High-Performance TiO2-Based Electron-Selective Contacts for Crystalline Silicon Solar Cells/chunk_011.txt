@@ -1,7 +1,0 @@
-icated with locally doped 
-or/and contact regions at front or rear sides. [ 1 ]  However, the approach used to realize localized contact and/or doped regions 
-for PERL and PERT cells requires cost-intensive processes, such 
-as high temperature diffusion followed by complex patterning 
-processes (e.g., photolithography, inkjet mask formation, laser 
-processes), which have limited the commercial success of these 
-high-efﬁ ciency cell concepts.  An alternative approach to achieve high PCE silicon

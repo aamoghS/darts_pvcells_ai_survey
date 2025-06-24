@@ -1,4 +1,0 @@
-orreversibleandirreversiblePIDofbifacialPERCsolarcells.SolEnergyMatersolCells.2021;219(September2020):110755.31.JonaiS,NakamuraK,MasudaA.Universalexplanationfordegrada-tionbychargeaccumulationincrystallineSiphotovoltaicmoduleswithapplicationofhighvoltage.ApplPhysExpress.2019;12(10):101003.doi:
-10.7567/1882-0786/ab3cf7
-32.LuoW,HackeP,TerwilligerK,etal.Elucidatingpotential-induceddegradationinbifacialPERCsiliconphotovoltaicmodules.ProgPhoto-voltaicsResAppl.2018;26(10):859-867.doi:
-10.1002/pip.3028

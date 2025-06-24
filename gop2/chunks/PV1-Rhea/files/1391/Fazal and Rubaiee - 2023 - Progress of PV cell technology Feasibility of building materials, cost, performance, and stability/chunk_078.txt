@@ -1,7 +1,0 @@
-d in Fig. 7. The highest cell efficiencies of sc-Si and mc-Si PV technologies are 26.1% and 23.3%, respectively. For second-generation technology as seen in Fig. 6b, the maximum and minimum cell effi
--
-ciencies are observed for GaAs and a-Si are 29.1% and 14%, respec
--
-tively. The cell efficiency in emerging (third generation) cell technology is maximum for perovskite (25.7%) and minimum for DSSC (13%). The first-generation and some second-generation cells having good effi
--
-ciency and performan

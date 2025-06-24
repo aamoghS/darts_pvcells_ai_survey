@@ -1,6 +1,0 @@
-dress: jameshong@ycit.cn (J. Hong).  
-Contents lists available at ScienceDirect 
-Solar Energy 
-journal homepage: www.elsevier.com/locate/solener 
-https://doi.org/10.1016/j.solener.2024.112448 Received 17 November 2023; Received in revised form 19 February 2024; Accepted 6 March 2024   
-diffusion phenomena. Molecular dynamics, on the other hand, provides a more intuitive portrayal of the complex mechanism and patterns of B atom migration [15], which can predict B atom diffusion characteristics at

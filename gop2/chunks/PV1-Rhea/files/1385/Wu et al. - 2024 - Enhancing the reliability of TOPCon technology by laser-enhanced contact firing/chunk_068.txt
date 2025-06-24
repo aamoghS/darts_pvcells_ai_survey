@@ -1,2 +1,0 @@
-rship. References 
-[1]F. Feldmann, M. Bivour, C. Reichel, M. Hermle, S.W. Glunz, A passivated rear contact for high-efficiency n-type silicon solar cells enabling high Vocs and FF>82%, in: 28th European PV Solar Energy Conference and Exhibition, 2013. [2]F. Feldmann, M. Simon, M. Bivour, C. Reichel, M. Hermle, S.W. Glunz, Carrier- selective contacts for Si solar cells, Appl. Phys. Lett. 104 (18) (2014) 181105, https://doi.org/10.1063/1.4875904, 2014-05-05. [3]F. Feldmann, M. Bivour, C. Reichel, 

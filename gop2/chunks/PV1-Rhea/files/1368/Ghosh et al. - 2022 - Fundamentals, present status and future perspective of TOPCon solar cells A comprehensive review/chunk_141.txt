@@ -1,9 +1,0 @@
-as ∼94 and ∼35% for “pinhole samples” and “tunneling samples”, respectively. According to Galleni et al., the dominant charge carrier transportation mechanism through the ultra-thin SiO
-x 
-layer was found to be dependent on the annealing temperature along with the formation process of SiO
-x 
-layer [57]. In the report, the authors revealed that relatively higher annealing temperature (850
-◦
-C to 950
-◦
-C) was required to enable the pinhole dominant transportation process of charge 

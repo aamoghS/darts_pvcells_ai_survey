@@ -1,3 +1,0 @@
-lengths is transmitted to the next subcells for further absorption. Despite the high fabrication cost, III-V tandem solar cell on silicon (III-V/Si) has already been proven as a reliable and high-efficiency technology potentially used in space and concentration PV applica
--
-tions [7,89]. At the initial stage, the III-V tandem devices have been exclusively used for space applications since the late 1990 s. The GaInP/ GaAs double junction (2 J) and GaInP/GaAs/Ge triple junction (3 J) throughout 19

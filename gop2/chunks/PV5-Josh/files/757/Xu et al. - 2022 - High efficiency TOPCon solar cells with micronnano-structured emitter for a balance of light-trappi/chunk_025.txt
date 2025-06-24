@@ -1,12 +1,0 @@
-pieces were randomly selected from each group solar cells before screen printing as lifetime samples. The effective minority carrier lifetime (
-
-eff
-), saturation current density (J
-0
-), and implied open-circuit voltage (iV
-oc
-) of lifetime samples were extracted from quasi-steady state photoconductance lifetime measure
--
-ment data (Sinton, WCT-120). Photoluminescence (PL) results of life
--
-time samples were used to indicate the passivation property and uniformity. External quantum efficiency (

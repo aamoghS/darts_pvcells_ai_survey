@@ -1,4 +1,0 @@
-s to the p-PERC technology under assumption of lower first year degradation of TOPCon cells based on n-type substrates and lower temperature coefficient of TOPCon (�0.34%/K) to PERC (�0.37%/K) modules. Assumption of a higher bifaciality of TOPCon concept (80%) to p-PERC (70%), signifi
--
-cantly increases the advantage in LCOE level for the former in utility scale installations under bifacial irradiation (Albedo: 0.2). The LCOE parameters are listed in Table 4. 
-Fig. 8.Process routes for bifac

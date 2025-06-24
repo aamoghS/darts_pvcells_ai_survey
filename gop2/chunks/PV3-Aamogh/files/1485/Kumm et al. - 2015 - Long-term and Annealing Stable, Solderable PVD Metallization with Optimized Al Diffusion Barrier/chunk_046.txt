@@ -1,6 +1,0 @@
-solder-joints on cells with the presented PVD metallization schemes is evaluated on module level by thermal cycling of respective demo modules.  
-380   Julia Kumm et al.  /  Energy Procedia   77  ( 2015 )  374 – 381 
- 
-Fig. 4: Photograph of a demo module consisting of 4 156 mm PERC cells with solderable PVD rear metallization. 
- 
-Fig. 5: Fill factor (left) and power output (right) of modules with cells with solderable PVD rear metallization (see Table 2 for metallization groups) compared to sc

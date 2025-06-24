@@ -1,5 +1,0 @@
- superior absorption of incident photons and the generation of more electron-hole pairs within the efficiency of the cell’s power conversion. This value signifies the squareness of the J�V curve, reflecting the efficiency and minimizing energy losses within the cell during power conversion. Open-circuit voltage (V
-oc
-), rated at 602 mV, indicates the maximum voltage achieved across the solar cell when no current flows through it. V
-oc 
-is influenced by various factors, including carrier reco

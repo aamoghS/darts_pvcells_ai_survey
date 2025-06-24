@@ -1,3 +1,0 @@
-ught to be the main causes of film blistering [43,44]. Several strategies have been proposed to mitigate this problem, including implementing a slow heat treatment to gradually release hydrogen during the annealing process [34], using Ar instead of H
-2 
-to control the H content or porosity of the film [33,35,45], and combining the elements carbon (C), nitrogen (N), oxygen (O), and phosphorus (P) into the polysilicon film during deposition [2,37,46–48]. To evaluate the influence of the poly-Si 

@@ -1,5 +1,0 @@
-y its intricate technological demands, exacting precision prerequisites, and substantial costs, thereby impeding its widespread implementation within the industrial sphere. In this paper, We initially simulate the diffusion process of B atoms within Si wafers at various temperatures and durations using the mo
--
-lecular dynamics method. Through simulation, we scrutinize the diffu
--
-sion behavior and thermal diffusion patterns of B atoms, ultimately calculating the diffusion coefficient of B in Si

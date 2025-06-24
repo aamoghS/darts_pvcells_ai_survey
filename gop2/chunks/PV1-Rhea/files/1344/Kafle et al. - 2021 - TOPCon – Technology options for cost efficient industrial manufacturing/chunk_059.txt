@@ -1,2 +1,0 @@
- (including busbar and fingers) for bifacial p-PERC and LPCVD TOPCon process routes. For p-PERC cells, it is assumed that total Ag consumption is dominated by the front-side (Ag fraction utilized for rear- tabbing kept constant), and aluminum consumption for the rear-side is kept unchanged for all scenarios. For p-PERC cells, laser contact opening (LCO) and regeneration processes are grouped under metallization category together with screen-printing and firing processes. 
-B. Kafle et al.        

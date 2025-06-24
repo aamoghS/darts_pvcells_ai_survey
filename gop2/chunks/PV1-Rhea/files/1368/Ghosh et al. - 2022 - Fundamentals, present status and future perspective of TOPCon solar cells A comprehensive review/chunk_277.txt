@@ -1,5 +1,0 @@
- concentration is required to obtain high lateral conductiv
--
-ity. Therefore, to reduce the power losses at the front emitter, the authors tried to optimize the emitter sheet resistance along with the distance between the metal fingers. Finally, the simulation results showed that an efficiency improvement of 0.4%
-abs 
-may be realized by using the highly resistive boron emitter combined with triangular-shaped front metal fingers with a reduced finger pitch of 0.5 mm. Optical simulations study per

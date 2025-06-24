@@ -1,6 +1,0 @@
-ce (PL) images of the monitors were also taken using the same BT Imaging equipment, revealing the passivation quality in metallized regions in terms of PL counts. Based on these counts, the findings of the lifetime measurements, and the method described in Ref. [35], J
-0 
-of the metallized regions (J
-0,m
-) was also 
-Fig. 1.a) Schematic (not drawn to scale) of the large-area bifacial n-TOPCon solar cells with a homogeneous diffused front emitter and screen-printed contacts. b) Process flow follow

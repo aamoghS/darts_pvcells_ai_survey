@@ -1,4 +1,0 @@
-
-m. Furthermore, the scanning electron microscope image reveals that the Si paste thickness exhibits excellent uniformity within the square area. To determine the optimal diffusion time and temperature, the sheet resistance on the Si wafer was tested using the four-probe test method under various diffusion temperature and time conditions. This testing further confirms the B concentration on the Si wafer after thermal diffusion. Si wafers processed below 750 
-◦
-C were not investigated since ins

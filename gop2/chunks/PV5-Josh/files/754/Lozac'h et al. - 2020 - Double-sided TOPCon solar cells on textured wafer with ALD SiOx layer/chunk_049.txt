@@ -1,9 +1,0 @@
-very high boron concentration at 5 �10
-21 
-at/cm
-3 
-is measured, higher that the limit of solubility into a silicon matrix [39], which can suggest the presence of a defective layer that can increase the series resistance. The FF of the fabricated solar cells are still relatively low at 0.71 for the optimized B
-2
-H
-6 
-flow. Thus, a DHF of 30 s is performed prior to the ITO deposition to remove the possible defective layer. The solar cell property with DHF step underlines a clear improvement of 

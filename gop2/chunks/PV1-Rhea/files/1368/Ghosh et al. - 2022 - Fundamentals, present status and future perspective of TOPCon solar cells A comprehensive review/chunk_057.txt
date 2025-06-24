@@ -1,4 +1,0 @@
-, the authors used atomic layer deposited 
-Fig. 4.Band diagram of different passivated contact technologies: (a) a-Si/c-Si heterojunction, (b) poly silicon with tunnel oxide, and (c) TOPCon [21].  
-Fig. 5.Schematic diagram of both-sided TOPCon solar cell based on p-type c-Si wafer [26]. 
-D.K. Ghosh et al.                                                                                                                                                                                                  

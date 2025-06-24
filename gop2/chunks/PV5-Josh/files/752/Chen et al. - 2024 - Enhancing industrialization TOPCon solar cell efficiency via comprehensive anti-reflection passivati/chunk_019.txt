@@ -1,7 +1,0 @@
-O
-x 
-with a tubular PECVD equipment (M82300-12/UM, Red Solar Photoelectric Technology Co., Ltd.), and in order to further enhance the film formation quality of AlO
-x
-, a N
-2
-O plasma treatment (plasma oxidation, PO) was set up for 120 s prior to the start of the process, and the specific process setup is shown in Table 1. The process involves heating precursor gases, which is then excited by pulsed radio frequency to create a glow discharge, forming a plasma. Two corresponding graphite sheets ar

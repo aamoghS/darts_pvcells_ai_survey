@@ -1,3 +1,0 @@
--1083/ab0fa8. [171]H. Park, et al., Role of polysilicon in poly-Si/SiOx passivating contacts for high- efficiency silicon solar cells, RSC Adv. 9 (40) (2019) 23261–23266, https://doi. org/10.1039/C9RA03560E. [172]A. Moldovan, F. Feldmann, M. Zimmer, J. Rentsch, J. Benick, M. Hermle, Tunnel oxide passivated carrier-selective contacts based on ultra-thin SiO
-2 
-layers, Sol. Energy Mater. Sol. Cells 142 (2015) 123–127, https://doi.org/10.1016/j. solmat.2015.06.048. [173]R. van der Vossen, F. Fe

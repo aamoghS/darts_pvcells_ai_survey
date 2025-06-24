@@ -1,9 +1,0 @@
-tance, with minimal values expected for thinner layers in general. Usually, the effect of oxygen vacancies is to modify the energy band structure and bandgap of TMOs to render them as n-type dielectrics. Nevertheless, Battaglia et al. [75] described a novel approach of using MoO
-x 
-as the hole-selective p-emitter for n-Si photovoltaics. On the other hand, MoO
-x 
-has also been success
--
-fully employed for p-Si photovoltaics as the hole collecting contact (p-BSF) [37]. Thus, MoO
-x 
-can be implemen

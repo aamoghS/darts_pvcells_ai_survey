@@ -1,5 +1,0 @@
-lyzing TOPCon solar cell performance. The evaluation of passivation quality for both the front and rear passivation film layers, both post-deposition and after the firing process, is conducted using implied open circuit voltage (iV
-oc
-). This parameter is obtained using Quasisteady-state photoconductance (QSSPC) measurements performed under 1-Sun equivalent light in
--
-tensity with a Sinton WCT-120 lifetime tester [20]. An ellipsometry (EMPro-PV, ELLITOP) is used to monitor the refractive index a

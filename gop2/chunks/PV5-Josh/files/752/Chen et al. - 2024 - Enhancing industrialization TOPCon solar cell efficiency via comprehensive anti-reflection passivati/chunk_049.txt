@@ -1,9 +1,0 @@
-action (a) and the effect on iV
-oc 
-values of final sample (b).  
-Table 3 Effect of PH treatment on electrical performance of TOPCon solar cells.   
-Quantity V
-oc 
-(mV) I
-sc 
-(A) FF (%) Eta (%) Untreated 4368 722.8 13.66 84.04 25.05 PH 4889 723.9 13.68 84.02 25.12  W. Chen et al.                                                                                                                                                                                                                            

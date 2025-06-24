@@ -1,5 +1,0 @@
-NPP cells in the short wavelength of 300–500 nm and medium-long wavelength of 700–1000 nm is higher than conven
--
-tional cells, showing excellent broadband spectral response capability, beneficial to improving the J
-ph 
-of solar cells. Unlike silicon wafer, the non-trivial transport and recombination losses of incident light in NPP cells are more complicated. Based on the optical loss model proposed by Bertrand et al. [43] and the measured EQE and reflectance data, the various optical loss p

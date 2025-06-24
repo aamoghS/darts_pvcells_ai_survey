@@ -1,6 +1,0 @@
-ncorporatednitrogenandinterfacialroughness.ApplPhysLett.1994;65(7):848-850.
-https://doi.org/10.1063/1.112980
-98.HarterA,PolzinJ-I,TutschL,etal.InfluenceofintrinsicsiliconlayerandintermediatesiliconoxidelayerontheperformanceofinlinePECVDdepositedboron-dopedTOPCon.IEEEJPhotovolt.2021;11(4):936-943.
-https://doi.org/10.1109/JPHOTOV.2021.3071220
-99.StuckelbergerJ,NogayG,WyssP,etal.Passivatingelectroncontactbasedonhighlycrystallinenanostructuredsiliconoxidelayersforsil-
-iconsolarcells.SolEnergyMaterSo

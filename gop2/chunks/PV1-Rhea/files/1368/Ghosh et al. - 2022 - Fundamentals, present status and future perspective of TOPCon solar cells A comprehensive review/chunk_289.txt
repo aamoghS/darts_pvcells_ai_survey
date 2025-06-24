@@ -1,3 +1,0 @@
- losses. Further optimization of the emitter region and front side grid pattern are required to enhance the possibility of receiving more power output. 8.Large area TOPCon solar cells To promote the fabrication of industrial standard large area TOPCon solar cells various investigations have been carried out since the development of TOPCon solar cells [43,86,111–126]. Firstly, in 2016, Tao et al. claimed that large area (239 cm
-2
-) TOPCon solar cells with ion-implanted homogeneous boron emitter

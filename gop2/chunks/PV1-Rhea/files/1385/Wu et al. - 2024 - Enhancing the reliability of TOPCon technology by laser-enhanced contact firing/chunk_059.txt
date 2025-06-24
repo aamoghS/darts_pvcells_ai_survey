@@ -1,7 +1,0 @@
-ntional pastes and firing. Solar cells were exposed to NaCl and underwent 20 h of damp heat testing under 85 
-◦
-C and 85% relative humidity (DH85). The baseline cells demonstrated rapid degradation, while JSIM cells only showed a minor drop in per
--
-formance. The contact resistance of the NaCl-exposed JSIM cells was relatively unaffected by after 20 h of DH85, while the NaCl-exposed solar cells contact resistance increased by over two orders of magni
--
-tude. Scanning electron microscopy confir

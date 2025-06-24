@@ -1,5 +1,0 @@
-Electrochem. Soc. 145 (1998) 3957, https://doi.org/10.1149/1.1838898. [39]J.A. Goleb, in: J.A. Dean, T.C. Rains (Eds.), Flame Emission and Atomic Absorption Spectrometry, Marcel Dekker, New York, 1975. [40]R.E. Walkup, K.L. Saenger, G.S. Selwyn, Studies of atomic oxygen in O
-2
-+CF
-4 
-rf discharges by twophoton laser induced fluorescence and optical emission spectroscopy, J. Chem. Phys. 84 (1986) 2668, https://doi.org/10.1063/1.450339. [41]L.G. Piper, W.T. Rawlins, O-atoms yields from microwave d

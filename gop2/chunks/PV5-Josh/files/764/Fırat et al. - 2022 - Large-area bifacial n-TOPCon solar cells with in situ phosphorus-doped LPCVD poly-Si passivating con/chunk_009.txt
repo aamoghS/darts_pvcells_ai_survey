@@ -1,7 +1,0 @@
-f the SiO
-x 
-and the Si, deposited either as poly-Si or as amorphous Si (a-Si), layers in a single step, current LPCVD-based approaches in the PV in
--
-dustry still do not exploit the full potential of this technique in terms of process simplicity. This is because the necessary phosphorus (P) doping 
-*Corresponding author. KU Leuven, Department of Electrical Engineering, Kasteelpark Arenberg 10, 3001, Leuven, Belgium. E-mail address: meric.firat@imec.be (M. Fırat).  
-Contents lists available at 

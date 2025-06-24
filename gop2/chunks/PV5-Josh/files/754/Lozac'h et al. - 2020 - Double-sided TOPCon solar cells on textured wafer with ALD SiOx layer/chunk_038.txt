@@ -1,9 +1,0 @@
-h a junction depth about 150 nm, as shown by the (p) poly-Si (22 nm) curve. The insertion of (i) a-Si:H layer (20 nm) with a thin (p) a-Si:H layer (2 nm) for the formation of (p) poly-Si significantly decreases the boron accumulation at the interface with SiO
-x 
-and also the junction depth. Only the front stack precursors (p) a-Si: H (2 �1 nm)/(i) a-Si:H (20 �1 nm)/SiO
-x 
-(0.6 �0.1 nm) are used for the solar cell devices. For B
-2
-H
-6 
-flows at 200 sccm, 50 sccm, and 5 sccm, the boron conce

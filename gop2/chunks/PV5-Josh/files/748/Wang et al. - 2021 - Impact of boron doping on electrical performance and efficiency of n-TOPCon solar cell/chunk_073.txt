@@ -1,8 +1,0 @@
-f) the 3D-plot of J
-0e, metal 
-as a function of the junction depth and the peak concentration of B-doped profile. 
-Q. Wang et al.                                                                                                                                                                                                                                   
-profiles were estimated, according to a graphical linear interpolation in Fig. 7f. The figure reveals a linear relationship between 
-
-c 
-and t

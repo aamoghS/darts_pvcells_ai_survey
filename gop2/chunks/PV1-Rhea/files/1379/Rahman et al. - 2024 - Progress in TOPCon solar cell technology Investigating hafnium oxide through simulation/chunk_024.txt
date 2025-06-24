@@ -1,3 +1,0 @@
-ically adjusting the physical and chemical characteristics of the hafnium oxide layer within solar cells to maximize its role in passivation. This opti
--
-mization process may involve calibrating the layer’s thickness, altering its dielectric constant for improved electrical insulation, and ensuring its bandgap effectively complements the silicon substrate to optimize the cell’s operational efficiency. These modifications are geared towards enhancing the solar cell’s electrical performance,

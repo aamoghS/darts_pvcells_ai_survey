@@ -1,3 +1,0 @@
-ed with Al, suggesting that the Al was corroded and oxidized by NaCl. This aligns with findings in the literature on Al alloy corrosion [42–45]. Due to the difference in electronegativity, Al exhibits a higher reactivity compared to Ag, potentially leading to galvanic corrosion within Ag/Al fingers [46]. As a result, under condi
--
-tions involving active anions such as chloride ions in the presence of water at elevated temperatures, Al readily undergoes oxidation. This results in the loss of Al

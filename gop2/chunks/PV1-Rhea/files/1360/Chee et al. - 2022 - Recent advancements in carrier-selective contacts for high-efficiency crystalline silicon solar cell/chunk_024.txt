@@ -1,6 +1,0 @@
-                                                                                                                  
-with process challenges, i.e., it might affect the properties of the ultra-thin a-Si:H(i) layers besides the stringent demands on the unifor
--
-mity of film deposition across the cells, recent years have seen the PCE climb as high as 21.4% and 24.7/25.1%, respectively, for the p-type [17] and n-type [18,19] bifacial cells, and 26.6% for the n-type IBC archi
--
-tecture [12]. Compared w

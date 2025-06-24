@@ -1,9 +1,0 @@
-c Science and Engineering, Changzhou University, Changzhou 213164, PR China 
-c
-Electrochemistry and Corrosion Laboratory, School of Mechanical Engineering and Rail Transit, Changzhou University, Changzhou 213164, PR China 
-d
-Shunfeng Photovoltaic Technology, Changzhou 213164, PR China 
-e
-Institute of Intelligent Flexible Mechatronics, Jiangsu University, Zhenjiang 212013, PR China   
-ARTICLE INFO  
-Keywords: TOPCon solar cell B-doped profiles Peak concentration Junction depth B-selective emitter

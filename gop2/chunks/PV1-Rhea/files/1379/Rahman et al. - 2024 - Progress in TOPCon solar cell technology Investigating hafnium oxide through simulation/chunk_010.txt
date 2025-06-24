@@ -1,6 +1,0 @@
-@skku.edu (J. Yi).  
-Contents lists available at ScienceDirect 
-Current Applied Physics 
-journal homepage: www.elsevier.com/locate/cap 
-https://doi.org/10.1016/j.cap.2024.04.001 Received 15 January 2024; Received in revised form 5 April 2024; Accepted 8 April 2024   
-[3]. A detailed study utilizing ATLAS Silvaco simulation software has underscored the potential of optimized HfO2 layers to markedly improve the performance of TOPCon solar cells. Through meticulous simulation, it has been establish

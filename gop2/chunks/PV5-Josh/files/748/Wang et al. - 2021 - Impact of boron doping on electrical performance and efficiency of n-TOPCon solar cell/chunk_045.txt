@@ -1,9 +1,0 @@
- paste were used for the front-side metal grid and the rear, respec
--
-tively. The 9-busbar (BB) configuration was used for both the front and rear sides. Then, the cells were manufactured by fast firing the wafer in a conveyor belt furnace at a peak firing temperature of 750 
-◦
-C. 2.2.Characterization The current–voltage (I–V) parameters were measured using a DENKEN tester after calibration by a Fraunhofer ISE standard cell. The implied V
-oc 
-(iV
-oc
-) values of the controlled samples were 

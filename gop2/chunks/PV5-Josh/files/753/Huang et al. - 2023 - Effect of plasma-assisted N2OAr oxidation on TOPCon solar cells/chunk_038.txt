@@ -1,9 +1,0 @@
-ed that the intensity of O emission line increases with the decrease of N
-2
-O/Ar flow ratio when N
-2
-O/Ar≥5:2 in Fig. 3(b). When the flow ratio of N
-2
-O/Ar reaches to 5:2, the dissociation of N
-2
-O is basically completed and the concentration of O atom reaches the maximum value. Meanwhile, the intensity of atomic O emission line reaches the maximum. Further increase of Ar flow can not increase the atomic O yield, but it will dilute the process gases and lead to the decrease of atomic O concent

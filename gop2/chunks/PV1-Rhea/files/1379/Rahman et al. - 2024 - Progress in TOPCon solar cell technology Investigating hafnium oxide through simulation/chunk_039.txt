@@ -1,5 +1,0 @@
- energy solutions. The band structure of n-type and p-type Tunnel Oxide Passivated Contact (TOPCon) solar cells plays a crucial role in understanding their elec
--
-tronic characteristics and charge carrier behavior [9]. It delineates en
--
-ergy levels within semiconductor materials, dictating the cell’s efficiency in converting solar energy into electrical power. In n-type cells, the conduction band accommodates electrons for free movement, while the valence band remains mostly unoccupied. Photo

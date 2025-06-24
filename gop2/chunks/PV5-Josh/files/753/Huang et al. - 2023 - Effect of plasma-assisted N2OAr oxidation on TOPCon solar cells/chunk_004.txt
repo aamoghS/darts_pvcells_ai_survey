@@ -1,5 +1,0 @@
-ar cells (i.e. TOPCon) based on doped polysilicon (n
-+
--poly-Si) layer and ultra- thin tunneling SiO
-x 
-layer are proved to be a promising technology for the next generation of highly efficient industrial silicon solar cells. It will replace the mainstream passivated emitter and back cell (PERC) and double-sided PERC +solar cell, thus attracting more and more attention [1–3]. The photoelectric conversion efficiency of lab-type POLO2 IBC and TOPCon cells are up to 26.1% or more [4,5]. A high qu

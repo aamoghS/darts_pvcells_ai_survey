@@ -1,5 +1,0 @@
-ults 3.1.Conformal coverage by ALD The transmission electron microscope (TEM) images in Fig. 1 present the principal advantage of the plasma assisted ALD technique: the conformal thicknesses of SiO
-x 
-deposited on both polished and textured surfaces are excellent with no thickness variation. Fig. 1a and Fig. 1b correspond to TEM images of (p) a-Si:H/SiO
-x 
-stack as-deposited and after thermal annealing at high-T, respectively, deposited on polished c- Si surfaces. For the samples on polished sur

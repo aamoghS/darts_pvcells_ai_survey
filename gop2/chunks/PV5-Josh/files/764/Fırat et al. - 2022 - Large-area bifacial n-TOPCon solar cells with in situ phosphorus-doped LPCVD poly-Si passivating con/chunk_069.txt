@@ -1,9 +1,0 @@
-he difference between FF
-0 
-and FF
-n 
-i.e., the loss due to recombination. This is expected given the relatively high r
-s 
-of 0.8 cm
-2 
-of the solar cells, which is attributed to issues during the screen-printing process mainly due to the use of aged Ag paste, resulting in quite regularly spaced finger interruptions at intervals of a few 100 nm as shown by the microscopy image in Fig. 4b). Poor quality of the metallization being the limiting factor for the FF is also demonstrated by the perfor

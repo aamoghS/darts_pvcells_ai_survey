@@ -1,2 +1,0 @@
-oped n++, the B- doped p++, and Al- BSF layer had a high J0 ≥ 25 fA/cm2 and TABLE     |    Combined selectivity S10,e&h, contact area fraction fe,max of electron- selective layer, contact area fraction fh,max of hole- selective layer, and maximum efficiency ηe,h,max, ηe,max, and ηb,e,h,m,max, are listed for all contact combinations of Tables5 and 6. These numbers are determined using Equations(4)(9).
-StructureHole layerElectron layerS10,e &hfe,max [%]fh,max [%]ηe,h,max [%]S10,b&e&hηb

@@ -1,3 +1,0 @@
-ciency,Appl.Phys.Lett.70(1997)1008–1010.[41]S.Dauwe,L.Mittelstädt,A.Metz,R.Hezel,Experimentalevidenceofparasitic
-shuntinginsiliconnitriderearsurfacepassivatedsolarcells,Prog.Photovolt.Res.Appl.10(2002)271–278.[42]G.Agostinelli,A.Delabie,P.Vitanov,Z.Alexieva,H.F.W.Dekkers,S.DeWolf,
-G.Beaucarne,Verylowsurfacerecombinationvelocitiesonp-typesiliconwaferspassivatedwithadielectricwithxednegativecharge,Sol.EnergyMater.Sol.Cells90(2006)3438–3443.[43]B.Hoex,S.B.S.Heil,E.Langereis,M.C.M.vandeSand

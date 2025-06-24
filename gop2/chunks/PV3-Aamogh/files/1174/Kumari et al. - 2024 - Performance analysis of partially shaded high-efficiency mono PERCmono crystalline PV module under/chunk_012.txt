@@ -1,23 +1,0 @@
-age. e IV characteristic of a whole PV module comes from the IV characteristics of the constituent solar cell.A typical currentvoltage (IV) and powervoltage (PV) curve of the cell, module, or array is shown in Fig.T2b. FigureT2b shows that both the curves IV curve does not have any multiple steps and the PV curve has (1)
-I
-=IL−Is
-
-
-
-(
-V
-+
-IR
-s)
-mnseVT
-−1
-
-−
-V
-s
-IR
-s
-Rsh
-Fig. 1.  Solar PV Global Capacity and annual addition from 2011 to  20211,2.
-(b)(a)
-Fig. 2.  (a) 

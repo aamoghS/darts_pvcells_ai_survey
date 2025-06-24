@@ -1,4 +1,0 @@
-datanegativevoltagebias,thecellsareatanegativebias,andtherearAlfoil(stressedside)isgrounded.Incontrast,thefrontAlfoil(unstressedside)iskeptatthesamepotentialasthecell,thatis,nega-
-tivebias.Duetomoduleunavailability,M-BwasreusedinRounds-3and4afterrecovery(ifapplicable).
-TABLE1
-Constructiondetailsofmodulesusedinthisstudy(GG=Glass-Glass;NF=NonFramed;F=Framed;TBS=TransparentBacksheet).ManufacturerModulenameNumberofmodulesModuleconstructionCelltype;dimensionsEncapsulantAMA4GG-NF(2*3.2-mmglass)PERC-72

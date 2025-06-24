@@ -1,5 +1,0 @@
-s shown in Fig. 5 (a) include photoanodes (e.g., mesoporous nanostructured TiO
-2
-), organic sensitizers (dye), electrolytes containing an iodide/triiodide redox couple and a counter electrode (e.g., Pt or carbon-based 
-Fig. 4.Schematic of a) amorphous silicon (a-Si), b) cadmium telluride (CdTe), c) copper indium gallium selenide (CIGS), and d) gallium arsenide (GaAs) cell structures. 
-M.A. Fazal and S. Rubaiee                                                                                       

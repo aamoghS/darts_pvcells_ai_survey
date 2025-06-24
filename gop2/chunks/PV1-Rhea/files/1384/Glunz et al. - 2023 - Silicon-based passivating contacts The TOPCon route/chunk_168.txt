@@ -1,7 +1,0 @@
-.JApplPhys.1993;73(12):8215-8220.
-https://doi.org/10.1063/1.353438
-104.HwangH,TingW,KwongD-L,LeeJ.AphysicalmodelforboronpenetrationthroughanoxynitridegatedielectricpreparedbyrapidthermalprocessinginN2O.ApplPhysLett.1991;59(13):1581-1582.
-https://doi.org/10.1063/1.106290
-105.WuY,NiimiH,YangH,LucovskyG,FairRB.Suppressionofborontransportoutofp[sup+]polycrystallinesiliconatpolycrystallinesili-condielectricinterfaces.JVacSciTechnolB.1999;17(4):1813-1822.
-https://doi.org/10.1116/1.590832
-106.KafleB,Ma

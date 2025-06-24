@@ -1,9 +1,0 @@
-rption (FCA) loss probably due to high doping, it is consistent with ECV profiles (Fig. 7a). From the above n
-+
--poly-Si layers data analysis, it can be concluded that the low doping concentration would lead to low FCA loss. A balance between the J
-sc 
-and FF is to find an appropriate doping concentration of n
-+
--poly-Si layer. 3.2.Selective poly-Si based passivating contacts 3.2.1.Preparation and simulation To select an appropriate n
-+
--poly-Si layers diffusion process, we fabricated five types

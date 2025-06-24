@@ -1,9 +1,0 @@
-ult in increased B atom diffusion from the source to the opposite side, leading to greater diffusion depth. Specifically, at 750 
-◦
-C and 850 
-◦
-C, B atom diffusion is relatively insignificant, with only a minimal number of atoms diffusing along the z-axis direction. The number of diffused B atoms is small, and the diffusion depth is shallow at these lower temperatures. In contrast, as the temperature increases to 950 
-◦
-C and 1050 
-◦
-C, the depth of B atom diffusion significantly increa

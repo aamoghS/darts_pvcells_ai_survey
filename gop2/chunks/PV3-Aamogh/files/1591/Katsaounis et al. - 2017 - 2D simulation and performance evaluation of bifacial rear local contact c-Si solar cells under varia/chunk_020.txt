@@ -1,8 +1,0 @@
-1�exp��VC
-VT(Vb+u)��:(8)3
-�Bottomside:z=w;x2(0;L),r���=�sn�;outsidecontact:ru��=�sn�;insidecontact:u=0;(9)whereVb=Vbias
-VC;�A=ni
-NA,j0=J0Ln
-qDpNAVT
-VCandsn=SLn
-Dn.2.1ThenumericalmethodWeusethe�niteelementmethodtosolvenumericallysystem(6)-(9).Theimplementationusing�niteelementswaschosenbecausetheFFTmethodusedin[25]doesnotallowmeshadaptation,hasslowerconvergencecomparedto�niteelementmethodandprovidesthesolutiononlyonthetopandbottomsurfaceofthedevice.Thenonline

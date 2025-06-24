@@ -1,2 +1,0 @@
-midtetal.Solar Energy Materials and Solar Cells 187 (2018) 39–5445
-4.Futuresurfacepassivationconcepts4.1.Poly-SilayersonoxideExcellentcarrier-selectivecontactsbasedonhydrogenatedamor-phoussilicon(a-Si:H)layersarewellknownandhaverecentlyledtothecurrentrecordeciencyforc-Sisolarcellsof26.7%[65,66].Thistypeofcarrier-selectivecontact,alsoknownasHIT(‘heterojunctionwithintrinsicthinlayer’)contact[137],isbasedonathinintrinsica-Si:H(i)layerplusathickerdopeda-Si:H(porn)layerontop.Inthisreview,wedon

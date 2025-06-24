@@ -1,3 +1,0 @@
-as local thickness reduction, formation of pinholes at the interfacial SiO
-x 
-tunneling layer due to the thermal treatment, even for the samples featuring excellent passivation quality. Consequently, transportation of charge carriers at poly-Si/c-Si junctions might be affected due to the localized current flow through the pinholes and the region of reduced thickness of tunneling layer. Hence, one may conclude that the lateral homogeneous tunneling is not solely responsible for the flow of charge

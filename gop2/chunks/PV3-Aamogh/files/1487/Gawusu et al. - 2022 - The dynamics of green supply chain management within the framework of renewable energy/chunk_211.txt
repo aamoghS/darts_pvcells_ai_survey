@@ -1,4 +1,0 @@
-nmanage-ment:ahistoricalperspectiveandpracticalguidelines.IndManageDataSyst.1999;99(1):11-17.
-710GAWUSUETAL.
-241.PopC,CioaraT,AntalM,AnghelI,SalomieI,BertonciniM.Blockchainbaseddecentralizedmanagementofdemand
-responseprogramsinsmartenergygrids.Sensors.2018;18(2):162.242.KaravasC-S,KyriakarakosG,ArvanitisKG,PapadakisG.Amulti-agentdecentralizedenergymanagementsystembasedondistributedintelligenceforthedesignandcontrolofauton-omouspolygenerationmicrogrids.EnergyConversManage.2015;103:166-179.243.Noo

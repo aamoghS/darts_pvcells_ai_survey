@@ -1,3 +1,0 @@
-l oxide capped by the polysilicon (poly-Si) layer is one of the most promising methods to realize carrier-selective contacts as it offers an evolutionary upgrade to the current mainstream PERC. Currently, PV industry is looking towards different technologically feasible options of transferring this cell concept from laboratory research towards industrial manufacturing. In this paper, we devise cost-driven stra
--
-tegies towards industrial manufacturing of TOPCon-based solar cells after assessing 

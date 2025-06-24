@@ -1,9 +1,0 @@
-hosphorus- doped a-Si/poly-Si layer (a-Si(n)/poly-Si(n)) is required to be depos
--
-ited on the rear side of the solar cell. Here, silane (SiH
-4
-) is used as a precursor for silicon deposition, optionally using diluted PH
-3 
-(in N
-2
-) to incorporate dopants in the layer. The layer properties are influenced by the deposition pressure, the silane concentration, the dopant content, and most significantly by the deposition temperature. For the identical process conditions, inclusion of doping gas sig

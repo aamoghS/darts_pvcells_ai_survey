@@ -1,7 +1,0 @@
- Ag/Al and Ag pastes were used as the finger of front and the rear metal grids, respectively. A 16-BB configuration was used for both the front and rear sides with floating busbar contact paste. The cells were then manufactured by fast firing in a conveyor belt furnace at a peak firing temperature of 735 ±5 
-◦
-C. 2.2.Characterization The current–voltage (I–V) parameters were measured using a Wavelabs tester. The implied V
-oc 
-(iV
-oc
-) values of the control samples were determined using a 

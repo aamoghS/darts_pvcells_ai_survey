@@ -1,7 +1,0 @@
-porating doped CSCs that elevate the PCE above 26% [12]. The SHJ cell technology has existed for the past few decades, e.g., with the early commercial application of hydrogenated amorphous sil
--
-icon (a-Si:H) layers pioneered by Sanyo Electric Company in 1980 [13], which then evolved into the heterojunction with intrinsic thin-layer (HIT) patented by Panasonic Inc. in 1991 [14], or that based on the polycrystalline silicon (poly-Si)/tunnel SiO
-x 
-layer passivated interdigi
--
-tated back contact (

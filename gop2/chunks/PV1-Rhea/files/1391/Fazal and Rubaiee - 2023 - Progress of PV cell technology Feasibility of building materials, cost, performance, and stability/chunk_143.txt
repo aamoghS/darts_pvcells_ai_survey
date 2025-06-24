@@ -1,5 +1,0 @@
-dered prom
--
-ising technologies for the next generation mainstream PV solar system.  ii) The module costs of PERC, SHJ, CdTe, and CIGS are approximate $0.25/watt, $0.27/watt, $0.28/watt, and $0.48/watt, respec
--
-tively. They are expected to be reduced further to $0.15/watt, $0.19/watt, $0.18/watt, and $0.1/watt accordingly by 2030. Some existing PV production is covered by III–Vs and perovskite technologies, which cost $100/watt and $0.38/watt in 2020 and are expected to be reduced to $0.29/wa

@@ -1,3 +1,0 @@
-25.8% [36]. The POLO-IBC with an interdigitated back contact structure combined with a passivation con
--
-tact structure achieved an ultrahigh efficiency of 26.1% [17]. BJ-FBC uses back-junction full-area passivation contacts on the basis of double-sided metal contacts, which have also been proven to achieve >26% efficiency [37]. In recent years, the efficiency of large-area Topcon solar cells used for mass production has also continued to break through, with the highest reported efficiency reach

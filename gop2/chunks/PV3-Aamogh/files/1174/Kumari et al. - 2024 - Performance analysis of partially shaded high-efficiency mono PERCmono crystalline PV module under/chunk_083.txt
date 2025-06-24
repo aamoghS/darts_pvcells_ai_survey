@@ -1,7 +1,0 @@
-. Likewise for PV curves, the 
-Table 2.  Performance parameters of the module tested at STC.
-ConditionShadingPmax (Watt)Eciency (η)Fill factor (F.F.)STCNo shading364.82218.55%76.14%
-Fig. 10.  Module PV response under shading percentage.
-12
-Scientific Reports |        (2024) 14:21587  | https://doi.org/10.1038/s41598-024-72502-z
-x-axis shows the voltage (V) and y-axis shows the power (P) measurements. Figure8 demonstrate the curves to be in perfect shape and no deviations from standard sha

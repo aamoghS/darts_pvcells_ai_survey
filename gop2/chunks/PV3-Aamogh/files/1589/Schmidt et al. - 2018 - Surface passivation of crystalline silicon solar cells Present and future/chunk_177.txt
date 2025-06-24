@@ -1,3 +1,0 @@
-75,pp.450–454.[69]J.Graul,A.Glasl,H.Murrmann,High-performancetransistorswitharsenic-im-plantedpolysilemitters,IEEEJ.Solid-StateCirc.11(1976)491–495.[70]I.R.C.Post,P.Ashburn,G.R.Wolstenholme,Polysiliconemittersforbipolartransistors:areviewandre-evaluationoftheoryandexperiment,IEEETrans.
-ElectronDev.39(1992)1717–1731.[71]J.Fossum,M.Shibib,Aminority-carriertransportmodelforpolysiliconcontactstosiliconbipolardevices,includingsolarcells,in:ProceedingsofInternational
-ElectronDev.Meeting,Washingt

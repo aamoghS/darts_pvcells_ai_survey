@@ -1,4 +1,0 @@
-n efﬁ ciency of 12.9% has been fabricated via the implementation of a hole-
-blocking TiO 2  layer. [ 19,20 ]  All of these observations suggest that   The main objective of technology development in the photo-voltaics industry is to increase the power conversion efﬁ ciency (PCE) and reduce production costs in order to reduce the cost/
-watt. The standard p-type silicon solar cell with a homogeneous 
-n +  emitter and aluminum back surface ﬁ eld (Al-BSF) has a PCE limit of ≈19% with the cur

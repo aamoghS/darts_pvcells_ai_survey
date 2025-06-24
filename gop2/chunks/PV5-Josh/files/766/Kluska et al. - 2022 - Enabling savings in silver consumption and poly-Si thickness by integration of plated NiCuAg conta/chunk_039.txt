@@ -1,8 +1,0 @@
-False color SEM images of laser contact openings with and w/o LIPSS on TOPCon surfaces with acidic emitter etch back (a/b) and alkaline etch back (c).  
-Fig. 5.Mean changes in FF and series resistance before and after current annealing (LECO).  
-Fig. 6.Measured changes in V
-oc
-, and R
-s 
-for each solar cell after LECO.  
-S. Kluska et al.                                                                                                                                                                 

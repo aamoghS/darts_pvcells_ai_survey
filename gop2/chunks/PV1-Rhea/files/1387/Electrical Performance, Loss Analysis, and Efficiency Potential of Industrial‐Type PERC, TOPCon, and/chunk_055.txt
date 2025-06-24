@@ -1,4 +1,0 @@
-TO layer, it can provide good 
-FIGURE     |    Schematic depiction of cell structure for PERC (A), TOPCon (B), and SHJ (C) structure cells.
-893
-Progress in Photovoltaics: Research and Applications, 2024conductivity, and then the corrosion of the paste on the a- Si:H/nc- SiOx:H(n+/p+) layers can be ignored. Therefore, the J0,metal value is zero, which is consistent with the highest Voc of SHJ solar cell. Meantime, the SiOx/n+- poly- Si layer also can pro-vide a good conductivity, and then the in

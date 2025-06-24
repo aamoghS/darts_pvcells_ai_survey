@@ -1,5 +1,0 @@
- I–V measurements [143] Algeria sc-Si 0.75 to 32 0.26–4.75 (P
-max
-) Delamination, discoloration, corrosion, cracks, broken glass, snails, soiling, and ARC degradation Visual inspection, I–V, and P–V measurements [144] India sc- and mc- Si 2.5 0.51 (P
-max
-) Snails, discoloration, hotspot, and ribbon weakening Visual inspection, thermal imaging, and indoor I–V [145] Italy mc-Si 3 – Snail trails, microcracks in cells, and fingers blackened Visual inspection, dielectric withstand, I–V,

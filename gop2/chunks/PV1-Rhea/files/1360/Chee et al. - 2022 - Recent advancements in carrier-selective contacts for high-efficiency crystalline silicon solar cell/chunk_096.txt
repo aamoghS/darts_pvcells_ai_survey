@@ -1,9 +1,0 @@
-nt SHJ technologies make use of a-Si:H (i) plus doped a-Si:H thin films to allow extremely low surface recom
--
-bination and effective carrier-selective collection, and this is capped with a TCO layer for enhanced lateral conductivity. Hence, within in
--
-dustrial frameworks, there is a prevalent need in the fabrication of carrier-selective TCOs. Commonly used wide bandgap TCO materials are doped CdO, Al-doped ZnO (AZO), In-doped SnO
-2 
-(ITO), Al-doped SnO
-2 
-(ATO), Ga-doped ZnO (GZO), and F-doped

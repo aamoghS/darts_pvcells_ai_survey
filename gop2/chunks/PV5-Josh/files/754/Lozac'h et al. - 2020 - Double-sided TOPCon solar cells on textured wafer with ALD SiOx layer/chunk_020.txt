@@ -1,9 +1,0 @@
- a 5.0 �5.0 cm
-2 
-substrate wafer. As described in the introductory part, the (p) poly- Si/SiO
-x 
-stack plays an important role in the passivation property. So, the dopant concentration in (p) poly-Si is controlled by the precursor film of the (p)/(i) a-Si:H stack, where the boron concentration is changed, as described above. The double-sided TOPCon structure as deposited is (p) a-Si:H (2 �1 nm)/(i) a-Si:H (20 �1 nm)/SiO
-x 
-(0.6 �0.1 nm)/c-Si/SiO
-x 
-(0.6 �0.1 nm)/(n) a-Si:H (22 �1 nm

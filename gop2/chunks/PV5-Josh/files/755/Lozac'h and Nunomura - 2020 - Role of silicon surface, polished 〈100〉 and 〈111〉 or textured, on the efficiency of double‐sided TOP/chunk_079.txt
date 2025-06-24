@@ -1,3 +1,0 @@
-eling.IEEETransElectronDevices.2001;48:1366-1373.11.NREL.Bestresearch-cellefficiencies:Rev.04-06-2020.2020.
-12.JaysankarM,RaulBAL,BastosJ,etal.Minimizingvoltagelossinwide-bandgapperovskitesfortandemsolarcells.ACSEnergyLett.2019;4(1):259-264.13.FeldmannF,BivourM,ReichelC,SteinkemperH,HermleM,GlunzSW.Tunneloxidepassivatedcontactsasanalternativetopar-
-tialrearcontacts.SolEnergyMaterSolCells.2014;131:46-50.14.LiuW,YangX,KangJ,etal.Poly-siliconpassivatingcontactsforsili-consolarcells:interfacepassiva

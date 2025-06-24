@@ -1,3 +1,0 @@
-rea rough surface silicon wa
--
-fers used in solar cell industrial production. The reason for this is that the passivation quality is sensitive to the thickness of the SiOx layer [21,22,23]. The increased roughness of the pyramidal Si(111) surface leads to more surface defects than the polished Si(111) surface, which in turn may affect the growth of the SiOx layer[33]. The pyramidal morphology of pyramidal tips, faces, edges, and valleys contributes to the SiOx inhomogeneity [3]. This causes the 

@@ -1,7 +1,0 @@
-with semi-textured and pol
--
-ished rear surfaces were prepared. The morphologies of a fully textured surface as a reference, and the semi-textured and the polished surfaces 
-Fig. 3.Reflectance (R) and external quantum efficiency (EQE) spectra of n-TOPCon solar cells with different poly-Si film thicknesses (t
-poly
-). The plot on the right- hand side shows a magnified version of the first plot in the wavelength range of 1000–1200 nm. 
-Fig. 4.a) Fill factor (FF) of the n-TOPCon solar cells with d

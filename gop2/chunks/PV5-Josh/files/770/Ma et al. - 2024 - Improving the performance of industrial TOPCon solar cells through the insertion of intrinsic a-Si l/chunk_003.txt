@@ -1,3 +1,0 @@
-ving excellent field-effect passivation and low contact resistivity in doped polycrystalline silicon (poly-Si) requires heavy phosphorus doping. However, this approach can lead to a predicament wherein excessive phosphorus diffuses into the silicon (Si) substrate during annealing, consequently causing recombi
--
-nation losses. In response to this challenge, a structure incorporating an intrinsic amorphous silicon (a-Si (i)) layer within the passivation layers has been introduced. The primary obje

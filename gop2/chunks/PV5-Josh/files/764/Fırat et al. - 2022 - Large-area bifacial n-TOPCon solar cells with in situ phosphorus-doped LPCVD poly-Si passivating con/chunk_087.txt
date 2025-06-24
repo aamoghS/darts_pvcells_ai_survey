@@ -1,9 +1,0 @@
-To understand this loss in V
-oc
-, PL images of monitor samples from the t
-poly 
-screening and rear surface morphology screening experiments were compared. The design of the monitors with regions of different metallization fractions (MF) is depicted in Fig. 7a). As shown in Fig. 7b), the non-metallized regions of the monitor from the t
-poly 
-screening experiment are uniformly passiv
--
-ated, while the monitor from the rear surface morphology screening experiment, depicted in Fig. 7c), has lower PL

@@ -1,16 +1,0 @@
- velocity reduced from a value of 10
-6
--10
-7 
-cm/s to 56cm/s) and lower 
-
-c 
-(reduced from 0.5 to 1.0.cm
-2 
-to a minimum value of ~20 m.cm
-2
-) after annealing compared to that of direct Al/n-Si contacts; and with a barrier height formed for holes due to a large valence band offset (E
-v 
-~ 2.0eV) and excellent electron selectivity and extraction arising from a small conduction band offset (E
-v 
-~ 0.05eV), ultimately enabled an efficiency of 19.8%. Enhancement in the passivation thermal stabi

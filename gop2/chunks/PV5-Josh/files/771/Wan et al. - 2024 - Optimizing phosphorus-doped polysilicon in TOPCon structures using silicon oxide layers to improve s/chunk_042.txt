@@ -1,9 +1,0 @@
-phorus,exceedsaspecificthreshold.Fig.5(d)illustratestheXRDpatternsofthefilms.Thefiguredisplaysthreemajorsiliconpeakscorrespondingtothe(111),(220),and(311)orientations.Itiswellknownthatthereflectionpeaksofpolysiliconfilmscorrespondingtothe(111),(220),and(311)orientationsoccurat2valuesof28.4
-◦
-,47.3
-◦
-,and56.2
-◦
-,respectively[28].Incontrast,theforbiddenpeakat2=33.1
-◦
-forsilicon(002),whichhasbeenattributedtomultiplediffraction,waspreviouslyreported[29].TheXRDdiffrac-tionspectrashowthatthe

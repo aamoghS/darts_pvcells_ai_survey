@@ -1,9 +1,0 @@
-s, Sydney, NSW, 2052, Australia 
-b
-Extraterrestrial Power Pty Ltd.
-1
-, Sydney, NSW, Australia   
-ARTICLE INFO  
-Keywords: Silicon solar cells Space applications 1 MeV electron irradiation Numerical simulation PERC TOPCon 
-ABSTRACT  
-This work presents a comprehensive numerical evaluation of PERC and TOPCon technologies, focusing on the impact of radiation-induced defects. This assessment is conducted for p-type silicon solar cells as they are intrinsically more resistant to radiation defects. By

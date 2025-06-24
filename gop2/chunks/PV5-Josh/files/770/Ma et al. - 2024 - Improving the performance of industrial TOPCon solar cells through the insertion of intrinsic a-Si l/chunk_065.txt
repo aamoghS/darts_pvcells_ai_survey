@@ -1,8 +1,0 @@
-tering effects. Contact resistivity of 1.4 m cm
-2 
-was extracted from TLM for the introduced a-Si (i) layer with a thickness of 20 nm. In addition, when the thickness of the a-Si (i) layer surpassed 20 nm, there was a significant increment in contact resistance, which could be attributed to the decreased concen
--
-tration of in-diffused phosphorus within the Si substrate. HR-TEM ana
--
-lyses exhibited the presence of a uniformly thick tunneling oxide at the 
-Fig. 6.Measured J-V parameters of TOPC

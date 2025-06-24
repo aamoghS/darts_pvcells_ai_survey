@@ -1,4 +1,0 @@
-go different annealing steps in forming gas (FGA). If subsequently a soldered cell-interconnector proves sufficient adherence of >1 N/mm in a 90°-peel-test, as required by standard DIN EN 50461, we conclude that Al could not overcome the TiN barrier despite the elevated 
-temperature during the previous annealing step. If the solder attempt on the metallization fails due to weak wetting 
-376   Julia Kumm et al.  /  Energy Procedia   77  ( 2015 )  374 – 381 
-and/or silver leaching or shows insu

@@ -1,5 +1,0 @@
-6–48]. To evaluate the influence of the poly-Si with different thicknesses of a-Si (i) film on the TOPCon solar cells, characterizations were conducted on the rear passivation layer. Firstly, we used the ECV method to mea
--
-sure the concentration of active phosphorus within the poly-Si film as shown in Fig. 4(a). It could be seen from the figure that the concentration of active phosphorus within poly-Si was close to 6E20 cm
-�3
-. Compared with the group of Baseline, the group of G1 had a simi

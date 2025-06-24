@@ -1,2 +1,0 @@
-4000000360).References
-[1]W.Chen,etal.,EnhancingindustrializationTOPConsolarcellefficiencyviacomprehensiveanti-reflectionpassivationfilmoptimization,Mater.Sci.Semicond.Process.169(2024),https://doi.org/10.1016/j.mssp.2023.107874.[2]M.Fırat,etal.,Industrialmetallizationoffiredpassivatingcontactsforn-typetunneloxidepassivatedcontact(n-TOPCon)solarcells,Sol.EnergyMater.Sol.Cell.240(2022),https://doi.org/10.1016/j.solmat.2022.111692.[3]S.Ma,etal.,24.7%industrialtunneloxidepassivatedcontactsolarcell

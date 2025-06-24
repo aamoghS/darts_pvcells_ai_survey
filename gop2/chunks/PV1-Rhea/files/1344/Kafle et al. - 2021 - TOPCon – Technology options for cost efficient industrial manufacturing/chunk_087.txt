@@ -1,5 +1,0 @@
-s that are already in use in mass production, i.e. all process steps for Bifacial p-PERC. To account for a higher uncertainty of the process and financial parameters, a higher COO uncertainty margin of ±20% is assumed for each of the additional steps that are exclusive to the investigated industrial TOPCon concepts and not yet demonstrated in mass production. These process steps include BBr
-3 
-diffusion, formation of UV-TO after CEI and BSG etching, a-Si deposi
--
-tion, high temperature annealin

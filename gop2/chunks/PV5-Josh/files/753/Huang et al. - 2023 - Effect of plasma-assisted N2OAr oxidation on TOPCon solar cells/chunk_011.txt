@@ -1,7 +1,0 @@
-N
-2
-O plasma has the additional benefit of binding N at the Si-SiO
-x 
-interface, resulting in improved interface quality [29,31–34]. The introduction of N or other impurities in the interface layer can further improve the electrical properties and thermal stability of poly-Si passivated contact [2]. The importance of He dilution in producing high quality SiO
-x 
-films by PECVD has been emphasized by several groups [35, 36]. Smith and Alimonda consider that a large excess of atomic O are critica

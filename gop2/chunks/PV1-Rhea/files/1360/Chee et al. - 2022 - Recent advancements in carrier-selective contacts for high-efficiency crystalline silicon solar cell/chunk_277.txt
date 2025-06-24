@@ -1,5 +1,0 @@
-pip.2570. [116]S. Kim, et al., Role of double ITO/In
-2
-O
-3 
-layer for high efficiency amorphous/ crystalline silicon heterojunction solar cells, Mater. Res. Bull. 58 (2014) 83–87, https://doi.org/10.1016/j.materresbull.2014.05.003. [117]J. Shi, et al., MoOx modified ITO/a-Si:H(p) contact for silicon heterojunction solar cell application, Mater. Res. Bull. 97 (2017) (2018) 176–181, https://doi. org/10.1016/j.materresbull.2017.09.005. [118]J. Bullock, D. Yan, A. Cuevas, Y. Wan, C. Samundsett, 

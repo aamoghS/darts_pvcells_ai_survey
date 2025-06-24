@@ -1,3 +1,0 @@
-c-Si wafer [28]. 
-D.K. Ghosh et al.                                                                                                                                                                                                                                
-influenced by the p-type bulk silicon layer. Due to this simplified and efficient carrier transport mechanism, the sheet resistance of the front surface field (FSF) layer gets reduced. Even the omission of front surface field (FSF) as depic

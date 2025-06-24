@@ -1,5 +1,0 @@
-llweber, Firing-stable PECVD SiO
-x
-N
-y
-/n- Poly-Si surface passivation for silicon solar cells, ACS Appl. Energy Mater. 4 (2021) 4646–4653, https://doi.org/10.1021/acsaem.1c00265. [21]M. Fırat, H. Sivaramakrishnan Radhakrishnan, M.R. Payo, P. Choulat, H. Badran, A. van der Heide, J. Govaerts, F. Duerinckx, L. Tous, A. Hajjiah, J. Poortmans, Large-area bifacial n-TOPCon solar cells with in situ phosphorus-doped LPCVD poly-Si passivating contacts, Sol. Energy Mater. Sol. Cells 236 (2022), 11154

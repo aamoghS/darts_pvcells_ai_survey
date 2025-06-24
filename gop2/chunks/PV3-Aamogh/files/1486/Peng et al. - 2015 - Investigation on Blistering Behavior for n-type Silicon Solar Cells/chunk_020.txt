@@ -1,3 +1,0 @@
-lation between the blistering behavior and thermal treatment is in existence. Blistering-free samples have better passivation and results in a higher implied Voc than those with blistering. We use OM to monitor the surface blistering, and FT-IR to confirm that the hydrogen 
-species react with the oxide, resulting in less out-diffusion to the ARC layer. So, the out-diffusion of the hydrogen 
-can be controlled by various treatments, and oxide growth by the thermal treatment before ALD plays a key 

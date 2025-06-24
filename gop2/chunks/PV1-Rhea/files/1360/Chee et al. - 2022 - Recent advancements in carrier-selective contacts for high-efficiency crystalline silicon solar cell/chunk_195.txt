@@ -1,9 +1,0 @@
-ide between the wafer and doped poly-Si, and are applied with industry-compatible processes on commercially available n-Si wafers, which for n-poly-Si obtained J
-0 
-<1 fA/cm
-2 
-and iV
-oc 
-of 741mV, superior to that of p-poly-Si [183]. The results may be ascribed to the higher level of surface passivation quality enabled by n-poly-Si compared to that of p-poly-Si [184]. Hence, the n-poly-Si capped by a TCD layer/stack is industrially favorable since not only does this improve surface passiv
--
-ati

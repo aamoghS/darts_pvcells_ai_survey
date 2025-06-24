@@ -1,2 +1,0 @@
-ty by a considerable margin [96]. As a result, significant improvement in the power conversion efficiency of TOPCon solar cells was observed where the best cell having an active cell area of 2 cm ×2 
-Fig. 18.Investigated cell architectures. On the left: A standard industrial PERC cell as reference. On the right: Two TOPCon upgrade architectures: (I) Full Rear: Full- area rear p-type TOPCon with rear dielectric and local contact openings. (II) Local Front: n-type TOPCON locally aligned to front 

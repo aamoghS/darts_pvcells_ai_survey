@@ -1,2 +1,0 @@
-5 %. The 
-response in experimental planning will be pH level. The third step is the selection of an experimental design, where a two – level factorial design experiment with two levels and two factors was developed. With two levels and two factors there are four factor combinations. Combinations for two – level factorial design are high – high, low – low, high – low and low – high. The fourth step in DOE is used to select the type of model that the user anticipates will fit the resul

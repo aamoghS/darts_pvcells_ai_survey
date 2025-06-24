@@ -1,3 +1,0 @@
-gh-tension electron (EHT) voltage of 20 kV. In standard kV mode, the FIB probe was configured to 30 kV and 50 pA. Under identical SEM conditions, energy dispersive spectroscopy (EDS) analysis using the Oxford Instruments Ultim® Max was per
--
-formed, followed by result processing with AZtec software to reveal silver (Ag), lead (Pb), aluminium (Al), oxygen (O), sodium (Na) and chlorine (Cl). 3.Results and discussion 3.1.Cell performance Fig. 2 and Table 1 show the I–V results of JSIM and baseli

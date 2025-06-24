@@ -1,3 +1,0 @@
- irradiance. e entire setup of the PV system is attached to an automatic data logger that tracks and record the measured data. e various environmental conditions like humidity, ambient temperature, and wind speed are monitored with the sensors installed at the institute; 
-Fig. 5.  (a) reect a 72-cell monocrystalline PERC PV module representing the method and material used for shading. (b) shows the PV module positioned on the Sun Simulator for experimental purposes.
-Table 1.  Module specicat

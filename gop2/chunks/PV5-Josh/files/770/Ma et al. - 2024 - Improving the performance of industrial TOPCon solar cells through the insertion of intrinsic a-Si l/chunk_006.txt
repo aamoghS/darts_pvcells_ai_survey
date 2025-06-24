@@ -1,2 +1,0 @@
-hts a promising strategy to improve the performance of TOPCon solar cells, showcasing the substantial potential for implementation in industrial manufacturing.   
-1.Introduction Due to the characteristics of renewability and sustainability, solar energy has gradually become a suitable alternative to traditional energy sources [1]. Benefiting from cost advantage, crystalline silicon (c-Si) solar cell technology has dominated the photovoltaic (PV) industry in the past 20 years [2]. Many cell struc

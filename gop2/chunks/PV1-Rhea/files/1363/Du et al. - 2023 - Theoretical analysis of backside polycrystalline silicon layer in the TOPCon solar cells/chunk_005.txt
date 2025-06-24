@@ -1,8 +1,0 @@
-elopment space and potential. Since then, TOPCon solar cells have received more attention. In 2016, the Georgia Institute of Technology [3] achieved 21.2% of conversion E
-ff
-. In June 2016, Hamelin Solar Energy Research Institute (ISFH) [4] increases the V
-oc 
-of TOPCon structure to 748 mV and the lowest dark saturation current density reached 0.6 fA/cm
-2 
-by annealing doped amorphous silicon prepared by low pressure chemical vapor deposition (LPCVD). In 2018 [5], TOPCon solar cells with an E
-ff

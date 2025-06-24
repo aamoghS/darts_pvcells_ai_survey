@@ -1,6 +1,0 @@
-ioninphotovoltaicmodules:acriticalreview.EnergEnvironSci.2017;10(1):43-68.doi:
-10.1039/C6EE02271E
-22.MahmoodFI,TamizhManiG.Impactofanti-soilingcoatingonpotentialinduceddegradationofsiliconPVmodules.In2022IEEE49thPhotovoltaicsSpecialistsConference(PVSC);2022:
-1198-1200.23.NaumannV,LauschD,HähnelA,etal.Explanationofpotential-induceddegradationoftheshuntingtypebyNadecorationofstack-ingfaultsinSisolarcells.Sol.EnergyMater.Sol.Cells.2014;120:383-389.doi:
-10.1016/j.solmat.2013.06.015
-24.YamaguchiS,Va

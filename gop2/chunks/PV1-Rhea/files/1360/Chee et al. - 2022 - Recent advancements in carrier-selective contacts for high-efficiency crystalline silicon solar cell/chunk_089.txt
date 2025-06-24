@@ -1,9 +1,0 @@
-illustrated with an average efficiency above 21.0% [80]. The main process sequence for the fabrication of n-Si solar cells featuring a full-area rear TiO
-2 
-contact is shown in Fig. 3. Other notable MO semiconductors that have also been investigated as ECL materials mainly due to ease of processing and low-cost fabri
--
-cation include ZnO [28], SnO
-2 
-[85,86], MgO [60], and TaO
-x 
-[87]. However, although ZnO may offer the highest electron mobility amongst the present options, stability issues ten

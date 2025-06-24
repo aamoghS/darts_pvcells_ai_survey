@@ -1,5 +1,0 @@
-ldmann et al. first used thermally evaporated Ti/Pd/Ag stack for realization of metal contacts at the rear side of the TOPCon solar cells [20]. On the other hand, the other limiting factor of achieving high ef
--
-ficiency of crystalline silicon based solar cells is the weak absorption of the incident sunlight at higher wavelength region i.e. NIR region. Therefore, to maximize the value of J
-sc
-, the unabsorbed light should be reflected back into the absorbing layer as much as possible from the re

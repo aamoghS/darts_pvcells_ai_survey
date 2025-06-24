@@ -1,7 +1,0 @@
-e dopant. The effects of electron irradiance on solar cell performance are deduced from replicating literature values reported for a 50 
-
-m BSFR cell [3], leading to the derivation of defect profiles and introduction rates per
--
-taining to radiation-induced defects. Specifically, the defect generation profile was identified to conform to an exponential decay pattern, characterized by a relatively high depth factor of 960 
-
-m. Next, these defects are introduced in the p-type PERC and TOPCon sol

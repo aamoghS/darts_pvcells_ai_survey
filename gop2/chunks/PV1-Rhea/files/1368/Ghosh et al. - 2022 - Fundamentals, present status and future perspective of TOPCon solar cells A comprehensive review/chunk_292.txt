@@ -1,9 +1,0 @@
-chnique was used for the contact openings at the front side and realization of the front metallic contact was done by plating of NiCuAg. However, the authors opined that further improvement in the cell performance may be observed by opti
--
-mizing the front metallic contact area and minimizing the damage occurred during the laser contact opening (LCO) process. On the other hand, according to Steinhauser et al., 23.4% TOPCon solar cells featuring V
-oc 
-=697 mV, J
-sc 
-=41.4 mA/cm
-2 
-and FF =81.2% w

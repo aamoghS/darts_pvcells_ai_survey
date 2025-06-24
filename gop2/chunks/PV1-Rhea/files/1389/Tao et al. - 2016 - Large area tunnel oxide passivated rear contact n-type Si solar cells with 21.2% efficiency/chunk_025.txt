@@ -1,3 +1,0 @@
-ingequipment,butvebusbarswereprinted.Largeareatunneloxidepassivatedrearcontactn-typeSisolarcellsY.Taoetal.832Prog.Photovolt:Res.Appl.2016;24:830–835©2016JohnWiley&Sons,Ltd.DOI:10.1002/pip
-of107cm/s(assumingsurfacerecombinationvelocityofcontactScontact=107cm/s).Comparedwiththereportedmetal-inducedemittersaturationcurrentdensityvalues
-fromothergroups[29,30],900fA/cm2isrelativelylow,becauseourboronemitterhasdeeperprole(~1.0mvs~0.6m).So,thiscorrespondstometalgridcontributiontosaturationcurren

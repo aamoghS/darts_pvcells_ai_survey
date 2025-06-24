@@ -1,9 +1,0 @@
- form poly-Si(n) layer is coupled with simultaneous growth of thin oxide on boron emitter, before deposition of PECVD AlO
-x
-/a-SiN
-x 
-on the front side. For all TOPCon routes, rear-side deposition of a-SiN
-x
-:H is per
--
-formed on top of poly-Si(n) layer, followed by the screen-printing metallization using Ag pastes and fast-firing process to form bifacial solar cells. 5.Techno-economic analysis along the PV value chain 5.1.TCO of TOPCon routes against PERC For TCO calculations, average productio

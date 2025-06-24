@@ -1,4 +1,0 @@
-                                                                            
-non-ohmic Schottky contact may be responsible for this reduction in FF. On the other hand, the formation of this non-ohmic contact may be ascribed to: (i) the deactivation of B dopant atoms due to the formation of defect states at the surface of the poly silicon layer, and (ii) the increment of the effective thickness of SiO
-x 
-interfacial layer. Eventually, the both-side contacted solar cells featuring P implantations 

@@ -1,5 +1,0 @@
-ome advantages of high electron mobility, direct band gap and heat resistant properties, high efficiency, and performance. However, gallium, arsenic, bismuth, and selenium are reported to be on a short supply in all sce
--
-narios. In addition, several loss mechanisms should be resolved to ach
--
-ieve high-efficiency III–V compound solar cells. They include surface recombination loss, bulk recombination loss, interface recombination loss, voltage loss, fill factor loss, optical loss, and insuffic

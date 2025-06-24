@@ -1,3 +1,0 @@
-rical properties at the thick
--
-ness of 20 nm. Lastly, we have fabricated the industrial-sized TOPCon solar cells with an average efficiency of 23.83 %, which is 0.25 % higher than that of Baseline counterparts (23.58 %) on the production line. These above results have demonstrated the introduction of a-Si (i) can be a good buffer layer, retarding the diffusion of phosphorus towards the Si substrate while enabling us to fine-tune the doping profile and obtain a better passivation effect. Our wor

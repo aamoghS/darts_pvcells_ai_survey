@@ -1,7 +1,0 @@
-ion predominantly affects the series resistance of the solar cells, i.e., affecting the FF of the module. The JSIM modules exhibited a ~0.6%
-rel 
-FF decline, whereas baseline modules suffered a significantly higher ~4.9%
-rel 
-FF loss. This is consistent with an increase of R
-s 
-at the module level due to cell-level contact degradation in baseline modules. Overall, JSIM G-B modules demonstrated superior reliability under DH85 conditions, showcasing better stability compared to their baseline coun

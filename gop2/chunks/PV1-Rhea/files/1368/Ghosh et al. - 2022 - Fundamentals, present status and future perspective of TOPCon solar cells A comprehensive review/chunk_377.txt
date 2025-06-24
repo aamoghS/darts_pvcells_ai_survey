@@ -1,5 +1,0 @@
-r way, the power output of TOPCon solar cells can be maximized by quantifying the magnitude of different cell parameters. Now, the question should be how we can improve the cell parameters? In general, the open-circuit voltage (V
-oc
-) of any solar cell structure is highly limited by the various recombination mechanisms occurred inside the bulk layer and the junctions. In case of TOPCon solar cells, the magnitude of V
-oc 
-may be improved by reducing the recombination current density at metal/semi

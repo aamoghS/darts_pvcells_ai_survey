@@ -1,5 +1,0 @@
-ide at the 
-Fig. 6.Measured J-V parameters of TOPCon solar cells by adopting different rear passivation layers according to the groups of Baseline, G1, G2, G3, and G4 on the production line using 182 ×182 mm
-2 
-Si wafers. The thickness of a-Si (i) film is 0 nm, 10 nm, 20 nm, 30 nm, and 40 nm, corresponding to the groups of Baseline, G1, G2, G3, and G4, respectively. 
-S. Ma et al.                                                                                                                     

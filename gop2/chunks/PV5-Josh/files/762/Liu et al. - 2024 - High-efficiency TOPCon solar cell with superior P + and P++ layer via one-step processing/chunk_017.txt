@@ -1,9 +1,0 @@
-y calculating the diffusion coefficient of B in Si. Subsequently, a new method for preparing PN junction and SE are proposed. The traditional B trichloride and B-doped Si paste were used as doping sources to conduct B diffusion experiments, and then p
-+
-and p
-++
-layers were formed in a tube diffusion furnace by one step. The method has low cost and simple operation, can simplify the B diffusion process, and can expand the gap of doping amount between p
-+
-and p
-++
-layers. Then, the influence of t

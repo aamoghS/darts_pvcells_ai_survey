@@ -1,3 +1,0 @@
-configuration (Fig. 6b and c), the perovskite top cells and Si bottom cells are fabricated separately where both subcells are electrically independent. Table 2 shows the chronological development of 2 T and 4 T TSCs with materials and efficiency since 2015 to 2023. Researchers around the world uses different perovskite compositions to get better efficiency. Various organic–inorganic metal halides such as formamidinium-cesium (FACs)-, methylammonium (MA)-, Cesium (Cs)- lead iodide (PbI
-3
-) and 

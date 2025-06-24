@@ -1,3 +1,0 @@
-ty margins of our as
--
-sumptions. Nevertheless, especially in-situ deposition of a-Si(n) for LPCVD-based concept, and single-sided deposition of a-Si(n) layer for PECVD and APCVD concepts show great promise towards further reduction of the cell and module production costs of the industrially manufactured TOPCon solar cell. At LCOE level, all the evaluated TOPCon concepts under monofacial illumination show slightly lower LCOE values to the bifacial p-PERC technology, assuming a TOPCon cell effici

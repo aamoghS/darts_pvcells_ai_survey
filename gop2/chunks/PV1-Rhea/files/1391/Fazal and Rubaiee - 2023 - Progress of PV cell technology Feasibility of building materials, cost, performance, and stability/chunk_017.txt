@@ -1,5 +1,0 @@
-e (CIGS), and mineral perovskite (CaTiO) are the most popularly used compound materials [29]. Some of these technologies are becoming more and more attractive because of their reliability and higher electric efficiency under various climatic condi
--
-tions [26]. Manufacturing cost, band gap control, junction multiplica
--
-tions, stability etc. [30] are the significant limitations for many of these compound materials. In recent times, organic–inorganic metal halide with wider band gap have been r

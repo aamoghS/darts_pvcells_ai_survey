@@ -1,3 +1,0 @@
-BC) solar cells [3,13–15]. In general, b-Si textures can be formed by various techniques, including laser texturing [16,17], reactive ion etching (RIE) [18,19], and metal-catalyzed chemical etching (MCCE) [13,20,21]. Among those, RIE technique is more suitable for creating b-Si textures in in
--
-dustrial solar cell production because of large-scale preparation, rapid reaction, and no noble metal pollution [22–25]. Until now there have been some laboratory-grade attempts on n-type silicon sola

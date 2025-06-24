@@ -1,18 +1,0 @@
-THcellCTHcell
-
-+PdissRTH−HS
-
-1−e−t−tHS
-RTH−HSCTH−HS
-
-{t≥tHS}
-Fig. 4.  e equivalent thermal model to estimate the temperature of the portion of PV cell 
-(ArHS
- ) under hotspot conditions with time.
-7
-Scientific Reports |        (2024) 14:21587  | https://doi.org/10.1038/s41598-024-72502-z
-going hotspot. 
-Tcell[◦C],RTHcell
- , [°C ·  m2/W] 
-,CTHcell
- [°C ·  m2· s/W] represents temperature, thermal resistance and thermal capacitance respectively for the rest of the PV mod

@@ -1,8 +1,0 @@
-2022;244:448-456.doi:
-10.1016/j.solener.2022.08.043
-40.SuckowS,PletzerTM,KurzH.Fastandreliablecalculationofthetwo-diodemodelwithoutsimplifications.ProgPhotovoltResAppl.2014;22(4):494-501.doi:
-10.1002/pip.2301
-41.YamaguchiS,NakamuraK,MasudaA,OhdairaK.Rapidprogressionandsubsequentsaturationofpolarization-typepotential-induceddegradationofn-typefront-emittercrystalline-siliconphotovoltaic
-modules.JpnJApplPhys.2018;57(12):122301.doi:
-10.7567/JJAP.57.122301
-42.SporlederK,NaumannV,BauerJ,TurekM,Hagend

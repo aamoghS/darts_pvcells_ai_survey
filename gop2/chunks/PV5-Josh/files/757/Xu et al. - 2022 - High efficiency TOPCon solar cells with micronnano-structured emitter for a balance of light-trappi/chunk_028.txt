@@ -1,5 +1,0 @@
-nse nanopores on top of random micron-pyramids and nanogrooves between micron-pyramids. Accord
--
-ing to the SEM image luminance contrast shown in Fig. 2, it is obvious that nanogrooves are deeper and broader than nanopores because the V- shaped intersections between micron-pyramids were subjected to more physical sputtering and chemical etching. Fig. 2 gives clear evidence for different feature sizes under three P
-RF
-. Based on SEM results, we count and calculate the simplified geometry paramete

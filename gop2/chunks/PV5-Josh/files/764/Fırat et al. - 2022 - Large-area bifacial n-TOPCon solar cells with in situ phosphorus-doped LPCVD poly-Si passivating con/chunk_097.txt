@@ -1,7 +1,0 @@
-5 suggest, and (ii) improving the relatively low EQE of the devices at short wavelengths, as Fig. 8a) shows. While the former is challenging to achieve with industrial processes, the latter is feasible by realizing a DARC at the front surface, which was chosen as the final step of improvement in this work. 3.3.Impact of using DARC on n-TOPCon solar cells Table 5 shows the improvement achieved by using the DARC con
--
-sisting of a stack of 70 nm SiN
-x 
-and 90 nm SiO
-x 
-films on four of the best so

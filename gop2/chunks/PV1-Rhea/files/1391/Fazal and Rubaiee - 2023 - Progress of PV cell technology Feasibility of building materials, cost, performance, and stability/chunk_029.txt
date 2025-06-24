@@ -1,5 +1,0 @@
-r future applications. Focus has also been given to high
--
-lighting the technological feasibility of different PV technologies for industrial production and solar energy generation. Finally, the pros
--
-pects, challenges, and future outlook of varying PV technologies are summarized through a systematic approach. 2.PV cell technology and building materials Commercially available PV modules are mostly made of single- crystalline silicon (sc-Si) or multi-crystalline Si (mc-Si). The mc-Si PV was the 

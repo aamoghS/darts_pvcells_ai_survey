@@ -1,5 +1,0 @@
-%. Similarly, the ηb,e,h,m,max of TOPCon cell was 27.62%; however, the ηb,e,h,m,max of SHJ cell decreased to 26.91% owing to the high front contacting area fraction. The next- generation product is back- contact (BC) structure without metal shading. This allows for good passivation on the front surface without contact constraints. Then, we design three types of BC structure cells, which can achieve mass production, including hybrid passivated back- contact (HPBC), TOPCon (8)
-
-max=
-
-2.425S10

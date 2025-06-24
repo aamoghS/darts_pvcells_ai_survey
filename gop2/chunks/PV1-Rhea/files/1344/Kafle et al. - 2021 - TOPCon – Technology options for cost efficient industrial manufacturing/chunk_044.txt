@@ -1,5 +1,0 @@
-e-based wet-chemical cleaning. Af
--
-terwards, a high temperature annealing process is required to form poly-Si layers at the rear. Looking into reducing the COO of LPCVD TOPCon insitu process route burdened by a costlier LPCVD deposition, we assume technological feasibility of optimizing the high temperature annealing step to form a high quality thin SiO
-x 
-oxide on the boron emitter at the front side. This avoids the use of an extra thermal oxidation step, which is otherwise required to realize

@@ -1,3 +1,0 @@
-polished rear surface morphology. The design of these solar cells is also the one depicted in Fig. 1a) and the fabrication followed the process flow in Fig. 1b), with the only difference to the reference group being the strength of the single-side etch used for removing the boron-diffused emitter from the rear side. Instead of the emitter removal process, a polishing process was applied to these solar cells using the same equipment as for emitter removal but a more concentrated HF/HNO
-3 
-mixture

@@ -1,3 +1,0 @@
-n,Y.Kang,H.-S.Lee,
-D.Kim,K.-H.Kim,Structuralevolutionoftunnelingoxidepassivatingcontactuponthermalannealing,Sci.Rep.7(2017)12853.[82]M.K.Stodolny,M.Lenes,Y.Wu,G.J.M.Janssen,I.G.Romijn,J.R.M.Luchies,
-L.J.Geerligs,N-typepolysiliconpassivatingcontactforindustrialbifacialn-typesolarcells,Sol.EnergyMater.Sol.Cells158(2016)24–28.[83]S.Mack,J.Schube,T.Fellmeth,F.Feldmann,M.Lenes,J.-M.Luchies,Metallisationofboron-dopedpolysiliconlayersbyscreenprintedsilverpastes,Phys.StatusSolidiRRL1700334(2017).[84]D

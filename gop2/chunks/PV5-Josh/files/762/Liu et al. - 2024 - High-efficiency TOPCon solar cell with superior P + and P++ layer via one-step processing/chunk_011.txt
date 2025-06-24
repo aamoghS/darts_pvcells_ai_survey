@@ -1,3 +1,0 @@
-ch can predict B atom diffusion characteristics at the atomic scale. Therefore, molecular dynamics methods enables a deeper and more accurate understanding of the B atom diffusion mechanism. In contrast, there is an abundance of reports pertaining to the experimental investigation of B diffusion. Researchers have systemati
--
-cally explored the mechanisms and applications of B diffusion through process optimization, analysis of influencing factors, investigation of diffusion kinetics, and impleme

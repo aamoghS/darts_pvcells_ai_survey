@@ -1,6 +1,0 @@
-out the testing phase, electroluminescence imaging was con
--
-ducted to detect potential additional cracks or other module failures. The I–V results are shown in Fig. 8. Following 1000 h of DH85 testing, 
-Fig. 8.Relative change in module I–V parameters for glass-backsheet (G–B) modules fabricated with JSIM and baseline TOPCon solar cells after 1000 hourse of DH85. 
-Fig. 9.Electroluminescence images of JSIM and baseline modules before and after 1000-h DH85 testing.  
-X. Wu et al.            

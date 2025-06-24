@@ -1,7 +1,0 @@
-band (E
-V
-) for holes, and the Fermi level (E
-F
-), which represents the chemical potential for electrons. Understanding this diagram is fundamental to semiconductor device design, as it relates to charge distribution and movement at the junctions of different materials. Fig. b) represents an energy band diagram for a layered semiconductor structure, detailing the arrangement of p-type polysilicon, aluminium, n-type crystalline silicon, and n-type polysilicon, capped with an HfO
-2 
-layer. It high

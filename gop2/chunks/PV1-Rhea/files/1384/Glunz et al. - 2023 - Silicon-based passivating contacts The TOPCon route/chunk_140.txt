@@ -1,5 +1,0 @@
-hotovoltaicSolarEnergyConferenceandExhibition;2013:676-690.44.HollemannC,HaaseF,SchäferS,KrügenerJ,BrendelR,PeibstR.26.1%-efficientPOLO-IBCcells:Quantificationofelectricalandopticallossmechanisms.ProgPhotovolt:ResAppl2019;26(1):3-958.
-https://doi.org/10.1002/pip.3098
-45.HaaseF,KieferF,SchäferS,etal.Interdigitatedbackcontactsolarcellswithpolycrystallinesilicononoxidepassivatingcontactsforbothpolarities.JpnJApplPhys.2017;56(8S2):08MB15.
-https://doi.org/10.7567/JJAP.56.08MB15
-46.HermleM,Feldmann

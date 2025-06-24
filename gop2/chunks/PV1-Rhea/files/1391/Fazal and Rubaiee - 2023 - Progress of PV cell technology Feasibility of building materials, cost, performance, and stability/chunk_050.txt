@@ -1,3 +1,0 @@
-es currently available are a-Si, CdTe, and CIGS, which offer cell efficacies of 14%, 22.1%, and 23.4%, respectively [39]. Among them, a-Si is the cheapest technology, and it needs less silicon. It has the superiority to operate at medium temper
--
-ature level [69] and can be wrapped around a curved surface. The structure of a-Si cells, as shown in Fig. 4(a), is a typical p-i-n, where charge separation is driven by the drift field in an i-layer [70]. The major challenge of a-Si cells is related to

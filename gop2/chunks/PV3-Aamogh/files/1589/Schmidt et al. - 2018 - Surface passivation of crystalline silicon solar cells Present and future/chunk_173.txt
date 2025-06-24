@@ -1,4 +1,0 @@
-solarcell,Appl.Phys.Lett.103(2013)053511.[59]M.Rienäcker,M.Bossmeyer,A.Merkle,U.Römer,F.Haase,J.Krügener,
-R.Brendel,R.Peibst,Junctionresistivityofcarrier-selectivepolysilicononoxidejunctionsanditsimpactonsolarcellperformance,IEEEJ.Photovolt.7(2017)11.[60]G.Kökbudak,R.Müller,F.Feldmann,A.Fell,R.Turan,S.W.Glunz,in:Proceedings33rdEuropeanPhotovolt.SolarEnergyConference,WIP,Munich,
-2017,pp.242–246.[61]R.Brendel,T.Dullweber,R.Peibst,C.Kranz,A.Merkle,D.Walter,Breakdownof
-theeciencygapto29%base

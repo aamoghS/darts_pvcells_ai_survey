@@ -1,5 +1,0 @@
-ers, respectively, have been reported to be vital to establish charge carrier asymmetry to enhance electrical conduction - a principle which is also equally applicable to p- or n-type a-Si:H [8]. Such passivation stacks are not only required to induce charge accumulation (majority carriers) but also charge inversion (minority carriers), at the surface. 
-Table 1 Photovoltaic performance records of various SHJ solar cells and their related architectures/technologies. A is active area and t
-n 
-(t
-p

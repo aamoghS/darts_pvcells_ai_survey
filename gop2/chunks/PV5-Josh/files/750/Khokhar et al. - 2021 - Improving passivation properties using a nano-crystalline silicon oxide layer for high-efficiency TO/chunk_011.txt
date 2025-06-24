@@ -1,4 +1,0 @@
-d in revised form 9 March 2021; Accepted 19 March 2021   
-absorption losses, rear-side films must be highly transparent, while providing excellent transport and superior passivation for the selected charge carrier. To minimize absorption loss, we report a novel rear side- area passivating electron contact that improves the transparency by replacing a part of the doped poly-Si layer. The novel contact structure includes a thin thermally grown SiO
-2 
-layer on the c-Si wafer surface capped by a pho

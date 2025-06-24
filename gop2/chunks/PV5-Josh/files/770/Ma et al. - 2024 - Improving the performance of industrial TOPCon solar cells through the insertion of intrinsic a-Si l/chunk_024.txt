@@ -1,7 +1,0 @@
-le and obtain a better passivation effect. Our work has great potential for the mass- production TOPCon solar cells in industry. 2.Experimental methods To evaluate the performance of TOPCon solar cells with the intro
--
-duced a-Si (i) layer, we fabricated the rear passivation layers on the industrial Czochralski (Cz) n-type silicon wafers with a size of 182 ×182 mm
-2 
-(M10), a thickness of 150 ±20 
-
-m, and a resistivity of 0.3–2.1  cm. Characterizations were used to analyze and understand t

@@ -1,2 +1,0 @@
-espectively, in the mixture diluted in water [29]. This is a single-side etching process performed in a Rena inline processing equipment with the wafers moving at 8°C on closely spaced rollers with a speed of 1.5 m/min over etch baths overflown with the aforementioned chemistry. The process consists of two passes of each wafer through the equipment, leading to 
-the removal of ~1.5-2 µm of Si from the rear determined by weight measurements, resulting in a semi-textured surface morphology with s

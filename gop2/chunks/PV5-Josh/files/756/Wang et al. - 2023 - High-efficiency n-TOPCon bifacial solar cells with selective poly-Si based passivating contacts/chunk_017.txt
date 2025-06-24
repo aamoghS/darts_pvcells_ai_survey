@@ -1,6 +1,0 @@
-ped poly-Si layer, and dopants from poly-Si layers can diffuse extensively into the c-Si and compromise the passivation quality during this process [34]. Therefore, how to balance the thickness of poly-Si layer and dopant diffusion remains as one of the challenging and critical tasks. After reviewing the previous publications [21,22,30–32], the effect of SiO
-x
-/n
-+
--poly-Si process parameters on the n-TOPCon solar cells has not yet been thoroughly and deeply studied. Therefore, this study fo
--

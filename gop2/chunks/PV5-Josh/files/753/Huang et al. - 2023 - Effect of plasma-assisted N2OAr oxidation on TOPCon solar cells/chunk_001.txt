@@ -1,7 +1,0 @@
-O/Ar gas mixture are used to deposit ultra-thin silicon oxide (SiO
-x
-) layer by plasma enhanced chemical vapor deposition (PECVD), which is used as the tunneling oxide layer in the TOPCon (tunnel oxide passivated contacts) structure. It is found that the N
-2
-O/Ar flow ratios strongly affect the properties of SiO
-x 
-layer, such as deposition rate, the resistance of high temperature, passivation quality, etc., thus significantly affect the properties of polysilicon passivated contact structures an

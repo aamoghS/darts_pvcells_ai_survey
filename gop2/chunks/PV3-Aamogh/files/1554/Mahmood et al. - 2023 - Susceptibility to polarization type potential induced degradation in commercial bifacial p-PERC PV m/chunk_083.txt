@@ -1,5 +1,0 @@
-
-44.HackeP,KempeM,TerwilligerK,etal.Characterizationofmulticrys-tallinesiliconmoduleswithsystembiasvoltageappliedindampheat.InProc.25thEuropeanPhotovoltaicSolarEnergyConferenceandExhibition/5thWorldConf.PhotovoltaicEnergyConversion;2010:
-3760.45.BreclK,BokalicM,TopicM.Examinationofphotovoltaicsiliconmod-uledegradationunderhigh-voltagebiasanddampheatbyelectrolu-minescence.JSol.EnergyEngTransASME.2017;139(3):1-6.doi:
-10.1115/1.4036056
-SUPPORTINGINFORMATIONAdditionalsupportinginformationcanbefoundo

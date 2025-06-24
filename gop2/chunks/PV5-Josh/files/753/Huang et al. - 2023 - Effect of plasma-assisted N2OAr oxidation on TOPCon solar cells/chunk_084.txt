@@ -1,7 +1,0 @@
-02/pip.3522. [2]M. St¨ohr, J. Aprojanz, R. Brendel, T. Dullweber, Firing-stable PECVD SiO
-x
-N
-y
-/n- poly-Si surface passivation for silicon solar cells, ACS Appl. Energy Mater. 4 (5) (2021) 4646–4653, https://doi.org/10.1021/acsaem.1c00265. [3]F. Feldmann, M. Bivour, C. Reichel, M. Hermle, S.W. Glunz, A passivated rear contact for high-efficiency N-type Si solar cellsenabling high V
-ocs 
-and FF >82, in: Proceedings 28th European Photovoltaic Solar Energy Conference, 2013, pp. 988–992. [4]A.

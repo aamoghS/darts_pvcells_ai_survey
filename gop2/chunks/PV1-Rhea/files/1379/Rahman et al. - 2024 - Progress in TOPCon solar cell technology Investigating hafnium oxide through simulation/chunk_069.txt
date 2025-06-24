@@ -1,7 +1,0 @@
-ve efficiency by reducing recom
--
-bination losses. However, without specific scale indicators or thick
--
-nesses, it is difficult to discern the exact proportions of each layer in the simulation. 3.4.Simulation of HfO2 passivated TOPCon solar cell Similarly, in simulating a TOPCon solar cell with an HfO2 passiv
--
-ation layer, the computational model considers different parameters specific to HfO2. These include the HfO2 layer’s thickness, refractive index, band alignment with silicon, electrica

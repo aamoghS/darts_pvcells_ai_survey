@@ -1,9 +1,0 @@
-uminum oxide (Al
-2
-O
-3
-) layer, yielding an emitter saturation current density (J
-0e
-) of 20 fA/cm
-2
-. However, there is little information about the integration of RIE b-Si textures with n-type industrial TOPCon solar cells. In this work, we have successfully developed the RIE b-Si technique for high-efficient n-type bifacial TOPCon solar cells in existing industrial production lines. Here, the nano/micron-composite textures were formed by a texture-on-texture approach. In other words, the RIE 

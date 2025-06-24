@@ -1,32 +1,0 @@
-rimary phenomena causing temperature 
-THS
- , to rise very quickly.Se parameters in the above equation 
-THS,RTH−HS,CTH−HS,
- represents temperature, thermal resistance and thermal capacitance given in [°C], [°C ·  m2/W], [°C ·  m2 · s/W] respectively, of the PV cell of area 
-ArHS
- under (7)
-
-Ths≈CT×
-IC×V
-df
-A
-(8)
-C
-T=
-NOCT−20
-800W/m
-2
-(9)
-THS(t)=Ta+RTHcellsirr{t<tHS}
-(10)
-T
-HS(t)=Ta+ArcellRTHcellSirr(t)
-
-+(1−β)e−
-t−t
-HS
-RTHcellCTHcell
-
-+PdissRTH−HS
-
-1−e−t−tHS

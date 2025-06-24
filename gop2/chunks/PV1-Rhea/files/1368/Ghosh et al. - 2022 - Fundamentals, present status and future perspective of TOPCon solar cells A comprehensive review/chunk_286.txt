@@ -1,3 +1,0 @@
- layer needs to be optimized to minimize the parasitic absorption of the evanescent light. However, the electrical properties such as recombination current den
--
-sity and/or contact restivity should not be compromised during the optimization of the poly-Si layer. Apart from optical losses, contribution of various types of electrical losses (resistive and recombination losses) was also analyzed with the help of free energy loss analysis (FELA) technique. The major electrical loss contributing 63%

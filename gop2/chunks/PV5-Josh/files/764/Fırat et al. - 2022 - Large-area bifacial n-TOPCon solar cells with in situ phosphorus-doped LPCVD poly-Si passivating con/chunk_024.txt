@@ -1,9 +1,0 @@
- solution containing diluted hydrofluoric acid (HF). The boron-diffused layer was later removed from the rear side by the so-called emitter removal process using a mixture of 49% HF, 70% nitric acid (HNO
-3
-), and concentrated sulfuric acid (H
-2
-SO
-4
-), with volume concentrations of 6.2%, 36.0%, and 21.4%, respectively, in the mixture diluted in water [29]. This is a single-side etching process performed in a Rena inline processing equipment with the wafers moving at 8 
-◦
-C on closely spaced ro

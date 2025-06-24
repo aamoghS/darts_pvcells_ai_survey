@@ -1,3 +1,0 @@
-another study, mechanically stacked GaInP/GaAs III-V cell on silicon is also reported to achieve an efficiency of 35.9% [54]. Recently, a six- junction tandem cell achieved an efficiency of 39.2% and 47.1% under 1 and 143 suns, respectively [94]. However, due to high fabri
--
-cation cost, the III-V based tandem cells have not yet got the popularity in PV market. In addition, the current mismatch in subcells still causes difficulties in improving efficiency further [95]. New structure with various

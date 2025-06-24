@@ -1,15 +1,0 @@
-PV cell temperature as a function of Solar irradiation ( 
-Tcell)
- only.e expression for computing 
-THS(t)
- is explained in the equation:where  = 
-S
-irr−shaded
-Sirr
- shows the relative mismatch condition in the solar irradiance between shaded ( 
-Sirr−shaded)
- and the uniformly illuminated cell that is unshaded ( 
-Sirr
-).Equationi(9) represents the condition before a hot spot condition develops ( 
-t<tHS
- ); during this moment, the temperature of the whole module PV cell is constant and can b

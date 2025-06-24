@@ -1,7 +1,0 @@
-e metallization grid Visual inspection, IR thermography, EL, and electrical performance [137] Italy 2 Sc-Si 20 0.24, 0.84–2.75 (P
-max
-) Broken fingers, cell disconnection, and corrosion Visual inspection, infrared (IR), and electroluminescence (EL) [138] Malaysia p-type mc-Si 9 – Crack, power loss, and leakage current EL imaging, dark I–V measurement, leakage current, and P
-max 
-measurement [139] Algeria 6 mc-Si 20–25 3.33–4.64 (P
-avg
-) Busbar damage, cracks, ARE discoloration, and EVA

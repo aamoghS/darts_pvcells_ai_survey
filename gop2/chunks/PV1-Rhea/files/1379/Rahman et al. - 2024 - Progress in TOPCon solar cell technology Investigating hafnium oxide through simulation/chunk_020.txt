@@ -1,5 +1,0 @@
-formance and efficiency of these cells. Hafnium oxide’s selection for this research is highlighted due to its superior material properties compared to silicon oxide (SiO2), such as a higher dielectric constant and thermal stability, which contribute to better passivation and efficient charge carrier sep
--
-aration. While the research outlines the advantages of HfO2 and its role in improving TOPCon solar cell performance, including a predicted in
--
-crease in charge carrier lifetime and power con

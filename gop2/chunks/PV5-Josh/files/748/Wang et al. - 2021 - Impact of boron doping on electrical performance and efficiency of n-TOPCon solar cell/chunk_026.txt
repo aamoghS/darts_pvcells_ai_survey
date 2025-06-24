@@ -1,5 +1,0 @@
-er sheet resistance to minimize the emitter saturation current density (Schiele et al., 2014). Here, we further summarize and briefly review the study of B emit
--
-ters for solar cells (See Table 1). After reviewing the previous publica
--
-tions, the effect of B-doped profiles on the n-TOPCon solar cells, especially I–V parameters, has not yet been understood to a significant level. Therefore, this study focuses on the front-side B-doped profiles of n-Topcon solar cells, which consists of screen

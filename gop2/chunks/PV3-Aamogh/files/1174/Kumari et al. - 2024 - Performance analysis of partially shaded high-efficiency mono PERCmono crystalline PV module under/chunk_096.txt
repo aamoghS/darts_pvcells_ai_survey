@@ -1,4 +1,0 @@
-50.6480% cover1000232.82511.8350.58100% cover1000231.88411.7950.70
-13
-Scientific Reports |        (2024) 14:21587  | https://doi.org/10.1038/s41598-024-72502-z
-e data clearly reect that shading single cell tends to reduce the overall power out, eciency, ll factor of a module. e results corelates with the experiment conducted by Sathyanarayan etal. employing non-uniform shading and results concluded that eciency and ll factor drastically decreased when a large cell area was  shaded61. Sha

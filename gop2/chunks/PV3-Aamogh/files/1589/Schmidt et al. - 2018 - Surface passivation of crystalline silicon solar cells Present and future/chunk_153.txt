@@ -1,3 +1,0 @@
-asiliconnitridepassivation,Appl.Phys.Lett68(1996),p.1232.[14]J.Schmidt,A.G.Aberle,Carrierrecombinationatsilicon-siliconnitrideinterfaces
-fabricatedbyplasma-enhancedchemicalvapordeposition,J.Appl.Phys.85(1999)3626.[15]B.Lenkeit,ElektronischeundStrukturelleEigenschaftenvonPlasma-
-SiliziumnitridzurOberächenpassivierungvonSiebgedruckten,BifacialenSilizium-Solarzellen(Ph.D.thesis),UniversityofHanover,2002.[16]J.Schmidt,J.D.Moschner,J.Henze,S.Dauwe,R.Hezel,Recentprogressinthesurfacepassivationofsili

@@ -1,5 +1,0 @@
- that when the band gap of poly-Si is below 1.22 eV, the electron-hole recombination is mainly concentrated on the side at the poly-Si interface. With the increase of band gap, the recombination rate decreases. When the band gap reaches 1.34 eV, the recombination re
--
-gion changes and shifts from the poly-Si interface to the single-crystal silicon interface, while the recombination rate decreases sharply. The recombination rate at the interface decreases by two orders of magni
--
-tude when the po

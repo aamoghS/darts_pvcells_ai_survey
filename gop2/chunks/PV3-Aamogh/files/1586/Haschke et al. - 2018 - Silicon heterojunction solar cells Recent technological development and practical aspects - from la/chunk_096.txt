@@ -1,2 +1,0 @@
-nofcuringat200�C,whereasthedashedlineisobtainedaftercuring30minat180�C.DatacourtesyofNamicsCorp.
-Figure11:Process-ﬂowofcopperelectroplatingforabifacialSHJsolarcell.ImagecourtesyofJ.Geissb¨uhler,CSEM[48,125].Inishencecurrentlyintherangeofanacceptable1$/m2[126],corresponding,fora335W60-cellmodule,tobelow0.005$/W.AlternativeTCOsuchasZincoxide(ZnO)canalsobeused,inparticularonthen-side,wherethewafer-bulkconductivityplaysamajorrole.Fortheconﬁgurationwithp-layeronthefront,athinhigh-mobilityTCO

@@ -1,3 +1,0 @@
- [ 24 ]  There-fore, silicon solar cells with a full-area TiO 2  contact show an improved  V  oc  due to the reduced surface recombination at the Si/TiO 2  interface.   Although ultrathin TiO 2  can provide excellent passivation on silicon surfaces, the passivation thermal stability is only stable 
-at the temperature of up to 250 °C. The surface passivation Adv. Mater. 2016, 28, 5891–5897www.advmat.dewww.MaterialsViews.com
- Figure 2.    a) Injection-level-dependent effective lifetimes of n-ty

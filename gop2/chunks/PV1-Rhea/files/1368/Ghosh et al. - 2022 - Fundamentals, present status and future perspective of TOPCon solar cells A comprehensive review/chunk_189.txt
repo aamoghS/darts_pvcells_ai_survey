@@ -1,3 +1,0 @@
-[71]. The authors further added that improvement in the carrier density in the p-type AIC poly-Si layer was realized by using B-doped Si target instead of a non-doped Si target during the deposition of a-Si layer. This high carrier density due to the successful incorporation of Al and B resulted in the reduction of the resistance of doped poly-Si layer. Eventually, enhancement in the power conversion efficiency with relatively higher V
-oc 
-and FF was noticed due to having lower series resistance

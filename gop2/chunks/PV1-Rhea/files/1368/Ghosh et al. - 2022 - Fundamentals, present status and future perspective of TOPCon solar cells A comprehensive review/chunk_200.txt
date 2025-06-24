@@ -1,4 +1,0 @@
-PCon structure onto the rough surface as the rough surface possesses higher adhesive force and consequently, chances of blister formation get reduced even after thermal annealing process. Secondly, high temper
--
-ature deposition of doped a-Si:H layer may result in low hydrogen content inside the film. For an example, the authors observed almost no blistering of the annealed TOPCon structure when the doped a-Si:H layer 
-Fig. 15.Raman spectra of the Si layer as-deposited and after annealing at 600

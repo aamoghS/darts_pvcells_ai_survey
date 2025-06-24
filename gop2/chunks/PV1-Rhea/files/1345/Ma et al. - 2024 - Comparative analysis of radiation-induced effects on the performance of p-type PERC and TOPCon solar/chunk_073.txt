@@ -1,9 +1,0 @@
-demonstrated nearly identical patterns of performance degradation. As explained in Section C, both TOPCon and PERC can enhance their BOL performance by adopting lowly doped substrates with optimized pitch. It is of notable interest to investigate whether the utilization of lightly doped substrates could also translate into improved EOL per
--
-formance. To this end, the acceptor concentration within the substrate was varied from 10
-14 
-to 10
-16 
-cm
-�3 
-for both configurations. Three discrete ele

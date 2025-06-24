@@ -1,9 +1,0 @@
-odule surface temperature is usually determined by  (T
-s 
-�25 
-◦
-C), where T
-s 
-is module surface temperature subjected to irradiation, and  is a temperature coefficient (negative number) expressed as %/1 
-◦
-C [127]. The value of  depends on used cell materials and the module surface temperature is influenced by solar radiation, location and weather. Thus, the efficiency losses are particularly driven by PV materials, geographical location, solar radiation, weather, and corresponding mo

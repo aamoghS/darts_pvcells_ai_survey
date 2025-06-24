@@ -1,5 +1,0 @@
-mitters and phosphorous doped TOPCon allowed low series resistance-induced losses of the fill factor (FF) even for the narrow front side laser contact opening width of 5 
-
-m. 
-Fig. 1.Cross sections of the fabricated TOPCon solar cells based on industrial TOPCon precursors with variations in poly-Si thickness on the rear side. Please note that all solar cells featured on front and rear side either plated or screen printed contacts. 
-Table 1 Calibrated IV measurements of champion TOPCon solar cel

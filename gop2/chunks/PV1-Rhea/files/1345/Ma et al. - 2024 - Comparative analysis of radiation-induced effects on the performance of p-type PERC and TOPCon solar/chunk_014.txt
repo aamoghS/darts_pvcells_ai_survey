@@ -1,5 +1,0 @@
- two distinct technologies, the struc
--
-ture of the n-TOPCon cell is systematically transformed into a p-type TOPCon (p-TOPCon) configuration, designed to possess comparable performance parameters. Afterwards an investigation into radiation- induced defects was undertaken, encompassing the replication of measured characteristics associated with p-type substrates from litera
--
-ture sources. Employing precisely calibrated configurations, both cell architectures undergo comprehensive examination, i

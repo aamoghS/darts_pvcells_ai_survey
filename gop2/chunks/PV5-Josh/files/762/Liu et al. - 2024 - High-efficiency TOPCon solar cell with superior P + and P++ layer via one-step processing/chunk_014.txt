@@ -1,9 +1,0 @@
-rom 60 to 100 / and a junction depth of 1.2–1.5 
-
-m. While the aforementioned research methodologies have yielded specific results in B diffusion experiments, they fall short in elucidating the underlying mechanisms of B diffusion. To comprehen
--
-sively understand B diffusion, it is crucial to combine experimental data with simulation. Furthermore, the present methodology for fabricating the p
-+
-and p
-++
-layers is intricate, necessitating multiple B diffusion steps in both laser doping and 

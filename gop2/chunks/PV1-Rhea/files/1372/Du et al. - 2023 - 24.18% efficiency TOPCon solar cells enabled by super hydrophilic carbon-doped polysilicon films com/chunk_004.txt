@@ -1,8 +1,0 @@
-ted for TOPCon device fabrication. The new design shows an excellent passivation quality with an implied open-circuit voltage (iV
-oc
-) of 745 mV for the lifetime sample and a good contact performance with a low contact resistivity (
-
-c
-) of 2–3 m cm
-2 
-between plated grids and polysilicon films. Finally, the proof-of-concept TOPCon devices with the double-layer polysilicon structure and plated metal electrodes deliver a remarkable power conversion efficiency (PCE) of 24.18%. Therefore, the C

@@ -1,9 +1,0 @@
-ity (0.1-% point PCE reduction in 3 months) [69]. The touted promise of adopting ALD-VO
-x 
-as the HCL followed directly from the aforementioned results, and the observation by Yang et al. [69] that the WF of the ALD-MoO
-x 
-film in ref. [73] is likely too low to be highly efficient in a CSC, and that the analysis showed that the former offers superior surface passivation (at best J
-0 
-~ 40 fA/cm
-2
-) on c-Si. Moreover, amongst the metal (oxy)nitrides investigated so far for full-area ECLs, only AL

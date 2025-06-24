@@ -1,3 +1,0 @@
-he numbers shown for cell concepts in each graph represent the as-calculated TCO values prior to the error approximation. Cell efficiencies of 23.0% and 23.5%, module efficiencies of 20.42% and 20.86%, and module power of 424 Wp and 433 Wp are assumed for p-PERC and n-TOPCon cells respectively, assuming an equivalent cell-to-module loss. The LCOE calculations are performed for a utility-scale installation in a location with a global horizontal irradiation of 1700 kWh/m
-2
-a. For the n-TOPCon conc

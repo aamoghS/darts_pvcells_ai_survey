@@ -1,9 +1,0 @@
-e Al paste affected the contact interface of n
-+
--poly-Si and grids, the Al paste with a low weight per
--
-centage of silicon caused many voids and thick Al-Si alloy, which brought more metal recombination (J
-0,metal
-) in metallization regions. In addition, the formation of BSF caused by Al-Si alloy decreased V
-oc 
-of the cells as well, because the built-in field caused by BSF inhabited the carriers transport and brought more recombination. The Al paste with a high weight percentage of silicon ha

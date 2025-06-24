@@ -1,4 +1,0 @@
-low 
-simulations. It has been shown that the optimized VFPT concentrator yields a significant improvement in 
-both the irradiance uniformity and the heating efficiency compared to conventional cylindrical-trough and 
-parabolic-trough concentrators. [5] Atul Sagade used parabolic dish collector for instant water heating application. This paper reveals comparative experimental analysis of effect of variation of natural and forced convection heat losses on performance of prototype parabolic dish wa

@@ -1,2 +1,0 @@
-red by commercial solar simulator under STC 25�� @1sun. Table 1 shows the optimized 50pcs batch of solar cell results. The mean front efficiency is 20%, while it is 18.21% for the rear average efficiency, which means an average bifaciality greater than 90%. The best front 
-efficiency is 20.2%. Due to the single side diffusion, no more diffusion etching for back side was required. Furthermore, better efficiency should be obtained by optimizing doping profiles for B and P respectively to suit 

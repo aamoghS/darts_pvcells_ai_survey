@@ -1,4 +1,0 @@
-r[25]wasmeasured(24fA/cm2)usingtheQSSPCmeasurementontheunmetallizedsymmetricalemitterstructure(SiNx/Al2O3/p+/n/p+/Al2O3/SiNx).Becauseofthe5.6%metalcoverage,contributionfromthepassivatedeldregionJ0e,pass=24×(1–0.056)≈23fA/cm2.UsingtheSentaurussimu-lationprogram[26–28]andtheboronemitterprole,thesimulatedemittersaturationcurrentdensityasafunction
-ofthefrontsurfacerecombinationvelocity(SRV)was
-obtainedandshowninFigure3.ItisindicatedinFigure3
-thatSRVisabout590cm/sforJoeof24fA/cm2withoutmetal

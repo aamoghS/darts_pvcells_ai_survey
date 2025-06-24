@@ -1,5 +1,0 @@
-e and the edges formed during boron diffusion. The rear side passivation contact structure, which consists of an ultrathin SiO
-x 
-(1.6 nm) layer and phosphorus-doped polycrystalline silicon (250 nm) layer, was formed by low-pressure chemical vapor deposition (LPCVD). Then, the phosphorous silicate glass (PSG) was single-sided etched with a volume ratio of 15 % HF solution in room temperature (25℃). AlO
-x 
-(7 nm) was fabricated by atomic layer deposition (ALD) in the front side of TOPCon cells 

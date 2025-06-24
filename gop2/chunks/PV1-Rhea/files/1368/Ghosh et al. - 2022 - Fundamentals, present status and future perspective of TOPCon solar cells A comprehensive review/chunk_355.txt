@@ -1,3 +1,0 @@
-crystalline silicon plate as seed ma
--
-terial. However, proper texturization and selection of suitable seed may maximize the efficiency potential of n-type multicrystalline silicon based TOPCon solar cells. Two years later in 2017, Schindler et al. demonstrated an enhancement in the cell performance by improving the quality of multicrystalline silicon material and optimizing the base resistivity along with the wafer thickness [135,136]. According to the reports, 21.9% efficient TOPCon solar cell

@@ -1,8 +1,0 @@
-Received 29 April 2022; Received in revised form 22 June 2022; Accepted 8 July 2022   
-picosecond (<15 ps) pulsed laser contact opening with an opening width of ~5 
-
-m and 12 
-
-m in diameter on the solar cell front and rear side, respectively. The LCO pulse pitch within the finger line was set to 90% of the LCO diameter. The finger lines featured a finger pitch of 1 mm and 9 busbar were applied with a busbar width of 50 
-
-m in average. After LCO formation the laser damage was cured in an indu

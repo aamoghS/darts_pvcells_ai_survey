@@ -1,2 +1,0 @@
-narsurfaces,Phys.Stat.Sol.A1700058(2017).[107]J.A.CooperJr.,R.J.Schwartz,ElectricalcharacteristicsoftheSiO2/Siinterfacenearmidgapandinweakinversion,Solid-StateElectron17(1974)641–654.[108]Y.Kato,H.Takao,K.Sawada,M.Ishida,Improvementofmetal-oxidesemi-
-conductorinterfacecharacteristicsincomplementarymetal-oxidesemiconductoronSi(111)bycombinationofuorineimplantationandlong-timehydrogenan-nealing,Jpn.J.Appl.Phys.45(2006)L108.[109]F.Feldmann,R.Müller,C.Reichel,M.Hermle,Ionimplantationintoamorphou

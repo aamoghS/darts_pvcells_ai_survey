@@ -1,5 +1,0 @@
-ete
-Energies2023,16,715.https://doi.org/10.3390/en16020715https://www.mdpi.com/journal/energies
-Energies2023,16,715
-2of10
-PVsystem’scost[4].Therefore,besidesimprovedproductiontechnology,increasingtheefﬁciencyofthecellhassigniﬁcantpotentialtobringdownthesystemcostsevenmore.Toimprovethepowerconversionefﬁciency(PCE)ofc-Sisolarcellsclosertoitsthermodynamiclimitof~29.4%[5],oneofthekeyandfundamentalrequirementsistoimprovethephotogeneratedminoritycarrierlifetime(t)byminimizingtherecombinationlo

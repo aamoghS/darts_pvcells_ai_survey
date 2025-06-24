@@ -1,7 +1,0 @@
- inductively coupled plasma (ICP) with 13.56 MHz radio frequency (RF) power of 250 W at an O
-2 
-pressure of 15 mTorr for 3 s. The thicknesses are controlled by adjusting the number of ALD cycles and the sources exposure time (3DMAS and O
-2 
-plasma). For polished surface wafers, the SiO
-x 
-thickness is monitored by spectroscopic ellipsometry (SE) in situ using a Cauchy model. The c-Si wafers are then transferred into plasma-enhanced chemical vapor deposition (PECVD) system in a down-flow configur

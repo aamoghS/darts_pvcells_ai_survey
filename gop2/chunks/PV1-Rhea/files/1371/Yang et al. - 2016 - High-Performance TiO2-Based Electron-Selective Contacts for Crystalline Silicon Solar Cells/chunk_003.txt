@@ -1,5 +1,0 @@
-pen-circuit voltage  V  oc , and simpliﬁ ed current ﬂ ow pattern resulting in a high ﬁ ll factor FF) as well as design ﬂ exibility, process robustness and a simpliﬁ ed process ﬂ ow by eliminating the local doping and contact opening steps. Ultra-
-high PCE of 25.1% and 25.6%, respectively, has been achieved 
-in silicon heterojunction (SHJ) and silicon heterojunction inter-
-digitated back-contact (SHJ-IBC) cells based on the intrinsic 
-a-Si:H/doped a-Si:H CSC. [ 2–4 ]  Recently, sili

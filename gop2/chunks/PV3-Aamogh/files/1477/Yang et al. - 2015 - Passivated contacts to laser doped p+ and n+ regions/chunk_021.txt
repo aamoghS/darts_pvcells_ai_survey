@@ -1,3 +1,0 @@
-ass)wereextractedfromanimperfectlinearttingusingtheKaneandSwansontechnique[33],andthesehighvaluesmaystillbeunderestimationsaccordingtoprevioussimulations[14].ThepassivatedJovalues(Jo,pass)wereobtainedviaPECVDSiNx(∼70nm)forlaser
-Table1Electricalpropertiesoflaserdopednþandpþregions.SamplesRsheet(/)Nsurf(cm3)Jo,un-pass(fA/cm2)Jo,pass(fA/cm2)nþ12807102.81019185072005075nþ21907103.31019159071009075pþ14907101.9101931007300100720pþ21967104.0101922007200260720
-Fig.1.TypicalECVproles

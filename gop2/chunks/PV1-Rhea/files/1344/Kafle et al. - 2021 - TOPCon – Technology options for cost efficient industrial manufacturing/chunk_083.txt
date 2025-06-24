@@ -1,5 +1,0 @@
-g process can be optimized in such a way that a thin thermal oxide grows on top of boron emitter, and that an excellent passivation of the textured (front) side can be achieved after PECVD AlO
-x
-/a-SiN
-x 
-layer deposition. For PECVD TOPCon low & APCVD TOPCon low, CEI is followed by BSG etching as no SSE process is envisioned later for both of these process routes. After ozone cleaning and UV-TO growth, PECVD/APCVD a-Si(n) layers are deposited with excellent single-sidedness. Here, we assume the 

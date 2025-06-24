@@ -1,5 +1,0 @@
-oped LPCVD poly-Si passivating contacts was predicted by establishing a roadmap to an 
- 
-of 25.5% using Quokka 2 simulations. Among the strategies outlined in the roadmap, the most effective im
--
-provements to the solar cell design and fabrication process were found to be the use of wafers with higher bulk lifetimes and of advanced and selective emitter as well as transparent passivating contact technologies for enhanced passivation of the front side of the solar cells. Our future work will foc

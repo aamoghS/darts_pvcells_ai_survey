@@ -1,5 +1,0 @@
-n. Further work is needed to develop and refine the theoretical model, optimize the thermal diffusion curve, and adjust the doping concentration of the B emitter. These efforts will contribute to further enhancing the performance of TOPCon cells. 5.Conclusions In this study, the atomic-level diffusion behavior of B-doped Si was elucidated through molecular dynamics methods. The diffusion char
--
-acteristics of B in Si, dependent on temperature and time, were suc
--
-cessfully identified. The simula

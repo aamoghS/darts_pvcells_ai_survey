@@ -1,3 +1,0 @@
-]. The major challenge of a-Si cells is related to their low efficiency, slow improve
--
-ment, and shorter service life. However, one notable exception is CdTe modules, which have much potential to compete with c-Si in the near future. Along with technological advancement, CdTe cells and module efficiencies are recorded to be 22.1% and 18.6%, respectively [17]. The prime challenge of CdTe cells is related to toxicity and environmental concerns because of the use of toxic cadmium. CIGS has a high 

@@ -1,4 +1,0 @@
-lluminated (b) Partially shaded.
-5
-Scientific Reports |        (2024) 14:21587  | https://doi.org/10.1038/s41598-024-72502-z
-in a PV  array22 while few other authors incorporated fuzzy logic for the same  purpose23. Soware-employed simulation-based models, such as PSpice, PSIM, EMT, and others, are used thoroughly to investigate shadowing eects on photovoltaic  systems24,25. ough quite a large literature is available for partial shading in conventional eld installed modules, addressing parti

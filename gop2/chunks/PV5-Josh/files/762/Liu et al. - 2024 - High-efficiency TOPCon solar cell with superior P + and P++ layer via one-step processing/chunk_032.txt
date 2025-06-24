@@ -1,3 +1,0 @@
-ng was performed. Sub
--
-sequently, the application of Si paste on the front surface of the Si wafer, following the metal electrode pattern, was carried out to create a paste- coated area. High-temperature thermal diffusion was employed to induce a reaction between the paste and the borosilicate glass within the paste-coated region. This led to the transformation of BSG into a B-Si mixture. The Si wafer, arranged in a back-to-back configuration, was then placed in a tube diffusion furnace for B d

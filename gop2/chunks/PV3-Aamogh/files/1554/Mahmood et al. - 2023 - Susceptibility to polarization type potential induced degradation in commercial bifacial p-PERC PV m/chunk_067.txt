@@ -1,7 +1,0 @@
-assphotovol-taicmodulereliabilityanddegradation:areview.JPhysDApplPhys.2021;54(41):413002.doi:
-10.1088/1361-6463/ac1462
-6.SawMH,KhooYS,SinghJP,WangY.EnhancingopticalperformanceofbifacialPVmodules.EnergyProcedia.2017;124:484-494.doi:
-10.1016/j.egypro.2017.09.285
-7.ibneMahmoodF,KumarA,AfridiM,TamizhmaniG.Potentialinduceddegradationinc-Siglass-glassmodulesafterextendeddampheatstress.SolEnergy.2023;254:102-111.doi:
-10.1016/j.solener.2023.03.013
-8.ZhangY,YuY,MengF,LiuZ.Experimentalinvestigationofthes

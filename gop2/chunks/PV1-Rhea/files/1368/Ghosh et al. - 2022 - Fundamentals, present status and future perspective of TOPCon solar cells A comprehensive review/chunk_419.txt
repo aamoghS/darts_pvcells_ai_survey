@@ -1,7 +1,0 @@
-al and higher power conversion efficiency are the major advantages of TOPCon solar cells. Till now, the highest reported efficiency has been 25.8% (V
-oc 
-=725 mV, J
-sc 
-=42.5 mA/cm
-2 
-and FF =83.3%) which is very close to theoretical efficiency limit as evaluated by Shockley-Queisser for a single junction crystalline silicon based solar cells. In addition, large area solar cells and modules have also been fabricated with higher power output than the present market dominating PERC solar modules. 

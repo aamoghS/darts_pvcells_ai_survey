@@ -1,3 +1,0 @@
-eading towards a multi terawatt production capacity in the next decade. Especially, silver for solar cell metallization turns out to be one of the critical materials in terms of availability and material costs [1,2]. The dependency on silver will even increase in an anticipated technology evolution from p-type passivated emitter and rear cells (PERC) to n-type solar cell concepts such as het
--
-erojunction or tunnel oxide passivated contact (TOPCon) solar cell in industry. State-of-the-art n-type

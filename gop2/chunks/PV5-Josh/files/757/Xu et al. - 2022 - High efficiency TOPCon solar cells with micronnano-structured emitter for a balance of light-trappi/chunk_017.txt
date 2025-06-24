@@ -1,9 +1,0 @@
-ig. 1a delineated the preparation schematic of NPP structures. After that, to remove the plasma-induced damaged layer and round off the sharp silicon structure, the samples were immersed in a buffered oxide etching (BOE) recipe of ammonium fluoride (NH
-4
-F), hydrogen peroxide (H
-2
-O
-2
-), and water (H
-2
-O). 2.2.Fabrication of solar cells The cross-sectional conceptual diagram of NPP TOPCon solar cells is shown in Fig. 1b. In this work, conventional TOPCon solar cells with micron-pyramid texture 

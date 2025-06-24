@@ -1,5 +1,0 @@
-so induces the effusion of hydrogen from the SiO
-x
-/c-Si interface, and thus a hydrogenation step is necessary to terminate chemically the dangling bonds [5]. The dopant diffusion and hydrogenation phenomena are highly dependent on the SiO
-x 
-thickness, the dopant concentration in the poly-Si layer [20], the hydrogenation method, and the surface morphology, which complicate the process optimization of TOPCon solar cells. In this study, double-sided, front (p) and rear (n), TOPCon solar cells on 

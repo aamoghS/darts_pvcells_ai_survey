@@ -1,2 +1,0 @@
-e variability line is for mixture, where temperature point is on the line. Mixture has greater effect on the pH value than temperature.  
- Dace Lauka and Dagnija Blumberga  /  Energy Procedia   72  ( 2015 )  196 – 201 201  Fig. 4. Estimated response surface Fig. 4. shows an empirical equation (5) in 3-dimensional space. The data validation lets us analyze the factor correlation. It is necessary to conduct data analysis and model validation for factors which are used in the experiment. From the

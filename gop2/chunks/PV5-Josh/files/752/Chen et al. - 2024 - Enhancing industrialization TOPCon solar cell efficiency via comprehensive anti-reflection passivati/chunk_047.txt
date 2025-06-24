@@ -1,5 +1,0 @@
-ated sample post-firing. This enhance
--
-ment in the final electrical performance translated to an average effi
--
-ciency gain of ~0.07% for the TOPCon solar cells. The observed improvements in passivation quality and electrical performance demonstrate the potential of these optimization strategies in advancing TOPCon solar cell technology. CRediT authorship contribution statement Wenhao Chen: Conceptualization. Shengxing Zhou: Investigation, Validation. Weiqing Liu: Investigation. Yingming Wang: 

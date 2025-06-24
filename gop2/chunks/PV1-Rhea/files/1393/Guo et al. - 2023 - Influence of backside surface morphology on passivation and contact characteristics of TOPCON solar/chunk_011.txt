@@ -1,3 +1,0 @@
-0,42,44]. Therefore, under the requirements of improving passiv
--
-ation characteristics and optical absorption, a smoother and higher reflectivity polished surface is an effective optimization direction. However, metal contact points need to be optimized in the opposite direction. Pyramid faces are more conducive to forming good contacts, thereby reducing contact resistance and increasing FF. On the one hand, surface topography can affect the formation of silver crystallites [4,18,34]. On the ot

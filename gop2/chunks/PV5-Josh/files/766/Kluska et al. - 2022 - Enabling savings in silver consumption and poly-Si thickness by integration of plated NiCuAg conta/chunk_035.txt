@@ -1,5 +1,0 @@
-ation of LIPPS and another approach such as annealing-induced sili
--
-cidation are beneficial to improve contact adhesion reliability on planarized surfaces in an industrial environment. 3.3.2.Current annealing induced contact resistance improvement of plated contacts The second type of decreased FF is summarized in the orange data in Fig. 5 and shows a range of 78–81%: The application of a current annealing process (LECO) lead to a mean improvement in FF of about 1.5%
-abs
-. Series resistance (

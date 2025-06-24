@@ -1,6 +1,0 @@
- the contamination at the edges as discussed in Sec
--
-tion 3.2, which is not considered in the simulations. Therefore, the model of the best solar cell based on the parameters in Table 1 is considered valid. The main factors limiting the efficiency of the best solar cell were found to be recombination losses in the bulk and at the front surface and contacts. As wafers with significantly higher bulk quality i.e., 
-
-B 
-up to 8 ms are commercially available [47], the first step of the roadmap asse

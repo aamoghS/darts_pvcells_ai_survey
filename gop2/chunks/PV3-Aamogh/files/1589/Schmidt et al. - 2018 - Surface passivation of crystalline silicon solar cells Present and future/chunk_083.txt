@@ -1,2 +1,0 @@
-D)[76,80-83]orplasma-enhancedchemicalvapordeposition(PECVD)[79,80,83-88].Eventually,thejunctionisformedduringannealingathightemperaturesintherangeof800–1050°C.Theoptimumannealingtemperaturedependsontheinterfacialoxidestoichiometryandthickness,thedopingdensitywithin
-thesiliconlayer,andotherprocess-relatedaspects.Regardingthenotation,“poly-Siemitters”or“semi-insulatingpoly-Si(SIPOS)emitters”[75,90]wereusedintherstreportsofthiscontactscheme.Afteritsrecentrevival[79,91-93],dierentrenomi

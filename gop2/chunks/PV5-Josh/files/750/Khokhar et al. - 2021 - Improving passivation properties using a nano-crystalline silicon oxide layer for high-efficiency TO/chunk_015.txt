@@ -1,7 +1,0 @@
-Carrier transport is resulted by tunneling via thin SiO
-x 
-shells for higher O
-2 
-concentrations [24]. The junction properties were analyzed by varying the thickness and annealing time of the deposited layer. Hydrogen passivation in forming gas annealing (FGA) was investigated after the influence of each parameter. Additionally, our research focused on the experimental de
--
-signs to explain the physical mechanisms accountable for melioration and optimization of the passivation characteristics of

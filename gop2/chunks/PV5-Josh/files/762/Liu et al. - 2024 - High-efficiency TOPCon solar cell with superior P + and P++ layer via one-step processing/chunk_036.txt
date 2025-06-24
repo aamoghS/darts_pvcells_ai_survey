@@ -1,7 +1,0 @@
- Si paste on the front. Then the poly-Si wraparound side was etched in inline treatment with HF and batch-type treatment with a mixed solution of KOH and polishing ad
--
-ditives. Passivation layers were deposited on the front and back surfaces. An aluminum oxide layer (3 nm-AlO
-x
-) was deposited on the front surface using ALD equipment for passivation, while a Si nitride layer (82 nm- SiN
-x
-) was deposited on the front surface using PECVD equipment for antireflection. A Si nitride passivation lay

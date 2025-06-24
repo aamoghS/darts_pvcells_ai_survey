@@ -1,5 +1,0 @@
-l tool used for chemical edge isolation (CEI), BSG etching and ozone cleaning steps. For all TOPCon routes, alkaline texturing is followed by boron diffusion step to form p
-+
-emitter. For PECVD TOPCon high & APCVD TOPCon high, BSG is kept intact during the wet-chemical step for rear- emitter removal in order to protect boron emitter against chemicals used in SSE process. After performing ozone cleaning in the same wet- chemical tool used for CEI/BSG processes, UV-TO is grown. After
--
-wards, a 15

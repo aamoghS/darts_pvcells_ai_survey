@@ -1,5 +1,0 @@
-s n-TOPCon solar cell design parameters on the ex situ doped passivating contact and device properties has already been investigated. The studied parameters include the method used for growing the interfacial SiO
-x 
-film [12], the structural properties of the poly-Si film [13], the poly-Si film thickness (t
-poly
-) [14,15], and the composition of the screen-printing paste used for the metallization of the passivating contact [16]. Related to the alternative approach for the fabrication of poly-Si

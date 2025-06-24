@@ -1,5 +1,0 @@
-he 
- 
-exists by optimizing the DARC stack. 3.4.Damp heat and thermal cycling tests on 1-cell n-TOPCon solar laminates The results of the damp heat and thermal cycling tests applied to 1- cell laminates containing the developed n-TOPCon solar cells are shown in Fig. 12. These indicate that P
-out 
-of the laminates, initially equal to ~4.9 W, does not drop and even increase by ~1% relative upon 1000 h of damp heat testing (see Fig. 12a)) and by ~2% relative after 400 thermal cycles (see Fig. 12b))

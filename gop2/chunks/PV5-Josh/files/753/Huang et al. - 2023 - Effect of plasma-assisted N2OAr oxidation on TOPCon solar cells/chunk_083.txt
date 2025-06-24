@@ -1,4 +1,0 @@
-Solar Photo
--
-electricity Science and Technology Co., Ltd. were used for the film deposition and thickness measurements. The authors would like to thank the Sany Silicon Energy (Zhuzhou) Co., Ltd. for providing the test of TOPCon solar cells. References 
-[1]W. Stefan, B. Glunz, J. Steinhauser, I. Polzin, C. Luderer, F. Feldmann, Silicon- based passivating contacts: the TOPCon Route, Prog. Photovolt. Res. Appl. (2021) 1–19, https://doi.org/10.1002/pip.3522. [2]M. St¨ohr, J. Aprojanz, R. Brende

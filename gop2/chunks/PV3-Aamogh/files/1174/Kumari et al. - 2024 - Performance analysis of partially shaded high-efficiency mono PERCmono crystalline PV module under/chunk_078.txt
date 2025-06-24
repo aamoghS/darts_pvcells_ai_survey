@@ -1,8 +1,0 @@
-e elevation (b) show the alignment of the module during experiments (c) Attachment of thermocouple.
-10
-Scientific Reports |        (2024) 14:21587  | https://doi.org/10.1038/s41598-024-72502-z
-Fig. 8.  e generated IV and PV characteristics of PV module at standard testing conditions.
-Fig. 9.  Module IV response under dierent shading percentages.
-11
-Scientific Reports |        (2024) 14:21587  | https://doi.org/10.1038/s41598-024-72502-z
-performed on a clear and sunny day with an average 

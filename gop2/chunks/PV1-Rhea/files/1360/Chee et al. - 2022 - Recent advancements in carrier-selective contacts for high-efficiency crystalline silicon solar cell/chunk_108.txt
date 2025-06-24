@@ -1,9 +1,0 @@
-ncreases through carrier injection effects, V
-oc 
-is greater for a given temperature. Therefore, the temperature-sensitive J
-sc 
-characteristics implied by the irradiance depend on the properties of the active layer material. For optoelec
--
-tronics, optical and electrical loss reduction approaches have been re
--
-ported in several cases of not just adopting TCOs, but metal nanowires [94,97,98] and 2D materials [93,99,100,101]. This is in addition to front metal contact layers that comprise doped 

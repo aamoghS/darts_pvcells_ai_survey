@@ -1,2 +1,0 @@
-chi  , 
-  E.    Maruyama  ,   S.    Okamoto  ,  IEEE J. Photovoltaics    2014 ,  4 ,  1433 .  [5]     F.    Feldmann  ,   M.    Simon  ,   M.    Bivour  ,   C.    Reichel  ,   M.    Hermle  ,   S. W.    Glunz  ,  Appl. Phys. Lett.    2014 ,  104 ,  181105 .  [6]     F.    Feldmann  ,   M.    Bivour  ,   C.    Reichel  ,   H.    Steinkemper  ,   M.    Hermle  ,   S. W.    Glunz  ,  Sol. Energy Mater. Sol. Cells    2014 ,  131 ,  46 .  [7]     A.    Moldovan  ,   F.    Feldmann  ,   M.    Zimmer  

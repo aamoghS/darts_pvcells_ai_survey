@@ -1,5 +1,0 @@
-t would also increase the bifacial performance of TOPCon cells. Apart from that, lowering Ag consumption in screen-printing metalli
--
-zation step remains a very important technological milestone for TOP
--
-Con manufacturers to further lower the COO and LCOE of the TOPCon- concept. Last but not least, it should be noted that the economic viability of each of the analyzed TOPCon routes requires a stable 24/7 production with equivalent uptime and utilization rates to current PERC cell manufacturing 

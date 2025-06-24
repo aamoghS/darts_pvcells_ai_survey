@@ -1,3 +1,0 @@
--P.Harder,J.Schmidt,
-B.F.P.Roos,T.Dippell,R.Brendel,ComparisonofICP-AlOxandALD-Al2O3layersfortherearsurfacepassivationofc-SiSolarcells,EnergyProcedia27(2012)
-379–384.[52]L.E.Black,T.Allen,A.Cuevas,K.R.McIntosh,B.Veith,J.Schmidt,ThermalstabilityofsurfacepassivationbyAPCVDAl2O3,Sol.EnergyMater.Sol.Cells120(2014)339–345.[53]J.Schmidt,A.Merkle,R.Brendel,M.C.M.vandeSanden,W.M.M.Kessels,Surfacepassivationofhigh-eciencysiliconsolarcellsbyatomic-layer-depositedAl2O3,Prog.Photovolt.:Res.Appl.16(2008

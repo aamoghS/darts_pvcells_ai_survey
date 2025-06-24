@@ -1,9 +1,0 @@
-, SHJ, TOPCon, cost-effective thin wafer c-Si technologies, as well as low-cost c-Si bifacial PERC solar cells, are within the framework of near-future industrial deployments [176,177]. 4.3.Passivation stacks: An industry-based analysis At present, the use of SiO
-x
--, SiN
-x
-- and AlO
-x
--based TCD passivation stacks has much potential in industrially-compatible PERC, HIT, POLO or TOPCon technologies. The passivating materials contain different fixed charge polarities: AlO
-x 
-possess negative fixe

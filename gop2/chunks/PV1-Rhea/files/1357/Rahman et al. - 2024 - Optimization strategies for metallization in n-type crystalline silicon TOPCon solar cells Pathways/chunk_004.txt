@@ -1,9 +1,0 @@
-
-oc
-)of684.29mV,fillfactor(FF)of78.77%,andapowerconversionefficiency(PCE)of21.00%.Further,darkI–Vmeasurementsconfirmedashuntresistance(R
-sh
-)of6.25×10
-6
-andareducedseriesresistance(R
-s
-)of6.48,underscoringthesignificanceofprecisemetallizationinreducingresistivelossesandenhancingefficiency.Futureresearchwillexploreinnovativematerialsandcutting-edgeprintingtechniquesbeyondsqueegeespeedadjustments.Thepotentialincorporationofnanomaterialsandconductingpolymersaimstorefinethemetal-lizationprocess

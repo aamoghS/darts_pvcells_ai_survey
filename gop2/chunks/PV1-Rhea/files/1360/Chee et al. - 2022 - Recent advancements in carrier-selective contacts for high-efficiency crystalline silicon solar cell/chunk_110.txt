@@ -1,8 +1,0 @@
-ayer, increasing the index contrast by inserting a dielectric layer such as MgF
-2 
-between the TCO layer and metal grid [109], adopting conformal ALD-TCOs [110], or an enhanced MIS contact [111], etc., to alleviate the V
-oc 
-and FF trade-off, were also highlighted. A major contributor to the low FF is also believed to be due to the WF mismatch between the various contact layers, e.g., forming a Schottky barrier between the TCO and a-Si:H(p) layers thereby raising 
-
-c 
-and in turn impeding effec

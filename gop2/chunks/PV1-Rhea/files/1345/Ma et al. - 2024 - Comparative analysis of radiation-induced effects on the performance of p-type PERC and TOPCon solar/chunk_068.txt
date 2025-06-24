@@ -1,8 +1,0 @@
-ed from the front surface. The introduction rates of deep traps (+0.56, �0.71) were reduced considerably as they have high effects on SRH recombination. 
-Fig. 4.Suns-V
-oc 
-results from substrates before and after BO recovery, and substrates with lower doping concentrations using (a) PERC and (b) p-TOPCon technologies. 
-Fig. 5.(A) 2D unit cell of the 50 
-
-m BSFR space cell and (b) measured EQE vs. simulated results based on the uniform defect generation assumption.  
-Fig. 6.Assuming an exponen

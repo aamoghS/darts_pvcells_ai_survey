@@ -1,5 +1,0 @@
-dering, shunts, short-circuited cells, broken interconnection ribbons, and cell cracks), optical (delamination, encapsulant discoloration, bubble formation, and front glass copper breakage), or some other problems including defective bypass diode, potentially induced degradation, and open circuited sub
--
-module. These degradations can be initiated and further aggra
--
-vated during operation because of different materials, environmental factors and adversely affect cell performance. The close moni

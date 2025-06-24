@@ -1,3 +1,0 @@
-dcleaningprocess24toremovethenativeoxideandtheimpu-ritiesonsurface.Thisprocessconsistsof(i)nativeoxideremovaland
-chemicaloxidegrowthbyaself-heatedsolutionat75Cfor15min(H2SO4:H2O2ratio4:1),(ii)anoxideetchingfor2min(HF:HCl:H2Oratio1:1:20),(iii)anoxidegrowthfor15min(HCl:H2O2:H2Oratio1:1:5),andthen(iv)adilutedHF(DHF)solutionfor30s(HF:H2Oratio1:20)toremovetheoxidelayerandtosaturatethesurfacetermina-tionwithHatoms.Thecleanedwafersaretransferredintoavacuum
-boxbetweeneachprocesstoreducetheoxidationandc

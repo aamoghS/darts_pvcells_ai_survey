@@ -1,9 +1,0 @@
-thsub-cellstoallowefficientrecombinationofthedifferentmajoritycarriersfromeachcell.Whileusuallytransparentconductiveoxides(TCOs)
-areusedtoservethatpurpose(e.g.,inpreviousstudies,
-109–111
-)n+/p+Si-basedtunnelingjunction(SiTJ)couldreduceopticallossesbybetterrefractiveindexmatching.
-112
-5.1|FundamentalconceptsInarecentpublication,wepresentedalow-resistiveandpassivatingSiTJbasedonTOPCon.
-113
-Withrespecttotheelectricalproperties,theprocessflowandlayersmustallow(i)excellentpassivationofthe
-c-Sisurfa

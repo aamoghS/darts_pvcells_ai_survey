@@ -1,3 +1,0 @@
- layers are further inserted beneath the ECL/HCL for chemical passivation of the c-Si surface. Therefore, well-established industrially scalable thin-film deposition technologies are imperative for the maturity of the SHJ technology, which is well-suited for bifa
--
-ciality, and has evolved greatly in terms of cost and efficiency. Fewer process steps are required compared to that of PERC, and the low- temperature processing is compatible with thinner wafers. Carrier selectivity can be achieved ei

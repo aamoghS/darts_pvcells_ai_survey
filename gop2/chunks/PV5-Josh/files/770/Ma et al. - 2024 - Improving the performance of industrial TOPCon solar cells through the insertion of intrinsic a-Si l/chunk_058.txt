@@ -1,3 +1,0 @@
-he ECV curve shown in Fig. 4(a). These above obser
--
-vations have demonstrated the introduced a-Si (i) layer with an adequate thickness can tailor the doping profile, thereby reducing the recombination loss in the c-Si region, ultimately leading to a better passivated contact cell performance. In the final evaluation of the introduced a-Si (i) performance at the device level (M10 wafer), TOPCon solar cells were fabricated using passivation layers based on the Baseline, G1, G2, G3, and G4 groups 

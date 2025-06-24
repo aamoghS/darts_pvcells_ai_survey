@@ -1,7 +1,0 @@
- desired thickness is achieved. However, the absence of strin
--
-gent demarcation between the TMA and H
-2
-O regions gives rise to a less than optimal quality in the deposited AlO
-x 
-film. It tends to harbor a significant quantity of oxygen vacancy defects and Al–OH bonds that fail to break in time, which remain intertwined due to their overlapping deposition processes. The integration of the PO process resulted in an elevation of the O–Al–O bond ratio, which can be attributed to the vigorou

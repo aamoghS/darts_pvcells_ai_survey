@@ -1,5 +1,0 @@
-l. [9] have successfully developed flexible HJT solar cells. Through the low-temperature process and symmetric design, the wafer’s thick
--
-ness was greatly reduced but the good surface passivation was well kept. However, due to the high investment in equipment and manufacturing costs, the development of HJT is relatively slow. Compared with other solar cells, IBC benefit from their structure with higher fill factor (FF) and short-circuit current density (J
-sc
-). However, the cost is almost twi

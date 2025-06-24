@@ -1,9 +1,0 @@
-enon may be caused by the effusion of hydrogen from a-Si:H layers. However, mini
--
-mization of this phenomenon may be realized by controlling the surface morphology and annealing profile which in turn provide adequate time and path for the escape of hydrogen atoms. As a result, an implied V
-oc 
-(iV
-oc
-) of more than 700 mV was realized for p-type passivated contacts at an annealing temperature of 900
-◦
-C. On the other hand, degradation in the passivating quality of the passivated contacts for 

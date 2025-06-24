@@ -1,3 +1,0 @@
-so 
-developed a 3-D model by CFD software to further investigate the different heat transfer processes of 
-receiver’s end components. [3] Sagade et.al describes the experimental results of the prototype parabolic trough made of fiberglass reinforced plastic, and its aperture area coated by aluminum foil with reflectivity 0.86. Authors observed that this line focusing parabolic trough with mild steel receiver coated with black proxy material has been tested with glass cover and without glass co

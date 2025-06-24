@@ -1,3 +1,0 @@
-es,depictedbysolidlinesasafunctionoftheratiod=p(inlogarithmicscale).Di�erentsymbolscorrespondtodi�erentvaluesofmixingparameterErear=0:2(diamonds;�)andErear=0:4(squares;�).
-Figure8:Di�use(DHI)anddirect(DNI)(leftaxis)componentofthesolarradiationnormalizedtothecorrespondingglobalone(GHI)incidentatthehorizontalplaneinthegroundandturbidityvalues(AOD)(rightaxis)forthesiteofKAUSTinSaudiArabia.ThevaluesweremeasuredfortheperiodMarch17to26,2017duringnoontime(12:00pm).10
-EnergyOasis(NEO)site.Itis

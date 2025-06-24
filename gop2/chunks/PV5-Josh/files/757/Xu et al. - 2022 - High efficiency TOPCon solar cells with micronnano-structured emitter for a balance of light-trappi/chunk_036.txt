@@ -1,3 +1,0 @@
-m layer (EML) with graded refractive index distribution was formed between the air and the silicon substrate [32], because the feature sizes of NPP structures are compa
--
-rable to or smaller than the incident light wavelength, especially the short-wavelength. The EML effectively enhances light scattering [33], and improves short-wavelength response of silicon wafers in the spectral range of 300–400 nm as shown in Fig. 3a. Meanwhile, the absorptance spectra of NPP structures show a redshift com

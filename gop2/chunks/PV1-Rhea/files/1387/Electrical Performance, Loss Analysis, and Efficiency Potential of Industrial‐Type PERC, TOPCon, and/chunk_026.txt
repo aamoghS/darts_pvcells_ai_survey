@@ -1,3 +1,0 @@
-oping of a- Si:H causes band bending of the work function (WF), leading to carrier selec-tivity. By selecting functional materials that match the band structure, a high potential barrier for holes and a small or even zero potential barrier for electrons can be directly formed at the 
-890
-interface, ensuring both J0 and ρc to form the optimal electron selective transport [24]. The first solar cell using a silicon het-erojunction was reported in 1983 by Hamakawa etal. in the form of an a- Si:H/p

@@ -1,2 +1,0 @@
-RC, SHJ, CIGS, and III–V/Si modules are Si, Al, and others, including Ag, In, Ga, Bi, and Pb [7]. Aluminum is mainly used in a module frame, while Si and other materials are used in metallic elements in different PV modules. Currently, the cost of c-Si represented by Al-BSF or PERC has already fallen to approximately $0.25–0.27/watt [8]. It will decrease continuously soon by reducing the 
-Fig. 7.Efficiencies of a) different PV cell technologies and b) multijunction cells (concentrator and no

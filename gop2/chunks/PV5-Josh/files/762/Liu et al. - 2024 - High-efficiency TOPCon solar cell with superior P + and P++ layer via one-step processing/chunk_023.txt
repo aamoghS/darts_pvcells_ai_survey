@@ -1,5 +1,0 @@
-onstant number of atoms, pressure, and tem
--
-perature (NVT), the Nose-Hoover thermostat was utilized, relaxing the system to 300 K over a duration of 10 ps. Subsequently, the temperature was rapidly increased to the preset value and maintained for 6 ns. Throughout the entire simulation, the external pressure remained at atmospheric levels, and a time step of 1 fs was employed. Notably, B atoms can only diffuse into Si at sufficiently high temperatures. There
--
-fore, considering the experimental 

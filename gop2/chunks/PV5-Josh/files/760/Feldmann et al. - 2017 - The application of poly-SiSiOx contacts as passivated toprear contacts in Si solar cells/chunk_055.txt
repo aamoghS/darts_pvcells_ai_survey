@@ -1,2 +1,0 @@
-ferencebetween(1-R)-curveandEQEweightedwiththesolarspectrumAM1.5G(300–700nm).Thelossesamounttoabout0.86,1.0,and1.54mA/cmforabout6nm,15nm,and34nmpoly-Si,respectively.TheseabsorptionlossesareplottedinFig.9overthepoly-Sithickness.Furthermore,theoreticalabsorptionlossesforstacksof75nmITOanda-Si:H(i),P-dopedpoly-Si,andc-Siaregiven.ThosewerecalculatedbyOPAL[34]usingthenandkdatadeterminedinSection3andtheF.Feldmannetal./SolarEnergyMaterials&SolarCells159(2017)265–271269
-followingsettings:planarsurf

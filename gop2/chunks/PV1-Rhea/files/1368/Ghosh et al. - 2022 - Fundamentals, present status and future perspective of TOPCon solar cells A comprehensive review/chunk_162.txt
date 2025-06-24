@@ -1,9 +1,0 @@
- c-Si layer was not the cause for realizing poor iV
-oc
-. Therefore, high carrier recombination rate within the doped poly-Si layer and at c-Si/SiO
-x 
-interface owing to the clustering of boron atoms might be a valid reason for obtaining such poor results. The authors finally rec
--
-ommended that the understandings may lead to simplify the develop
--
-ment of IBC solar cells featuring passivation contacts. On the other hand, Reichel et al. studied the impact of P implantations into PECVD coated 15 n

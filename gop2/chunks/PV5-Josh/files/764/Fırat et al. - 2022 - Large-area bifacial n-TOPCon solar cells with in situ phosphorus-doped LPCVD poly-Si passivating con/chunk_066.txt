@@ -1,9 +1,0 @@
-econd, zoomed-in plot, which indicates a clear drop in the wavelength range of 1000–1200 nm. These findings agree well with the results of similar studies in the literature based on EQE mea
--
-surements [15,39]. Since the optical differences are at long wavelengths i.e., concerned with photons reaching the rear side of the solar cells, and depend systematically on t
-poly
-, the data show that FCA in the poly-Si films is indeed the reason behind the J
-sc 
-loss with increasing t
-poly
-. In addition

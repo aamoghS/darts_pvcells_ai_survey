@@ -1,7 +1,0 @@
-stryLetters.2014;5(4):680-685.
-https://doi.org/10.1021/jz500059v
-9.ChapinDM,FullerCS,PearsonGL.Anewsiliconp-njunctionphoto-cellforconvertingsolarradiationintoelectricalpower.JApplPhys.1954;25(5):676-677.
-https://doi.org/10.1063/1.1721711
-10.TaguchiM,KawamotoK,TsugeS,etal.HIT™cells-high-efficiencycrystallineSicellswithnovelstructure.Prog.Photovolt:Res.Appl.2000;8(5):503-513.
-https://doi.org/10.1002/1099-159x(200009/10)8:5%3C503:aid-pip347%3E3.0.co;2-g
-11.YoshikawaK,YoshidaW,IrieT,etal.Exceeding

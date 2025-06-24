@@ -1,3 +1,0 @@
-/cm
-2 
-[18] are likely to cause an electrical breakdown of remaining interface oxide, oxi-nitride or nitride layers [20] at the Ni–Si interface [21] resulting in increased contact area (decreased contact resistance, increased contact recombination). 4.Conclusion This work demonstrated that the application of a plated Ni/Cu/Ag metallization approach is able to significantly reduce silver consumption for industrial TOPCon solar cells and at the same time achieve high cell efficiencies of up to 2

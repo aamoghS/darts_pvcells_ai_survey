@@ -1,5 +1,0 @@
-aling profile, and acceleration rate, an oxide tunnel junction structure with a passivation characteristic of 700 mV or more (Voc) on a p-type wafer could achieved. The quality of passivation of samples subjected to RTP annealin
-g
- at temperatures above 900°C declined rapidly. To improve the quality of passivation of the tunnel oxide layer, the physical properties an
-d
-thermal stability of the thin layer must be considered. TOPCon silicon solar cell has a boron diffused front emitter, a tunnel-

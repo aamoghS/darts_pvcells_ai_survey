@@ -1,2 +1,0 @@
-ssumenoreﬂectionwhenenteringtheabsorber(R0=0).ForthesimulationsshowninFigure4,wevarytheparasiticabsorptionattherearsideasawavelength-independentparameter(AbackP=0,0.1,0.25,0.5).Theparasiticabsorptionatthefrontside(AfrontP)wecalculatewithsingle-passLambert-BeerabsorptionAfrontP=1�exp �4ˇkaSi
-��taSi!(A.1)fora-Si:H(p)thicknessestaSi0nm,2nm,5nm,10nm,andwiththeextinctioncoe�cientfora-Si:H(p)kaSi(�)publishedbyHolmanetal.[53]andtakenfromtherefractiveindexlibraryonpvlighthouse.com.Further
