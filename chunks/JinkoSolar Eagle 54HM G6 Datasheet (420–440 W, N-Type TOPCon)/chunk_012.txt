@@ -1,5 +1,0 @@
-Temperature(
-)Maximum system voltageMaximum series fuse ratingPower toleranceTemperature coefficients of PmaxTemperature coefficients of VocTemperature coefficients of IscNominal operating cell temperature  (NOCT) Cell Temperature 25°C
-Ambient Temperature 20°C
-( Two pallets = One stack ) 36pcs/pallets, 72pcs/stack, 936pcs/ 40'HQ Container
-TUV  1×4.0mm2(+): 400mm , (-): 200mm or Customized Length3.2mm,Anti-Reflection Coating,High Transmission, Low Iron, Tempered GlassAnodized Aluminium Alloy17

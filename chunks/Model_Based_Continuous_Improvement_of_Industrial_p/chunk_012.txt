@@ -1,5 +1,0 @@
-fit from the lower finger opening. 
- Gerd Fischer et al.  /  Energy Procedia   77  ( 2015 )  515 – 519 517      
-Fig. 2. Optical microscope images of the fine-line screen printed Ag grid lines measured after firing on completely processed PERC cells (left) and IV-data of the screen opening split experiment (right). 2.2.
- 
-Emitter The next important progress in our roadmap is a further emitter optimization. Thus, we have to balance the series resistance and the recombination losses. The well-kn

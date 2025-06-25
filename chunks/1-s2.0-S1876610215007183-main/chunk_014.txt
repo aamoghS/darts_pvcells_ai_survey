@@ -1,5 +1,0 @@
-iomass ash use as a catalyst in the electrolysis process.  
- 
- 
- 
-198   Dace Lauka and Dagnija Blumberga  /  Energy Procedia   72  ( 2015 )  196 – 201  2.Methodology 2.1.Design of Experiment Design of Experiment (DOE) and Statgraphics software were used for this research. Pinciples from Design of Experiment and Statgraphics software were adapted. The experimental planning began with setting a goal. The goal of the experiment was to analyze possibilities of ash use as an electrolyte component. 

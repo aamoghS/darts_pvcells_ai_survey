@@ -1,18 +1,0 @@
-26-2.36in× 0.59-0.71in 
-(53-101mm × 32-60mm × 15-18mm), Protection class IP67, with bypass diodes
-Cable
-4mm Solar cable; (+) ≥68.9in (1750mm), (−) ≥68.9in (1750mm)
-Connector
-Stäubli MC4; IP68
-Mechanical Specification
-Speciﬁcations subject to technical changes
- 
-© Qcells 
-Q.TRON_BLK_M-G2+_series_415-440_2024-08_Rev04_NA
-UL61730-1 & UL61730-2, CE-compliant,
-Quality Controlled PV - TÜV Rheinland,
- 
-IEC 61215:2016, IEC 61730:2016,
- 
-U.S. Patent No. 9,893,215 (solar cells).
-Q

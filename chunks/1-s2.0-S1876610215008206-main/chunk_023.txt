@@ -1,6 +1,0 @@
-sted in Table 2.  Table 2: Metallization schemes of PERC solar cells in 4-cell demo modules that undergo thermal cycling. For details of stack compare Fig. 1.  Group # modules
- 
-Metallization scheme 
-A - PVD stack 1 2 2 μm Al / 100 nm TiN / 20 nm Ti / 150 nm Ag 
-B - PVD stack 2 2 2 μm Al / 100 nm TiN / 150 nm NiV / 15 nm Ag C - SP Reference 1 Screen-printed with Al paste and Ag solder pads 
-Module integration of all cells is realized with a conventional solder process and common cell-interconn

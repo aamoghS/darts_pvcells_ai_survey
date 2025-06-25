@@ -1,5 +1,0 @@
-sses on performance of prototype parabolic dish water heater with coated and 
-non coated receivers. Authors explained that instantaneous efficiency of 63% and 48 % has been achieved 
-with coated and non coated receivers [6]. The breakage of the glass to metal sealing is the primary 
-ongoing issue for the solar receiver tubes in parabolic trough solar power systems. Sealing failure leads to 
-loss of the vacuum inside the tube which substantially reduces the collector efficiency. It is a technical

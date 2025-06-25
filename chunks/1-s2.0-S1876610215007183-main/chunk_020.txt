@@ -1,2 +1,0 @@
-ing tables, graphs and equations. Tables give analysis summary, design worksheet, ANOVA table, model coefficients, alias matrix, correlation matrix, etc. The main graph in the DOE is design points, prediction variance plot, prediction profile, fraction of design space plot, etc. 
- Dace Lauka and Dagnija Blumberga  /  Energy Procedia   72  ( 2015 )  196 – 201 199 2.2.Ash mixture preparation In the experiment, the bottom ashes are used and they consist of different sizes of solid particles. Diff

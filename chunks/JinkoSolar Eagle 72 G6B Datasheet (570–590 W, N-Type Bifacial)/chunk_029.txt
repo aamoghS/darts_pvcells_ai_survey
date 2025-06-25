@@ -1,4 +1,0 @@
-f IscNominal operating cell temperature  (NOCT)Cell Temperature 25°C
-Ambient Temperature 20°C
-Temperature Dependence of Isc,Voc,Pmax-50-25025507510020406080100120140160180IscVocPmax5%15%25%Refer. Bifacial FactorBIFACIAL OUTPUT-REARSIDE POWER GAIN
-Current-Voltage & Power-Voltage Curves (460W)21.46%488Wp23.50%535Wp25.54%581Wp21.69%494Wp23.75%541Wp25.82%588Wp20.99%478Wp523Wp569Wp22.99%24.99%21.23%483Wp23.25%529Wp25.27%575WpSTCNOCT-40℃~+85℃1500VDC (IEC) 25A0~+3%-0.35%/℃-0.28%/℃0.048%/℃45

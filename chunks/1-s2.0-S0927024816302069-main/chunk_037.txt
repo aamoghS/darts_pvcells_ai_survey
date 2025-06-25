@@ -1,4 +1,0 @@
-obtainedontexturedwafers.Symmetricwafer
-structureswithn-polySi/SiOxonbothsides.“Lifetime”¼effectiveminoritycarrierrecombinationlifetime.Celltype(textured)iVoc(mV)Joen-poly(fA/cm2)Lifetime(ms@n¼1015cm3)AfterSiNxred(Th.Ox/200nmn-poly;39Ω/sq)7324.26.2AfterSiNxred(NAOS/200nmn-poly;
-71Ω/sq)7314.35.6
-Table3Parametersoftexturedbifacialsolarcellswith200nmrearpolySi.BestcellresultsareshownaswellasbestJo,iVocandbestbulklifetimeobtainedonhalf-fabricates(determinedusingtransientphotocond

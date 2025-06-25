@@ -1,2 +1,0 @@
-£p < 0.95, 0 < v < 10 m/s, 1 < M < 3,0 < β < 900  3.3 Convective Heat transfer coefficient:- Value of Convective Heat transfer coefficient depends on properties of fluid and mean temperature absorber tube. Nusselt number is given by equation 11 [11, 12, 13] and Convective Heat transfer coefficient by equation 12 [11, 12, 13] �0�QL�u�ä�x�x ------------------------------ (11) �D�ÙL�0�Q�Û���½�Ü
- ---------------------------- (12)  3.4 Calculation of Heat loss c

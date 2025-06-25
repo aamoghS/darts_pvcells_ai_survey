@@ -1,2 +1,0 @@
-Theauthorthanksthemanycolleagues
-whocontributedtoPERCcelldevelopmentwithinhisgroup,notablyAihuaWang,AndrewBlakers,JianhuaZhaoandStuartWenham.References[1]A.W.Blakers,A.Wang,A.M.Milne,J.Zhao,M.A.Green,22.8%EfcientSiliconSolarCell,Appl.Phys.Lett.55(1989)1363–1365.[2]M.A.Green,A.W.Blakers,J.Kurianski,S.Narayanan,J.Shi,T.Szpitalak,M.Taouk,S.R.WenhamandM.R.Willison,UltimatePerformanceSiliconSolarCells,FinalReport,NERDDPProject81/1264,Jan.82-Dec.83(datedFeb.,1984).[3]M.A.Green,HighEfciencySiliconS

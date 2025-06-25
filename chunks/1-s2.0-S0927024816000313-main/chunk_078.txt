@@ -1,2 +1,0 @@
-on,L.Black,D.Macdonald,A.Cuevas,J.Sheng,Y.Sheng,S.Yuan,C.Zhang,Z.FengandP.J.Verlinden,Towardsindustrialadvancedfront-junctionn-typesiliconsolarcells,in:Proceedingsofthe40thIEEEPhotovoltaicSpecialistsConference,USA,2014,pp.862–865.[40]D.E.KaneandR.M.Swanson,Measurementoftheemittersaturationcurrentbyacontactlessphotoconductivitydecaymethod,in:Proceedingsofthe18th
-IEEEPhotovoltaicSpecialistConference,LasVegas,USA,(1985),pp.578–583.X.Yangetal./SolarEnergyMaterials&SolarCells150(2016)32–3838

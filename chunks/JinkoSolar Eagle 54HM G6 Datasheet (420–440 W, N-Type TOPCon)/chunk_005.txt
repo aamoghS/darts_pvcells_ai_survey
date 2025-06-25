@@ -1,6 +1,0 @@
-age (Voc)38.74V36.80V38.95V37.00V39.16V37.20V39.36V37.39V39.57V37.59VShort-circuit Current (lsc)13.51A10.91A13.58A10.96A13.65A11.02A13.72A11.08A13.80A11.14AModule Efficiency STC (%)21.51%21.76%22.02%22.28%22.53%ELECTRICAL PERFORMANCE & TEMPERATURE DEPENDENCE
-BUILDING YOUR TRUST IN SOLAR. 
-WWW.JINKOSOLAR.US
-The company reserves the final right for explanation on
- any of the information presented hereby. JKM420-440N-54HL4-B-F1-US
-Voltage (V)Temperature Dependence  of Isc, Voc, PmaxCurrent-Voltage 

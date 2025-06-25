@@ -1,2 +1,0 @@
-equation C it has been clear that, if receiver temperature increases by 0.2250C and heat loss increase by 0.0077W then collector efficiency will decrease by 1%. Thus collector efficiency has negative relation with heat losses. Again collector efficiency has positive relationship with outlet water temperature outlet water temperature increases by 0.2550C, then collector efficiency will increase by 1%.  As receiver temperature increases, the outlet water temperature also increases. 
-0.00.51.01.52.

@@ -1,9 +1,0 @@
-yanautomaticinspectionsystemonceperhour.Thetwomoduleswereinstalledfacingsouthwithatiltangleof45.Fig.3showstheexperimentalﬁeld(Hanetal.,2013).
-Fig.3.Theoutdoortestingground.
-5:006:007:008:009:0010:0011:0012:0013:0014:0015:0016:0017:0018:0019:0004080120160200
-Energy output / WhTime
- Regular module
- Bifacial module
-Fig.4.Comparisonofenergyoutputbetweenabifacialmoduleandaregularmoduleinasunnyday.
-5:006:007:008:009:0010:0011:0012:0013:0014:0015:0016:0017:0018:0019:0004080120160
-Energy output / Wh

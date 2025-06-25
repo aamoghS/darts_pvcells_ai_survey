@@ -1,7 +1,0 @@
-1730 certiﬁed products
-30
-N
-ENGINEERING DRAWINGSPACKAGING CONFIGURATIONTEMPERATURE CHARACTERISTICSMAXIMUM RATINGSMECHANICAL CHARACTERISTICSELECTRICAL CHARACTERISTICS
-(Two pallets = One stack)31pcs/pallets, 62pcs/stack, 806pcs/40 HQ Container
-Temperature Coefficients of Pmax-0.29%/°CTemperature Coefficients of Voc-0.25%/°CTemperature Coefficients of Isc0.045%/°CNominal Operating Cell Temperature (NOCT)45±2°C
-Operating Temperature (°C)-40°C~+85°CMaximum System Voltage1000VDCMaximum Serie

@@ -1,3 +1,0 @@
-gher performance because of rear total diffused and good double-sides passivation with low surface 
-recombination rate. To realize PERT structure, quite a lot technological platforms can be selected such as diffusion 
-[3], implantation [1,3], CVD deposition [4], or advanced metallization technologies. More importantly, PERT can be easily developed from traditional p-type cells without vast gap. In this work, we developed PERT cell based on boron paste spin coating can be combined with POCl3 diff

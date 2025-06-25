@@ -1,2 +1,0 @@
-chemicalvapordepositedsiliconnitrideandthermalsiliconoxide,J.Appl.Phys.89(2011)3821–3826.[37]I.R.C.Post,P.Ashbum,G.R.Wolstenholme,Polysiliconemittersforbipolartransistors:areviewandre-evaluationoftheoryandexperiment,IEEETrans.ElectronDevices39(1992)1717–1739.[38]G.R.Wolstenholme,N.Jorgensen,P.Ashburn,G.R.Booker,Aninvestigationofthethermalstabilityoftheinterfacialoxideinpolycrystallinesiliconemitter
-bipolartransistorsbycomparingdeviceresultswithhigh-resolutionelectronmicroscopyobservations,J.

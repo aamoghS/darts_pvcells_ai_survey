@@ -1,5 +1,0 @@
-ture Dependence  of Isc, Voc, PmaxCurrent-Voltage & Power-Voltage Curves (440W)FrontCell Temperature (°C)
-Packaging ConfigurationEngineering DrawingsSPECIFICATIONSMechanical CharacteristicsCell  TypeCurves (415W)No. of cellsDimensionsWeightFront GlassFrameJunction BoxOutput Cables22 kg (48.50 lbs)IP68 RatedElectrical Performance & Temperature DependenceIrradiance 1000W/m2
-AM=1.5Irradiance 800W/m2
-AM=1.5NOCT:*STC:
-Wind Speed 1m/sModule Type Maximum Power (Pmax) Maximum Power Voltage (Vmp) Maximu

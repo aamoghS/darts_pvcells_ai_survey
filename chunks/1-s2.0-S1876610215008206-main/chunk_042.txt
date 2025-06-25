@@ -1,4 +1,0 @@
-Since a failure of the solder-joints has not yet been observed an Arrhenius law cannot be obtained. However, the high stability after this extensive thermal ageing is considered also very promising regarding long-term stability. 6.
- 
-Application to solar cells and module testing  To prove the applicability of the metallization scheme to industrial solar cells, n-type PERT solar cells are fabricated with both solder stacks and with a pure PVD Al reference group, see Table 1. The efficiencies 
-�

@@ -1,6 +1,0 @@
-sc, Voc, Pmax (%)
-C
-Packaging ConfigurationJKM560-580N-72HL4-BDV-F4-ENEngineering DrawingsSPECIFICATIONSMechanical CharacteristicsCell  TypeNo. of cellsDimensionsWeightFront GlassFrameJunction BoxOutput Cables32 kg (70.55 lbs)IP68 RatedElectrical Performance & Temperature DependenceIrradiance 1000W/m2
-AM=1.5Irradiance 800W/m2
-AM=1.5NOCT:*STC:
-Wind Speed 1m/sModule Type Maximum Power (Pmax) Maximum Power Voltage (Vmp) Maximum Power Current (Imp) Open-circuit Voltage (Voc)Short-circuit Current (Is

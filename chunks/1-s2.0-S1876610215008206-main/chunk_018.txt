@@ -1,3 +1,0 @@
-r with Cu core and a SnPbAg solder coating is soldered onto the metallization. For the accelerated ageing the soldered samples are then stored on a hotplate at an elevated temperature in N
-2
- atmosphere and all samples are aged for different amount of times. To investigate the aging duration at which the solder joint degrades at a defined ageing temperature, the interval between the longest time the solder-joint survives and the shortest time after which it fails is determined (and depicted in t

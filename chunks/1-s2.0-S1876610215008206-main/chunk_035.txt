@@ -1,3 +1,0 @@
- al.  /  Energy Procedia   77  ( 2015 )  374 – 381 
-The partial pressure or the O2 during in-situ stuffing is reduced by about 5 orders of magnitude compared to atmospheric stuffing. Therefore, instead of extending the time, we accelerate the stuffing procedure by increasing 
-the sample temperature with the IR heaters to 250-280°C. We find that the barrier quality of in-situ stuffed TiN at elevated temperatures is sufficient to survive an annealing step for 15 min at 425°C, see Table 4. In-s

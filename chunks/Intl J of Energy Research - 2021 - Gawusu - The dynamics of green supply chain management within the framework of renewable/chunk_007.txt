@@ -1,6 +1,0 @@
-ergygreensupplychainmanagement;RES,Renewableenergysources;SCM,Supplychain
-management;SM,Smartgrid;SMEs,Small-andmedium-scaleenterprises;SSCM,Sustainablesupplychainmanagement;SSCM,Servicesupply
-chainmanagement;UNFCCC,UnitedNationFrameworkConventiononClimateChange.
-Received:13July2021Revised:24August2021Accepted:30August2021DOI:10.1002/er.7278
-684©2021JohnWiley&SonsLtd.IntJEnergyRes.2022;46:684–711.wileyonlinelibrary.com/journal/er
-1|INTRODUCTIONThelastdecadehaswitnessedanincreaseinenviron-ment

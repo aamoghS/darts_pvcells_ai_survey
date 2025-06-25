@@ -1,4 +1,0 @@
-cvehicles;FiTs,Feed-in-tariffs;GBPs,Greenbusinesspractices;GHGs,Greenhousegasemissions;GSCM,Greensupplychainmanagement;HSSE,Health,safety,securityand
-environmental;ISO,InternationalOrganizationforStandardization;MG,Microgrid;MSME,Micro,small,andmediumenterprises;P2P,Peer-to-
-peer;PV,Photovoltaic;REC,Renewableenergycertificates;REDM,Renewableenergydirectmarketing;REET,Renewableenergyelectricitytrader;
-REI,Renewableenergyindustry;REGSCM,Renewableenergygreensupplychainmanagement;RES,Renewableenergy

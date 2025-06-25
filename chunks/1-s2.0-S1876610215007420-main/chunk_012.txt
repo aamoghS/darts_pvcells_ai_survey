@@ -1,6 +1,0 @@
-and orientation 
-(surface azimuth angle) for the solar collector in the main Syrian zones, on a daily basis, as well as for a 
-specific period. The results expose that changing the tilt angle 12 times in a year maintains approximately 
-the total amount of solar radiation near the maximum value that is found by changing the tilt angle daily 
-to its optimum value. This achieves a yearly gain in solar radiation of approximately 30% more than the 
-case of a solar collector fixed on a horizontal surf

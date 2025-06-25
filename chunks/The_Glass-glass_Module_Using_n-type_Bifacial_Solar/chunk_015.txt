@@ -1,8 +1,0 @@
-decay under illumination. 
--0,2-0,18-0,16
--0,14
--0,12-0,1-0,08
--0,06
--0,04-0,020020406080Power  DegradationIllumination kW·h
-/m2
- Qingzhu Wei et al.  /  Energy Procedia   92  ( 2016 )  750 – 754 7533.3. Outdoor experiments The output collections were conducted during the same period with changeable background of raw grass, sand and manmade foam for both bifacial and monofacial modules. All the sample modules have been exposed to sunlight for a long time before the installation to get a stable
