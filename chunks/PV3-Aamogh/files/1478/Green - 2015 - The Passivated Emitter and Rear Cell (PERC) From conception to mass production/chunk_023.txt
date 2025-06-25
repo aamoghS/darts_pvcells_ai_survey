@@ -1,2 +1,0 @@
-rCell(PERC)family.(a)SimplePERDcell(PassivatedEmitter,RearDirectly-contacted);(b)PERLcell(PassivatedEmitter,RearLocally-doped);(c)PERTcell(PassivatedEmitter,RearTotally-diffused);(d)PERFcell(PassivatedEmitter,RearFloating-junction).ThePERCcongurationsnowmostwidelyimplementedarethePERLandPERT.M.A.Green/SolarEnergyMaterials&SolarCells143(2015)190–197192
-3.LargeareacellsandmodulesUNSWhadearlierpioneeredtheuseoflasersinsolarcellprocessing[21,22]withthisresultingintheburiedcontactsolarcellofFig.10

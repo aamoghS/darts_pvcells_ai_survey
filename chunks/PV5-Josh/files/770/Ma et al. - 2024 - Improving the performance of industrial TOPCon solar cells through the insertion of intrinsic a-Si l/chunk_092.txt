@@ -1,3 +1,0 @@
-shnan, J. Poortmans, Comparison of C-, N-, and O-incorporated non-blistering PECVD Si films for application in SiO
-x
-- based passivating contacts for Si solar cells, ACS Appl. Energy Mater. 5 (2022) 9994–10001. [38]F. Feldmann, M. Simon, M. Bivour, C. Reichel, M. Hermle, S.W. Glunz, Efficient carrier-selective p- and n-contacts for Si solar cells, Sol. Energy Mater. Sol. Cells 131 (2014) 100–104. [39]J.-I. Polzin, F. Feldmann, B. Steinhauser, M. Bivour, M. Hermle, Annealing and firing stabil

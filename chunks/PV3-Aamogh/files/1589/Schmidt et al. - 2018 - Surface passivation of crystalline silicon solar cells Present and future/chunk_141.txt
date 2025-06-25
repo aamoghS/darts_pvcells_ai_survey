@@ -1,2 +1,0 @@
-smallcontactfractionsoffe,max=0.8%andfh,max=5.7%.Thispointstothereasonwhythepoly-Sicontactsoerahighereciencypotentialthanthea-Silayers:Thesignicantlylowercontactresistanceofthepoly-Sicontactsallowsforsmallercontactareastoreducethe
-overallrecombination.However,ourcalculationassumesthatthenon-contactedareaisperfectlypassivated(i.e.J0,pass=0).Inpractice,thisisnotpossible.Thepoly-SilayersoerJ0,evaluesintherangeof1–10fA/cm2andndinganevenbetterpassivationforthenon-con-tactedc-Sisurfaceisquiteac

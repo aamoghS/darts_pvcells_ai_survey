@@ -1,8 +1,0 @@
-e layer and nc-SiO
-x 
-layer with various thicknesses were confirmed through high-resolution transmission electron microscopy (HRTEM) and spectroscopic ellips
--
-ometry (VASE, JA Woollam). The passivation characteristics were evaluated using a QSSPC measurement system (WCT Sintron, 120). The transfer length method (TLM) was used to obtain the contact resistivity (
-
-c
-). We used the TLM method by etching the polysilicon to measure the contact resistivity. To investigate the current pathway, the re

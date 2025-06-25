@@ -1,5 +1,0 @@
- main limitation in V
-oc 
-of plated TOPCon solar cells (similar to the one used in this experiment) is caused by contact recombination of the front side emitter contact. Grübel estimates the saturation current density of a laser ablated and plated emitter contact to be in the range of 1000–3000 fA/cm
-2
-. The following section shows that the contact recombination contribution of the TOPCon contact is in this work for laser ablation close to the ablation threshold usually below these values eve

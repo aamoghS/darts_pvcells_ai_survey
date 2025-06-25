@@ -1,5 +1,0 @@
- how sample properties such as surface morphology, passivation layer and LCO parameters are influencing the appearance of LIPSS on chemically polished TOPCon surfaces. The current results demonstrate that the approach of laser-induced roughness for increased contact adhesion is applicable even on pla
--
-narized surfaces but that a proper process control is necessary to avoid contact adhesion failures. Furthermore, it is expected that the combi
--
-nation of LIPPS and another approach such as anneal

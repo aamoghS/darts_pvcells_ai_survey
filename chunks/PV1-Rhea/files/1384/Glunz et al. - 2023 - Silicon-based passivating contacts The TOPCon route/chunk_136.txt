@@ -1,4 +1,0 @@
-stodiffusedjunctions.In:23rdEuropeanPhotovoltaicSolarEnergyConferenceandExhibition;2008:1149-1152.36.FeldmannF,BivourM,ReichelC,HermleM,GlunzSW.Passivatedrearcontactsforhigh-efficiencyn-typeSisolarcellsprovidinghighinterfacepassivationqualityandexcellenttransportcharacteristics.
-SolEnergyMaterSolCells.2014;120:270-274.
-https://doi.org/10.1016/j.solmat.2013.09.017
-37.FeldmannF,BivourM,ReichelC,HermleM,GlunzSW.Apassiv-atedrearcontactforhigh-efficiencyn-typeSisolarcellsenablinghighVoc'sandFF>82%.In

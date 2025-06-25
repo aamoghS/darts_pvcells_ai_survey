@@ -1,7 +1,0 @@
- contacts. In situ doped poly-Si films are studied as their use could simplify the production of industrial n-TOPCon solar cells compared to the common approach relying on ex situ doping of intrinsic LPCVD poly-Si films. The developed poly-Si passivating contacts exhibited excellent characteristics with low recombination current densities in passivated and screen-printing metallized regions down to 2.3 fA/cm
-2 
-and 65.8 fA/cm
-2
-, respectively, and a low contact resistivity of 2.0 mcm
-2
-. For r

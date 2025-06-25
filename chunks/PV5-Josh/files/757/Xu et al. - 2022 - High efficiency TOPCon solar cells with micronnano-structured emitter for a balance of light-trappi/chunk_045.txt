@@ -1,7 +1,0 @@
-dsorption and doping of boron atoms in boron diffusion process [3,39]. For NPP emitters formed by RIE, the lower N
-s
-, shallower d and increased R
-sheet 
-with P
-RF 
-indicate that larger feature sizes and smoother surface can slightly improve the doping characteristics. To achieve a high PCE of solar cells, the high-quality surface passivation is critical to prevent unwanted photo-generated carrier recombination occurring on the NPP surface. Supplement Figs. S2–S4 show some attempts on adjustin

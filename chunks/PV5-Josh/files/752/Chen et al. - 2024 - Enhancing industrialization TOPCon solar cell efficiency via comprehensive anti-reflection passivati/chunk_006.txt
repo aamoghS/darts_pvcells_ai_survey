@@ -1,5 +1,0 @@
-nt side presents challenges due to its intense light parasitic absorption, primarily attributed to the heavily doped polysilicon layer [9]. Indeed, in the current TOPCon solar cell continues the design of traditional solar cells, the front structure employs a boron homogeneous/selectivity emitter in combination with passivation and anti-reflection film layers, such as alumina (AlO
-x
-) and silicon nitride (SiN
-x
-) [10,11]. Furthermore, the polysilicon passivating contact structure, when subjected

@@ -1,2 +1,0 @@
- tunnelling through ultra-thin tunnel oxide layers and wider range of effective tunnelling oxide thickness [106]. On the other hand, Messmer et al. demonstrated a way out of upgrading the screen printed, busbarless bifacial p-PERC solar cells into bifacial p-TOPCon solar cells by introducing local n-TOPCon structure at the front and full area p-TOPCon structure at the rear side of the cell [107]. According to the simulation study, the TOPCon upgraded p-PERC solar cells showed 
-D.K. Ghosh et al. 

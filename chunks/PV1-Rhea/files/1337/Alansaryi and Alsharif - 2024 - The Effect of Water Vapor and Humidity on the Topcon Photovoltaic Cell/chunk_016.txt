@@ -1,9 +1,0 @@
-rface and 3.7 fA/cm 2 on textured s
-ilicon surfaces. The Jo of this structure 
-increases to 50.7 fA/cm 2 on textured silicon surfaces after printing the Ag contacts, which is still manageably 
-less for metal contacts. When this structure was used on Topcon solar cells, the cells independently 
-produced a 
-highest efficiency of 24.58% and a median efficiency of 23.91%. Interdigitated back
--
-contact solar cells have 
-improved their optoelectrical characteristics for both sides of contact, resultin

@@ -1,5 +1,0 @@
- [91]. Further studies on contact adhesion, contact resistance, contact recombination and reflection from the rear side metallic contacts were also carried out to understand the impact of using electroplated Ni/Cu/Ag stack as the rear side metallic contact on the cell performances. 2 ×2 cm
-2 
-TOPCon solar cells based on shiny etched, 1 -cm, n-type, 4” (wafer area: 103.23 cm
-2
-) FZ Si wafers featuring full area rear side electroplated Ni/Cu/Ag stack as the metallic contact demonstrated a powe

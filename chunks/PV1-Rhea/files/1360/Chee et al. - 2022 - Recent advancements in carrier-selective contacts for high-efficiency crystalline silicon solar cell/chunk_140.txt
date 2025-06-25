@@ -1,6 +1,0 @@
- or without a-Si:H(i) passivation [147,148]. Fig. 7 elucidates the formation of an amorphous O-rich silicon layer (~ 2–3nm thick) at the interface of c-Si/MoO
-x 
-studied using transmission electron microscopy, before and after annealing. That the silicon oxide precipitates at the interface with or without prior etching of the c-Si wafer [77] has not yet been fully understood. A high-quality MoO
-x 
-layer possesses superior optical and electrical properties [143,144], but the onset of an SiO
-x 

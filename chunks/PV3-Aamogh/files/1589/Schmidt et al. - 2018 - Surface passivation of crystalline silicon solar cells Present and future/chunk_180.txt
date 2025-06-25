@@ -1,4 +1,0 @@
-edonultra-thinSiO2layers,Sol.EnergyMater.Sol.Cells142(2015)123–127.[78]U.Römer,R.Peibst,T.Ohrdes,B.Lim,J.Krügener,E.Bugiel,T.Wietler,
-R.Brendel,Recombinationbehaviourandcontactresistanceofn+andp+poly-crystallineSi/mono-crystallineSijunctions,Sol.EnergyMater.Sol.Cells131
-(2014)85–91.[79]F.Feldmann,M.Bivour,C.Reichel,M.Hermle,S.W.Glunz,Passivatedrearcon-
-tactsforhigh-eciencyn-typeSisolarcellsprovidinghighinterfacepassivationqualityandexcellenttransportcharacteristics,Sol.EnergyMater.Sol.Cel

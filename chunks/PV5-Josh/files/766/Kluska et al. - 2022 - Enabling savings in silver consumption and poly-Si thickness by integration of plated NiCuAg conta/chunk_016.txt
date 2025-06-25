@@ -1,3 +1,0 @@
- using calibrated IV measurements with a reflective chuck and a grid neglecting contacting unit. Please note that the champion solar cells featured exactly the same processing sequence as all other solar cells and were selected after IV flash testing without any modification before the calibrated measurement. Furthermore, all solar cells were characterized using electroluminescence (EL) and pho
--
-toluminescence (PL) imaging. EL imaging at a current of 10 A was used in this work to indicate regio

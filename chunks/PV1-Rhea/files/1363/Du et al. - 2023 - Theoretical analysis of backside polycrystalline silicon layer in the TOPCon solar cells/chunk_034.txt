@@ -1,3 +1,0 @@
-ecreases by two orders of magni
--
-tude when the poly-Si band gap reaches 1.34 eV compared to the narrow band gap. From Fig. 3, it can be seen that when the band gap is less than 1.22 eV, a triangle quantum well is formed on the poly-Si side at the interface between poly-Si and monocrystalline silicon, causing a large number of holes to concentrate. Therefore, electron-hole recombination is concentrated at the interface of poly-Si. Meanwhile, due to a large number of electron-hole recombination, 

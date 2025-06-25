@@ -1,3 +1,0 @@
-Voc>730mV,IEEEJ.Photovolt.7(2017)1640.[119]J.Meyer,S.Hamwi,M.Kröger,W.Kowalsky,T.Riedl,A.Kahn,Transitionmetaloxidesfororganicelectronics:energetics,devicephysicsandapplications,Adv.Mater.24(2012)5408–5427.[120]A.Elschner,S.Kirchmeyer,W.Lövenich,U.Merker,andK.Reuter,PEDOT:PrinciplesandApplicationsofanIntrinsicallyConductivePolymer,CRCPress,
-BocaRaton,FL,2011.[121]S.Avasthi,S.Lee,Y.L.Loo,J.C.Sturm,Roleofmajorityandminoritycarrier
-barrierssilicon/organichybridheterojunctionsolarcells,Adv.Mater.

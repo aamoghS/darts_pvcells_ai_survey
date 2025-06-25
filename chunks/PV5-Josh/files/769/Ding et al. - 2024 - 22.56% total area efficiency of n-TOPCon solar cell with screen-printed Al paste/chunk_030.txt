@@ -1,8 +1,0 @@
-mechanism of Al-Si contact
-The rear side SiN
-x 
-passivation layer in metallization regions was ablated by the laser with 0.431 Jcm
-�2
-. The Ag/Al paste and the Al paste with different silicon weight percentages were screen printed on the front side and rear side of TOPCon cells respectively. In order to achieve a good metal–semiconductor contact, all the silicon wafers were sintered in industrial belt furnace, the actual sintering temperature cure is shown in 
-Fig. 3
-, the peak temperature 

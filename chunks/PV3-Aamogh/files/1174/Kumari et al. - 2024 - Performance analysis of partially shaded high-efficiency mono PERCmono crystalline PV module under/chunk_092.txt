@@ -1,9 +1,0 @@
- current is also noted in the conducted experimental test by authors in their research  work58. However, while covering the entire PV cell by implementing 100% shading, the value of 
-Isc
- drops to its lowest value. cese types of results are also evidently presented in the research article generated  by59. Authors in their study concluded degradation in the 
-Isc
- as one main reason for power  degradation60. Signicant changes in 
-Isc
- impact the maximum generated power 
-(Pmax)
- and e(ciency ().P

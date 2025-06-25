@@ -1,7 +1,0 @@
- to develop either intrinsic a-Si/poly-Si layer, followed by an ex-situ diffusion process in POCl
-3 
-tube for the formation of n-type poly-Si layer (TOPCon ex-situ) or the development of in-situ doped a-Si/poly-Si layer, followed by a thermal annealing in N
-2 
-atmo
--
-sphere (TOPCon in-situ). However, the latter has been found to be more cost-effective due to featuring lesser number of processing steps. Apart from LPCVD process, PECVD is also considered to be one of the most promising routes for 

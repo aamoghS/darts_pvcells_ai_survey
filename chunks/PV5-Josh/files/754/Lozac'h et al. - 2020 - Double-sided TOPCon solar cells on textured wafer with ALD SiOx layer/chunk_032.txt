@@ -1,6 +1,0 @@
-                                                                                                                                                                                                            
-sccm, about 0.85 at 50 sccm, and drop quickly for lower flow, while the measured FF has a maximum about 0.71 at 50 sccm and drop for lower and higher flows. So, the photoconversion efficiency (PCE) displays a maximum at 17.8% for a B
-2
-H
-6 
-flow at 50 sccm. The corresponding pseudo PCE (pPCE) r

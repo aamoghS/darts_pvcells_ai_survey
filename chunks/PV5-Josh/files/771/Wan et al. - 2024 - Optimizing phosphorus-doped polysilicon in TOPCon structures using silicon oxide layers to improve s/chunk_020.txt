@@ -1,7 +1,0 @@
-ndFig.2(b)showsthestructuraldiagramofaTOPConcellwithapassivatedstruc-tureofadoublepolysilicon/siliconoxidelayer.Themanufacturingprocessontheproductionlineisasfollows,asillustratedinFig.2,whichdepictstheprocessflowchart:(1)First,then-typewaferissurfacetexturedinpotassiumhydroxide(KOH)toformpyramidswithasizeofabout1.5
-
-m(2)Aftertexturing,thep
-+
-layerisformedonthefrontsideofthewaferbyborondiffusionequipment.(3)Subsequently,embeddedsingle-sideetching(SSE)removesthesurroundingp
-+
-dopingbeforepolishi

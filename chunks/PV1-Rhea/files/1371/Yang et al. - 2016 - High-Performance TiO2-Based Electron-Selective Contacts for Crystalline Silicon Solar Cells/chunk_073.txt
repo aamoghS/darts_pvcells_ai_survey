@@ -1,3 +1,0 @@
- in the dark were performed before and after FGA 
-annealing using a Keithley 2425 source-meter at room temperature. The 
- ρ  c  values were obtained by ﬁ tting the curve of resistance versus front circle contact diameter. The extracted  ρ  c  value mainly consists of the resistance of the Si/TiO 2 , Si/SiO 2 /TiO 2 , and TiO 2 /Al interfaces as well as the TiO 2  bulk resistivity.  Silicon solar cells featuring a full-area TiO 2  or SiO 2 /TiO 2  contact at the rear were fabricated on n-type

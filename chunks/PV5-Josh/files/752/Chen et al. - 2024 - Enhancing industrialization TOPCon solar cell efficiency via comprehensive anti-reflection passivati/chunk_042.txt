@@ -1,5 +1,0 @@
-1 mV higher than samples without PH treatment), accompanied by a reduction in the dispersion of iV
-oc 
-values, as shown in Fig. 4b. This clear trend un
--
-derscores the pronounced effect of PH introduction in enhancing passivation quality. In addition to enhancing passivation quality, PH treatment proves beneficial in elevating the overall electrical performance of TOPCon solar cells, as evidenced by the results presented in Table 3. The improvement in passivation quality contributes to a notable

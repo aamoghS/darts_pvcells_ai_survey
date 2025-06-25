@@ -1,3 +1,0 @@
-the dominant technology in 2024 due to its higher efficiency and relatively low manufacturing costs. Unfortunately, various reports have shown that the TOPCon technology is more sensitive to degradation, in particular corrosion, and this could potentially result in higher yearly degradation negatively affecting the levelized costs of electricity (LCOE) of the TOPCon tech
--
-nology. This study demonstrates that laser-assisted firing significantly enhances the corrosion resistance of TOPCon solar c

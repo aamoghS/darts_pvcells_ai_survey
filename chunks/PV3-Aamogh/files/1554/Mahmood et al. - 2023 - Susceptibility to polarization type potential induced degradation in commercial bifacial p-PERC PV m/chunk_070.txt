@@ -1,6 +1,0 @@
-53-767.doi:
-10.1016/j.rser.2013.07.046
-14.RazaHA,MahmoodFI,TamizhManiG.Useofnon-contactvoltmetertoquantifypotentialinduceddegradationinCdTemodules.SolEnergy.2023;252:284-290.doi:
-10.1016/j.solener.2023.02.002
-15.MahmoodF,MajeedH,AghaH,etal.Temperaturecoefficientofpower(Pmax)offieldagedPVmodules:impactonperformanceratioanddegradationratedeterminations.InReliabilityofPhotovoltaic
-Cells,Modules,Components,andSystemsX,2017,pp.52–58.16.SwansonR,Cudzinovic,M,DeCeusterD,etal.Thesurfacepolarizationeff

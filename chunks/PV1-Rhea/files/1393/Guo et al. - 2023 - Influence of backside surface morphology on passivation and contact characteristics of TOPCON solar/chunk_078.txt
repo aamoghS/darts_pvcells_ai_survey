@@ -1,7 +1,0 @@
-the iVoc of the alkali texturing, acid polishing, and alkali polishing samples are 713 mV, 717 mV, 720 mV, and J
-0 
-are 23.03, 18.84, and 14.23fA/ cm
-2
-, which corresponds well with the test data of the double- sided symmetrical sample.J
-0 
-seems to show a larger difference compared to the double-sided symmetrical structure sample, which may be due to the background doping concentration of the back structure of the solar cell and the influence of other process preparation processes. This shows t

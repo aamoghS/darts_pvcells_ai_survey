@@ -1,3 +1,0 @@
-r Phosphorous 2 1–5 800 725 [62] Boron doped amorphous Si layer Phosphorous 2 7.5 800 720 Intrinsic amorphous Si layer Boron (B) 1 5 800 640 Intrinsic amorphous Si layer Boron (BF
-2
-) 2 5 800 690 n-type FZ Intrinsic amorphous Si layer Phosphorous 2 1 850 733 [63] Intrinsic amorphous Si layer Boron (BF) 2 1 850 696  D.K. Ghosh et al.                                                                                                                                                                    

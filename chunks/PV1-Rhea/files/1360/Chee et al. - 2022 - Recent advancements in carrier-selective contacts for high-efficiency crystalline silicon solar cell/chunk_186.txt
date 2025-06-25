@@ -1,7 +1,0 @@
-ed charge polarities: AlO
-x 
-possess negative fixed charges [2],[178] while SiO
-x 
-[7],[155] and SiN
-x 
-have positive fixed charges [8]. Other key attributes of passivation layers are a high reflective index, a wide bandgap, and high thermal resilience. Such surface and interface passivation layers may be deployed alongside stable poly-Si passivation layers that can withstand industrial firing thermal treatment processes. Thermal deposition, post-annealing, and high-temperature firing (e.g., in 

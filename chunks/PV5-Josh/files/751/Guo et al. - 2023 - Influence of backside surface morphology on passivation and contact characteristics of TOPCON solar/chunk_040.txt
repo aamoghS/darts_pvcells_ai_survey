@@ -1,9 +1,0 @@
- 
-
-m, 13 
-
-m, 19 
-
-m, and 27 
-
-m, respectively. The increase in the base square symbolizes the increase in flatness. Even if the sample weight is only reduced by 0.1 g (P1), a relatively flat surface can already be obtained, but local protrusions are retained. As shown in Fig. 5(b), corresponding to different weight loss, the reflectance of alkali-polished samples is 39.68%, 43.51%, 44.49%, and 45.38%. The effect of different surface topography on the passivation quality of TOPCon is shown i

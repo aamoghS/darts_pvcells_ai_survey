@@ -1,7 +1,0 @@
-Ag paste and Al paste on the rear side respectively. Obviously, there is a large gap in V
-oc 
-of the cells, the V
-oc 
-of TOPCon cells printed with Al paste on the rear side is 7.8 % smaller than that of TOPCon cells printed with Ag paste on the rear side, and the cause of this difference has been explained in Chapter 3.3. So far, printing Al paste on TOPcon cells’ rear side can reduce the costs, but the efficiency cannot match that of TOP
--
-Con cells printed with Ag paste. I believe that in th

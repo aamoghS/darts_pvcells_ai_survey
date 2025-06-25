@@ -1,7 +1,0 @@
- 1f) underlines also a poly-Si nature with random and well-oriented atomic plans. For this specific sample, the SiO
-x 
-layer is prepared using 3 ALD cycles with a source time expo
--
-sure of 10 s corresponding to a thickness measured at 2.4 �0.1 nm. The deposition conditions for the (p) a-Si:H layer are identical for the pol
--
-ished and textured c-Si, which results in a well-known ~ 30% thinner layer for the textured samples. A top view of the textured sample is also presented that confirms the

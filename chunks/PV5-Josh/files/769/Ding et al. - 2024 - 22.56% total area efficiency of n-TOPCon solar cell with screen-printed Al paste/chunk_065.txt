@@ -1,7 +1,0 @@
-Ag paste on the rear side, the use of Al paste on TOPCon cells’ rear side has large economic benefits for commercialization. To improve the V
-oc 
-of TOPCon cells which are printed with Al paste on the rear side, the LCO technology optimization, selective emitter (SE) technology, and laser enhanced contact optimi
--
-zation (LECO) technology will be applied in our future work.
-Fig. 10.Schematic of the majority carriers on TOPCon cells’ rear side with and without BSF.
-Fig. 11.The I–V curve of 

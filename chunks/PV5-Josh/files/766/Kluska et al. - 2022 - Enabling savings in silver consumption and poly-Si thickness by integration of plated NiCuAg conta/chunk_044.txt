@@ -1,9 +1,0 @@
-ould enable nickel silicide growth assuming an oxide free Ni–Si interface. The locally formed sili
--
-cide spike would improve contact resistance (increased EL signal, FF increase) and -depending on its depth-locally increase contact recom
--
-bination (decreased PL, decreased V
-oc
-). Especially on the emitter side this would also result in local non-ohmic shunts (pFF decrease) [19]. Furthermore, the high local current densities in the range of MA/cm
-2 
-[18] are likely to cause an electrical brea

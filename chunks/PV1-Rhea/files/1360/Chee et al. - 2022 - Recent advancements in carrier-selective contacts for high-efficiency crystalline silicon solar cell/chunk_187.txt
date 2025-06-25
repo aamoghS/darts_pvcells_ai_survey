@@ -1,5 +1,0 @@
--annealing, and high-temperature firing (e.g., in an infrared conveyor-belt furnace) are standard processes to maintain high optical transparency and excellent passivation properties in the c-Si solar cell industry. For example, as a single, rapid (<10s) post-deposition annealing (>800
-◦
-C) step, partial crystallization can be attained of amorphous material to effectuate charge carrier accumula
--
-tion in the near-surface region. Further, the replacement of costly high-temperature deposition pr

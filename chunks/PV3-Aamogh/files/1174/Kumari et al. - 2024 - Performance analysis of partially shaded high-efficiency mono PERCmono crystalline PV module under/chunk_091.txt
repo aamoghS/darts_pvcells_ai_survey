@@ -1,5 +1,0 @@
-. Under such conditions, the MMP tracker nds it challenging to distinguish a single GMMP (Global Maximum Power Point) from several local maxima (peaks). Its nature of unique global peak is dened by array conguration and shading pattern.Due to shading in a single PV cell, the short circuit current 
-Isc
- shows minor drop in its original unshaded values. Hence, the 
-Isc
- of the PV module is aected due to shading. A similar eect on short circuit current is also noted in the conducted experiment

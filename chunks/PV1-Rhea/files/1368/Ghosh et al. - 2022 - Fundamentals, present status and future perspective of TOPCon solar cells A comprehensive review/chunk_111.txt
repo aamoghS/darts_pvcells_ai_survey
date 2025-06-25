@@ -1,9 +1,0 @@
-us silicon [either intrinsic (a-Si:H) or doped (p-a-Si:H, n-a-Si: H)] layer was thoroughly investigated. The thickness of SiO
-x
-:H layer which was precisely controlled by ALD technique was kept below 2 nm and the post-deposition annealing temperature of the stacked layer was varied from 100 to 900
-◦
-C with an interval of 50 to 100
-◦
-C to realize the impact of the thermal treatment of the stacked layer onto its surface passivation properties. The study revealed that post deposition anneal
--
-i

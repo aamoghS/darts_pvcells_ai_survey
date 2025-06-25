@@ -1,2 +1,0 @@
-                                                                                                                                                                                                         
-mainly occur in monocrystalline silicon. 3.2.The effect of defect states on TOPCon solar cells In poly-Si, the defect states include valence band band-tail localized states, conduction band band-tail localized states, and four gap states with Gaussian distribution. Band-tail localization is caused

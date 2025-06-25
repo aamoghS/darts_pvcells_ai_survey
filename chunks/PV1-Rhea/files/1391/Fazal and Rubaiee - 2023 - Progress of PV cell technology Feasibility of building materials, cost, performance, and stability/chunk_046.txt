@@ -1,4 +1,0 @@
- As per the market estimation performed by ITRPV (2021) [58], the market share in 2031 is expected to be covered 80% by PERC/TOPCon PV cells and 15% by SHJ cells. 
-Fig. 2.Schematic of a) traditional crystalline silicon cell (a) passivated emitter and rear cell (PERC) and silicon heterojunction (SHJ) cell structures.  
-Fig. 3.Projected world market share for different silicon-based PV technologies [58].  
-M.A. Fazal and S. Rubaiee                                                                   

@@ -1,9 +1,0 @@
-formances was also realized for increasing the wafer thickness, particularly from 100 
-
-m to 200 
-
-m while a very little enhancement in the conversion efficiency was observed when the wafer thickness was increased from 200 
-
-m to 300 
-
-m. The study further revealed that for high impurity concentration, the high resistive silicon wafers featured lower conversion efficiency. The SRH defect levels obtained from experimental results were not altered while performing the simulations. Finally, the

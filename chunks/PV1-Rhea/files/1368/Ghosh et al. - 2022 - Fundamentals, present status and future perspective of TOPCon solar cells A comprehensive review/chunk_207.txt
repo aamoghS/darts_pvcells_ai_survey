@@ -1,9 +1,0 @@
-for the TOPCon solar cells featuring carbon doped poly-Si layer, signifying the future application of poly-SiC
-x 
-layer in the TOPCon/POLO devices. Zheng et al. also investigated the impact of carbon doping in boron doped poly-Si layer during the fabrication of double-sided passivated contacts solar cells (DPPCs) featuring p-TOPCon (SiO
-x 
-+boron-doped poly-Si/boron-doped poly-SiC
-x
-) structure at the rear and n-TOPCon (SiO
-x 
-+phosphorous-doped poly-Si) structure at the front side [79]. The sol

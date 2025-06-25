@@ -1,3 +1,0 @@
-ttps://doi.org/10.1116/1.4728205. [41]A. Kimmerle, J. Greulich, A. Wolf, Carrier-diffusion corrected J
-0
--analysis of charge carrier lifetime measurements for increased consistency, Sol. Energy Mater. Sol. Cells 142 (2015) 116–122, https://doi.org/10.1016/j.solmat.2015.06.043. [42]K.R. McIntosh, P.P. Altermatt, T.J. Ratcliff, F. Kean Chern, L.E. Black, S.C. Baker- Finch, M.D. Abbott, An examination of three common assumptions used to simulate recombination in heavily doped silicon, in: 28th Eu

@@ -1,5 +1,0 @@
-sential for achieving the lowest metallized J
-0 
-for the TOPCon layer. Recently few investigators have reported low metallized J
-0 
-for fire through screen-printed contacts to n-TOPCon using thicker poly-Si layers, which resulted in cell efficiencies of 21–23.5% [8,12, 17–22]. However, thicker poly-Si increases parasitic absorption which decreases short circuit current [13,14]. Recently, Nandakumar et al. reported on reduced parasitic absorption when thick poly-Si layers are partially oxidiz

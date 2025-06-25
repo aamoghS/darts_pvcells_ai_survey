@@ -1,7 +1,0 @@
-ucture on double side textured surface, a PCE of 21.4% seems achievable by increasing the amount of H within the (p) stack targeting a V
-oc 
-at 700 mV with measured J
-sc 
-at 39.2 mA/cm
-2 
-and FF at 0.78. Furthermore, such structure uses only one high thermal annealing step with standard front and rear ohmic contact that could be easily transferable at industrial scale. 5.Summary The photovoltaic performances of a double-sided, front (p) and rear (n), TOPCon solar cell using textured wafer are pr

@@ -1,3 +1,0 @@
-s not drop rapidly to a lower level like in other samples but starts to decrease slowly from a higher concentration（1E20cm
-�3
-）. This shows that the diffusion barrier effect of the tunneling oxide layer of the alkali textured sample is poor, and the excessive diffusion of phosphorus atoms into the silicon substrate will intensify the Auger recombination in the substrate and weaken the passivation effect. This is due to the fact that the pyramidal structure of the textured sample leads to i

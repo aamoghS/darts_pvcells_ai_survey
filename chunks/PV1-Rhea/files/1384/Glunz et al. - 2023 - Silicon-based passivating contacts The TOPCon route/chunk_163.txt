@@ -1,7 +1,0 @@
-3.StöhrM,AprojanzJ,BrendelR,DullweberT.Firing-stablePECVDSiOxNy/n-poly-Sisurfacepassivationforsiliconsolarcells.ACSApplEnergyMater.2021;4(5):4646-4653.
-https://doi.org/10.1021/acsaem.1c00265
-358GLUNZETAL.
-94.VinckierC,CoeckelberghsP,StevensG,HeynsM,JaegereSde.Kineticsofthesilicondioxidegrowthprocessinafterglowsof
-microwave-inducedplasmas.JApplPhys1987;62(4):1450-1458,DOI:
-https://doi.org/10.1063/1.339651
-95.Okasha,AsmaaMOM,LangeS,GroßerS,RichterS,KafleB,SteinmetzA(neeMoldovan),HofmannM.Structu

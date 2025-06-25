@@ -1,34 +1,0 @@
-            
-with the Al
-2
-O
-3
-/SiN
-x 
-stacked films. The average 
-
-eff 
-(2667 
-
-s) and the maximum 
-
-eff 
-(5124 
-
-s) of symmetric lifetime samples at n =1 ×10
-15 
-cm
-�3 
-confirm its excellent surface passivation capability. And this stacked passivated layer was applied in all solar cells at different P
-RF
-. Fig. 5b and c shows the evolutions of injection-dependent 
-
-eff 
-and J
-0 
-of cell-like precursors at different P
-RF
-, respectively. When the P
-RF 
-increases 
-Fig. 4.(a) The ECV prof

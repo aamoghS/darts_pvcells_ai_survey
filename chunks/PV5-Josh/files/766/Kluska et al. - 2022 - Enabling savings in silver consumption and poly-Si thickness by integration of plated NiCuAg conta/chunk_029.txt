@@ -1,3 +1,0 @@
-he following the microscopic origins and mitigation strategies for both error types are discussed. 3.3.1.Nano-roughness as adhesion promoter of plated contacts on etched back surfaces Scanning electron microscopy was used to characterize differences of the LCO for solar cells with and without contact adhesion failures. Fig. 4 shows false color SEM images (in Viridis color scale [14]) of represen
--
-tative LCO for each case. The silicon surface of solar cells with contact adhesion failures shows n

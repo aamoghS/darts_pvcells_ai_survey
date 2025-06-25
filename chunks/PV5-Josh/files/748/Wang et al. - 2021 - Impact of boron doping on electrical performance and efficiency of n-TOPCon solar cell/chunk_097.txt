@@ -1,9 +1,0 @@
-as due to the finite diffusion length in the emitter and in the wafer, which was mainly the higher peak concentration and deep junction of the B-doped profile. Especially, the deep junction 1.0um has a larger “blue loss” about 0.6 mA/cm
-2 
-than others 0.3–0.4 mA/cm
-2 
-and a larger “base collection loss” about 0.53 mA/cm
-2 
-than others <0.35 mA/cm
-2 
-This is consistent with the above QE results. The last type of loss was the “non-uniformity loss,” which mainly originates from the di

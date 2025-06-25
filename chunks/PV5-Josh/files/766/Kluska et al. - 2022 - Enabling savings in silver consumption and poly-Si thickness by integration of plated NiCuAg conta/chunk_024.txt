@@ -1,9 +1,0 @@
-lse energies in Fig. 3 provide a full area LCO with an opening width of 12–18 
-
-m, which are all applicable for solar cell fabrication. The marked data refers to a similar LCO used for solar cell fabrica
--
-tion. No significant iV
-oc 
-reduction was measured for the 125 nm poly Si thickness even for large LCO pulse energies. The threshold in laser pulse energy which leads to LCO-induced iV
-oc 
-losses is seen for poly Si thickness of 90 nm and below. However, the applicable range of LCO pulse en

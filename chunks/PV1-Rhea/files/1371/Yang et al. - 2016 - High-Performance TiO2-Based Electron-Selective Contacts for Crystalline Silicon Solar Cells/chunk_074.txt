@@ -1,3 +1,0 @@
-O 2  contact at the rear were fabricated on n-type c-Si wafers (1.0 Ω cm, ≈175 µm). After surface damage etching in alkaline solution, a mask SiN x  layer (≈100 nm) was grown by low-pressure chemical vapour deposition (LPCVD) on both sides. The cell area (2 cm × 2 cm) was then realized by photolithographically deﬁ ned mesa etch. Following alkaline-based 
-surface texturing and standard RCA cleaning, a boron diffusion was 
-performed in a clean quartz furnace, resulting in a p +  emitter 

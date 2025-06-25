@@ -1,3 +1,0 @@
-veness and metallization purpose. According to the ITRPV 2021 edition, the gradual reduction of thickness of the poly-Si layer used in TOPCon solar cells has been anticipated [19]. Kafle et al. also investigated the dependence of the cost-effectiveness on the thickness of developed poly-Si layer by various routes [127]. The study showed that low thick poly-Si layer grown by APCVD may be the most effective tool in compared to its counterpart. However, improve
--
-ment in the screen-printed metalliz

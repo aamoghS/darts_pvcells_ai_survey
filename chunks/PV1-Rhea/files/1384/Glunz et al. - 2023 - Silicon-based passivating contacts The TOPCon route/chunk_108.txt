@@ -1,5 +1,0 @@
-epositionthermaltreatmentatTRTP=850C.
-114
-Inthenextsection,thepoly-SiTJisintegratedintoaSisingle-junctionsolarcelltotestitsperformanceoncelllevel.5.2|CellresultsThecelldesigncomprisedaplanar200-m-thick1cmn-typeFZc-Siabsorberandpoly-Si/SiOxpassivatingcontacts(TOPCon)onbothsideswiththefullareapoly-Si(p+)emitteratthefrontside.TheSiTJwasformedwithanadditionalpoly-Si(p+)layerontopoftherearsidepoly-Si(n+)/SiOxcontact(Figure
-14A
-).Solarcellswithoutthisaddi-tionalpoly-Si(p+)attherearsideservedasrefer

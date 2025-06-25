@@ -1,7 +1,0 @@
-ity CAPEX 1500 
-
-/m
-2   
-Additional OPEX 1.5 
-
-ct /cell (Building & Infrastructure)    Depreciation Periods  Equipment CAPEX 7 years Facility CAPEX 10 years Building CAPEX 20 years   Cost of Capital  Debt / equity rate 80 / 20% Cost of debt / Cost of equity 5 / 10% Corporate tax rate 25% WACC (all assets – Equipment, facility & materials in stock for 14 days) 5.0%   M4 Wafer price  p-type 34.7 $ct/piece n-type 37.5 $ct/piece   Electricity price 5.99 $ct/kWh   Ag price 19.67 $/Oz.tr. (12-mont

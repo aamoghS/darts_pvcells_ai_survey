@@ -1,5 +1,0 @@
-ance To illustrate the broadband spectral absorption capability of NPP structures at the device level, Fig. 6a shows the EQE and reflectance spectra of NPP cells at different P
-RF 
-from 300 to 1200 nm, together with conventional cells. Firstly, the reflectance of NPP cells in the short wavelength range of 300–450 nm is significantly lower than conven
--
-tional cells, attributed to the formation of an EML as mentioned above. Secondly, the EQE of NPP cells in the short wavelength of 300–500 nm 

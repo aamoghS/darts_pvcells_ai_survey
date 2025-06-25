@@ -1,9 +1,0 @@
-. 578-583). [6] Sinton, R. A., & Cuevas, A. (1996). Contactless determination of current
-�"
-voltage characteristics and minority
-�Ë
-carrier lifetimes in semiconductors from quasi
-�Ë
-steady
-�Ë
-state photoconductance data. Applied Physics Letters, 69(17), 2510-2512. [7] Blum, A. L., Swirhun, J. S., Sinton, R., & Kimmerle, A. (2013). An Updated Analysis to the WCT-120 QSSPC measurement system using advanced device physics. In Proceedings of the 28th European Photovoltaic Solar Energy Con

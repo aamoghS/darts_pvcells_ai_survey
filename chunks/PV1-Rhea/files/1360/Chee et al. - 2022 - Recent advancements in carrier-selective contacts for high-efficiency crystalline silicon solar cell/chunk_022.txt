@@ -1,4 +1,0 @@
-vation layer is fol
--
-lowed by plasma-enhanced chemical vapor deposition (PECVD) or low pressure chemical vapor deposition (LPCVD) of a p-type a-Si:H (or a-Si:H (p)) emitter, and on the rear the a-Si:H(i) layer is followed by a BSF layer comprising an n-type a-Si:H (or a-Si:H(n)) film, and the doped a-Si:H films are capped with a stack of a TCO layer and a metallic contacting layer [16]. Nevertheless, while the doped a-Si:H deposition is often met 
-Fig. 1.Energy band diagrams illustrating genera

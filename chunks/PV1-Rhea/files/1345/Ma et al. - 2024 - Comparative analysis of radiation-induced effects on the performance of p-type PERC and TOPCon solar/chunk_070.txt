@@ -1,5 +1,0 @@
- vs p-TOPCon The initial efficiencies at BOL for both the PERC and p-TOPCon configurations, as measured under AM0 conditions, stood at 21.18 % and 21.07 % respectively. It is noteworthy that these two cells displayed comparable temperature coefficients, namely 0.349 %/
-◦
-C for PERC and 0.344 %/
-◦
-C for p-TOPCon. The investigation into the impact of space irradiation encompassed the incorporation of five exponential decay defect profiles, as shown in Section D, into the substrate. This integr

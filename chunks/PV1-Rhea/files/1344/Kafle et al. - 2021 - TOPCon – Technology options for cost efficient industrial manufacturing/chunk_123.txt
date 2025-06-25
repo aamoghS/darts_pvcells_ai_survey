@@ -1,5 +1,0 @@
-ce 5.99 $ct/kWh   Ag price 19.67 $/Oz.tr. (12-month average Nov.2019-Nov.2020)   Currency conversion (
-
-/$) 0.9  
-References 
-[1]F. Feldmann, M. Bivour, C. Reichel, M. Hermle, S.W. Glunz, Passivated rear contacts for high-efficiency n-type Si solar cells providing high interface passivation quality and excellent transport characteristics, Sol. Energy Mater. Sol. Cell. 120 (2014) 270–274, https://doi.org/10.1016/j.solmat.2013.09.017. [2]A. Richter, J. Benick, F. Feldmann, A. Fell, M. Hermle, S

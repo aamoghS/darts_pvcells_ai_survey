@@ -1,3 +1,0 @@
-stalline silicon cells. The maximum mc-Si cell efficiency reported by NREL is 23.3% [39]. At present, Si-based PV-cells are the most promising tech
--
-nology with strong advantages, including abundant supply, matured structure, rapidly decreasing material cost, and good semiconductor quality [52]. PV industries are shifting from aluminum back surface field (Al-BSF) c-Si to passivated emitter and rear cell (PERC) and silicon heterojunction (SHJ) to increase efficiency further [32]. Fig. 2 illustra

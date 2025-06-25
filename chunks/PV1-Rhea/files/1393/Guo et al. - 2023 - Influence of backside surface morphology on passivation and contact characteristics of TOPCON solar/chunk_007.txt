@@ -1,3 +1,0 @@
-hrough, with the highest reported efficiency reaching 25.7% [5,14]. The N-TOPCON solar cell structure is to prepare an ultra-thin tunnel oxide layer and a thin n +highly doped polysilicon layer on the back of the cell to form a passivation contact structure together [19,20,24,26,32,41,43,46,48,51]. Compared with the smooth surface silicon wafers used in the laboratory, it is difficult to form high-quality passivation contact structures on large-area rough surface silicon wa
--
-fers used in solar 

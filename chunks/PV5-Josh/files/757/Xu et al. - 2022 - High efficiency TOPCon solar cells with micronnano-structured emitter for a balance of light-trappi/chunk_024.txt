@@ -1,5 +1,0 @@
-ical reflectance spectrometry with an integrating sphere from 300 to 1200 nm. The four-probes method was used to measure the sheet resistance (R
-sheet
-) of boron doping emitter. The surface concentration distribution of active boron atoms and junction depth (d) were measured by electrochemical capacitance-voltage (ECV, CVP-21) profiling after removing wrap-around polysilicon. To evaluate the passivation perfor
--
-mance of different textures, five pieces were randomly selected from each group sola

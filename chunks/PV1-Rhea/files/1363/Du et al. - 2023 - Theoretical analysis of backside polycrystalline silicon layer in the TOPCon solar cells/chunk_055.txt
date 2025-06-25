@@ -1,3 +1,0 @@
-attention should be paid to control the width of the band gap when preparing poly-Si layers. At the same time, we should be careful of reducing the defect states concen
--
-tration in the poly-Si layer, especially in the acceptor-like defect states. It should be controlled to less than 1-2 orders of magnitude doping concentration. CRediT authorship contribution statement Mengchao Du: Writing – review & editing, Writing – original draft, Validation, Software, Resources, Methodology, Investigati

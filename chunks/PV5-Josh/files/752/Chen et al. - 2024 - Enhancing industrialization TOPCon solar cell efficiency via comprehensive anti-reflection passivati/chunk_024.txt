@@ -1,5 +1,0 @@
-lized Time-of-Flight Secondary Ion Mass Spectrometry (TOF-SIMS 5 iontof, PHI Nano
--
-TOFII). This analysis employed a Cs +primary ion at 10 kV, with the sample set at a �5 kV potential to detect negative secondary ions. The analysis was performed with an impact energy of 15 kV. 3.Results and discussion 3.1.Plasma oxidation The impact of the PO treatment on the properties of the AlO
-x 
-film is visually illustrated through the O 1s core level spectra within the X-ray Photoelectron Spectroscopy (X

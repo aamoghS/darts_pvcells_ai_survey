@@ -1,4 +1,0 @@
-n reached Al melt from n
-+
--poly-Si, even the temperature reached Al melting temperature, but the high-temperature duration was too short, so the Al particles didn’t obtain enough energy to melt, and the grids maintain the original morphology without collapse.
-On the contrary side, the Al paste with a higher weight percentage of silicon provided enough silicon for Al particles to form Al-Si alloy, therefore, all the Al particles reacted during the sintering process, and led to the grids collap

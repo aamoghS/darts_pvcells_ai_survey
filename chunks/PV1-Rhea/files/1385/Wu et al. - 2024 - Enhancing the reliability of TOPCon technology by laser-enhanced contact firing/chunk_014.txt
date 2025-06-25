@@ -1,5 +1,0 @@
-y on lightly doped emitters. Furthermore, laser-assisted firing has facilitated the application of new metallization pastes for manufacturing PERC and TOPCon solar cells at lower firing temperatures, marking a significant advancement in industrial produc
--
-tion lines utilizing TOPCon cells. The integration of laser-assisted firing has enabled the application of silver paste with low or zero aluminum on lightly doped boron emitters in TOPCon cells. Krassowski et al. inves
--
-tigated the reliabilit

@@ -1,5 +1,0 @@
-entation of sacrificial SiN
-x
-:H layer to regain the loss of hydrogen contents of the TOPCon structure during several processing steps; (iii) the doping con
--
-centration of boron within the poly-silicon layer is not kept very high to minimize the defect states and free carrier absorption; this may result in obtaining insufficient field to channelize the carriers efficiently through ultra-thin oxide layer; (iv) requirement of optimized metallization pastes to avoid the use of thicker poly-silicon

@@ -1,2 +1,0 @@
-thouttheneedofathirdmaterialforpassivationofthenon-contactedareas.
-Interestingly,thisconditionisonlyfullledbyveoutofthe49combinationsconsidered,includingthenewmaterialsMoOx,PED-OT:PSSandTiO2.Allofthesecombinationscontainatleastonea-Si:H-basedcontact.Onlytwoofthecontactcombinationsfullthecondition150%<(fe,max+fh,max)<250%anddoshowaneciencypotentialof27.5%orhigher.Oneofthesetwoisthea-Si:H-basedbenchmarksystemitself,whereastheotheroneisthecombinationofanSiOx/poly-Si(n+)electron-selectivecontact

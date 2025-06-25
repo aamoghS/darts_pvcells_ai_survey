@@ -1,3 +1,0 @@
-ty approximation (LDA) and generalized gradient approximation(GGA). However, their study did not investigate the specific effects of the doping process on B diffusion. Kurachi et al. [14] established a physical diffusion model for the thermal diffusion of borosilicate glass films (BSG), albeit limited in its ability to visually observe atomic-level 
-*Corresponding author at: Hope Avenue Road 1, 224051, Yancheng, Jiangsu Province, China. E-mail address: jameshong@ycit.cn (J. Hong).  
-Contents lis

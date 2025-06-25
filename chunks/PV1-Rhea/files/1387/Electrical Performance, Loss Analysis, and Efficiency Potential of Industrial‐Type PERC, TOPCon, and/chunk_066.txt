@@ -1,2 +1,0 @@
-on performance.3.4   |   Cell PerformanceThe results of the iVoc values and the effective carrier lifetime of the precursor structure at the excess carrier density of 1 × 1015 cm3 under 1- sun illumination are shown in Figure6. The PERC solar cells did not show a good passivation performance, which exhibited a significantly low iVoc value of about 716 mV. However, the SHJ solar cell exhibited the best passivation performance, a high iVoc value of about 750 mV. 
-FIGURE     |    (A) Emitter da

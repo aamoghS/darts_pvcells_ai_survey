@@ -1,3 +1,0 @@
-ency achieved by a single junction c-Si approaches towards its theoretical limit (29.4%) [28]; as such, innova
--
-tive strategies, such as multijunction or tandem solar cells (TSC), are being potentially investigated. It basically comprises two or more photovoltaic absorbers each with different bandgap properties in order to use the sun’s spectrum more efficiently. Recently, tandem cells including III-V/Si, and perovskite/Si (PVK/Si) [30] are considered promising candidate to suppress Si effici

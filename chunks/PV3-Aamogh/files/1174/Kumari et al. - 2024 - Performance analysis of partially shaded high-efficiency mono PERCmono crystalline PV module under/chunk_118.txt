@@ -1,5 +1,0 @@
-ses recorded for monocrystalline modules were more than polycrystalline modules in case of high solar radiation greater than 500 
-w/
-m
-2
-72. It is observed in several studies that diode did not conduct during single cell shading that caused shaded cell to act as a load. e temperature of the cell was observed to increase very  quickly71. Similar observations were seen in another recent work that performed fault diagnosis on utility- scale PV  projects73.To authenticate the eectiveness of our ex

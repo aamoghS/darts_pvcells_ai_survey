@@ -1,4 +1,0 @@
-ironment of the sun and, along with it, a soware incorporated with it. is setup provides information on electrical characteristics and parameters like output power, eciency, and ll factor. Figure5 gives the indoor setup at the PV testing laboratory.
-8
-Scientific Reports |        (2024) 14:21587  | https://doi.org/10.1038/s41598-024-72502-z
-Experimental procedure at Standard conditionsFor PERC, monocrystalline PV panel experiments are performed in two steps. e STC conditions are character-i

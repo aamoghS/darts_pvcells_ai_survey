@@ -1,2 +1,0 @@
-urfacepassivationofsilicon,EnergyProcedia8(2011)307–312.[56]H.Hannebauer,T.Dullweber,U.Baumann,T.Falcon,R.Brendel,21.2%-ecientne-line-printedPERCsolarcellwith5busbarfrontgrid,Phys.StatusSolidi–RRL8(2014)675–679.[57]R.Brendel,R.Peibst,Contactselectivityandeciencyincrystallinesiliconphotovoltaics,IEEEJ.Photovolt.6(2016)1413–1420.[58]S.Y.Herasimenka,W.J.Dauksher,S.G.Bowden,>750mVopencircuitvoltage
-measuredon50µmthicksiliconheterojunctionsolarcell,Appl.Phys.Lett.103(2013)053511.[59]M.Rie

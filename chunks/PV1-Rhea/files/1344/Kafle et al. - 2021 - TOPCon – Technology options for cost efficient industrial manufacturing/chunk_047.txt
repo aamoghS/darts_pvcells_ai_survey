@@ -1,7 +1,0 @@
-are not common for both TOPCon routes are plotted, together with the cumulative sum of all those steps. Here, the LPCVD TOPCon exsitu route features four process steps: LPCVD a/poly-Si(i) deposition, LP POCl
-3
-, inline wet-chemical process (PSG etch, SSE, BSG etch and O
-3 
-cleaning), and low temperature thermal oxidation (SiO
-x 
-B-emitter). LPCVD TOPCon insitu features three process steps that are unique to this route in comparison to the other TOPCon route: LPCVD a-Si(n) deposition, inline wet-

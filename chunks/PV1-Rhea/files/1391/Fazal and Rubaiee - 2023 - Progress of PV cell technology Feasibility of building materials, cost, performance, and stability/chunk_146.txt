@@ -1,5 +1,0 @@
- cell has been reported with a remarkable efficiency of 32.5%. However, the major challenges of TSCs during transitioning from lab to field are LETID, instability and subcell current matching. Researchers are potentially working to resolve these issues. They are focusing on Sn and Bi instead of using toxic Pb for making lead-free perov
--
-skite TSC. v)c-Si, CdTe, and CIGS cells have overcome the threshold of in
--
-dustrial production and commercial usage. However, CIGS is expected to be commercial

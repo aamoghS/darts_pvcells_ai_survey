@@ -1,3 +1,0 @@
- density and efficiency. However, acceptor- like defect states also reduce the surface recombination and increase the carrier lifetime, leading to an increase in the FF. As can be seen from the poly-Si band diagram Fig. 6, when the defect states concentration of the acceptor-like defect states is high, the Fermi level will be below the conduction band. This is due to the high con
--
-centration of defect, the electrons that originally almost filled the quantum states near the bottom of the conduct

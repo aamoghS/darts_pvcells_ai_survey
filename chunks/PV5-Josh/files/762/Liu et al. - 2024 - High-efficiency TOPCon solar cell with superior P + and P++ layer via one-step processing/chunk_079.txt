@@ -1,7 +1,0 @@
-stri
--
-bution on the surface of the solar cell, thus affecting the carrier transport and collection efficiency on these surfaces, resulting in an increase in current loss. To further substantiate the benefits of this specific process condition (screen-printed Si paste and thermal diffusion at 950 
-◦
-C for 20 min), a comparison was conducted between the I-V data of TOPCon +cells fabricated using this process and TOPCon cells produced via the stan
--
-dard production line procedure using the same 

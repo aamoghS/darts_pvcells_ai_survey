@@ -1,7 +1,0 @@
-s by almost 15%
-abs. 
-if in-situ phosphorus- doped layers are deposited instead of intrinsic a-Si layers. Here, one of the major cost driving factors is the reduced throughput of the LPCVD tool due to a significantly longer process duration, which directly increases all the fixed costs. A small cost contribution of additional PH
-3 
-flux for phosphorus doped layer is found to be less significant as the corresponding SiH
-4 
-flux is about 20 times higher and is mainly responsible for the process co

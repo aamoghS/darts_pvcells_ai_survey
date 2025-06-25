@@ -1,8 +1,0 @@
-beattributedtoPID-psinceasignificantdropisobservedinIsc(25.5%forMA-1and14.1%forMB-1atSTC),characteristicofPID-p.ELalsoconfirmsthesefind-
-ingsaseachcell'sintensitydecreaseshomogeneously.Also,anincreaseinRsof50.9%forMA-1and11.7%forMB-1measuredatlowirradianceIVisobserved.TheaverageLCforMA-1andMB-1is
-alsohigh,thatis,1.06101uAforMA-1and1.48101uAforMB-1comparedto8.79103uAforMC-1and1.83102uAforMD-1.TheIVdata(post-PID)andELimagesforMA-1andMB-1
-(preandpost-PID)arethesameinFigures
-5
-and
-6
-andinFig

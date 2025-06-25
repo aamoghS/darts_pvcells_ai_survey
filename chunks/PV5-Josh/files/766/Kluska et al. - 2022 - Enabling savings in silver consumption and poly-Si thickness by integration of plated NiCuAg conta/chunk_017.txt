@@ -1,5 +1,0 @@
-nt of 10 A was used in this work to indicate regions with hindered electrical current distri
--
-bution. Locally increased series resistances are among other reasons one of the most common origins of decreased EL intensity in these areas. Photoluminescence measurements were performed at 1 sun illumina
--
-tion. Locally decreased PL intensities are used in this work to locate regions of increased recombination activity. 3.Results & discussion 3.1.Analysis of champion solar cells The IV results of the

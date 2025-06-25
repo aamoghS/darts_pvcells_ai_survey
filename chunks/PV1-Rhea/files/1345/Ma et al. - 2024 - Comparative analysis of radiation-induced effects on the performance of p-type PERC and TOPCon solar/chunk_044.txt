@@ -1,6 +1,0 @@
-0
-�13  
-F.-J. Ma et al.                                                                                                                                                                                                                                   
-the front side, both the emitter and the ARC were kept consistent with the PERC configuration in Fig. 1(a). The metal fraction remained con
--
-stant at 3.4 %. Parameters such as substrate resistivity and SRH lifetimes were aligned with the values f

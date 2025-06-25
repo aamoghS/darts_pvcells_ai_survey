@@ -1,5 +1,0 @@
-2 mA/cm2) are improved, but the final battery efficiency (23.72%) drops significantly. The open voltage (701 mV) and short-circuit current(40.77 mA/cm
-2
-) of the alkali texturing sample are the lowest, but its fill factor (83.52%) has a greater advantage and the efficiency(23.87%) is in the middle. The open voltage (706 mV), short-circuit current(41.05 mA/cm
-2
-), and FF(82.99%) of the acid-polished sample are all in the middle, and the final efficiency (24.05%) is the highest. This indicates tha

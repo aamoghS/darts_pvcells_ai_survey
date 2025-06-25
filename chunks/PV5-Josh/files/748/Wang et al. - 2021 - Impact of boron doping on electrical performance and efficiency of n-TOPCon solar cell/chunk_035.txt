@@ -1,5 +1,0 @@
-d sample to remove the borosilicate glass (BSG) layer (Peiner et al., 1995; Bock et al., 2008). The deposition time, drive-in, oxidation time and oxidation temperature of the BCl
-3 
-diffusion processes (See Table 2) were adapted such that the B-doped profiles featured nearly identical curve progressions up to a depth of d ≈100 nm. The depletion of the B concentration close to the surface results from the post-oxidation step performed at the end of the BCl
-3 
-diffusion processes, because the so

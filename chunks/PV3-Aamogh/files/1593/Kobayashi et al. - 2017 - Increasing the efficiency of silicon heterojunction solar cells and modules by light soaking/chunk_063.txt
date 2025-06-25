@@ -1,9 +1,0 @@
-t11.911.911.911.911.8Electronanity(eV)3.83.83.83.84.05Bandgap(eV)1.751.751.751.751.124EectiveCBDOS(cm−3eV−1)2×10202×
-10202×
-10202×
-10202.86×1019EectiveVBDOS(cm−3eV−1)2×10202×
-10202×
-10202×
-10203.10×1019Electronmobility(cm2V−1s−1)102020101300Holemobility(cm2V−1s−1)1551400Activationenergy(eV)0.45––0.15–Donorconcentration(cm−3)––––1×1016Bandtailsanddefects
-VBtailslope(meV)60454560–CBtailslope(meV)40303040–
-Fig.8.Simulateddefectpropertiesof(a)dopeda-

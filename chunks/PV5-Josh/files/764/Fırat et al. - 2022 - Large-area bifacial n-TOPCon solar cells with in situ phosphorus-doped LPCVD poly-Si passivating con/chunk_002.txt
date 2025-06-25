@@ -1,5 +1,0 @@
-ysilicon LPCVD In situ phosphorus doping 
-ABSTRACT  
-The potential of passivating contacts incorporating in situ phosphorus (P)-doped polycrystalline silicon (poly-Si) films grown by low pressure chemical vapor deposition (LPCVD) is demonstrated in this work by integrating these layers at the rear side of large-area (241.3 cm
-2
-) bifacial n-type Tunnel Oxide Passivated Contact (n- TOPCon) solar cells with diffused front emitter and screen-printed contacts. In situ doped poly-Si films are studied

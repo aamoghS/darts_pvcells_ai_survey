@@ -1,3 +1,0 @@
-as mono-c-Si, m-c-Si, a-Si, CIGS, CdTe, and HIT, having the same kind of distribution sites and natural resources are 79.17%, 72.15%, 41.02%, 65.56%, 56.45%, and 97.27%, respectively (Fig. 11). They also added that PR could be influenced by solar irradi
--
-ance, panel back side temperature, panel shading instruments used, inverter selection, losses present in panel, and period for data recording. As the PR offered by a PV module approaches 100%, the efficiency of the respective solar module incre

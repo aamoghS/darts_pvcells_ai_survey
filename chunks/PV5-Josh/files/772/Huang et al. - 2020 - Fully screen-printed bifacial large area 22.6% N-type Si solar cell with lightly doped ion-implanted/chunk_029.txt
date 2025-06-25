@@ -1,8 +1,0 @@
-9.7 22.6 1.12 0.59 12800 82.7  
-Fig. 3.Measured recombination current density (J
-0
-) from (a) n-TOPCon and (b) boron implanted emitter as a function of metal fraction on one side.  
-Y.-Y. Huang et al.                                                                                                                                                                                                                              
-44 fA/cm
-2 
-(¼706 �4.6% þ12 �95.4%) for non-floating busbars (4.6% meta

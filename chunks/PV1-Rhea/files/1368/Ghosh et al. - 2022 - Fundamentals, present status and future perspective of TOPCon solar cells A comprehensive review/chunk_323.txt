@@ -1,7 +1,0 @@
-Recent report of ITRPV has also revealed that the average stabilized efficiency of n-type TOPCon solar cells in mass pro
--
-duction has been higher than any type of p-type silicon based solar cells (including PERC/PERT/PERL and p-TOPCon) [19]. Besides, the continuous enhancement in terms of the power conversion efficiency has also been predicted, thanks to the improvement of individual pro
--
-cessing steps involved in the cells fabrication technology. Most impor
--
-tantly, this improvement will not

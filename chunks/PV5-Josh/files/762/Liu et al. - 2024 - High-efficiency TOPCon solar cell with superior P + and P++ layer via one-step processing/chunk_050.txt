@@ -1,5 +1,0 @@
-of B diffusion. 4.1.2.Diffusion coefficient To prevent the nonphysical influence of ensemble pressure on the simulation box size, the entire system’s dynamic calculation is con
--
-ducted using the NVT ensemble. Following an initial relaxation period, the current coordinates of the B atom are recorded. Subsequent simu
--
-lations involve periodic calculations of the mean square displacement (MSD) of the B atom in relation to these recorded coordinates. The MSD data collected during the sampling in

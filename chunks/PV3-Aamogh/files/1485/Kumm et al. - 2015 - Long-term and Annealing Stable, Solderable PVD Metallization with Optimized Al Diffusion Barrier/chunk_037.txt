@@ -1,2 +1,0 @@
-re soldered on the presented atmospherically stuffed and annealed metallization stacks and their 
-long-term stability is estimated by a thermal aging investigation. We find that the durability of solder-joints on a stuffed Al/TiN/Ti/Ag (stack 1) metallization increases with the Ag layer thickness. Whereas a solder joint on a solder stack with 50 nm Ag starts to fail after about 20 h of thermal ageing at 130°C, solder joints on a stack with 100 nm Ag only start failing after about 100 h. The agi

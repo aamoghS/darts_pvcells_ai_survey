@@ -1,9 +1,0 @@
-1:341–359.
-wileyonlinelibrary.com/journal/pip
-341
-electronsandholes,respectively.
-2
-Foranelectron-selectivelayerthefollowingrelationshipshouldbesatisfied:σn¼qnnσp¼qppð1-2Þwherenandparethecarriermobilityforelectronsandholes,respectively.Ifthecarrierselectivityisnotsufficient,theexternalvoltageattheelectrodes,Voc,islowerthaniVoc.
-3,4
-Aselectivecontactofhighqualityshouldallowforaneffectivecarriertransportofthemajoritycarrierstotheelectrodesandalsoreducetherecombinationofminor-
-itycarri

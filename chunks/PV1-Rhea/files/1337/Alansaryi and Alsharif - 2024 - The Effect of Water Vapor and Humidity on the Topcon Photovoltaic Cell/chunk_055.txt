@@ -1,8 +1,0 @@
-c (PV) power is significantly affected by haze. There aren't many quantitative studies 
-on how haze affects PV power generation, but when fine particulate matter concentrations rise, it becomes the 
-primary factor affecting solar
- 
-irradiance and significantly lowers PV power generation. In order to examine the 
-weight factors of the effects of haze on irradiance, this study suggests using the enhanced method of the degree 
-of grey slope incidence. The effect of haze on the amount of 
-irradiance

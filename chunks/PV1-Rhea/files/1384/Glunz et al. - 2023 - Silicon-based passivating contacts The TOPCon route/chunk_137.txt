@@ -1,4 +1,0 @@
-ncyn-typeSisolarcellsenablinghighVoc'sandFF>82%.In:28thEuropeanPhotovoltaicSolarEnergyConferenceandExhibition;2013:988-992.38.SteinkemperH,FeldmannF,BivourM,HermleM.Theoreticalinvestigationofcarrier-selectivecontactsfeaturingtunneloxidesbymeansofnumericaldevicesimulation.EnergyProcedia.2015;77:195-201.
-https://doi.org/10.1016/j.egypro.2015.07.027
-39.RichterA,BenickJ,FeldmannF,FellA,HermleM,GlunzSW.n-TypeSisolarcellswithpassivatingelectroncontact:Identifying
-sourcesforefficiencylimitationsbywafer

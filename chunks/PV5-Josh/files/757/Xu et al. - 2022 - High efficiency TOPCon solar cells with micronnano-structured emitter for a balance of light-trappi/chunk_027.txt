@@ -1,5 +1,0 @@
- multi-scale NPP structures with three kinds of feature sizes via different P
-RF
-. Fig. 2a–c presents the top-view SEM images of NPP surface at 10.0 K magnifications under the P
-RF 
-of 100 W, 300 W and 600 W, respectively, as well as the corresponding zoom-in SEM images of top view and cross-section view at 30.0 K magnifications. Compared with conventional micron-pyramid texture, the NPP structures reveal a hierarchical surface consisting of dense nanopores on top of random micron-pyramids and

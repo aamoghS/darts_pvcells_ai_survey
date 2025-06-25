@@ -1,5 +1,0 @@
-with 〈100〉orientation, measuring 182 mm ×182 mm ×0.16 mm in size and possessing a re
--
-sistivity in the range of 1–1.1 cm, which were chosen for this study. Initially, a 25 wt% NaOH (Aladdin, 99.9 % metals basis) solvent was employed to eliminate saw damage and subjected to a 15 min treatment at 85 
-◦
-C. Subsequently, B-doped Si paste was screen-printed onto the c-Si wafer, utilizing two distinct screen printing patterns. One pattern comprised a 20 mm ×20 mm square, with a thickness

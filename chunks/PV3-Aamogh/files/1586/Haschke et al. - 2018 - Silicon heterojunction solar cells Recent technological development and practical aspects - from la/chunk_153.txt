@@ -1,2 +1,0 @@
-SolarCells,IEEEJournalofPhotovoltaics6(5)(2016)1132–1140.doi:10.1109/JPHOTOV.2016.2571619.URLhttp://ieeexplore.ieee.org/document/7494651/15
-[65]P.Campbell,S.Wenham,M.Green,Lighttrappingandreﬂectioncontrolinsolarcellsusingtiltedcrystallographicsurfacetextures,SolarEnergyMaterialsandSolarCells31(2)(1993)133–153.doi:10.1016/0927-0248(93)90046-6.URLhttp://www.sciencedirect.com/science/article/pii/0927024893900466[66]Z.C.Holman,M.Filipiˇc,A.Descoeudres,S.D.Wolf,F.Smole,M.Topiˇc,C.Ballif,Infra

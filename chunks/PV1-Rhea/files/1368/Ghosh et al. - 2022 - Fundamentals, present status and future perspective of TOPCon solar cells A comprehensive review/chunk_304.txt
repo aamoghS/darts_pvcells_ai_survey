@@ -1,3 +1,0 @@
-open circuit voltage (V
-oc
-) of greater than 700 mV while the best cell demonstrated the power conversion efficiency as high as 23.57%. Finally, 120 pieces of half-cut pseudo square i-TOPCon solar cells with 9 bus-bar arrangement were used to develop bifacial i-TOPCon solar modules. The best module power was found to be higher than 355 W while the average module power was greater than 345 W. The process sequence to realize the industrial grade TOPCon solar cells is as follows: Step 1: Double-sid

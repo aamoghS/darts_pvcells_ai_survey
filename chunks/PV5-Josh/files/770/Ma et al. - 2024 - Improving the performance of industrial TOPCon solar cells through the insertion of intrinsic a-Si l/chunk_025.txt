@@ -1,5 +1,0 @@
-cterizations were used to analyze and understand the per
--
-formance of TOPCon solar cells with different thicknesses of a-Si (i) film. 2.1.Fabrication of rear passivation layer Fig. 1 describes the fabrication processes of the rear passivated contact structure of TOPCon solar cells. Before the deposition of passivation layers, the n-Si substrate underwent the RCA cleaning to remove the dirt, aiming to ensure final passivation performance. The interfacial ultrathin SiO
-x
-, intrinsic a-Si, and in-

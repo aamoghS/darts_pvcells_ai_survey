@@ -1,5 +1,0 @@
- magni
--
-tude. Scanning electron microscopy confirm significant chemical re
--
-actions in the baseline solar cells, in particular related to Al, consistent with the hypothesis that the relatively high Al content, used to improve the electrical contact between the metal paste and the lightly boron- doped silicon surface, is the cause for its low corrosion-resistance. The cell results were confirmed at the module level where JSIM TOPCon G-B modules demonstrated superior reliability compared to base

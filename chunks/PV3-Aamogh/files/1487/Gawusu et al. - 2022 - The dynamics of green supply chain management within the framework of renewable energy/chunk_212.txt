@@ -1,2 +1,0 @@
-grids.EnergyConversManage.2015;103:166-179.243.NoorS,YangW,GuoM,vanDamKH,WangX.EnergyDemandSideManagementwithinmicro-gridnetworks
-enhancedbyblockchain.ApplEnergy.2018;228:1385-1398.244.AndoniM,RobuV,FlynnD,etal.Blockchaintechnologyintheenergysector:asystematicreviewofchallengesandopportunities.RenewableSustainableEnergyRev.2019;100:143-174.245.SprickS,GriegerM,WernerA.RenewableEnergySupplyChainManagementintheContextofVirtualPowerSystems.Vienna:IEEE;2013.Howtocitethisarticle:GawusuS,ZhangX,Jamatu

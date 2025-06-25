@@ -1,3 +1,0 @@
-olar cells include the selection of subcell materials, the tunnel junction of subcell interconnection, carrier confinement, photon confinement, lattice matching, antireflection in a broader wavelength region, and so on [75]. The long-term stability TSC under the current mismatch is yet to be explored and discussed. Table 3: 5.PV cell stability This section presents the importance of PV cell stability, the degra
--
-dation efficiency, environmental factors that deteriorate energy yield, defects in 

@@ -1,8 +1,0 @@
-edspecieswaseitherB(1keV)orBF(2keV).Thedatapointscorrespondingtothelatterareplacedadjacentlyforclarity.Eachdatapointrepresentsthemeanvalueofsixsamplesandtheerrorbarsrefertothestandarderrorofthemean.
-0.000.050.100.1510161017101810191020
-B/BF implantationPoly-Si thickness:
- 6 nm
- 15 nm
-    34 nmBoron [1/cm3]Depth [m]
-µ
-Fig.6.BoronproleobtainedonB(opensymbols)andBF(closedsymbols)im-plantedpoly-Sicontactshavingathicknessof6nm,15nm,and34nm,respec-tively.TheECVmeasurementstartedonthepoly-Silm.F.Fe

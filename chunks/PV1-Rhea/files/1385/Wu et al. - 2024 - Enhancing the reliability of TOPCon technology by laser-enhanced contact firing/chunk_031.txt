@@ -1,7 +1,0 @@
-line TOPCon solar cells.  
-Group Number of Cells PCE (%) J
-sc 
-(mA/ cm2) V
-oc 
-(mV) FF (%) JSIM 201 25.1 ±0.2 41.0 ±0.1 723.3 ±0.3 83.2 ±0.4 Baseline 198 25.0 ±0.1 41.0 ±0.1 723.2 ±0.2 82.9 ±0.3  X. Wu et al.                                                                                                                                                                                                                                      
-3.2.Cell-level accelerated DH85 test The DH85 testing

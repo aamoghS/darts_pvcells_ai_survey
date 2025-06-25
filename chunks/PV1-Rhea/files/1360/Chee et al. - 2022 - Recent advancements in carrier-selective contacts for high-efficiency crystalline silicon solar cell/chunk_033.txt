@@ -1,7 +1,0 @@
-ner wafers. Carrier selectivity can be achieved either by tunable WF metal oxide (MO) di
--
-electrics or by doped poly-Si/a-Si:H. In the latter, the c-Si surface states will be passivated by hydrogenation, and there is no direct contact be
--
-tween the c-Si absorber and the metal, so that a high V
-oc 
-can be realized. However, to overcome the a-Si:H doping-related shortcomings and the huge production cost burden, dopant-free carrier-selective passivating contacts and hybrid heterojunction (HJ) tec

@@ -1,3 +1,0 @@
-fficiency of multi
--
-crystalline silicon solar cells featuring TOPCon structure at the back. In recent times, Liu et al. reported that a power conversion efficiency of 23.22% was obtained by applying industrial TOPCon (i-TOPCon) technology onto 157.4 mm ×157.4 mm quasi-mono n-type Si wafers [141]. Moreover, excellent surface passivating quality was observed at both front and rear side of the cell by applying this i-TOPCon technology which was originally developed for the fabrication of industri

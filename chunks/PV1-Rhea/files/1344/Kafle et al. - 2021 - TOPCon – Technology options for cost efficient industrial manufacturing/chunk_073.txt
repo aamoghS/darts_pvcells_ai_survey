@@ -1,3 +1,0 @@
- poly-Si layers. Atmospheric pressure chemical vapour deposition (APCVD) is another potential technology to deposit intrinsic and doped a-Si layers in inline mode with high deposition rates [ 15,36,44]. The process utilizes thermal dissociation of silane (SiH
-4
-) that is inserted in a heated chamber using injector heads. Since the chemical reactions occur directly at the heated substrate, APCVD is also expected to provide good single-sidedness. Furthermore, in-situ doping is reportedly easily ac

@@ -1,8 +1,0 @@
-                                                                                         
-degradation behaviour as well as EQE curves [3]. However, they did not reveal their approach and the relevant details. Hamache et al. simulated the J
-sc 
-degradation with all the traps and found it was necessary to in
--
-crease the uniform introduction rate of the donor trap (�0.20) to 0.04 cm
-�1 
-[22]. Neither did they reproduce EQE curves, nor did they adjust introduction rates of the rest traps to fit

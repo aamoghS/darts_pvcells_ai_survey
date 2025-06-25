@@ -1,5 +1,0 @@
- of about 750 mV. 
-FIGURE     |    (A) Emitter dark saturation current densities in the passivated regions of P- doped n+/n++, B- doped p+/p++, SiOx/n+/p+- poly- Si, a- Si:H/nc- SiOx:H(n+/p+) and the passivation sample, and (B) the metallization- induced recombination with metal contacts printed on one side of the P- doped n++, B- doped p++, SiOx/n+/p+- poly- Si, a- Si:H/nc- SiOx:H(n+/p+), and the passivation layer with laser ablation samples.
-(A)
-(B)
-FIGURE     |    Specific contact resistanc

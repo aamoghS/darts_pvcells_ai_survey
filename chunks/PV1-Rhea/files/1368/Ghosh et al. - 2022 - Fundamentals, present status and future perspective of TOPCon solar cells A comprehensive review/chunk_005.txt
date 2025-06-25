@@ -1,7 +1,0 @@
- longer period of time due to possessing numerous advantages such as abundance of raw material, availability of easy fabrication technologies, high throughput, low maintenance, low running cost etc. [3,4]. However, two major draw
--
-backs namely high back surface recombination velocities at p-p⁺ inter
--
-face and low back surface reflectance limit the efficiency potential of this structure [4]. As a result, the present day researches on crystalline sili
--
-con based solar cells are exclusively fo

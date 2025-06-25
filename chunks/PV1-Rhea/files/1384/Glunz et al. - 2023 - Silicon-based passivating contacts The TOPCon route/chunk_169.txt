@@ -1,7 +1,0 @@
-22.
-https://doi.org/10.1116/1.590832
-106.KafleB,MackS,TeßmannC,etal.Atmosphericpressuredryetchingofpolysiliconlayersforhighlyreversebias-stableTOPConsolarcells.SolarRRL.2021;2100481.
-https://doi.org/10.1002/solr.202100481
-107.PeibstR,RienackerM,MinB,etal.FromPERCtotandem:POLO-andp+/n+Poly-Situnnelingjunctionasinterfacebetweenbottomandtopcell.IEEEJ.Photovoltaics.2019;9(1):49-54.
-https://doi.org/10.1109/JPHOTOV.2018.2876999
-108.MessmerC,GorayaBS,NoldS,SchönJ,GoldschmidtJC,HermleM,BivourM,GlunzSW

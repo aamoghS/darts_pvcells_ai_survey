@@ -1,3 +1,0 @@
-demonstrated superior reliability compared to baseline TOP
--
-Con modules after module DH85 testing. Consequently, this work shows that laser-assisted firing process such as JSIM can significantly improve the intrinsic corrosion-resistance of TOPCon solar cells. This not only results in more stable TOPCon modules, but also enables the use of lower cost bill of materials for the TOPCon technology, further reducing the LCOE of this technology. CRediT authorship contribution statement Xinyuan Wu: Wr

@@ -1,10 +1,0 @@
-tance spectra in the wavelength region of 300–1180 nm and calculated the absorptance spectra according to Equation (4), as shown in Fig. 3a–c. Then, the averaged solar spectral values of reflectance (R
-ave
-), trans
--
-mittance (T
-ave
-) and absorptance (A
-ave
-) were calculated by the following Expression (5) ~ (7) and inserted in Fig. 3, taking conventional micron- pyramid structure as a reference. A()=1–R()–T()(4)  
-Fig. 2.Top view SEM images of NPP surface morphologies at 10.0 K magni

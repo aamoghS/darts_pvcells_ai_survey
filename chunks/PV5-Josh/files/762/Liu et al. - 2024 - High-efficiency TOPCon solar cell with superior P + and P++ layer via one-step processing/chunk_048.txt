@@ -1,9 +1,0 @@
-o Si. At this point, B atoms within Si continue to penetrate deeper over time. Additionally, the depth of B atom diffusion can be inferred from the concentration distribution, with the depth approximately determined based on the concentration range. As depicted in Fig. 7, at temperatures of 750 
-◦
-C, 850 
-◦
-C, 950 
-◦
-C, and 1050 
-◦
-C, the maximum diffusion depths are measured at 0.236 nm, 0.248 nm, 0.264 nm, and 0.346 nm, respectively. This result substantiates that the depth of the diff

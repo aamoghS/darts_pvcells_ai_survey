@@ -1,6 +1,0 @@
-essed(front)andunstressed(rear)
-sideat1000and200W/m2forMB-1(reusedafterrecovery)inRound-3
-testing.Flashtestside%Pmaxchange%Iscchange%Vocchange%FFchangeFront-1000W/m20.20.10.10.1Front-200W/m20.80.20.10.5Rear-1000W/m26.40.20.25.9Rear-200W/m28.00.90.27.0
-1088MAHMOODETAL.
-modulescurrentlyavailableinthemarketsincedistinctmanufacturerscanhavemoduleswithdifferentbillsofmaterials.Thestudyutilized
-controlledlaboratoryconditionstosimulatePIDstress,whichmaynotperfectlyreplicatereal-worldcon

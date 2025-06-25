@@ -1,9 +1,0 @@
-igates the impact of Jolywood Special Injected Metallization (JSIM) method on the reliability of TOPCon solar cells. Cell level damp heat testing at 85 
-◦
-C and 85% relative humidity (DH85) with selected impurities reveals a significant improvement for the JSIM solar cells versus the standard baseline TOPCon cells. Baseline cells experienced rapid degradation, with a substantial (~92%
-rel
-) loss in PCE attributed to a significant (~13,000%
-rel
-) increase in series resistance (R
-s
-) when expose

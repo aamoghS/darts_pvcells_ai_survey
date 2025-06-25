@@ -1,7 +1,0 @@
-Siheterojunctions:Thelayersystemconsistsofaverythinintrinsichydrogenatedamorphoussiliconlayer(a-Si:H(i))toreducetherecombinationatthecrystallinesiliconinterfaceandasecondamorphoushighlydoped(eithera-Si:H(n)ora-Si:H(p))toachievecarrierselectivity.Thisa-Si:H(i)intermediatelayerwas
-introducedbySanyointhe1990sandalsoledtothetradename(HIT=heterojunctionwithintrinsicthin-layer).
-10
-Itisimportanttonotethatthecarrierselectivityisachievedbyaninducedjunc-
-tioninthec-Siabsorber.
-3
-Therefore,theidealizedima

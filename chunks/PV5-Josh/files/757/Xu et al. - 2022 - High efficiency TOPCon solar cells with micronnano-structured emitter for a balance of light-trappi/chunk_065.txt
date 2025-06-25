@@ -1,8 +1,0 @@
-igher P
-RF 
-[44]. Altogether, the NPP cells at the P
-RF 
-of 600 W showed the highest average PCE (23.55%) compared with that of 100 W (23.48%), 300 W (23.45%) and conventional cells (23.37%). The high PCE of NPP cells at the P
-RF 
-of 600 W is derived from the appropriate surface morphology and feature size, which realizes a tradeoff between optical gain and recombination loss associated with NPP structures, that 
-Fig. 6.(a) The EQE and reflectance spectra as a function of wavelength. (b) The opt

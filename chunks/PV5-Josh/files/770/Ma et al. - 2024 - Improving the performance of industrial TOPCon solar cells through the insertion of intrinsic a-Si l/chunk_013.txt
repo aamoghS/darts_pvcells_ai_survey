@@ -1,3 +1,0 @@
-t potential for the mass-production TOPCon in industry [24]. However, amorphous Si (a-Si) film deposited by PECVD is suscepti
--
-ble to poor passivated contacts while the blistering phenomenon occurs during the subsequent annealing process, leading to a significant degradation in device performance [25]. In general, the a-Si film is a technologically important semiconductor for solar cells [26,27], which offers a low defect density and tunable conduction type [28,29]. These optoelectronic advanta

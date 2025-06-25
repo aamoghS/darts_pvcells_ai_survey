@@ -1,5 +1,0 @@
-ne sili
--
-con based solar cells are exclusively focusing to simplify the processing steps as well as maximize the power output of other high efficiency crystalline silicon based solar cells such as HIT (Heterojunction with Intrinsic Thin Layer) solar cells, IBC (Interdigitated Back Contact) solar cells, PERC (Passivated Emitter and Rear Contact) solar cells and TOPCon (Tunnel Oxide Passivated Contact) solar cells [5]. Conceptu
--
-ally, ‘TOPCon’ may also be abbreviated as ‘POLO’ (Polysilic

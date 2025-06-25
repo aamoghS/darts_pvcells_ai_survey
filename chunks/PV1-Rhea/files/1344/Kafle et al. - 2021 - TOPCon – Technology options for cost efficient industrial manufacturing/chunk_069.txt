@@ -1,5 +1,0 @@
-rocess (ex-situ). Importantly, the choice of a-Si deposition technology dictates almost all the other important cell processing steps. Table 2 lists the a-Si deposition technologies, which fully or partially fulfil the re
--
-quirements to be considered for high volume PV manufacturing. Some of the most promising technologies that are closer to production-readiness, apart from LPCVD, are briefly discussed here. Plasma enhanced chem
--
-ical vapour deposition (PECVD) is a well-proven technology in PV

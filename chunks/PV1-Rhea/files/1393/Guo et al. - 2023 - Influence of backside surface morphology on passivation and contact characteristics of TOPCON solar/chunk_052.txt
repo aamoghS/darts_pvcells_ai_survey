@@ -1,5 +1,0 @@
-oncentration of the acid- polished and alkali-polished samples will drop rapidly to below 1E19cm
-�3 
-in the range of 20 nm. It can be observed that the doping concentration of the alkali-polished samples is always lower than that of the acid-polished samples. This may simply be due to surface area dif
--
-ferences. Whereas in the textured samples, at the tunneling oxide/silicon substrate interface, the doping concentration of phosphorus atoms does not drop rapidly to a lower level like in other 

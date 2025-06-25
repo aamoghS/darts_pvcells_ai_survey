@@ -1,6 +1,0 @@
-ngY,YuY,MengF,LiuZ.Experimentalinvestigationoftheshad-ingandmismatcheffectsontheperformanceofbifacialphotovoltaic
-modules.IEEEJPhotovoltaics.2019;10(1):296-305.doi:
-10.1109/JPHOTOV.2019.2949766
-9.KopecekR,LibalJ.Bifacialphotovoltaics2021:status,opportunitiesandchallenges.Energies.2021;14(8):2076.doi:
-10.3390/en14082076
-10.InternationalTechnologyRoadmapforPhotovoltaic(ITRPV)2020Results;2020.11.AfridiM,KumarA,ibneMahmoodF,TamizhmaniG.Hotspottestingofglass/backsheetandglass/glassPVmodulespre-stress

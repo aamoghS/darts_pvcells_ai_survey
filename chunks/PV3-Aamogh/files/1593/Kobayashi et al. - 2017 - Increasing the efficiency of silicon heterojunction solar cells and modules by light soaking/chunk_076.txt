@@ -1,4 +1,0 @@
-t-poolmodelforchargeddefectsinamorphoussilicon,Phys.Rev.B48(1993)10815.[34]M.J.Powell,S.C.Deane,Defect-poolmodelandthehydrogendensityofstatesin
-hydrogenatedamorphoussilicon,Phys.Rev.B53(1996)10121.[35]G.Schumm,G.H.Bauer,Thermodynamicalequilibriumgap-statedistributionin
-undopeda-Si:H,Philos.Mag.B64(1991)515–527.[36]D.E.Carlson,C.R.Wronski,Amorphoussiliconsolarcell,Appl.Phys.Lett.28
-(1976)671–673.[37]B.Yan,G.Yue,J.M.Owens,J.Yang,S.Guha,Light-inducedmetastabilityinhy-drogenatednanocrystallinesi

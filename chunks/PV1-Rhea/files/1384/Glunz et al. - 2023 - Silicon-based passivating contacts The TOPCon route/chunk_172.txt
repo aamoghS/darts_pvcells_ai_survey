@@ -1,8 +1,0 @@
-ystallinesilicon
-recombinationjunction.AdvEnergyMater.2017;1(6):1701609.
-https://doi.org/10.1002/aenm.201701609
-113.LudererC,ReichelC,FeldmannF,BivourM,HermleM.Passivatingandlow-resistivepoly-Situnnelingjunctionenablinghigh-efficiency
-monolithicperovskite/silicontandemsolarcells.ApplPhysLett.2019;115(18):182105.
-https://doi.org/10.1063/1.5120552
-114.LudererC,PennM,ReichelC,etal.Controllingdiffusioninpoly-Situnnelingjunctionsformonolithicperovskite/silicontandemsolar
-cells.IEEEJPhotovolt.2021;11(

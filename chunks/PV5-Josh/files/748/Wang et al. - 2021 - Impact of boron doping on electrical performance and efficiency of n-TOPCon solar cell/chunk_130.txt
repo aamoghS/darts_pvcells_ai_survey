@@ -1,3 +1,0 @@
-Wong, J., Chen, N., et al., 2018. Determination of metallization induced recombination losses of screen printed solar cell contacts and its dependence on the doping profile. IEEE J. Photovoltaics PP(99), 1–8. Li, M., Wong, J., Wang, E.-C., Rodriguez, J., Duttagupta, S., Samudra, G., Aberle, A.G., Stangl, R., 2019. Predictive simulation framework for boron diffused p
-+
-layer optimization: Sensitivity analysis of boron tube diffusion process parameters of industrial n-type silicon wafer solar ce

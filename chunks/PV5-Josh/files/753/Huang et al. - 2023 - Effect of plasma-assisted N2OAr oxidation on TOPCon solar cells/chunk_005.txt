@@ -1,7 +1,0 @@
-Con cells are up to 26.1% or more [4,5]. A high quality tunneling SiO
-x 
-layer is essential to provide effective chemical passiv
--
-ation and allow selective carrier transport through quantum tunneling and/or pinholes [6–13]. At present, the ultra-thin tunneling SiO
-x 
-layer can be prepared by such methods as wet chemical oxidation [6,14,15], high-temperature thermal oxidation [16–18], ozone oxidation [19,20], atomic layer deposition(ALD) [21,22], etc. However, the above methods are limited i

@@ -1,11 +1,0 @@
-lts. e simulator makes use of xenon lamps as a source of light generator to stimulate natural sun light for testing purpose to match AM 1.5 spectrum. In the present study, experiment is conducted with xed irradiation of 1000 
-W/
-m
-2
- and variable shading percentages on a single cell. e IV and PV curves, 
-Isc
-, 
-Voc
-,
-Pmax
- ,  are generated and recorded through the soware system as a procedure of the experiments. During the test, the PV module is exposed to ash test analysis, which will

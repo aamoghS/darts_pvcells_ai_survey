@@ -1,4 +1,0 @@
-i. org/10.1016/j.solmat.2023.112458. References 
-[1]J. Schmidt, R. Peibst, R. Brendel, Surface passivation of crystalline silicon solar cells: present and future, Sol. Energy Mater. Sol. Cells 187 (2018) 39–54, https:// doi.org/10.1016/j.solmat.2018.06.047. [2]S.P. Padi, M.Q. Khokhar, S. Chowdhury, E.-C. Cho, J. Yi, Nanoscale SiO
-x 
-tunnel oxide deposition techniques and their Influence on cell parameters of TOPCon solar cells, Trans. Electr. Electron. Mater. 22 (2021) 557–566, https://doi.o

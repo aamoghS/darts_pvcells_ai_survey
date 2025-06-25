@@ -1,7 +1,0 @@
-pe Si solar cells (active cell area 2 cm ×2 cm) were developed where n-TOPCon served as front emitter and p-TOPCon provided back surface field (see Fig. 5). The solar cells featuring amorphous Si emitter gave higher V
-oc 
-(693.5 mV) and higher FF (81%) than the solar cells featuring semi-crystalline Si emitter. But the latter provided higher J
-sc 
-due to improved blue response. Conse
--
-quently, the obtained efficiency of both cell groups was almost same (17.9% for amorphous silicon emitter and 

@@ -1,3 +1,0 @@
-olarcellstructurebasedonvariousmaterialparametersanddesigncon�gurationisimportant.TherearecurrentlyvariousPVdevicesimulators,whichcansolvethesolarcelltransportequationsin2or3dimensions[13],[14],[15],
-�theodoros.katsaounis@kaust.edu.saykonstantinos.kotsovos@aramco.com1
-[16],whichhavebeenwidelyusedtosimulatehighe�ciency3DstructuresincludingthePERC/PERL[17],[18]andinterdigitatedbackcontact(IBC)solarcells[19],[20].Simulationofbifacialsolarcellstructuresispossiblewithsomeofthesesimulators[21],[

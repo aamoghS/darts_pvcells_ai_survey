@@ -1,3 +1,0 @@
-rights reserved.
-T
-dataonthestabilityofSHJ-basedphotovoltaicshavebeenreported.Forexample,Jordanetal.reportedthatSHJmodulesdegradeatafasterratethandootherc-Sibasedmodules(1%versus0.5–0.8%annualdegradation,respectively)[14].However,Sharmaetal.foundanin-creaseinVocofaSHJmoduleafter28monthsintheeld[15].Re-cently,wedemonstratedthatlightsoaking(LS)ofSHJsolarcellsin-creasestheiropencircuitvoltage(Voc)andllfactor(FF),leadingtoagaininabsoluteconversioneciencyofupto0.3%[16].Inparticular,wefoundthatth

@@ -1,2 +1,0 @@
-s the ideal solution). The experiments did not yield any results due to technical problems, so the hypothesis for the best solution was not experimentally proven. More experiments are needed. The statistical analysis was performed using the Statgraphics statistical data analysis tool and the empirical models with correlation equations describing pH value of analyzing samples. The results were validated using the 
-effects of variables, the half-normal probability plot, Standardized Pareto chart, 

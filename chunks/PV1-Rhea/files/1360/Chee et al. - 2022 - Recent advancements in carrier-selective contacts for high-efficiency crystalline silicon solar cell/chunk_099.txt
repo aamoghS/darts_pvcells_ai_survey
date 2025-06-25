@@ -1,3 +1,0 @@
- relationship for specific applications. For example, to reduce parasitic absorption, a low free carrier concentration is a necessary condition, but this in turn in
--
-creases the electrical resistivity. Moreover, the degenerate doping of the TCO film easily allows a low-resistivity ohmic contact with the metal grid. Doping of the TCO should, therefore, be carefully managed to maintain excellent charge carrier transport properties [89]. The low extinction coefficient, k, in the visible waveband a

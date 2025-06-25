@@ -1,2 +1,0 @@
- Soc. 131 
-(1984) 2366–2368. https://doi.org/10.1149/1.2115259. [21] J.G.M. Mulder, P. Eppenga, M. Hendriks, J.E. Tong, An Industrial LPCVD Process for In Situ Phosphorus-Doped Polysilicon, J. Electrochem. Soc. 137 (1990) 273–279. https://doi.org/10.1149/1.2086381. [22] W. Ahmed, E. Ahmed, An Investigation of LPCVD and PECVD of in situ Doped Polycrystalline Silicon for VLSI, Adv. Mater. Opt. Electron. 1 (1992) 255–259. https://doi.org/10.1002/amo.860010508. [23] R.C.G. Naber, B.W.H. Van De

@@ -1,3 +1,0 @@
-paste on the rear side of the Tunnel Oxide Passivated Contact solar cells (TOPCon) is still the mainstream method to form electrodes. However, the high price of precious metals increases the cost of TOPCon cells. Al is a cheap and high-performance conductor, and its work function is compatible with the rear side of TOPCon cells. In this study, we used a UV pulse laser (355 nm, 10 ps) to ablate the rear side SiN
-x 
-passivation layer of TOPCon cells and then printed Al paste with different weight 

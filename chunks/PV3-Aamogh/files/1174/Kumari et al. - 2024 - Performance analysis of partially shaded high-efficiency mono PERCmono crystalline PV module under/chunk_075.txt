@@ -1,6 +1,0 @@
- experimental purposes.
-Table 1.  Module specication.
-PREL -370W (monocrystalline PV module)Rated peak power (W)370 WpOpen circuit voltage48VShort circuit current9.90 AFill factor77.82%Eciency19.57%Junction boxIP67/IP68 3 bypass diodeCell encapsulantEVA (ethylene vinyl acetate)
-9
-Scientific Reports |        (2024) 14:21587  | https://doi.org/10.1038/s41598-024-72502-z
-however, such readings are not required for this experiment. Usually, these measurements play a signicant role in PV predicti

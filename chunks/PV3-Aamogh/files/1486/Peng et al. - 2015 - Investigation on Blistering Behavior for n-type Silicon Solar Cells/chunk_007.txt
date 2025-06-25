@@ -1,9 +1,0 @@
-ermal treatment in specific gas environment is proposed to eliminate blistering. 2.
- 
-Experiment In this study, 6-inch n-type Cz silicon wafers with a thickness of 180 
-�˛
-m were used. After texturing, the wafers were then doped with boron for front emitter, and with phosphorous for back surface field. The samples were then deposited with Al
-2O3
- using Atomic Layer Deposition (ALD) [4]. Finally, a SiN
-X
- ARC layer was deposited on the samples using PECVD. The samples were fired in an industri

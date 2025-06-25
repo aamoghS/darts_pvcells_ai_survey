@@ -1,2 +1,0 @@
-ctively. The smallest screen opening allowed for a fired gridline width of remarkable 48 μm. This leads to slightly higher JSC due to reduced shading compared to the cells printed with the wider finger opening. However, the higher series resistance of the cells with lower finger width could not be compensated by the higher JSC in this experiment, resulting in a slight efficiency drop of 0.04%abs. Improved pastes and screens are necessary to benefit from the lower finger opening. 
- Gerd Fischer 

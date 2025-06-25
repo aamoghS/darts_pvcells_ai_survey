@@ -1,4 +1,0 @@
-                                     
-effectiveness in TOPCon solar cells. The broader bandgap of HfO2, which reduces unnecessary light absorption and thus optimizes the photon-to-electricity conversion process, is identified as a crucial per
--
-formance determinant. These characteristics, coupled with the findings from the simulations, suggest HfO2’s potential to markedly improve the interface quality with silicon, thereby enhancing both the performance and longevity of TOPCon solar cells. In 

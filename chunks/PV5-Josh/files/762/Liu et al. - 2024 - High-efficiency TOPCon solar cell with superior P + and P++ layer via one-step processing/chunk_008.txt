@@ -1,5 +1,0 @@
-iate diffusion characteristics for the p
-+
-and p
-++
-layers [11,12]. These steps are primary for further enhancing the photovoltaic conversion efficiency of solar cells. Currently, the body of theoretical research on B diffusion, especially at the atomic scale, remains relatively limited. Babak Sadigh et al. [13] determined the diffusion path of B in Si based on first-principles density functional theory (DFT) energies obtained through local-density approximation (LDA) and generalized gradient ap

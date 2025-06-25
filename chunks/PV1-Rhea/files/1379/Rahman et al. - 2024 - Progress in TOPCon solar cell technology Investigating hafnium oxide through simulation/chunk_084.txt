@@ -1,3 +1,0 @@
-luenced by various factors, including carrier recombination and extraction. The J�V curve of a TOPCon solar cell typically displays a high Jsc and V
-oc 
-alongside a high FF, showcasing the relationship between generated current and applied voltage, especially under illumination. Achieving these characteristics in TOPCon cells often involves optimizing passivation layers, reducing recombination losses, improving carrier extraction, and refining the materials and interfaces within the solar cell

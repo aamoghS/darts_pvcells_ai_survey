@@ -1,9 +1,0 @@
-ay to realize lower parasitic absorp
--
-tion of light [78]. The improvement of cell performance is always welcome but the process and the used materials must be industrial feasible and cost- effective. The ultimate goal is to improve the cost/W
-peak 
-and the sim
--
-ple way to achieve that goal is either reducing the processing and ma
--
-terial cost or improving the power output or in the best cases, both should be attained. One of the most concerning issues associated with this high efficiency TOPC

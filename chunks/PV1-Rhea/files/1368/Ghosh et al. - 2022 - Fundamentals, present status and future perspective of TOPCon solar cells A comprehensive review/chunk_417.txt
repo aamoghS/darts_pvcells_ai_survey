@@ -1,3 +1,0 @@
-on pastes to avoid the use of thicker poly-silicon layer (in this study the optimized thickness was 240 nm) because the use of thicker poly-Si layer helps to minimize the contact resistivity at a cost of increased free carrier absorbance; (v) necessity to address the throughput issue of doped poly-Si layer fabrication; and (vi) unavailability of required hardware set up to operate at full loads with homogeneous deposition. Never
--
-theless, the authors pointed out that some of these above mention

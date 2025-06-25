@@ -1,9 +1,0 @@
-rrentboostspeciﬁctocellslocatedontheedges,in:ProceedingsoftheSiliconPVconference,2018.[105]InternationalTechnologyRoadmapforPhotovoltaic(ITRPV),Tech.rep.(2018).URLitrpv.org[106]H.Haniﬁ,C.Pfau,D.Dassler,J.Schneider,S.Schindler,M.Turek,J.Bagdahn,Investigationofcell-to-module(CTM)ratiosofPVmodulesbyanalysisoflossandgainmechanisms,PhotovoltaicsInternational32(2016)89–99.URLhttps://www.researchgate.net/publication/303783079f
-gInvestigationf
-goff
-gcell-to-modulef
-gCTMf
-gratiosf
-goff
-gPVf
-gmodule

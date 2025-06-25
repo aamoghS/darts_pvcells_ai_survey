@@ -1,3 +1,0 @@
-r cells can be suitable for integration in PV modules in the glass-glass config
--
-uration. In the more conventional glass-backsheet configuration, PV modules are known to be more susceptible to failure, particularly during the damp heat test, due to moisture ingress through the backsheet [46]. Hence, for assessing the suitability of the developed solar cells for application in glass-backsheet modules, the applied tests are to be repeated using the glass-backsheet configuration. Furthermore, for 

@@ -1,2 +1,0 @@
-axandtheeciency-maximizingcontactingareafh,maxarecalculatedfromthemeasureddatausingEqs.(6),(8),(13),and(14).HoleselectiveJ0,h[fA/cm2]ρc,h[cm2]Ref.S10,hfh,max[%]ηh,max[%]Al-dopedp+5500.005[61]13.01.1427.2a-Si:H(i)/a-Si:H(p)20.4[58]13.513228.0SiOx/poly-Si(p+)160.008[85]14.35.6728.8[chemicaloxide/PECVD]SiOx/Si:C(p+)11.50.017[88]14.19.9528.6[chemicaloxide/PECVD]
-a-Si:H(i)/MoOx100.4[128]12.88.4126.9MoOx3000.03[139]12.55.5726.1PEDOT:PSS800.1[132]12.518.826.2J.Schmidtetal.Solar Energy Materials and

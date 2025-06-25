@@ -1,6 +1,0 @@
-ar cell with front implanted boron emitter and rear tunnel oxide passivated contact.  
-Fig. 2.Schematic of n-TOPCon and implanted boron emitter test structures to investigate the impact of screen-printed metallization on J
-0
-.  
-Y.-Y. Huang et al.                                                                                                                                                                                                                              
-busbars were screen-printed on

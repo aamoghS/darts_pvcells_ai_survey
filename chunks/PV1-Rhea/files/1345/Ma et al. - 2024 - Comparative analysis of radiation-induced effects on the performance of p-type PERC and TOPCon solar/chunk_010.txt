@@ -1,4 +1,0 @@
- 1 December 2023; Received in revised form 16 June 2024; Accepted 17 June 2024   
-absorb more long-wavelength photons and suffer less recombination losses than the full area aluminium back surface field (BSF) solar cells that preceded them. The PERC technology has been widely adopted by manufacturers since 2017. PERC cells have undergone significant development in recent years, with a mass production average cell effi
--
-ciency of 23.5 % in 2021 [7]. As the bulk lifetime of c-Si wafers has improv

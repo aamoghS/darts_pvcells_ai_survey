@@ -1,7 +1,0 @@
-n
-followedbyalkalinetexturingonbothsidesofthewafers.Next,aSiNxmaskonthefrontsidewasdeposited,followedbyaheatedKOHtreatmenttoplanarizetheback.
-Aftertheplanarization,thewaferthicknesswasreducedto
-about175m.Theboronionimplantationwithproperdoseandenergywasperformedonaproductionlineim-
-planteratSunivaInc.Then,ahightemperatureanneal
-(>1000°C)wasusedtorestorethelattice[15,16]andelim-inatetheboron-richlayerformation[17,18].Theresulting
-sheetresistivitywas~110/□fortheboronemitter.Next,theroomtemper

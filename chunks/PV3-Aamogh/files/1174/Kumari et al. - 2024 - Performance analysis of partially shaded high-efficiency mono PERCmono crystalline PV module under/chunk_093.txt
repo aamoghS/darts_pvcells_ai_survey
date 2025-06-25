@@ -1,5 +1,0 @@
-aximum generated power 
-(Pmax)
- and e(ciency ().Power output of PV module under shading conditionTwo well-known performance indicators of a PV module are maximum power output ( 
-Pmax)
- and e)ciency (). e experimental study is performed on single cell that represent spot shading. e results show noticeable power losses as the shading factor is increased. As the cell area is 20% shaded, a power loss of 11.6% is recorded. However, further shading 40% of the PV cell causes a rapid drop in power o

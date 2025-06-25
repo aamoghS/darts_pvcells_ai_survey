@@ -1,6 +1,0 @@
- device (WEP CVP21) with an etchant of 0.1 M NH
-4
-F solution. The 
-
-c 
-of the screen-printed metallized contacts with different profiles was determined using the transfer-length method (TLM) (GP-4 TEST). The optical reflectance of the cell was measured using a PVE300-IVT instrument. During these tests, the optical losses were analyzed using the Current Loss Analysis Calculator V1.4 (the Solar Energy Research Institute of Singapore). 3.Results and discussion 3.1.The effect of poly-Si based passi

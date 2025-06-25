@@ -1,2 +1,0 @@
-rds: Solar thermal technology; selective surfaces for collectors; Compound parabolic reflector; selective coating for absorber; solar collectors with top cover 
-1. Background A solar thermal technology for industrial heating has been proven one of the excellent source of renewable heating. The proposed system described in this paper consists of a top covered & aluminium foil coated mild steel compound parabolic solar reflector. This collector has been tested with a copper receiver coated with a 

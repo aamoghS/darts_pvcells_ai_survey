@@ -1,8 +1,0 @@
-                   
-busbars were screen-printed on the B emitter using a fire through Ag/Al paste and single print. The screen grid opening was 35 
-
-m, resulting in fired grid linewidth of 40 
-
-m. Front side metallization with floating busbars (FB) was done using dual-print, where the grid fingers were screen-printed first using the fire-through Ag/Al paste first and then a fritless non-fire-through Ag paste was used to print the busbars. Next, 60 
-
-m wide 300 grid lines in combination with 6

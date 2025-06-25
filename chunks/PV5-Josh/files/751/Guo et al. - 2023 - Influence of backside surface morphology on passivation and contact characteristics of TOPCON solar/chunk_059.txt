@@ -1,7 +1,0 @@
-nts.(d)J
-0, Auger 
-from EDNA2 simulation and J
-0 
-from QSSPC. 
-C. Guo et al.                                                                                                                                                                                                                                     
-the passivation contact structure is to reduce the degradation caused by the metal contact. But even so, high temperature annealing still causes some damage to the passivation contact structure,

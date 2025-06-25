@@ -1,7 +1,0 @@
-tic representation of the pre
--
-pared Si paste and the schematic layout of the Si wafer used for the square resistance test after screen printing. The screen printing process of the Si paste is substantiated by results from the contour measurement image obtained via laser microscopy and the scanning electron micro
--
-scope image, as presented in Fig. 10 (c) and (d). The square area’s di
--
-mensions, as shown in Fig. 10 (b), measure approximately 20 mm ×20 mm. The boundary of this region is well

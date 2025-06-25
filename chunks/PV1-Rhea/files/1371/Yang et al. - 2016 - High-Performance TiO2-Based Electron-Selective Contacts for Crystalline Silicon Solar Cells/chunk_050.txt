@@ -1,2 +1,0 @@
- ≈4.0 eV [ 16 ]  and a work function of Al at 4.0–4.2 eV, and hence the  ρ  c  values decrease to lower than 0.3 Ω cm 2 . In the meanwhile, due to a large valence band offset (>2.0 eV) at the n-Si/TiO 2  interface, which would block the holes from silicon to TiO 2  layer, the car-rier recombination at the interface is also suppressed. For the 
-same TiO 2  ﬁ lm thickness, n-Si/TiO 2  heterojunctions show a lower  ρ  c  than that of n-Si/SiO 2 /TiO 2  heterojunctions. Although a tunnel S

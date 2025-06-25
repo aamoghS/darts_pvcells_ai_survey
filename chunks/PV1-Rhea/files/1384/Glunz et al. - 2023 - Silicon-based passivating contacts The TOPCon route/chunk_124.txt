@@ -1,6 +1,0 @@
-.Passivation,conductivity,andselectivityinsolarcellcontacts:Conceptsandsim-ulationsbasedonaunifiedpartial-resistancesframework.JApplPhys.2019;126(18):183103.
-https://doi.org/10.1063/1.5117201
-5.BrendelR,PeibstR.Contactselectivityandefficiencyincrystallinesiliconphotovoltaics.IEEEJ.Photovoltaics.2016;6(6):1413-1420.
-https://doi.org/10.1109/JPHOTOV.2016.2598267
-6.GreenMA.Thepathto25%siliconsolarcellefficiency:Historyofsiliconcellevolution.ProgPhotovolt:ResAppl.2009;17(3):183-189.
-https://doi.org/1

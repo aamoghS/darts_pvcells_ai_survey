@@ -1,5 +1,0 @@
-duction type [28,29]. These optoelectronic advantages strongly rely on configurations of hydrogen and silicon in the three-dimensional space, and thus precise control of its microscopic structure is a critical factor in achieving good devices [30]. While PECVD deposited a-Si often contains a large amount of hydrogen (20 atomic (at.) % and more) from the silicon precursor gas, such as SiH
-4 
-and H
-2 
-[31]. Unfortunately, the deposited a-Si film on oxidized Si is strongly prone to blistering, both

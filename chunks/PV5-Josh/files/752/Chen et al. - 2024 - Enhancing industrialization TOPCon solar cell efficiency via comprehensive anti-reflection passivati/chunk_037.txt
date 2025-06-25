@@ -1,4 +1,0 @@
-                                                                
-notably positive impact on the internal quantum efficiency (IQE) per
--
-formance within the 300–400 nm wavelength range, due to the improved quality of the front surface passivation as shown in Fig. 2b. Nonetheless, the gain in external quantum efficiency (EQE) is not as apparent due to optical losses, which underscores the primary reason that the electrical performance enhancement resulting from the PO process primarily manifests

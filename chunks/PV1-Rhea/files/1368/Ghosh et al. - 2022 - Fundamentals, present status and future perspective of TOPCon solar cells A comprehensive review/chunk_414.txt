@@ -1,3 +1,0 @@
-imized by three ways: (i) reducing the width of the metallic fingers to minimize the carrier recombination losses at metal/semiconductor interfaces; (ii) improving the quality of phos
--
-phorous diffused front emitter to reduce the emitter recombination losses; and (iii) enhancing the minority carrier lifetime at the bulk by using high quality CZ c-Si wafers. On the other hand, Mack et al. recently reported that a conversion efficiency of 21.2% was achieved with an active cell area was 244.32 cm

@@ -1,8 +1,0 @@
-und.
-FIGURE14
-ELforME-1atdifferentstatesat100%ISCand30-sexposurewithgrayvaluechangeinRound-2testing.
-FIGURE13
-DegradationandrecoveryinIVparametersduetoPIDfor
-ME-1at1000W/m2.
-MAHMOODETAL.1087
-Moreover,themonofacialPIDstressmethodforbifacialmodulesusingtheAlfoilisstillundertesting,andtheseresultsindicatesomelimitationsofthismethod.3.4|Round-4(cellat+vebiasandstressatrearside)Allmodulesshowedlessthana1%declineinPmaxforbothstressedandunstressedsides(at1000and200W/m2),indicatingnodegrada-tion.Nosigni

@@ -1,7 +1,0 @@
- the baseline established in this work. 2.Materials and methods 2.1.Integration of in situ doped LPCVD poly-Si passivating contacts in n- TOPCon solar cells The in situ P-doped LPCVD-based poly-Si films developed in Ref. [26] were integrated in n-TOPCon solar cells in two sets of experiments. The goal of the first experiment was to study the impact of t
-poly 
-on the solar cell performance and identify the optimal t
-poly 
-value. This experiment is referred to as the t
-poly 
-screening experiment. 

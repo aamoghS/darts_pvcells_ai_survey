@@ -1,7 +1,0 @@
-mp-heat testing phase. The DH85 tests were done in an ASLi Environment chamber set to a temperature of 85 
-◦
-C and a relative humidity of 85%. The chamber was cycled to room temperature between each measure
--
-ment period (10 h) and reheated for subsequent stages of damp-heat treatment. We used two systems to determine the current-voltage (I–V) char
--
-acteristics of solar cells. A Halm inline measurement system with a calibrated reference cell was used at the industrial production line and a 

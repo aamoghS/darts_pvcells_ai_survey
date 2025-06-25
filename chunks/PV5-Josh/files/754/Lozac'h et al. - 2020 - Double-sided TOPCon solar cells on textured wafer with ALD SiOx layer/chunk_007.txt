@@ -1,9 +1,0 @@
-ed, front (p) and rear (n), TOPCon solar cells on textured wafer are presented. This structure consists of (p) poly-Si/ SiO
-x
-/(n) c-Si/SiO
-x
-/(n) poly-Si. The SiO
-x 
-layer is formed by atomic layer deposition (ALD), which yields excellent conformal coverage over the textured surface. The ALD technique also yields the thickness control of the SiO
-x 
-layer at atomic level [10]. Here, we particularly concentrate on the surface passivation of the p-side over the textured c-Si. The boron and hydroge

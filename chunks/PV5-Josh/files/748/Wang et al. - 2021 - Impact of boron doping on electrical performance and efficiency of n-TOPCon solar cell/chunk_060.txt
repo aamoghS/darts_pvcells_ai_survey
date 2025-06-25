@@ -1,7 +1,0 @@
-er firing and removing the Ag/Al contact lines. References (Fellmeth et al., 2011, Chen et al., 2020) presented the for
--
-mula of J
-0e, metal 
-based on a simple linear interpolation of the measured data points (Fig. S1). In this study, J
-0e, metal 
-was extracted from the Sinton tests of the samples (three pieces of solar cells were fabricated for metal coverage per boron profile) (Fig. S2). Profiles with a higher peak concentration on a constant junction depth(D1/D2/D3) (Fig. 5a-c) exhibit a sig

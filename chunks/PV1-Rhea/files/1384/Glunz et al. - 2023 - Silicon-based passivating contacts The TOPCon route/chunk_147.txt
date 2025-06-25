@@ -1,8 +1,0 @@
-;114(8):83902.
-https://doi.org/10.1063/1.5081832
-59.ChenY,AltermattPP,ChenD,etal.Fromlaboratorytoproduction:Learningmodelsofefficiencyandmanufacturingcostofindustrial
-crystallinesiliconandthin-filmphotovoltaictechnologies.IEEEJPho-tovoltaics.2018;8(6):1531-1538.
-https://doi.org/10.1109/JPHOTOV.2018.2871858
-60.WilsonGM,Al-JassimM,MetzgerWK,etal.The2020photovoltaictechnologiesroadmap.JPhysDApplPhys.2020;53(49):493001.
-https://doi.org/10.1088/1361-6463/ab9c6a
-61.ChenY,ChenD,LiuC,etal.Massproduction

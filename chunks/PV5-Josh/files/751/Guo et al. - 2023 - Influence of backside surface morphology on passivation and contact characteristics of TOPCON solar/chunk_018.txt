@@ -1,5 +1,0 @@
-r and LPCVD deposition of an intrinsic polysilicon layer, followed by doping and recrystallization by thermal diffusion of POCl
-3 
-in an industrial-scale quartz tube furnace. Different chemical etching methods (acid polish
--
-ing and alkali polishing) are used to achieve modification of the backside topography. By finely controlling the etching amount, the difference in surface morphology after different polishing weight reductions achieved by acid polishing and alkali polishing was studied. The 

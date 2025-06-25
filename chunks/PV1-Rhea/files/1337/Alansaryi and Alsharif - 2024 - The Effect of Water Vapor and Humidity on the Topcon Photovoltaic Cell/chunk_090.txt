@@ -1,8 +1,0 @@
-on the performance of photovoltaic
- 
-cells and panels. As an example, the generation of photovoltaic (PV) power 
-is significantly affected by haze. There aren't many quantitative studies on how haze affects PV power generation, 
-but when fine particulate matter concentrations rise, it becomes 
-the primary factor affecting solar irradiance and 
-significantly lowers PV power generation. Moisture and humidity can leads also to degradation of photovoltaic 
-cells and panels due to corrosion process. 

@@ -1,9 +1,0 @@
-es concentration of 1.5E20.  
-M. Du et al.                                                                                                                                                                                                                                      
-decreases from 40.68 mA/cm
-2 
-to 40.07 mA/cm
-2
-, FF increases from 77.23% to 78.13% and E
-ff 
-increases from 22.22% to 22.56%. But simultaneously changing the three defect states concentrations so that the three defect states c

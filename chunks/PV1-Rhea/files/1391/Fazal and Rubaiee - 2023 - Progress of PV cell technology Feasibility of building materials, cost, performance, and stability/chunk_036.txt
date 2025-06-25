@@ -1,3 +1,0 @@
-d cell manufacturing cost reduction is also slowed. With the rapid development of technology, n-type cells are appearing as a potential alternative to p-type cells for the next generation of mainstream tech
--
-nology. P-type cells are traditionally boron-doped silicon substrates subjected to light-induced degradation by forming boron-oxygen pair. In contrast, n-type cell silicon wafer substrates are usually dopped with phosphorus which greatly decreases the tendency of light-induced degradation. 

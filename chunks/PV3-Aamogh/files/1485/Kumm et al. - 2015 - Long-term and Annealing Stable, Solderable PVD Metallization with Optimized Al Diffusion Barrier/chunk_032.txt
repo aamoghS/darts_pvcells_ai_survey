@@ -1,3 +1,0 @@
-e requires an interruption of the deposition process and breakage of the high vacuum which entails considerable additional process costs in an industrial application. In order to clear this obstacle, an in-situ stuffing process within the PVD machine is developed in the following. 4.
- 
-In-situ stuffing  The stuffing procedure is simplified by installing a valve to the sputter chamber. Thus, ambient air can be let into the process chamber to make oxygen available for a stuffing process after TiN 

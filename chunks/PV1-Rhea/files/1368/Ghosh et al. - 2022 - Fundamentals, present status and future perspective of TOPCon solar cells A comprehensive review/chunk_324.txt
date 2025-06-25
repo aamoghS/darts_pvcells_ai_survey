@@ -1,3 +1,0 @@
-gy. Most impor
--
-tantly, this improvement will not be restricted within the cells level only, as shown in Fig. 25. The expected average stabilized efficiency of TOPCon solar modules in mass production will reach ≈23% in 2031 from its current level of 21.2%, clearly surpassing the current market dominating p-PERC solar modules. The expected efficiency value is also comparable with the solar modules comprised of HJT or IBC solar cells. On the other hand, silicon based tandem solar cells with its

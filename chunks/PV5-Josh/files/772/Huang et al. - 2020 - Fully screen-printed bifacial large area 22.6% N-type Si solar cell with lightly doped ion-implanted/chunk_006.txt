@@ -1,7 +1,0 @@
-ction of large-area Si solar cells, several challenges need to be overcome, including screen-printing induced shunting and degradation of J
-0 
-of n-TOPCon with thin poly-Si [12], parasitic absorption in the doped poly-Si [13,14], single-side deposition of poly-Si [15], and throughput [16]. The poly-Si thickness needs to be adequate to prevent the pene
--
-tration of the fire-through metal paste into the thin oxide and oxide/Si interface. This is essential for achieving the lowest metallized J
-0 
-f

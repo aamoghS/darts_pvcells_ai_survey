@@ -1,3 +1,0 @@
-ovskite/Si tandem solar cells. On the other hand, with the help of Silvaco ATLAS TCAD tool and by using ASTM certified AM 1.5G spectrum, Verma and Mishra showed that a very high conversion efficiency of 35.32% may be achieved by applying TOPCon structure at the bottom cell of GaInP/Si dual-junction solar cell [145]. The applied TOPCon structure helped to minimize the carrier recombination losses at the rear side of the bottom cell and as a result, improvement in the external V
-oc 
-was observed. 

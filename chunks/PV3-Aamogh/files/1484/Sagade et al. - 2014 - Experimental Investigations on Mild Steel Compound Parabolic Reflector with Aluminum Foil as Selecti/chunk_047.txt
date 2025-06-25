@@ -1,2 +1,0 @@
-nd increases as the heat gained by water increases. The equation (A) interprets that, heat loss through the receiver has negative effect on collector efficiency and heat gain. The positive association between collector efficiency and heat gain is reflected by the fact that higher heat gain also has high values on collector efficiency. If heat loss through the receiver increases by 0.014W, then collector efficiency will decrease by 1%. 
-3066   Atul A. Sagade et al.  /  Energy Procedia   57  ( 201

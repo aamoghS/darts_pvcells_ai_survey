@@ -1,7 +1,0 @@
-ts inherent properties and potential to enhance efficiency. It delineates research methodologies, parameters, and ex
--
-pected contributions, laying the groundwork for subsequent in
--
-vestigations within the research paper. In this research, a meticulous comparative analysis of hafnium oxide (HfO2) and silicon dioxide (SiO2) within the framework of Tunnel Oxide Passivated Contact (TOPCon) solar cells is presented. The study metic
--
-ulously employs ATLAS Silvaco simulation software to underscore t

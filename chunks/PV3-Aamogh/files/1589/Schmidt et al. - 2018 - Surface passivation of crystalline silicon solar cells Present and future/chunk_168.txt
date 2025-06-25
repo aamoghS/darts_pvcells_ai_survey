@@ -1,3 +1,0 @@
-plasmaatomiclayerdeposition,Phys.StatusSolidiRRL4(2010)10–12.[48]J.Schmidt,F.Werner,B.Veith,D.Zielke,R.Bock,V.Tiba,P.Poodt,F.Roozeboom,A.Li,A.Cuevas,R.Brendel,IndustriallyrelevantAl2O3depositiontechniquesforthesurfacepassivationofSisolarcells,in:Proceedingsofthe25th
-EuropeanPhotovoltaicSolarEnergyConferenceand5thWorldConference
-Photovolt.EnergyConv.,Valencia,Spain,2010,pp.1130–1133.[49]J.Schmidt,A.Merkle,R.Bock,P.P.Altermatt,A.Cuevas,N.P.Harder,B.Hoex,M.C.M.vandeSanden,W.M.M.Kessels,R.Brende

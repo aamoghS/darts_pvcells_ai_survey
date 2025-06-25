@@ -1,7 +1,0 @@
-y barrier height at n-TOPCon/AZO contact. Besides, an increment of 0.8% in the power conversion effi
--
-ciency was also observed when AZO/ITO stack was used as front TCO layer instead of single ITO layer. On the other hand, TCOs having high work function such as WO
-x
-, MoO
-x 
-showed great potential to serve the purpose for contact layers to p-TOPCon. Development of both sided TOPCon structure on n-type Si wafers will be discussed in the next section. 4.Both sided TOPCon structure based on n-type 

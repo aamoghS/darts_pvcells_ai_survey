@@ -1,5 +1,0 @@
- relative after 400 thermal cycles (see Fig. 12b)). Hence, the laminates pass the damp heat and thermal cycling tests (P
-out 
-loss ≤5% for a single IEC61215 test), showing that the screen-printed fingers of the developed solar cells do not degrade due to moisture and the interconnections between the fin
--
-gers and the wires of the laminates do not fail due to thermal cycling. The results of this first assessment indicate that the developed solar cells can be suitable for integration in PV modu

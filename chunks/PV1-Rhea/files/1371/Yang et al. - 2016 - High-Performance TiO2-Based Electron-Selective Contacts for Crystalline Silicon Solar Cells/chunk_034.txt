@@ -1,4 +1,0 @@
-ection-level-dependent effective lifetimes of n-type (1.0 Ω cm, 190 µm) passivated by TiO 2  ﬁ lm with different thickness after FGA annealing at 250 °C for 3 min; b) Dependence of effective lifetime of tunnel-SiO 2 /TiO 2  stack passivated n-type (1.0 Ω cm, 190 µm) silicon wafers on FGA temperatures. The calculated upper limits of  S  eff  are shown together.
-5894
-wileyonlinelibrary.com© 2016 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim
-COMMUNICATIONperformance degrades rapidly at a tem

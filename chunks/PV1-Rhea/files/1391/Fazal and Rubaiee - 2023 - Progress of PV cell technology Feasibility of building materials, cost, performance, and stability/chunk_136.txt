@@ -1,5 +1,0 @@
-egradation rate (% per year) for different PV technologies. Adapted from Ref. [8].  
-Table 4 Summary of inspection techniques used, and defects identified for different PV modules under outdoor exposures (DR: Degradation rate of maximum power or mean power).  
-Country Cell types Period (y) DR (%/y) Defects reported and inspection techniques Ref. Flaws Inspection techniques Spain mc-Si 22 1.4  (P
-mean
-) Browning, milky pattern, and oxidation of the metallization grid Visual inspection, IR thermog

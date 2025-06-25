@@ -1,3 +1,0 @@
-es [136–138] of these defects have been reported by multiple researchers from different parts of the globe. Table 4 summarizes the inspection techniques used and defects identified for different PV modules under outdoor exposures. As seen from Table 3, the faults in cells/modules can comprise electrical (poor soldering, shunts, short-circuited cells, shading, broken interconnection ribbons, and cell cracks), optical (delamination, encapsulant discolor
--
-ation, bubble formation, and front glass

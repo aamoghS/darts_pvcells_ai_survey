@@ -1,7 +1,0 @@
- cells printed with Ag paste. I believe that in the future, the opti
--
-mization of laser contact opening technology and the superposition of LECO, the V
-oc 
-of TOPCon cells which are printed with Al paste on the rear side can be improved partly. Our next work will focus on the impact of the reverse electric field on the rear side.
-5.Conclusion
-This work is dedicated to the development of a new metallization process to reduce the cost of commercial TOPCon solar cells, including laser contact open

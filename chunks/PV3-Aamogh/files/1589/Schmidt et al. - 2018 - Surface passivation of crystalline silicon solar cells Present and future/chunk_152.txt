@@ -1,5 +1,0 @@
-ldependentsurface
-recombinationvelocitiesatthesilicon-plasmasiliconnitrideinterface,Appl.Phys.Lett.66(1995)2828.[12]C.Leguijt,P.Lölgen,J.A.Eikelboom,A.W.Weeber,F.M.Schuurmans,W.C.Sinke,
-P.F.A.Alkemade,P.M.Sarro,C.H.M.Maree,L.A.Verhoef,Low-temperaturesur-facepassivationforsiliconsolarcells,Sol.EnergyMater.Sol.Cells40(1996)
-297–345.[13]T.Lauinger,J.Schmidt,A.G.Aberle,R.Hezel,Recordlowsurfacerecombination
-velocitieson1cmp-siliconusingremoteplasmasiliconnitridepassivation,Appl.Phys.Lett68(1996),

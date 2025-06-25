@@ -1,8 +1,0 @@
- works already mention the use of front and rear TOPCon solar cells [6,12,15,19], some have only the front side textured used with the (n) stack [6,19]. The fabrication of TOPCon solar cell involves a high temperature (high-T) annealing about 850 
-�
-C, where the dopants diffuse from the doped poly-Si layer to the SiO
-x 
-interface creating a field effect passiv
--
-ation and also inside the c-Si wafer generating a junction. The high-T annealing also induces the effusion of hydrogen from the SiO
-x

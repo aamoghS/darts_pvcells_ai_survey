@@ -1,4 +1,0 @@
-the change in 
-
-c, B 
-is more likely to be related to the smoother surface after polishing and the reduction of pinholes in the tunnel oxide layer. Theoretically, the silver paste does not burn through the tunnel oxide layer. But in fact, samples with different morphologies may have different pinhole densities due to the presence of stress during the high-temperature diffusion process, and these pinholes may become areas where the metal burns through. More pinholes are formed on the surface of 

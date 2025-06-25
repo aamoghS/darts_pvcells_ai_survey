@@ -1,9 +1,0 @@
-nsmittance of NPP structures at different P
-RF 
-shows little difference. According to the structure parameters of NPP textures in Table 1, the increased width of nanopores and nanogrooves at higher P
-RF 
-reduces the action spectra range of EML, thus, to the detriment of antireflection. Paradoxically, the increased etching depth at higher P
-RF 
-enhances the reflection times of incident light, beneficial for light-trapping. As shown in Fig. 3c, the R
-ave 
-of NPP textures decreases from 6.84% to 6.

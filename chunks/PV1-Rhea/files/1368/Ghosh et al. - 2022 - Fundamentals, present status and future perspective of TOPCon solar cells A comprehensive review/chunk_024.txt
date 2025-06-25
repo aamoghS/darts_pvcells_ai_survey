@@ -1,5 +1,0 @@
-n solar cells in mass production has been found to be higher than the current market dominating p-PERC solar cells [19]. Recently, Chinese PV module manufacturer Jolywood has announced that they have devel
--
-oped 700W bifacial TOPCon solar modules with the maximum cell level efficiency of 25.4%, the highest reported efficiency so far for large area industrial TOPCon solar cells [22]. In addition, the module level effi
--
-ciency has been found to be in between 21.73 to 22.53%; higher than the aver

@@ -1,8 +1,0 @@
-ofglass/backsheetandglass/glassPVmodulespre-stressedin
-extendedthermalcycling.SolEnergy.2023;249:467-475.doi:
-10.1016/j.solener.2022.12.006
-12.GuW,MaT,AhmedS,ZhangY,PengJ.Acomprehensivereviewandoutlookofbifacialphotovoltaic(bPV)technology.EnergConverManage.2020;223:113283.doi:
-10.1016/j.enconman.2020.113283
-13.SharmaV,ChandelS.Performanceanddegradationanalysisforlongtermreliabilityofsolarphotovoltaicsystems:areview.RenewSustainEnergyRev.2013;27:753-767.doi:
-10.1016/j.rser.2013.07.046
-14.RazaHA,M

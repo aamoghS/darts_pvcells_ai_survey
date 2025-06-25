@@ -1,2 +1,0 @@
-n-metallizedcontactresistivityofapassivatingcontact,in:47thIEEEPhotovoltaicSpecialistsConference(PVSC),ElectrNetwork,2020,pp.884–889.W.Wanetal.
-[22]I.S.Tilinin,A.Jablonski,W.S.M.Werner,QuantitativesurfaceanalysisbyAugerandx-rayphotoelectronspectroscopy,Prog.Surf.Sci.52(1996)193–335.[23]M.Ramstedt,L.Leone,A.Shchukarev,BacterialSurfacesinGeochemistry-HowCanX-RayPhotoelectronSpectroscopyHelp?,2019.[24]G.G.Wepfer,T.C.Collins,R.N.Euwema,CalculatedSPIN-orbitsplittingsofsomegroupIV,III-V,andII-VIse

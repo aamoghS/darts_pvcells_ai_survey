@@ -1,3 +1,0 @@
-thors pointed out that some of these above mentioned worries may be overcome by providing some additional effort such as finding out the alternative metallization process or using p
-+
-polysilicon layer as rear emitter in n-type cells. 13.Conclusion In essence, we may conclude that the merits and demerits of TOPCon solar cells have been explored by various researchers since its discovery. Simplified fabrication process, abundance of the raw material and higher power conversion efficiency are the 

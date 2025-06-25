@@ -1,2 +1,0 @@
-mple creation depends on the selected temperature and sample composition. There 
-are also two factors which affect the subject of the experiment: moisture and diameter of the sample. In experimental planning, these two factors will be taken as controlled factors. So, the analyzed samples will be prepared with equal dry mass and also moisture will be with the same proportions for all analyzed samples.  Fig.1. Factors and response in experiment plan. Factors which will be used in experiment planni

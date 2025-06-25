@@ -1,5 +1,0 @@
-es [5]. However, the front- and rear-sided fingers/electrodes of TOPCon SCs use the high-conductivity silver ma
--
-terials, yielding a large silver consumption and thus an increased ma
--
-terial cost [9]. Ample evidence has shown that the supply of silver is a critical factor limiting the upcoming terawatt (TW)-scaled PV market in the next decade [9]. Therefore, developing metallization schemes with low silver consumption is particularly crucial to reduce material costs and accelerate the market e

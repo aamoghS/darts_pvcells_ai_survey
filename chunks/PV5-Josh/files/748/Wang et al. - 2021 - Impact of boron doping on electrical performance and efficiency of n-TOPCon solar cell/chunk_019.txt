@@ -1,8 +1,0 @@
-                                                                                                                                                                                                                   
-to 348 fA/cm
-2 
-(Zhu et al., 2021). But, the B-doped recombination is high enough compared with n
-+
--poly-Si recombination. Therefore, the losses of n
-+
--poly-Si recombination could be negligible in n-TOPCon solar cells. Meanwhile, for mass-produced Si solar cells with industrial tunnel-

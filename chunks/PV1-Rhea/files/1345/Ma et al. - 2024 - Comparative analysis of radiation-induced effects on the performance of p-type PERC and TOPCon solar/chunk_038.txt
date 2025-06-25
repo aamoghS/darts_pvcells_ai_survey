@@ -1,3 +1,0 @@
-termined to be 80 nm, with a refractive index of 1.96 at a wavelength of 600 nm in combination with a hydrogenated aluminium oxide (AlO
-x
-:H) with a thickness of 10 nm, as determined through a detailed analysis of reflectivity data spanning the range of 400–1000 nm as shown in Fig. 2(b). For the subsequent electrical simulations, a 2D unit cell, depicted in Fig. 2(a), was employed. The n-type substrate was found to have a resistivity of approximating 1.3 cm. The front boron emitter profile wa

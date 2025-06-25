@@ -1,9 +1,0 @@
-ile shading, signicant changes are observed in 
-Isc
- , leading to a signicant reduction in 
-Pmax
- and ePciency. ae experimental results of dierent shading scenarios are given in Tablem3.
-Table 3.  Performance parameters under dierent conditions.
-Shading percentageIrradiation (W/m2)
-Pmax
-(W)EPciency (ɳ) (%)Fill factor (F.F.) (%)No shading1000364.82318.5576.1420% cover1000322.31716.4270.2440% cover1000253.55512.8955.2060% cover1000232.47411.8450.6480% cover1000232.82511.8350.58100% cover10002

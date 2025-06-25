@@ -1,2 +1,0 @@
-nF,FellA,HermleM,GlunzSW.n-TypeSisolarcellswithpassivatingelectroncontact:identifyingsourcesfor
-efficiencylimitationsbywaferthicknessandresistivityvariation.SolEnergyMaterSolCells.2017;173:96-105.9.FeldmannF,SimonM,BivourM,ReichelC,HermleM,GlunzSW.Carrier-selectivecontactsforSisolarcells.ApplPhysLett.2014;104(18):181105-1-181105-4.10.LeeWC,HuC.ModelingCMOStunnelingcurrentsthroughultrathingateoxideduetoconduction-andvalence-bandelectronandholetunneling.IEEETransElectronDevices.2001;48:1366-1373.1

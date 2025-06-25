@@ -1,7 +1,0 @@
-s put forward and developed various advanced light-trapping textures to enhance the uti
--
-lization of the available solar spectrum and obtain a high photocurrent density (J
-ph
-) [5,6]. Nanostructured silicon texture, also known as “black silicon (b-Si)” due to superior antireflection capability, is considered a powerful approach for improving J
-ph
-, and has been widely studied in many fields, such as photodetectors [7,8], biological monitors [9]. In addition, b-Si textures maintain an effect

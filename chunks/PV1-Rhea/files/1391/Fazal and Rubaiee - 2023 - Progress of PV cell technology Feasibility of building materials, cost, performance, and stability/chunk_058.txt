@@ -1,3 +1,0 @@
-ke DSSCs, organic solar cells (OSCs) have a planar device architecture, as shown in Fig. 5(b). The operational steps of polymer/organic solar PV cell include photogeneration of excited ions, dissociation, charge separation of exi
--
-ted ions and transportation of the carries to the reverse electrode [17]. The main advantages of OSCs include the low cost and use of flexible electrode substrates, semitransparency, large-scale fabrication, and solution-processibility [79] while the major disadvantag

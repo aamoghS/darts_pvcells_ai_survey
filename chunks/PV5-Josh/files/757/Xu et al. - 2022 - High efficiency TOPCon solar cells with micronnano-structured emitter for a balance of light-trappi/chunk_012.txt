@@ -1,9 +1,0 @@
-ture-on-texture approach. In other words, the RIE technique uniformly creates nanopores on top of a pre-formed alkaline etched micron-pyramid surface, named as NPP structure. Specifically, the impacts of different RIE radio-frequency power (P
-RF
-) on the photo
--
-voltaic properties of NPP TOPCon solar cells were systematically investigated. Meanwhile, an optimized boron diffusion process and a high-quality passivation stack of ALD-Al
-2
-O
-3
-/plasma-enhanced chemical vapor deposition (PECVD) silico

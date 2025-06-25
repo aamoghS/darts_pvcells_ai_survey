@@ -1,9 +1,0 @@
- shows a significant increase in R
-s 
-over the whole solar cell area after 40 h of DH85, consistent with the I–V changes shown in Fig. 3. The entire metal contacts on the surface were significantly affected by NaCl during DH85 testing. Conversely, the JSIM-NaCl samples did not show any significant degradation. While some regions displayed slight R
-s 
-increases, the majority of the surface maintained relatively low R
-s 
-levels. This indicates that the metal con
--
-tacts in JSIM samples exhibited

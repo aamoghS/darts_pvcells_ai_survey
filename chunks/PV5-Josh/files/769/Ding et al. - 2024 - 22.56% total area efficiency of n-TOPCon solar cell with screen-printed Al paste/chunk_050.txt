@@ -1,4 +1,0 @@
-3
-is the EQE of the cells, which indicates that the cells printed with high Si-wt.% added Al paste had a stronger response at long wave than that of printed with lower Si-wt.% added Al paste. Reasonably, the strong response in long wave can increase the Isc, but the EQE curve indicates that these differences are small, so the increasement on the Isc can be ignored. However, there is no doubt that, the increasing Si con
--
-tent in paste makes line resistance higher, resulting in decreasing Isc, th

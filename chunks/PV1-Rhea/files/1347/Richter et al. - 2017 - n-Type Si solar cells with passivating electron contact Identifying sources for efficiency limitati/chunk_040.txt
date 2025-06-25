@@ -1,2 +1,0 @@
-rametersandPFF(opensymbols)asafunctionofthewaferthickness(5cmn-typeFZSi).ThedataispresentedanalogouslytoFig.3.ThesimulationresultsareshownforoneadditionalSRHrecombinationassumption:NFe(W)accordingtoEq.(1)withDFe=3×109cm−2,whichresultsinNFe(200µm)=1.5×1011cm−3asassumedfortheW-independentNFe.A.Richteretal.Solar Energy Materials and Solar Cells 173 (2017) 96–10599
-maskingSiO2layersorthedrive-indiusionofthep+emitter.Alloftheseprocessesbeartheriskofintroducingimpuritiesintothec-Sibulk,inpa

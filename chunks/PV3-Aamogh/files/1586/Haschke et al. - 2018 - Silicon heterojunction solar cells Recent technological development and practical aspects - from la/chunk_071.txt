@@ -1,6 +1,0 @@
-curve(between50�Cand65�C).
-aTCVOCTCVOCTCFFmVK=1%K=1%K=1
-sim.˝bulkSRH=10ms-1.80-0.24-0.06sim.˝bulkSRH=2ms-1.81-0.24-0.08sim.˝bulk
-SRH=1ms-1.83-0.25-0.10exp.SHJcell-1.81-0.25-0.05
-TCFF.Notethoughthatinthecaseofthecurrentworld-recordIBC-SHJsolarcell(FF25�C=84.9%),weexpectthise�ecttobynegligible,i.e.linearbehaviorfortemperaturesabove25�CinviewoftheveryhighFFobtainedat25�C.TheremainingR25�CSofprobably11below0.2
-cm2thatcouldpotentiallybereducedathighertemperatures[102]issolow,thattemp

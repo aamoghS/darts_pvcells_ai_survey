@@ -1,5 +1,0 @@
-019;200:109960.
-https://doi.org/10.1016/j.solmat.2019.109960
-117.SintonRA,CuevasA.Aquasi-steady-stateopen-circuitvoltagemethodforsolarcellcharacterization.In:16thEuropeanPhotovoltaicSolarEnergyConference.2000;1152-1155.Howtocitethisarticle:GlunzSW,SteinhauserB,PolzinJ-I,etal.Silicon-basedpassivatingcontacts:TheTOPConroute.ProgPhotovoltResAppl.2023;31(4):341-359.doi:
-10.1002/pip.3522
-GLUNZETAL.359

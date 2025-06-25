@@ -1,9 +1,0 @@
-s achieved with an active cell area was 244.32 cm
-2 
-by introducing p-TOPCon structure instead of AlO
-x 
-passivating layer at the rear side of the p-PERC solar cells [147]. However, the au
--
-thors raised their concerns into some specific domains: (i) complex process sequence as the surface passivating quality of doped poly-Si layer depends upon the surface morphology of c-Si wafers; (ii) requirement of additional hydrogenation step such as implementation of sacrificial SiN
-x
-:H layer to regain t

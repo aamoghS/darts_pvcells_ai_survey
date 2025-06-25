@@ -1,2 +1,0 @@
-                           
-polishing and alkali polishing both increase iVoc significantly. In the case of the same weight loss, the iVoc of alkali polishing is 2 mV higher than that of acid polishing. In the case of weight loss of 0.4 g, the iVoc of E4 and P4 samples reaches the maximum, which are 740 mV and 742.7 mV, respectively. It can also be seen that although the acid-polished sample does not achieve a smooth and flat surface, the removal of the high pyramid tip can significantly and eff

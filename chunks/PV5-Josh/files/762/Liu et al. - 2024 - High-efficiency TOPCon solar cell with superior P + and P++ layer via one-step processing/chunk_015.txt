@@ -1,5 +1,0 @@
-ltiple B diffusion steps in both laser doping and two-step diffusion techniques, which greatly increases cost. Therefore, Li et al. [18] introduced the concept of the B SE structure through one-step diffusion method using masks and etching. By employing the optimized B SE, they determined the appropriate sheet resistance for the p
-+
-layer and the optimal range for the junction depth of the p
-++
-layer. Nevertheless, this technique is constrained by its intricate technological demands, exacting pr

@@ -1,4 +1,0 @@
- bifacial n-TOPCon solar cells with in situphosphorus-doped LPCVD poly-Si passivating contacts. In: Solar Energy Materialsand Solar Cells,  236  (Art N° 111544).
-DOI: 10.1016/j.solmat.2021.111544
-Handle: http://hdl.handle.net/1942/36960
-Large-Area Bifacial n-TOPCon Solar Cells with In Situ Phosphorus-Doped LPCVD Poly-Si Passivating Contacts Meriç Fırata,b,*, Hariharsudan Sivaramakrishnan Radhakrishnanb, María Recamán Payoc, Patrick Choulatb, Hussein Badrand, Arvid van der Heideb, Jonathan G

@@ -1,7 +1,0 @@
-gress. Moisture in EVA encapsulant can cause adhesion and optical losses, delamination and 
-discoloration of encapsulants, corrosion of metal gr
-ids, and potential induced degradation. Among the methods 
-used to find moisture intrusion in modules are dark lock in thermography, photoluminescence, ultraviolet 
-fluorescence, and electroluminescence spectroscopy. There are several methods to prevent or d
-etect moisture 
-ingression in PV modules, including encapsulants with superior moisture barrier 

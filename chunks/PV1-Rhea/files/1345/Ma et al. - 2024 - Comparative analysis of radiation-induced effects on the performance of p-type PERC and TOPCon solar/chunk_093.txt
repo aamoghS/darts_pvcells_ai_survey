@@ -1,2 +1,0 @@
- the authors reviewed and edited the content as needed and take full responsibility for the content of the publication. All simulations were performed on the Katana high-performance computing cluster (doi:10.26190/669x-a286). References 
-[1]S.G. Bailey, R. Raffaelle, K. Emery, Space and terrestrial photovoltaics: Synergy and diversity, Prog. Photovoltaics Res. Appl. 10 (6) (Sep. 2002) 399–406, https://doi. org/10.1002/pip.446. [2]P.A. Iles, Evolution of Space Solar Cells, 2001. [3]M. Yamaguchi

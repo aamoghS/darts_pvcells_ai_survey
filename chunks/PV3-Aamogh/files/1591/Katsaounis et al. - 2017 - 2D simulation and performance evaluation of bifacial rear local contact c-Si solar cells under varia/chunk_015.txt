@@ -1,5 +1,0 @@
-[0;p]�[0;w];�V=�n
-˝n�G��Dn�Dp
-�pNADn�;(x;z)2[0;p]�[0;w];(1)where˝nistheminoritycarrierlifetime,Dn;Dparethedi�usivityconstantsofminorityandmajoritycarriersrespectively,�pisthemajoritycarriermobility,NAistheholedopingdensity,whileG(x;z)2
-denotesthegenerationrate.AsketchofthedeviceunderconsiderationisshowninFigure1(left).Theabovesystemisaugmentedwiththefollowingsetofboundaryconditions:�Verticalsides:x=0;L;z2(0;w),rn��=0;rV��=0:(2)�Topside:z=0;x2(0;L),n=n2i
-NA�

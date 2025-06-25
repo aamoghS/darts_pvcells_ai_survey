@@ -1,5 +1,0 @@
-, Semmache, B., et al., 2011. Modeling and analysis of the emitter boron process under BCl
-3 
-and O
-2 
-for industrial silicon cells applications. 26th European Photovoltaic Solar Energy Conference and Exhibition. Benick, J., Hoex, B., van de Sanden, M.C.M., Kessels, W.M.M., Schultz, O., Glunz, S.W., 2008. High efficiency n-type Si solar cells on Al2O3-passivated boron emitters. Appl. Phys. Lett. 92 (25), 253504. https://doi.org/10.1063/1.2945287. Bock R., Altermatt P.P., Schmidt J., 2008. Accura

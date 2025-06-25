@@ -1,6 +1,0 @@
-easurementconditionisaperturearea.Voc(mV)Jsc(mA/cm2)FF(%)pFF(%)η(%)Gen1690.838.482.184.321.8Gen2698.140.681.184.023.0
-Gen3703.241.482.584.724.0
-Gen4715.141.582.185.024.4F.Feldmannetal./SolarEnergyMaterials&SolarCells131(2014)46–5047
-unpassivatedmetal-semiconductorfrontcontactswhichposethemajordrawbackofthiscellconceptintermsofVoc.Toillustratethispoint,aVoclossanalysisusingthesimpleone-diodemodeliscarriedoutaccordingtoEq.(1):VOC¼
-kTqln
-JscJ0eþJ0bþ1ð1ÞThecontributionfromthebaseandn-TOPCo

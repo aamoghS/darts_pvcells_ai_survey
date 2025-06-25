@@ -1,9 +1,0 @@
-transmission decreases at the near-infrared edge when doping concentration increases. Meanwhile, low m
-* 
-and high-quality materials with minimal defect content (allow
--
-ing greater 
-
-) are key features of TCOs possessing high electrical con
--
-ductivity. Therefore, TCO layers having high carrier mobilities allow superior lateral conductivity that is essential to overcome the front surface optical transparency and electrical performance trade-off in SHJ solar cells. For even higher optical trans

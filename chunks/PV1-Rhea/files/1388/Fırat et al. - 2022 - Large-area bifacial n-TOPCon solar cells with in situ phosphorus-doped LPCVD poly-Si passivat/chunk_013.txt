@@ -1,2 +1,0 @@
-e poly-Si film [13], the poly-Si film thickness (tpoly) [14,15], and the composition of the screen-printing paste used for the metallization of the passivating contact 
-[16]. Related to the alternative approach for the fabrication of poly-Si films based on LPCVD and in situ P doping, various studies are present in the literature, which provide valuable insights into the impact of LPCVD process parameters on structural and electrical properties of poly-Si films [17–22]. Nevertheless, the applic

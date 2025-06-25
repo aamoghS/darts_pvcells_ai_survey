@@ -1,4 +1,0 @@
-                                                                             
-3.5.TOPCon SiO2 and HfO2 based�energy band diagram Creating energy band diagrams for TOPCon (Tunnel Oxide Passiv
--
-ated Contact) solar cells with SiO2 (Silicon Dioxide) and HfO2 (Hafnium oxide) passivation layers is crucial for visualizing energy levels and their alignment at critical interfaces in the structure [26]. In the SiO2-based TOPCon energy band diagram, SiO2 acts as the passivation layer on the silicon subs

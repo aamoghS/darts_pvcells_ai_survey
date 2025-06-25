@@ -1,7 +1,0 @@
-ing a plasma. Two corresponding graphite sheets are subjected to opposite alternating voltage, which accelerates the plasma to impact the gas between the plates. This action propels the plasma towards the surface of the silicon wafer, thereby completing the coating process. For the rear side, three layers of SiN
-x 
-with different refractive indices were deposited sequentially using a same type tubular PECVD, while plasma hydroge
--
-nation (PH) using NH
-3 
-as a precursor gas was performed prior to

@@ -1,3 +1,0 @@
-, the commercialization of TOPCon solar cells has great advantages. Compared with the mainstream solar cell technologies such as PERC and HJT, TOPCon solar cells use a tunneling layer on the back side to reduce the carrier recombination between the metal electrode and sili
--
-con. Since the tunneling potential of the tunneling oxide layer for holes (4.5 eV) is higher than that of electrons (3.1 eV), it is easier for electrons to tunnel and be collected. Another function of the tunneling oxide lay

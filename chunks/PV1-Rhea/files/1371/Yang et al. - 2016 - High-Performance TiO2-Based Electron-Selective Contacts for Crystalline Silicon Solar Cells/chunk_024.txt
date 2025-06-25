@@ -1,3 +1,0 @@
-nd full-area TiO 2 -based selective contact.   Figure  1 c shows the  I – V  characteristics of the devices with and without TiO 2 -based contact in the dark. All the devices exhibit diode properties clearly. The devices with TiO 2 -based contacts exhibit a much better diode properties with a lower 
-saturation current density and higher rectiﬁ cation ratio in com-parison to the control device. This suggests a reduction of the 
-series resistance and interfacial recombination, and an increase 

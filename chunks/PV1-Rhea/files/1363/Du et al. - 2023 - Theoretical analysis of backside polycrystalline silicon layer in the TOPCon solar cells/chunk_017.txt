@@ -1,2 +1,0 @@
-
-cording to Liu et al. [17], these subnanometer pits provide excellent surface passivation and efficient tunneling for majority carriers. As a unique and very important structure of TOPCon, the poly-Si layer has a very important influence on TOPCon solar cells, and the main role of poly-Si is speculated to be passivation. 2.Simulation structure for TOPCon solar cell The structure of TOPCon solar cells used for simulation is shown in Fig. 1. The front emitting layer on the front side of the model

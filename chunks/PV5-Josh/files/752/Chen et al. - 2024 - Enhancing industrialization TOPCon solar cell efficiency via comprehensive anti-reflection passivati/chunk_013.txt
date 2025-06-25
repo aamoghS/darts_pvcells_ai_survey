@@ -1,9 +1,0 @@
-troduced to increase the hydrogen content before each layer of SiN
-x 
-deposition. Through this separate optimization of the front and rear film layers, better passivation quality can be observed without affecting the optical properties and the contact of the metal electrode with the silicon sub
--
-strate. Finally, open-circuit voltage (V
-oc
-) enhancement due to improved passivation quality aids further optimization of TOPCon solar cell con
--
-version efficiency. 2.Experimentals The silicon wafers 

@@ -1,7 +1,0 @@
-nd p-type substrates with either “front- and back- contacted” or “interdigitated back contact” architectures (Richter et al., 2018, 2020; Haase et al., 2018). Recently, for the front-side heavily B- doped p +layer, B-doping recombination lower than 11 fA/cm
-2 
-@ 150 O/sqr has been reported on n-PERT solar cell (Ajay et al., 2020), how
--
-ever, its saturation current density at the Ag–Al contact increased to several 1,000 fA/cm
-2 
-before optimization (Kiefer et al., 2014; Heinz et al., 2

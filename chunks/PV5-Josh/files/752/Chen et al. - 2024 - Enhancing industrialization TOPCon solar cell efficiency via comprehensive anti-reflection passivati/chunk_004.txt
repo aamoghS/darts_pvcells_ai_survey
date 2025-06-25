@@ -1,4 +1,0 @@
-re explored. Finally, plasma oxidation and hydrogenation lead to ~0.06 and ~0.07% average efficiency enhancements, respectively.   
-1.Introduction In recent years, significant advancements have been made in solar cell technologies, with the introduction of Tunnel Oxide Passivated Contact (TOPCon) solar cells being one of the most noteworthy break
--
-throughs [1–5]. TOPCon solar cells have exhibited superior efficiency and passivation properties compared to traditional silicon solar cells, makin

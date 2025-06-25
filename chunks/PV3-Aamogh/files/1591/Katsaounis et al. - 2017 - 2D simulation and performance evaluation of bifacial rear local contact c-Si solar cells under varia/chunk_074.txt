@@ -1,2 +1,0 @@
-Numericalsimulationsofrearpoint-contactedsolarcellson2:2
-cmp-typec-Sisubstrates.ProgressinPhotovoltaics,1:69{77,2015.[19]M.Zanucolli,P.Magnone,E.Sangiorgi,andC.Fiegna.Analysisoftheimpactofgeometricalandtechnologicalparametersonrecombinationlossesininterdigitatedback-contactsolarcells.SolarEnergy,,116:37{44,2015.[20]A.Fell,K.Fong,K.R.McIntosh,E.Franklin,andA.Blakers.3-DSimulationofInterdigitated-Back-ContactSiliconSolarCellsWithQuokkaIncludingPerimeterLosses.IEEEJournalofPhotovoltaics,4(4):1040{1

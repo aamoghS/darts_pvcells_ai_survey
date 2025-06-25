@@ -1,8 +1,0 @@
-e of blistering when the a-Si (i) layer thickness reached 30 nm, with increased severity as thickness further increased. Measurements using ECV corroborated the efficient control of in- diffusion dopant by the a-Si (i) layer. The passivation study showed that the optimal performance was obtained at the thickness of 20 nm, with the iV
-OC 
-of 736.6 mV and J
-0 
-of 4.3 fA/cm
-2
-, and the deterioration of passivation beyond 20 nm was attributed to blistering effects. Contact resistivity of 1.4 m cm
-2

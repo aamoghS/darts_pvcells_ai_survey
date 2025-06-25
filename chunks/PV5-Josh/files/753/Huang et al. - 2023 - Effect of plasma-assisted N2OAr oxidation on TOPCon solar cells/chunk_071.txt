@@ -1,9 +1,0 @@
-c defects. The SiO
-x 
-layer may also damaged during high-temperature annealing, resulting in a sharp decline in passivation quality. We attribute this behavior to the fact that the pinhole density of the SiO
-x 
-layer increases sharply or SiO
-x 
-film breaks at a higher annealing temperature, which leads to severe internal diffusion of phosphorus. As shown in Fig. 5(a), phosphorus atoms penetrate SiO
-x 
-and diffuse into the silicon substrate in large numbers, resulting in the increase of potential

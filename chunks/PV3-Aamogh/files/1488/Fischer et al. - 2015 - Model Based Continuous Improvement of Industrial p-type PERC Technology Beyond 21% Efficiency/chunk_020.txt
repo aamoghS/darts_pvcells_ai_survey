@@ -1,2 +1,0 @@
-r the module assembly we chose a half cell design to have lower resistance losses due to the higher voltage and lower current flow [8]. Therefore, first a laser carves the cell in the middle. Subsequently the cells are broken in half. 
-This cutting process has only a very minor impact on the cell performance due to a slightly increased edge recombination. The module demonstrates independently confirmed 310Wp with a module conversion efficiency of 19.4%. Acknowledgements The authors would like to

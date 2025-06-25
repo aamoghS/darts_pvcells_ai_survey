@@ -1,3 +1,0 @@
-f the cells with a Si/TiO 2 /Al con-tact. Due to the excellent surface passivation of Al 2 O 3 /SiN  x   at the front and TiO 2  at the rear, an implied  V  oc  as high as 700 mV is expected for the cells featuring a full-area TiO 2  contact at the rear. However, a much lower  V  oc  of 638 mV is obtained, which can be attributed to a degraded surface passivation of titanium 
-oxide with high concentration of oxygen vacancies. The out-dif-
-fusion of oxygen in the TiO 2  interlayer can destroy the

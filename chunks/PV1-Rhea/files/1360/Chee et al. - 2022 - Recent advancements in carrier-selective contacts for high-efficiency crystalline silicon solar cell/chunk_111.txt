@@ -1,9 +1,0 @@
-s thereby raising 
-
-c 
-and in turn impeding effective charge transport. Hence, besides optimizing the doping concentration, other approaches that have been explored to tune its WF include opti
--
-mizing the deposition [112], plasma treatment [113], or chemical treatment [114], of the TCO layer. Alternatively, the WF of the doped a-Si:H layer may be tailored by increasing its doping concentration or otherwise be replaced by a doped poly-Si:H layer [115]. A high-WF buffer layer, such as In
-2
-O
-3 

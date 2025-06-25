@@ -1,9 +1,0 @@
-experimentalgroup),thethicknessofthesecondlayerofsiliconoxidewasalsostandardizedwithadepositiontimeof120s.Forcomparisonpurposes,wechosetheTOPConstructurestandardizedontheproductionlineasthebaselinegroup,asshowninFig.1.Inthebaselinegroup,thesampleswerestructuredwithsinglepoly-Sistructures(SiO
-x
-/poly-Si),wheretheflowofPH
-3
-wassetto1500sccm.Fortheexperimentalgroup,allsampleswerestructuredwithadoublepolysilicon/siliconoxidelayerdefinedasSiO
-x
-/poly-Si(lightlydoped)/SiO
-x
-/poly-Si(heavilydoped).Andt

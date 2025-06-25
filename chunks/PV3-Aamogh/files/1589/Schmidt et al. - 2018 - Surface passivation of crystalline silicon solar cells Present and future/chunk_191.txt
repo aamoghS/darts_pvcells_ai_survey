@@ -1,2 +1,0 @@
-nsolarcells,Sol.EnergyMater.Sol.Cells173(2017)106–110.[100]T.F.Wietler,D.Tetzla,J.Krügener,M.Rienäcker,F.Haase,Y.Larionova,R.Brendel,R.Peibst,Pinholedensityandcontactresistivityofcarrierselectivejunctionswithpolycrystallinesilicononoxide,Appl.Phys.Lett.110(2017)253902.[101]P.P.Altermatt,J.O.Schumacher,A.Cuevas,M.J.Kerr,S.W.Glunz,R.R.King,
-G.Heiser,A.Schenk,NumericalmodelingofhighlydopedSi:PemittersbasedonFermi–Diracstatisticsandself-consistentmaterialparameters,J.Appl.Phys.92(2002)3187–

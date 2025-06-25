@@ -1,3 +1,0 @@
-, dopant-free CSCs are deployed using full-area dielectric materials stacks [10], and ad
--
-vances in their industrial adoption succeeding PERC have recently been reported for next-generation photovoltaics production, attaining PCEs ≥25% [11]. There is also strong motivation towards reducing the active layer thickness of c-Si photovoltaics without significant bowing, coupled with the development of silicon heterojunction (SHJ) technologies incorporating doped CSCs that elevate the PCE above 26%

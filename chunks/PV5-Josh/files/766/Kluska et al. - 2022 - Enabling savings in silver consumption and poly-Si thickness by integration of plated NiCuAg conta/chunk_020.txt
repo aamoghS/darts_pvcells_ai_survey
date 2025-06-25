@@ -1,6 +1,0 @@
-rated IV measurements of champion TOPCon solar cells (poly thickness: 125 nm) with plated and screen printed metallization measured at Fraunhofer ISE Callab.  
-Metallization 
- 
-(%) Jsc (mA/cm
-2
-) Voc (mV) FF (%) Ag/AgAl screen printing 23.5 40.7 705 81.9 Plated Ni/Cu/Ag 24.0 41.0 715 82.0  S. Kluska et al.                                                                                                                                                                                                

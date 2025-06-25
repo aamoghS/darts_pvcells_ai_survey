@@ -1,9 +1,0 @@
-nder controlled indoor standard testing setup and outdoor climatic conditions.A PV module is a combination of a number of solar cells together having series and parallel connections. A single-diode equivalent circuit is typically used to represent a PV  cell3,4 as demonstrated in Fig.2a. e light-induced current 
-IL
- , the diode dark saturation current 
-Is
- , the diode quality factor m, series resistance 
-Rs
- , and shunt resistance 
-Rsh
- are the ve modeling parameters. he above-mentioned model

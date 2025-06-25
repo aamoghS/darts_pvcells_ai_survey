@@ -1,5 +1,0 @@
-A)
-(B)
-FIGURE     |    Specific contact resistance for the P- doped n++, B- doped p++, SiOx/n+/p+- poly- Si, a- Si:H/nc- SiOx:H(n+/p+), and the passivation layer with laser ablation samples with H patterns on one side.
-895
-Progress in Photovoltaics: Research and Applications, 2024The TOPCon cell also get great advance, achieving a good passivation performance with iVoc value of about 737 mV. This trend is strong for the effective carrier lifetime at the excess carrier density of 1 × 1015 cm3,

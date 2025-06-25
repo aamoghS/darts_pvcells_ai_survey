@@ -1,3 +1,0 @@
-compared to traditional silicon solar cells, making them an attractive option for large-scale photovoltaic applica
--
-tions. The core of the TOPCon comprises an ultra-thin oxide layer and a heavily doped polycrystalline silicon layer, which enables selective carrier transport, resulting in a combination of outstanding passivation quality and contact performance [6–8]. Regrettably, the application of this passivating contact on the solar cell front side presents challenges due to its intense lig

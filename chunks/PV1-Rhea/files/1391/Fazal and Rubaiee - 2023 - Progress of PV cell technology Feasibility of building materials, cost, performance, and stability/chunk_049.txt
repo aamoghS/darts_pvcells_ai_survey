@@ -1,3 +1,0 @@
-r efficiency [68]. The largest advantage is that the cost of photo-absorbing semiconductors is reduced by replacing costly c-Si cells. It uses direct band gap semiconductor mate
--
-rials instead of indirect band gap silicon. However, the commercial use of second-generation PV technology is still limited because of some unresolved issues and challenges regarding reasonable efficiency levels on a competitive price. The common thin-film PV technologies currently available are a-Si, CdTe, and CIGS, w

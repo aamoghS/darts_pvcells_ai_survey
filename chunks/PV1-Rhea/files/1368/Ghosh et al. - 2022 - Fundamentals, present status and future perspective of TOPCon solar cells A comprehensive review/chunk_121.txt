@@ -1,8 +1,0 @@
-, bias dependent spe
--
-cific transfer resistance perpendicular to the tunnel oxide layer was calculated and the value of specific transfer resistance was in the range of 1–3 -mm
-2 
-in the forward direction. On the other hand, Wang et al. used three different thicknesses (1.55, 1.25 and 1.43 nm) of SiO
-x 
-tunneling layer (formed in a tube furnace) to investigate its effect on the performance of the TOPCon solar cells which were fabricated onto n-type, 0.5–2 -cm, 156.75 ×156.75 ×0.18 mm
-3 

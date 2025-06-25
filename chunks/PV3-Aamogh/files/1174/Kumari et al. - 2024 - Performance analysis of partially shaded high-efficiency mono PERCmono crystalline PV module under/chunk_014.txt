@@ -1,5 +1,0 @@
-cs tend to  change6. Figurep2b shows three crucial points on the IV and PV curves: the short circuit point (V = 0, I = 
-Isc
- ), the open circuit point (I = 0, V = 
-Voc
- ), and the MPP point. An illuminated solar cell delivers a specic voltage at a given current. ce operating point of a solar PV system is the combination of current and voltage values. A particular operating point of a solar cell is xed with a load resistance. ce short and open circuit conditions associated with a solar cell

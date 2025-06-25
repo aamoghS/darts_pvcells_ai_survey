@@ -1,7 +1,0 @@
-tions are needed to facilitate effective diffusion. Typically, B diffusion behavior becomes prominent above 900 
-◦
-C. In Fig. 6, the concentration variations of B atoms in the z-direction following diffusion periods of 0 ns, 1 ns, 3 ns, and 6 ns at 950 
-◦
-C are displayed. It is evident from the figure that the concentration of B atoms exhibits a consistent trend with time at each temperature: the concen
--
-tration at the initial position (the B source region) diminishes over time, while the c

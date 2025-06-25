@@ -1,7 +1,0 @@
-fect passivation, but with the latter offset by an increased level of chemical passivation of the interface with the c-Si. Moreover, the passivation properties of the TiO
-x
-/SiO
-2 
-stack do not degrade under concentrated sunlight [181]. Alternatively, doped poly-Si provides superior passivation quality for metal contacts compared to that found on mainstream diffused c-Si/ AlO
-x 
-interfaces [182]. These poly-Si-based CSCs feature an interfacial oxide between the wafer and doped poly-Si, and are a

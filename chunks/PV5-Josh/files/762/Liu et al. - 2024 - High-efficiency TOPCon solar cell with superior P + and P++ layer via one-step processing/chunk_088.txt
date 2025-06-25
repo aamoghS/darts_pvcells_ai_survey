@@ -1,9 +1,0 @@
-ature increases, the sheet resistance decreases, and with higher doping concentrations, the junction depth increases. Considering the practical challenges and cost implications of the process, one-step B diffusion was carried out using BCl
-3 
-and B-doped Si paste as the B source. The thermal diffusion process at 950 
-◦
-C for 20 min was selected to achieve the desired p
-+
-/n and p
-++
-/n doping concentrations and connection depths, resulting in an efficient Topcon +cell. The maximum B doping con

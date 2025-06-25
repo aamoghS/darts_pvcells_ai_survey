@@ -1,6 +1,0 @@
-on +and TOPCon battery prepara
--
-tion processes. 
-Fig. 4.Snapshot of B atom diffusion after 6 ns time at different temperatures. (a) 750 ℃, (b) 850 ℃, (c) 950 ℃ and (d) 1050 ℃. 
-Fig. 5.Snapshots of B atom diffusion at different simulation times at 950 ℃. (a) 200 ps, (b) 1 ns, (c) 3 ns and (d) 6 ns. 
-X. Liu et al.                                                                                                                                                                                

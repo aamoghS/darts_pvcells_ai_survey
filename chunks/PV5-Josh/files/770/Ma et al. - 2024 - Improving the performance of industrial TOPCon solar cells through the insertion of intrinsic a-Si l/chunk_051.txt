@@ -1,8 +1,0 @@
-OC
-, J
-0
-, and lifetime values were extracted from the symmetrical test samples. (d) Contact resistivity (
-
-c
-) tested by the TLM, together with the top views of the structure of samples (III) illustrated in the figure. The samples were fabricated with different thicknesses of introduced a-Si (i) film, and the thickness was 0 nm, 10 nm, 20 nm, 30 nm, and 40 nm, corresponding to the groups of Baseline, G1, G2, G3, and G4, respectively. 
-Fig. 5.(a and d) TEM images, (b and e) localized TEM images

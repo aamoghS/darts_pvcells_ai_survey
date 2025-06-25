@@ -1,5 +1,0 @@
--Si [6], and 26.1 % for an IBC [7] solar cell. Therefore, TOPCon has been considered the next-generation cell technology after PERC [8], which is expected to dominate the PV market in 5 years [9]. The featuring rear passivation layer of TOPCon composed of a heavily doped polycrystalline silicon (poly-Si) layer on ultra-thin silicon oxide (SiO
-x
-, Tox) interlayer has shown superior surface passivation and carrier selectivity by suppressing the recombination at the metal-silicon inter
--
-face [10] 

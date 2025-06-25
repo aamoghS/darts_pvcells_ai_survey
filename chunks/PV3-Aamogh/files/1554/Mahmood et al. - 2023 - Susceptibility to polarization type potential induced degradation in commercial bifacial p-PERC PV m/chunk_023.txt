@@ -1,8 +1,0 @@
-e5600SingleLongPulse(SLP)solarsimulator.TheIVwascarried
-outforbothsidesofeachmoduleatSTC(1000W/m2)andlowirradi-ance(200W/m2).Controlmoduleswereusedtoensurethesame
-FIGURE1
-Experimentalsetupfor(a)Round-1,(b)Round-2,(c)Round-3,and(d)Round-4;(#1)referstoAltapeconnected
-betweenAlfoilandtheelectrodesofthepowersupply,(#2)refersto
-insulationtapeappliedtotheframetopreventelectricalconnection
-betweentherearsubstrateandthefrontsuperstrate,(#3)referstoAl
-foilthatcoversthefrontsuperstratelayerandrearsubstrat

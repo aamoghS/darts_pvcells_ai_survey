@@ -1,4 +1,0 @@
-this simulation. According to Formula 1, the diffusion coefficient is essentially one- sixth of the slope of the MSD-t curve. Fig. 8 illustrates the relationship between the MSD of the system and time at various temperatures over a duration of 6 ns. These curves consistently exhibit a common trend: the MSD-t curve increases with both time and temperature. This observation underscores that higher temperatures lead to increased hopping fre
--
-quencies of B atoms. 
-Fig. 6.The concentration distribut

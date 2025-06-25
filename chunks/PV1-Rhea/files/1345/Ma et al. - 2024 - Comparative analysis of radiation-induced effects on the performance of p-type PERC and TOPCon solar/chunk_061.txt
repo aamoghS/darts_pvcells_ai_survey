@@ -1,5 +1,0 @@
-t was found that a uniform defect generation profile failed to yield satisfactory alignment with EQE values between 800 and 1000 nm for the solar cell that was exposed to a 1 MeV electron fluence of 5 ×10
-16 
-cm
-�2
-. This discrepancy implies that fewer defects were generated on the rear side, which is justified as electrons gradually lose their energy in the substrate. A plausible supposition is that defect generation followed an exponential decay from the front to the rear side. With this as

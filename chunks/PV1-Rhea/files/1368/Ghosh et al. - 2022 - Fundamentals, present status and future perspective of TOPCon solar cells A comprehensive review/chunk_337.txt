@@ -1,3 +1,0 @@
-igh deposition rate, facility of single-sided deposition, accessibility of in-situ doping etc. [127]. However, the in
--
-dustrial usage of APCVD process for the deposition of a-Si layer to form the TOPCon structure is yet to be made. The comparative study of various a-Si/poly-Si deposition technologies has been summarized in the Table 11. The other important aspect of the mass production of poly-Si layer is its thickness value for the cost-effectiveness and metallization purpose. According to the

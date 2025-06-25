@@ -1,2 +1,0 @@
-al differences are at long wavelengths i.e., 
-concerned with photons reaching the rear side of the solar cells, and depend systematically on tpoly, the data show that FCA in the poly-Si films is indeed the reason behind the Jsc loss with increasing tpoly.   In addition, the impact of parasitic absorption in the poly-Si films on the optical performance of solar cells is also evident from the bifaciality values of each solar cell group, measured as 82.1±0.5%, 80.2±0.6%, and 78.0±0.3%, for tpoly

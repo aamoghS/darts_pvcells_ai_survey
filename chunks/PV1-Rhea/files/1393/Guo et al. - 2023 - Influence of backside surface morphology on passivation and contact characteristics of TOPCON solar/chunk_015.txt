@@ -1,9 +1,0 @@
-on or batch process using alkaline solution are the two main pro
--
-cess routes [2,7]. Etching with HNO
-3
-/HF solution can round the pyra
--
-mids [53], thereby obtaining superior light absorption characteristics compared with flat surfaces, and at the same time obtaining better passivation characteristics than textured surfaces, thereby improving efficiency [14,15]. Etching with alkaline solution can eliminate the in
--
-fluence of sharp pyramid tips, but it is necessary to strictly control the poli

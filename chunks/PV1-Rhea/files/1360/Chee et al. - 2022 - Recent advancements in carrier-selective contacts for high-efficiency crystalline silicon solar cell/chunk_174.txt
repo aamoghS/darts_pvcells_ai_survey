@@ -1,5 +1,0 @@
-ated contacts (with IBC design). Huge reduction in Ag metallization and indium use results in lower prospective cell and module production costs; >23%- efficiency. [152] Emitter metal directly contacts the front-surface n-poly-Si capped with a SiN
-x 
-passivation layer in place of the ITO/AZO-based electrode stack. ITO-free solar cell featuring poly-Si on front and rear passivating contacts; 19.2% efficiency measured on the planar surface. [153] Front TCO (AZO) and a-SiO
-2 
-anti- reflection bilay

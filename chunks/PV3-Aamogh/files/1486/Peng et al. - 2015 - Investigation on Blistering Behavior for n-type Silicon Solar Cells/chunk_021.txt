@@ -1,7 +1,0 @@
-h by the thermal treatment before ALD plays a key role to the formation of the blistering behavior and the passivation quality. Reference [1] Rashkeeva SN, Fleetwood DM, Schrimp RD, Pantelides ST. Dual behavior of H
-+
- at Si–SiO
-2
- interfaces: Mobility versus trapping. Appl Phys Lett. 2002;81(10):1839-41. [2] Vermang B, Govered H, Uruena A, Lorenx A, Comagliotti E, Rothschild A, John, J, Poortmans J, Mertens R. Blistering in ALD A
-l2O3 
-passivation layers as rear contacting for local Al BSF Si

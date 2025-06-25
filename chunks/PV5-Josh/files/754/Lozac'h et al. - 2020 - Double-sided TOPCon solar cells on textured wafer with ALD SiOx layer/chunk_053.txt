@@ -1,5 +1,0 @@
-le the EQE at 200 sccm underlines a loss for broader spectra from 480 nm to 1050 nm due to a stronger parasitic absorption within the (p) poly-Si layer. Concerning the SIMS measurements, the boron is more soluble in the SiO
-x 
-than in the Si, making a concentration peak at the (p) poly-Si surface and at the SiO
-x 
-interface [43]. Interestingly, the insertion of a (i) layer is beneficial not only to decrease the diffusion profile of the boron dopant, but also to decrease the H effusion from the S

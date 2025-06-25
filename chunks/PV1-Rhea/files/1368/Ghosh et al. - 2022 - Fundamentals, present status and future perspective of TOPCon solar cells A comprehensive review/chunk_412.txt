@@ -1,6 +1,0 @@
-                                                                                                                                                                                               
-In Ref. [107] we have seen how improvement in the efficiency po
--
-tential may be realized by implementing TOPCon structures into in
--
-dustrial scalable p-PERC solar cells (based on CZ Si wafers). Specifically, simulation study revealed that the TOPCon upgraded solar cells demonstrated lower contact recombin

@@ -1,5 +1,0 @@
-xplicit rationale for discussing SiO2 alongside HfO2 lies in providing a comparative framework that highlights HfO2’s advance
--
-ments over traditional materials like SiO2. This comparison is crucial for understanding the extent of improvement and innovation that HfO2 introduces to the field of solar cell technology. Although the research thoroughly discusses the benefits and potential of HfO2, direct elabo
--
-ration on the choice to discuss SiO2, beyond its role as a comparative material, might

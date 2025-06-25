@@ -1,9 +1,0 @@
-ront contact resistance losses =0.14 mW/cm
-2
-). The next major power loss accounting for 0.38 mW/cm
-2 
-was found to be produced at the bulk. However, the authors opined that elimination of bulk SRH recombinmation may provide a gain of about 0.1 mW/cm
-2 
-in the power output. Lastly, the rear side electrical losses were calculated as 0.27 mW/cm
-2
-. The presence of passivated contacts at the rear side facilitated to experience relatively lower power losses. Further optimization of the emitter regio

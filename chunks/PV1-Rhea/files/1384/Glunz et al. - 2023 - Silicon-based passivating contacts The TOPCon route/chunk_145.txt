@@ -1,6 +1,0 @@
-org/10.1109/JPHOTOV.2015.2455346
-55.FellA,FeldmannF,MessmerC,BivourM,SchubertMC,GlunzSW.Adaptionofbasicmetal–insulator–semiconductor(MIS)theoryforpassivatingcontactswithinnumericalsolarcellmodeling.IEEEJPhotovolt.2018;8(6):1546-1552.
-https://doi.org/10.1109/JPHOTOV.2018.2871953
-56.MoldovanA,FeldmannF,ZimmerM,RentschJ,BenickJ,HermleM.Tunneloxidepassivatedcarrier-selectivecontactsbasedonultra-thinSiO2layers.SolEnergyMaterSolCells.2015;142:123-127.
-https://doi.org/10.1016/j.solmat.2015.06.048
-5

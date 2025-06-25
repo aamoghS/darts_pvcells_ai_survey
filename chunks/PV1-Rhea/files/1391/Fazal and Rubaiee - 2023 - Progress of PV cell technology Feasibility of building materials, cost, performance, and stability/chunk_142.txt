@@ -1,4 +1,0 @@
-                             
-i) The entire PV market is currently covered by two generations, namely, c-Si (90%) and thin film (10%) technologies. The c-Si PV includes approximately 15% Al-BSF, 70% PERC, 8.5% SHJ, 5% IBC and 1.5% Si-tandem. Al-BSF is expected to be outdated in 2026 and the use of PERC and SHJ will increase with time. The thin film PV technology is broadly covered by CdTe, CIGS, and CIGS. Recently, TOPCon, and tandem PV are considered prom
--
-ising technologies for the next gener

@@ -1,4 +1,0 @@
-lman,L.Barraud,S.Morel,S.DeWolf,C.Ballif,>21%
-ecientsiliconheterojunctionsolarcellsonn-andp-typewaferscompared,IEEEJ.Photovolt.3(1)(2013)83–89.[50]M.J.Kerr,A.Cuevas,R.A.Sinton,Generalizedanalysisofquasi-steady-stateand
-transientdecayopencircuitvoltagemeasurements,J.Appl.Phys.91(2002)399–404.[51]M.Stuzmann,Thedefectdensityinamorphoussilicon,Philos.Mag.B60(1989)
-531–546.[52]D.Redeld,R.H.Bube,Reinterpretationofdegradationkineticsofamorphoussi-licon,Appl.Phys.Lett.54(1989)1037–1039.[53]The

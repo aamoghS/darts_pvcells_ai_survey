@@ -1,3 +1,0 @@
-R.Peibst,Aquantitativemeasureforthecarrierse-lectivityofcontactstosolarcells,in:Proceedings32ndEuropeanPhotovolt.SolarEnergyConference.,Munich,Germany,WIP,Munich,2016,pp.447–451.[65]K.Yoshikawa,W.Yoshida,T.Irie,H.Kawasaki,K.Konishi,H.Ishibashi,
-T.Asatani,D.Adachi,M.Kanematsu,H.Uzu,K.Yamamoto,Exceedingconversion
-eciencyof26%byheterojunctioninterdigitatedbackcontactsolarcellwiththinlmSitechnology,Sol.EnergyMater.Sol.Cells173(2017)37–42.[66]M.A.Green,Y.Hishikawa,W.Warta,E.D.Dunlop,D.H.Levi,J.

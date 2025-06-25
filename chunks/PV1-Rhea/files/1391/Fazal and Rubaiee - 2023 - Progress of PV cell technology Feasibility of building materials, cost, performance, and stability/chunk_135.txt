@@ -1,6 +1,0 @@
-PV cell technologies is accomplished by extending the discussion on generations of PV technology, PV building materials, efficiency, stability, cost analysis, and performance. The main purpose of this feasibility study is to highlight the current energy con
--
-version efficiency, strength, and weakness of different PV cell technol
--
-ogies. Based on the literature study, the in-depth findings on these aspects are listed below: 
-Fig. 12.Efficiency degradation rate (% per year) for different PV tech

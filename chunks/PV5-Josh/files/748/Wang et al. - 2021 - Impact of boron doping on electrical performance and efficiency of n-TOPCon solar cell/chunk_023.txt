@@ -1,5 +1,0 @@
- high surface concentration of B-doped p
-+
-layer (Lohmüller et al., 2015; Werner et al., 2016). However, for achieving a low specific contact resistance of a few mcm
-2 
-with screen- printed technology, a small amount of Al must be added to the Ag paste (Kopecek et al., 2005; Lago et al., 2010; Kerp et al., 2006). However, the screen-printed Ag/Al pastes initiate a stronger saturation current density at the metal contact, leading to severe losses of open-circuit voltage (Kiefer et al., 2014; H

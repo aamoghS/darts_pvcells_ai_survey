@@ -1,2 +1,0 @@
-ies.  
-PV cell technologies Merits Demerits c-Si PVSingle crystalline silicon (sc-Si)  and  - Has plentiful bulk materials - Cell cost is drastically reduced - Reliable and degradation rate is less - Long service life and good stability  - Fragile and has limited efficiency - Indirect and low bandgap energy - Efficiency decreases as temp increases - Manufacturing process is complex Multi-crystalline silicon (mc-Si) PERC - Absorbs more irradiance - Reduced surface recombination - Less reflection 

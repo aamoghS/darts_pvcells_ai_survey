@@ -1,5 +1,0 @@
-ed that high conductivity inter-
-facial layer is one of the key requirements to obtain low con-
-tact resistivity using metal–insulator–semiconductor (MIS) 
-contact. [ 30 ]  Moreover, the coarsening of TiO 2  ﬁ lm during FGA annealing, which has been demonstrated by Yu et al., [ 25,34 ]  might be an additional reason for the reduced contact resistivity at the 
-Si/TiO 2  and Si/SiO 2 /TiO 2  heterojunctions. The results are con-sistent with the reduced contact resistivity shown in Figure  3 

@@ -1,9 +1,0 @@
-talline phase in the nc-SiO
-x 
-layer even with a low or higher thick
--
-ness. Based on the nucleation kinetics, the crystalline phase may grow rapidly and increase in thickness. This is observable in Fig. 3c where the value of X
-c 
-increases with thickness of nc-SiO
-x 
-layer as well as increases with annealing temperature. Examination of the chemical state of the silicon by XPS depicted an oxidation induced splitting of the Si2p peak as described in Fig. 4. Investigation of the oxidation states w

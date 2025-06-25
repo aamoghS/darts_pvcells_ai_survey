@@ -1,2 +1,0 @@
-                                                                                
-(ALD) 20 nm thin AZO (aluminium doped zinc oxide) or ZnO (zinc oxide) layer as an interfacial layer in between the n-TOPCon structure and sputter deposited ITO layer so that the sputter induced damage occurring onto the n-TOPCon layer during the development of ITO layer may be avoided. As a result, higher FF was realized which may be attributed to the reduced Schottky barrier height at n-TOPCon/AZO contact. Besides,

@@ -1,5 +1,0 @@
-es without PH treatment. This enrichment of H atoms near SiO
-x 
-proves beneficial as it contributes to a reduction in the density of unsaturated suspended bonds on the silicon surface. Moreover, the higher H content more effectively inhibits the passivation quality degradation of the passivating contacts during the firing process [13,26]. The outcome is evident in the samples subjected to PH treatment, displaying higher mean values of iV
-oc 
-(~2.1 mV higher than samples without PH treatment), ac

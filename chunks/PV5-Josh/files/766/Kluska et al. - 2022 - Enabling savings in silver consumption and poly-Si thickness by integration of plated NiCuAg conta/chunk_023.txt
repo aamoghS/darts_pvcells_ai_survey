@@ -1,5 +1,0 @@
- ablation threshold usually below these values even for reduced poly-Si thickness of 60 nm. Calibrated Photoluminescence imaging of the implied V
-oc 
-with and w/o laser contact openings are used to evaluate the LCO induced rear side contact recombination. Fig. 3 shows the LCO-induced iV
-oc 
-loss (after LCO and FFO annealing) for test structures with three different poly-Si thicknesses and increasing laser pulse energy. Please note that all LCO pulse energies in Fig. 3 provide a full area LCO wit

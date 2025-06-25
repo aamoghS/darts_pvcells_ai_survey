@@ -1,9 +1,0 @@
-to front metal contact layers that comprise doped and dopant-free con
--
-tacting schemes [102]. The pronounced trade-off relationship between optical transparency (or optical absorption/reflection) and electrical conductivity (or R
-s
-) is addressed in the literature for advanced contact schemes on the SHJ solar cell [96,102]. Several ideas, such as replacing the doped a-Si:H layer by a wider bandgap a-SiO
-x
-:H [103–106] or a-SiC
-x
-:H [107,108] layer, increasing the index contrast by inserting a

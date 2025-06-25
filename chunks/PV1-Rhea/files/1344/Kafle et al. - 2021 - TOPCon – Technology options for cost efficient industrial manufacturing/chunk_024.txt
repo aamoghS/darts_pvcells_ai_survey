@@ -1,5 +1,0 @@
-advantages of this technology are: a) good thickness distribution along the wafer and the boat, b) pin-hole free layers with good step coverage, c) maintaining the impurity profile previously formed in the wafer due to the use of rela
--
-tively low deposition temperatures close to 600 
-◦
-C, d) large number of wafers per batch, and e) option of in-situ doping with constant doping profile [16]. For the TOPCon concept investigated in this work, a phosphorus- doped a-Si/poly-Si layer (a-Si(n)/poly-

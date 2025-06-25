@@ -1,4 +1,0 @@
- technologies and their exitance in the coming decades. Scenario B presents the market entry of new genera
--
-tions and the fall of noncompetitive PV cell technologies. Besides, Fig. 8 illustrates the development of PV market until 2050, considering the moderate roadmap with scenario A and the innovative roadmap with scenario B [7]. In both scenarios, market share for PERC decreases with time, while it increases for III–V/Si technology. Scenario B presents its favorable 
-Fig. 6.Schematic view o

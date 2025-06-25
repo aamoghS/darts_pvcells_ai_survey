@@ -1,9 +1,0 @@
- ms CZ wafers by implementing the selective emitter at the front and keeping the width of the screen printed front-sided metal fingers as 40 
-
-m [98]. On the other hand, 23.3% TOPCon solar cells featuring RVD (rapid vapour-phase direct doping) grown boron emitter based on 1 -cm, n- type, FZ Si wafers were fabricated with V
-oc 
-=687 mV, J
-sc 
-=41.8 mA/ cm
-2
-, FF =81% [99]. Less time requirement, single sided processing, flexibility in doping profile design were realized in RVD emitters compared

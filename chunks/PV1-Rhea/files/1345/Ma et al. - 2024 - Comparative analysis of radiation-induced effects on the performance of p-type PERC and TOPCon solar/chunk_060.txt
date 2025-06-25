@@ -1,5 +1,0 @@
-18 eV below the conduction band (E
-c
-) needed to be an order of magnitude higher than that of the acceptor defect located 0.18 eV above the valence band (E
-v
-). Furthermore, it became evident that there was no constant introduction rate capable of yielding consistent agreement across all EQE curves for varying electron fluences. Usually, the defect generation profile is assumed to be uniform in the substrate after electron irradiation. However, it was found that a uniform defect generation profi

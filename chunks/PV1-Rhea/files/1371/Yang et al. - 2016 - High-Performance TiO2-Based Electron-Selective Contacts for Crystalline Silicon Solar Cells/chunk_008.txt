@@ -1,3 +1,0 @@
-rcuit current density ( J  sc ). [ 12 ]  Recently, ultrathin TiO 2  ﬁ lm on crystalline silicon has been demon-strated to form a hole–blocking interface. [ 16,17 ]  This is due to a small conduction band offset (∆ 
-E  c  ≈ 0.05 eV), which allows elec-trons to pass through the TiO 2  layer and a large valence-band offset (∆ 
-E  v  ≈ 2.0 eV), which results in holes being blocked. [ 18 ]  A double-heterojunction silicon solar cell with an efﬁ ciency of 12.9% has been fabricated via th

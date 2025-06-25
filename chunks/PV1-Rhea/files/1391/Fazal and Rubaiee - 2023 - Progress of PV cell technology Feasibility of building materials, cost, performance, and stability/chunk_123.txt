@@ -1,5 +1,0 @@
-including dust, temperature, wind velocity, humidity, hail
--
-storms, snowfalls, and sandstorms, and deteriorate the PV performance by reducing energy yield. These factors may create different defects in PV, including discoloration, anti-reflecting coating deterioration, corrosion, snails, glass breakage and cracking, delamination, and hot
--
-spot. The possible degradation mechanism with required explanation [23,134,135] and the inspection techniques [136–138] of these defects have been reported

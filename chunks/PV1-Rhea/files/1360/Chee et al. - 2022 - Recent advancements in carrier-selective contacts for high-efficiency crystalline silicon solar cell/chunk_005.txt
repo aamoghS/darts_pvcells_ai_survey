@@ -1,7 +1,0 @@
-evelopment. Passivation stack architectures with SiO
-x
-/heavily doped polycrystalline silicon (n
-+
--/p
-+
--poly-Si) realize the most attractive polysilicon-on-oxide (POLO) junctions and related schemes, e.g., combined with tunnel oxide passivated contact (TOPCon) and interdigitated back contact (IBC) solar cells. It is envisioned that the industrial trend is to eventually shift from the p-Si passivating emitter rear contact (PERC) and passivated emitter and rear polysilicon (PERPoly), towards TOP

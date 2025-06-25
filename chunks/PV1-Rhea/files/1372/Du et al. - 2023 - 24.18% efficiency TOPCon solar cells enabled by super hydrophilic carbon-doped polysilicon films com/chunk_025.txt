@@ -1,5 +1,0 @@
-d using a quasi-steady-state photoconductance (QSSPC, Sinton WCT-120). The photovoltaic performance of TOPCon SC was measured by a solar simulator (Enlitech, SS-F5-3 A) under AM1.5 (100 mW/cm
-2
-) irradiation at 25 
-◦
-C, and the external quantum efficiency (EQE) and reflectance (Ref.) spectra of the devices were measured by an EQE system (Enlittech, QE-R3011). 3.Results and discussion The wettability of C-doped polysilicon films at the different R values was first investigated by measuring the 

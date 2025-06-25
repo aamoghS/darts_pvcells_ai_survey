@@ -1,3 +1,0 @@
-he end of this decade could achieve around 28% efficiency which is close to the theoretical c-Si PV cell efficiency. In 2023–2024, SHJ cell is expected to overcome Al-BSF in market share to become the second-most commercial PV technology after PERC/TOPCon, increasing to approximately 16% by 2029 [58]. This technology seems much mature and can compete with PERC particularly in terms of cost and compatibility with hot/humid envi
--
-ronments. The challenges currently faced by SHJ are metallization

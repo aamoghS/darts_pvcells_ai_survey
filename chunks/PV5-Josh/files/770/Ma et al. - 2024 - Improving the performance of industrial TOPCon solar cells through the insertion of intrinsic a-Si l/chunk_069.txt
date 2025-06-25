@@ -1,5 +1,0 @@
-3.58 %). The above results have demonstrated that the introduction of a-Si (i) to the rear passivation layer was a promising strategy to improve the performance of TOPCon solar cells, and showed tremendous potential in industrial manufacturing. CRediT authorship contribution statement S. Ma: Writing – review & editing, Writing – original draft, Meth
--
-odology, Investigation, Data curation, Conceptualization. D.X. Du: Re
--
-sources, Data curation. D. Ding: Resources, Data curation. C. Gao: Met

@@ -1,5 +1,0 @@
-nd the reduction of recombination losses [22]. It also assesses the optical properties, light absorption, and transmission characteristics of the SiO2 layer to optimize its thickness for improved light trapping and photon-to-electron conversion efficiency (Fig. 4). Each layer’s color corresponds to a different material, as noted in the legend, with specific attention to the placement and role of SiO
-2 
-in passivating the cell structure to improve efficiency by reducing recom
--
-bination losses.

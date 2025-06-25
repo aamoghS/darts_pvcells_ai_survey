@@ -1,7 +1,0 @@
-erty dictating light’s behavior within a material, signifies the ratio of light’s speed in a vac
--
-uum to its speed within the medium (see Fig. 2). By using ATLAS Silvaco, silicon dioxide (SiO2) and hafnium oxide (HfO2) stand as pivotal ma
--
-terials, each renowned for distinct optical attributes [13]. Silicon Di
--
-oxide (SiO2). Widely known as silica, SiO2 finds extensive use across optics, electronics, and multiple sectors. Its refractive index spans approximately 1.44–1.46 for visible li

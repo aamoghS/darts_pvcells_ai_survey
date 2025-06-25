@@ -1,3 +1,0 @@
-on manufacturing facility needs to be offset by an increment in conversion efficiency in the cell/module/system level, in order to further lower the levelized cost of electricity (LCOE) in large scale PV installations. An in-depth look at the cost-effective manufacturing op
--
-tions for TOPCon is highly relevant for the PV industry, which is currently looking at different options of transferring the TOPCon concept from laboratory research to production lines as the potential next evolutionary sol

@@ -1,5 +1,0 @@
-ibration peaks in FT-IR spectra confirm the mechanism of the blistering free surface formation. The blistering affects not only the appearance but also the implied Voc of the cells, that is to say, the quality of the passivation [10]. The hydrogen containing species (by-product of the ALD process) will bond to the SiO2 
-(bot
-h Si and O atom site) which grows after the thermal treatment with oxygen. Due to the good diffusivity within the SiO
-2
- layer, the amount of hydrogen out-diffusing towards 

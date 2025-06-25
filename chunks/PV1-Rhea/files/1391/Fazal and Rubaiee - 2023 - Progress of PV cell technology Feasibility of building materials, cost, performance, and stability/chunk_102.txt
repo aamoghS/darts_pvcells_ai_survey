@@ -1,9 +1,0 @@
- W/ m
-2
-, 25 
-◦
-C, and 1.5 AM). However, the resulted module surface tem
--
-perature under actual operating conditions is significantly higher than that under STC, and it significantly reduces the PV output power. The decrease in the power output of a PV module due to the increase in operating temperature is presented by the percentage of a negative number of . Virtuani et al. [124] investigated the temperature co
--
-efficients and various operating temperature responses on power, open circuit 

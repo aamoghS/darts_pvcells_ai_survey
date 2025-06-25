@@ -1,4 +1,0 @@
-y of 150 nm, polished rear surface, and single ARC. Main Parameters Solar cell thickness: 155 µm; Front width: 750 µm; Rear width: 500 µm; T: 298 K 
-Front Side Properties Contact half width: 20 µm; Emitter: 110 Ω/□, 1 µm depth, 92% collection efficiency; Contacted region: J0,E = 632.2 fA/cm2, J0,2 = 0, Contact resistivity = 2.1 mΩ∙cm2; Non-contacted region: J0,E = 21.3 fA/cm2, J0,2 = 0 
-Bulk Properties Doping type: n-type; Resistivity: 2.3 Ω∙cm; Background lifetime: 1 ms  
-Rear Sid

@@ -1,4 +1,0 @@
-ld,S.DeWolf,A.Hessler-Wyser,A.Cuevas,A.Javey,Lithiumuoridebasedelectroncontactsforhigheciencyn-typecrystallinesi-liconsolarcells,Adv.EnergyMater.6(2016)1600241.[146]J.Bullock,M.Hettick,J.Geissbühler,A.J.Ong,T.Allen,C.M.Sutter-Fella,
-T.Chen,H.Ota,E.W.Schaler,S.DeWolf,C.Ballif,A.Cuevas,A.Javey,Ecientsiliconsolarcellswithdopant-freeasymmetricheterocontacts,Nat.Energy1
-(2016)15031.[147]Y.Wan,S.K.Karuturi,C.Samundsett,J.Bullock,M.Hettick,D.Yan,J.Peng,
-P.R.Narangari,S.Mokkapati,H.H.Tan,C.Jagadish,

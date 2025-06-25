@@ -1,6 +1,0 @@
-s the etchant. The microstructure and morphology of the previously metallized areas after removing the metal paste, the glass layer, and the dielectric passivation layer stack by a wet-chemical etching process were measured by scanning electronic microscopy (SEM, Quanta FEG 250, FEI). The specific contact resistance (
-
-c
-) of the screen-printed metallized contact with different profiles was determined by the transfer-length-method (TLM) (GP-4 TEST). The optical reflec
--
-tance of the cell was me

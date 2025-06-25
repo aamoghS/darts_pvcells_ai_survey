@@ -1,6 +1,0 @@
-.2019;9(6):1522-1525.doi:
-10.1109/JPHOTOV.2019.2937231
-26.KochS,NieschalkD,BergholdJ,WendlandtS,KrauterS,GrunowP.Potentialinduceddegradationeffectsoncrystallinesiliconcellswithvariousantireflectivecoatings.InProceedingsofthe27thEuropeanPhotovoltaicSolarEnergyConferenceandExhibition,Frankfurt;
-2012:24-28.27.Sulas-KernDB,Owen-BelliniM,NdioneP,etal.Electrochemicaldeg-radationmodesinbifacialsiliconphotovoltaicmodules.ProgPhotovoltResAppl.2022;30(8):948-958.doi:
-10.1002/pip.3530
-28.CarolusJ,TsanakasJ

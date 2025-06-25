@@ -1,5 +1,0 @@
-7]. The last one exploits LIPSS, which result from interference of ultra-short laser pulses on the pyramid texture of a solar cell. The classification and analysis of the solar cells with missing contact adhesion in this experiment was performed before current annealing. 
-Fig. 2.V
-oc 
-measurements of plated and screen prined TOPCon solar cells with a variation in poly-Si thickness of the TOPCon rear side. 
-Fig. 3.Measured iVoc loss of the rear side (TOPCon) LCO formation (after FFO annealing). 

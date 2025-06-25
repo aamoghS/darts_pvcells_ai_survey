@@ -1,5 +1,0 @@
- by the method used to form doped a-Si/poly-Si layers. After the texturing process, boron doping is performed for TOPCon cells using BBr
-3 
-precursor in a tube diffusion furnace to form boron (p
-+
-) emitter. This is followed by an inline wet- chemical process to single-sided removal of rear-side emitter, whereas keeping the BSG layer in front-side intact; before performing ozone- based cleaning sequence. The BSG is kept intact on the front side in order to protect the boron emitter from being et

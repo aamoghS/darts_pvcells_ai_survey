@@ -1,3 +1,0 @@
-g contacts along with simpli
--
-fication of the processing steps of poly-Si passivating contacts may play a significant role in the industrial evolution of high efficiency bifacial TOPCon solar cells. The developed i-TOPCon bifacial modules featured a straight forward gain of 6.5% in comparison with the other modules installed in a 100 KW solar system situated over a lake at Changzhou in China [121]. The data was monitored over two years. Recently, Zhou et al. reported about the fabrication of la

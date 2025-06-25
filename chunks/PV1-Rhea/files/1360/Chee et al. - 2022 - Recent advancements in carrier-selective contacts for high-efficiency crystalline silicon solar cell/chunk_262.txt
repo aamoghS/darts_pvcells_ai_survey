@@ -1,5 +1,0 @@
-. [85]L. Chen, et al., 14.1% efficiency hybrid planar-Si/organic heterojunction solar cells with SnO
-2 
-insertion layer, Sol. Energy 174 (2018) 549–555, https://doi.org/ 10.1016/j.solener.2018.09.035. [86]Y. Zheng, et al., Optimization of SnO
-2
--based electron-selective contacts for Si/ PEDOT:PSS heterojunction solar cells, Sol. Energy 193 (2019) 502–506, https:// doi.org/10.1016/j.solener.2019.09.077. [87]Y. Wan, et al., Tantalum oxide electron-selective heterocontacts for silicon photovolt

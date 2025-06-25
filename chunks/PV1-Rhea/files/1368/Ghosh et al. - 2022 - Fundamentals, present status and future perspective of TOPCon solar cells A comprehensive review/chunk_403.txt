@@ -1,3 +1,0 @@
-esides, improvement in the blue response in both-sided TOPCon solar cells may be realized by using wider band gap carrier selective contact layer instead of doped poly-Si layer. Nevertheless, the applica
--
-tion of carrier selective contact layer to fabricate high efficiency TOPCon solar cells needs some cautious measures. Firstly, selection of suitable carrier selective contact layers is the first and foremost step. According to Feldmann et al., metal oxides with low work function may serve the 

@@ -1,5 +1,0 @@
-al equilibrium, it’s essential to precisely manage and optimize the dopant concentration within the poly-Si film following the annealing process. Several works [39,40] have investigated the effect of additive intrinsic a-Si layer between SiO
-x 
-and doped a-Si (p) on the performance of p-TOPCon, indicating that the insertion of intrinsic a-Si layer could effectively regulate the doping distribution in the c-Si/SiO
-x
-/doped poly-Si structure, thereby improving the passivation performance of cell

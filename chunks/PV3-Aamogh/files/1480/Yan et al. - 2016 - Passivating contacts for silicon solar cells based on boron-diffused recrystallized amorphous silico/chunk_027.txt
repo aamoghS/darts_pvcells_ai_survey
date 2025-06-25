@@ -1,8 +1,0 @@
-thec-Si/SiOxinterface.a-Sithickness(nm)Poly-Sithickness(nm)BBr3temperature(°C)J0bulk(fA/cm2)J0bulk(%)Seff(beforeFGA)(cm/s)36209200.73.5114346249200.41.71227
-56369200.30.72535
-90539200.40.26396
-3620.59805.420.514104624.59803.814.2164456399801.54.32007
-90529801.93.03924
-Fig.3.Sheetresistancemeasurementsofpoly-Si/chemicalSiOx/c-Siasafunctionofthepoly-Sithickness.Theyareshownforthreedifferentborondiffusiontem-
-peratures,920°C,960°Cand980°C.
-Fig.4.Contactresistivitymeasurementsofpoly-Si/chemical

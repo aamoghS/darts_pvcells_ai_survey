@@ -1,5 +1,0 @@
- Visual inspection, I–V, IR thermography, and insulation resistance [141] Algeria sc-Si >12 4.16–7.87 (P
-max
-) Delamination, EVA discoloration, corrosion, glass breakage, crack, solder bond, and ARC degradation Visual inspection, I–V, and P–V [142] India sc-Si 28 1.4  (P
-avg
-) Delamination, glass breakage, bubbles formation, discoloration, grid and ARC degradation, soiling, hotspot, and crack Visual inspection, Thermal imaging, and indoor I–V measurements [143] Algeria sc-Si 0.75 to 32

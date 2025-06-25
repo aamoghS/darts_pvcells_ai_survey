@@ -1,5 +1,0 @@
-necessary to characterize the rear side contact recombination of plated contacts in TOPCon solar cells for poly- Si thicknesses below 60 nm. Moreover, further investigations are required to identify the influencing factors to achieve laser-induced periodic surface structures within the laser contact openings on pla
--
-narized surfaces. CRediT authorship contribution statement S. Kluska: Writing – original draft, Supervision, Project adminis
--
-tration, Methodology, Investigation, Funding acquisi

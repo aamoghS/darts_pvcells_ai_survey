@@ -1,2 +1,0 @@
-iconheterointerface,J.Appl.Phys.114(2013)124503.[18]D.L.Staebler,C.R.Wronski,ReversibleconductivitychangesindischargeproducedamorphousSi,Appl.Phys.Lett.31(1977)292–294.[19]H.M.Branz,M.Silver,Potentialuctuationsduetoinhomogeneityinhydrogenatedamorphoussiliconandtheresultingchargeddangling-bonddefects,Phys.Rev.B42
-(1990)7420–7428.[20]D.Redeld,R.H.Bube,Identicationofdefectsinamorphoussilicon,Phys.Rev.Lett.65(1990)464–467.[21]H.Plagwitz,B.Terheiden,R.Brendel,Staebler–Wronski-likeformatio

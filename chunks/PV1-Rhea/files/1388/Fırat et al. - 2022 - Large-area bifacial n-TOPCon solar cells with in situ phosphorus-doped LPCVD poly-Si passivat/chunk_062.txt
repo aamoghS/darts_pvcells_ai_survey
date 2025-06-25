@@ -1,4 +1,0 @@
-,E = 50-632.2 fA/cm2 
-8 Front side non-contacted region: J0,E = 5 fA/cm2 
- 3 Performance of n-TOPCon Solar Cells and Laminates 3.1 Impact of Poly-Si Film Thickness on n-TOPCon Solar Cells Figures of merit of the n-TOPCon solar cells with semi-textured rear surface morphology and varying tpoly are summarized in Table 3. While the best solar cell has an η of 22.4% along with 
-a relatively high FF of 81.1%, this seems to be an outlier as the best average η lies just below 22%, accompanied by sign

@@ -1,6 +1,0 @@
-hotovoltaic(ITRPV)2014results(VDMA).9.Forstner,H.,Bandil,S.,Zwegers,M.,Bollen,R.,Coletti,G.,Sinke,W.,Bultma,J.,Wyers,P.,Wertz,R.,Wu,S.,etal.(2014).InternationalTechnologyRoadmapforPhotovoltaic,5thedition.https://www.semi.org/sites/semi.org/ﬁles/docs/ITRPV_2014_Roadmap_Revision1_
-140324.pdf.10.Froitzheim,A.,Suarez,F.,Fischer,M.,Spiess,T.,Petter,K.,Mohr,A.,Gerlach,A.,Jorg,M.,
-ll
-2696Joule7,26842699,December20,2023
-Perspective
-Trager,M.,Guo,A.,etal.(2013).InternationalTechnologyRoadmapforPhotov

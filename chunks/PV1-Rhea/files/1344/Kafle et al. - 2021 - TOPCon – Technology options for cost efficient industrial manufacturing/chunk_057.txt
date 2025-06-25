@@ -1,4 +1,0 @@
-urrent value is 
-Fig. 5.Cost of ownership ($ct/Wp) comparison of bifacial p-PERC vs LPCVD TOPCon process routes with costs of individual process steps categorized under as wet- chemistry, diffusion & annealing (Diffusion/Anneal), passivation and metallization. For bifacial p-PERC solar cell, selective laser-doping is grouped under Diffusion/ Anneal together with POCl
-3 
-diffusion process, whereas laser contact opening (LCO) and regeneration processes are grouped under metallization category toge

@@ -1,8 +1,0 @@
- Peng et al.  /  Energy Procedia   77  ( 2015 )  827 – 831 
-Comparing the intensity of these specific vibration modes, it can be noted that the samples with treatment B showed stronger absorbance than the samples with treatment A. We supposed that with treatment B, hydrogen species preferentially moved into the oxide layer since molecular hydrogen has a higher diffusivity [11] within SiO
-2 
-than in SiN
-X
-. The hydrogen will out-diffuse from the Al
-2O3
- layer due to the high firing temperature.

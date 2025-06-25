@@ -1,8 +1,0 @@
-on.1974;17(6):551-561.
-https://doi.org/10.1016/0038-1101(74)90172-5
-19.HezelR.Siliconnitridefortheimprovementofsiliconinversionlayersolarcells.Solid-StateElectronics.1981;24(9):863-868.
-https://doi.org/10.1016/0038-1101(81)90103-9
-20.GreenMA,BlakersAW,ShiJ,KellerEM,WenhamSR.High-efficiencysiliconsolarcells.IEEETransElectronDevices.1984;31(5):679-683.
-https://doi.org/10.1109/T-ED.1984.21589
-21.BlakersAW,GreenMA.678-mVopen-circuitvoltagesiliconsolarcells.ApplPhysLett.1981;39(6):483-485.
-https://do

@@ -1,4 +1,0 @@
-nderlines JSIM’s ability to allow for higher quality contacts enabled by the a Ag screen printing paste without Al and the wider firing process window. To ensure direct comparability under accelerated DH85 testing in our subsequent stage, cells with average efficiency were chosen. 
-Fig. 2.Box plot of I–V related parameters of JSIM and baseline TOPCon solar cells from production lines.  
-Table 1 The batch average I–V results of JSIM and baseline TOPCon solar cells.  
-Group Number of Cells P

@@ -1,3 +1,0 @@
-feachstructurearesix.
-Table1Singlecellmoduleparametersofshort-circuitcurrentdensity(Jsc),Voc,FF,andηbeforeandafterprolongedlightsoaking.ThemodulesconsistofSmartWireConnectionTechnologybasedonsiliconheterojunctionbasbarlesssolarcells(samplesetC).Both
-singlecellmodules(C-1andC-2)werefabricatedatthesamebatchprocessing.SampleIDLightsoakingJsc(mAcm−2)Voc(mV)FF(%)η(%)C-1Before36.573177.820.8330h36.573479.221.2C-2Before36.673477.820.9330h36.673678.521.2E.Kobayashietal.Solar Energy Materials and Sol

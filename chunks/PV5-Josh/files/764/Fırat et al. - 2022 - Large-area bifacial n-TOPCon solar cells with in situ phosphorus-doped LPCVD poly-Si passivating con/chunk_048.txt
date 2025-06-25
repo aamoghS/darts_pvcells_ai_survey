@@ -1,9 +1,0 @@
-e were fabricated in a glass-glass configuration, using SmartWire Connection Technology (SWCT) foils by Meyer Burger [36], PO8110 encapsulant by 3 M, and glass without ARC. To contact the wires, Sn
-0965
-Ag
-0.035
--coated Cu ribbons with a width of 5 mm and a thickness of 0.3 mm were placed in contact with the SWCT foils. Sub
--
-sequently, a 20 min-long lamination was performed at 150 
-◦
-C, while applying a pressure of 700 mbar onto the assembled structure. The laminates were investigated both b

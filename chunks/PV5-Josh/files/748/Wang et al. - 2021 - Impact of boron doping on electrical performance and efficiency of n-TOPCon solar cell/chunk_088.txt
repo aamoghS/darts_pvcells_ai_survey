@@ -1,9 +1,0 @@
-ration/junction depth. To obtain a higher J
-sc
-, a lower peak con
--
-centration and shallow junction of doping profiles are required because of the improved short wavelength response of the internal quantum efficiency (IQE). However, FF is positively correlated with the peak concentration and junction depth (Fig. 9d), and the change in FF is mainly influenced by R
-ser 
-(Fig. 9e). To obtain a high FF or a low R
-ser
-, a high peak concentration and deep junction are required. 3.6.Failure analysis A 

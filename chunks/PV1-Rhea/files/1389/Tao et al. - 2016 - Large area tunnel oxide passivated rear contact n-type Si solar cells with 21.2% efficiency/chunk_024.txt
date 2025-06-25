@@ -1,3 +1,0 @@
-113882.4
-TableII.TheI–Vparametersof21.2%n-typefrontjunctionSisolarcellfeaturingpassivatedrearcontactwithtunneloxidegrownatroomtemperature.Voc[mV]Jsc[mA/cm2]FF[%]Efciency[%]n-factorRs[cm2]Rsh[cm2]Average(5cells)678.5±4.939.46±0.278.6±0.521.0±0.21.16±0.040.74±0.1013228±2000Best683.439.6678.121.21.180.7513400
-Figure2.Photoluminescence(PL)imagemeasuredatopen-circuitconditiononthenishedcell.Notethatonlythreebusbarsareavail-ableonourPLimagingequipment,butvebusbarswereprinted.Largeareatun

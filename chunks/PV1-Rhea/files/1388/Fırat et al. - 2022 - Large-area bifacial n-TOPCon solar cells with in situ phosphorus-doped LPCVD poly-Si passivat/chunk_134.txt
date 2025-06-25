@@ -1,2 +1,0 @@
-in production, since fabrication of the advanced emitter requires a long process duration [48] and realizing the selective emitter 
-requires patterning, increasing the process complexity. In step 8, recombination losses in the non-metallized regions of the front surface are further reduced using a transparent passivating contact at the front, covering the entire solar cell. This could potentially be achieved by applying a full-area p-type poly-Si passivating contact to the front surface and thin

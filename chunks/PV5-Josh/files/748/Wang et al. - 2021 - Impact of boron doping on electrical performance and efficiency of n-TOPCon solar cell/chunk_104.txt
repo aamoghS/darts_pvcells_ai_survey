@@ -1,9 +1,0 @@
-h respect to the metallization-induced recombination (J
-oe, metal
-) in shallow emitters D1 and D2 compared with deep emitter D3, owing to a corroded depth of approximately 0.45–0.63 
-
-m. The primary differ
--
-ence in the IQE for emitters D1–D3 and N1–N2 occurred at short wavelengths <550 nm. The primary difference of IQE for the deep emitter (1.0 
-
-m) had a poor bulk response at wavelengths <1,000 nm. Subsequently, the emitter doping profiles satisfy the conditions of corroded depth and 

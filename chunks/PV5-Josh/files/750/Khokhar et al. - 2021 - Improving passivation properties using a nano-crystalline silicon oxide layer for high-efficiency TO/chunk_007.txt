@@ -1,3 +1,0 @@
-er recombination losses at the interfaces between the Si absorber and electrodes must be reduced while maintaining efficient majority charge-carrier extraction [2–4]. Recently, various passivating contact technologies, such as polycrystalline Si on oxide (POLO), and poly-Si- based passivating contacts on thin oxides and tunnel oxide passivated contacts (TOPCon) have demonstrated excellent passivation and carrier selectivity characteristics [5–10]. Thin buffer layers of SiO
-x 
-capped with dop

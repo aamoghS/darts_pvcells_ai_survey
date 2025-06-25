@@ -1,6 +1,0 @@
-ubstrate should be avoided to limit the Auger recom
--
-bination of charge carriers. The front-side poly-Si layer needs to be removed using a single sided etching (SSE poly) process, before pro
--
-ceeding further with the passivation of the boron emitter. For LPCVD 
-Fig. 2.Cost of ownership (COO) of 150 nm LPCVD deposited intrinsic (left) and phosphorus-doped a-Si/poly-Si (right) layers. Cell conversion efficiency of 23.5% on M4 size wafers is assumed here in both cases to calculate $ct/Wp costs. H

@@ -1,4 +1,0 @@
-optimization (Kiefer et al., 2014; Heinz et al., 2014; Lohmüller et al., 2014b; Edler et al., 2015; W¨ohrle et al., 2016). And now, Lin et al. reported that its saturation current density can be<600fA/cm
-2 
-(Lin et al., 2020). Meanwhile, Zhu et al. showed that its saturation current density at the Al instead of Ag-Al contact decreased 
-*Corresponding authors at: Jiangsu Collaborative Innovation Center of Photovoltaic Science and Engineering, Changzhou University, Changzhou 213164, PR China. E-

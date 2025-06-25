@@ -1,20 +1,0 @@
-�
-1180nm300nm
-T()S()d∫
-1180nm300nm
-S()d(6)  A
-ave
-=
-∫
-1180nm300nm
-A()S()d∫
-1180nm300nm
-S()d(7)  Where S() represents the AM1.5 solar spectral response distribution. As shown in Fig. 3a and c, all NPP structures (R
-ave 
-≤6.84%, A
-ave 
-≥77.4%) achieve a notably light-trapping capability over a wide spectral range from 300 to 1050 nm compared to micron-pyramid structure (R
-ave 
-~ 9.37%, A
-ave 
-~ 75.3%). An equivalent medium layer (EML) with graded refractive index distrib

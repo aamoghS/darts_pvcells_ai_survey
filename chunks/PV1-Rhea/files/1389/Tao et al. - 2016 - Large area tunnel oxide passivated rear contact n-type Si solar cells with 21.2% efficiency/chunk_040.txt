@@ -1,2 +1,0 @@
-ce,NewOrleans,Louisiana,USA,2015.11.SintonRA,CuevasA,StuckingsM.“Quasi-steady-statephotoconductance,anewmethodforsolarcellmaterialanddevicecharacterisation”,inProceedings
-Figure6.LightI–Vcurveof21.2%efcientscreen-printedn-typefrontjunctioncellfeaturingpassivatedrearcontactwithatunneloxidegrownatroomtemperature(measuredin-houseusingtheFraunhofer-certicated20.2%efcientlargearean-typecell[22]asareference).Largeareatunneloxidepassivatedrearcontactn-typeSisolarcellsY.Taoetal.834Prog.Photovol

@@ -1,3 +1,0 @@
-fficiency. Progress in Photovoltaics: Research and Applications, 2016 n/a-n/a. [8]M.K. Stodolny, M. Lenes, Y. Wu, G.J.M. Janssen, I.G. Romijn, J.R.M. Luchies, L. J. Geerligs, n-Type Polysilicon Passivating Contact for Industrial Bifacial N-type Solar Cells, Solar Energy Materials and Solar Cells, 2016. 
-Table 4 Sentaurus 2D modeling of the 22.6% TOPCon cell and a roadmap to ~ 24% efficiency.  
-Parameters 22.6% floating busbar TOPCon cell 30 / selective emitter 3 ms bulk lifetime Multiwire cont

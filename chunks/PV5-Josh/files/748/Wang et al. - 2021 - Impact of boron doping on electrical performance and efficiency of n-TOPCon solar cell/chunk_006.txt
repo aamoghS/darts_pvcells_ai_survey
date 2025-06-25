@@ -1,5 +1,0 @@
-n et al., 2013, 2014) solar cells are being studied extensively and large-scale commercialization of this technology appears promising. n
-+
-- poly-Si is fabricated through the following process (Polzin et al., 2018): (i) Growth of an interfacial oxide layer; (ii) Deposition of a doped amorphous Si layer (or a-Si layer); (iii) Recrystallization of the doped a- Si layer. Previous studies have reported the emitter recombination current of n
-+
--poly-Si had a low density of approximately ~ 1.4 fA/cm

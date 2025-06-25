@@ -1,5 +1,0 @@
-rcells.ApplPhysLett.1981;39(6):483-485.
-https://doi.org/10.1063/1.92767
-22.HezelR,HoffmannW,JaegerK.Recentadvancesinsiliconinversionlayersolarcellsandtheirtransfertoindustrialpilotproduction.In:10thECPhotovoltaicSolarEnergyConference.1991;511-514.23.PostI,AshburnP,WolstenholmeGR.Polysiliconemittersforbipolartransistors:Areviewandre-evaluationoftheoryandexperiment:Areviewandre-evaluationoftheoryandexperiment.IEEETrans.Elec-tronDevices.1992;39(7):1717-1731.
-https://doi.org/10.1109/16.141239
-24.deG

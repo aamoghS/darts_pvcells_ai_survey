@@ -1,5 +1,0 @@
-2 
-- a figure-of-merit that takes into account ohmic cell-to-module losses due to cell interconnections [20]. However, the doped a-Si:H film will also suffer from the intrinsic effects of free carrier absorption, doping-related Auger recombination, Shockley-Read-Hall recombination, and bandgap narrowing, which in turn adversely affect the device photovoltaic per
--
-formance. Moreover, there are inherent limitations of requiring low-temperature processing, such as for metallization and intercon
--

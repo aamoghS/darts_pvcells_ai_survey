@@ -1,9 +1,0 @@
-es.
-p+ /as-depp++/as-depp+/activatedp++/activated-200-300-400
--500-600-700
--800
--900-1000
-Properties0 [meV]
-Fig.5.DarkbandbendingofSi(p)/SiOx/c-Si(n)emitterstructuredeterminedbySPVmethodplottedfordifferentdopinglevelsafterdepositionandafterannealing
-at9001Candhydrogenpassivation(denotedasactivated).F.Feldmannetal./SolarEnergyMaterials&SolarCells131(2014)46–5049
-Toinvestigateifp-TOPConallowsforanefcientmajoritycarriertransportacrossthetunneloxidelayer,planarsolarcellsfeaturingthepassivatedrear

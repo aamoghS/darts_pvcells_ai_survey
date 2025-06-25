@@ -1,7 +1,0 @@
-essitates extensive statistical integration of the velocity autocorrelation function to derive the diffusion coeffi
--
-cient. In contrast, the Einstein formula directly relates to the MSD ob
--
-tained from simulation results, offering a simpler and faster approach. To expedite data processing while ensuring the reliability of the calcu
--
-lated results, the diffusion coefficient of B atoms within the Si matrix was determined using the MSD method in this simulation. According to Formula 1, the diffu

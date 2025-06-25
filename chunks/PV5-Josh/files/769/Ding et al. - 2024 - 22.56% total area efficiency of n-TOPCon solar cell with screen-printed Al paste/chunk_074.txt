@@ -1,7 +1,0 @@
-ing and surface passivation, Sol. Energy Mater. Sol. Cells 238 (2022)
-.
-[9]
-Z. Liu, Z. Yang, W. Wang, Q. Yang, Q. Han, D. Ma, H. Cheng, Y. Lin, J. Zheng, W. Liu, M. Liao, H. Chen, Y. Wang, Y. Zeng, B. Yan, J. Ye, Numerical and experimental exploration towards a 26% efficiency rear-junction n-type silicon solar cell with front local-area and rear full-area polysilicon passivated contacts, Sol. Energy 221 (2021) 1–9
-.
-[10]
-M.Q. Khokhar, S. Chowdhury, D.P. Pham, S.Q. Hussain, E.-C. Cho, J. Yi, Im

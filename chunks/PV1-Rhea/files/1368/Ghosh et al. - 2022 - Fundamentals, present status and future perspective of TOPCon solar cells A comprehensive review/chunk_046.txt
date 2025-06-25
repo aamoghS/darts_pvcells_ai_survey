@@ -1,9 +1,0 @@
-emitter structure]. The authors further revealed that reduction in recombination current density at front p
-+
-emitter and enhancement of optical confinement of the incident light into the absorbing layers may lead to fabricate TOPCon solar cells with the power conversion efficiency of well above 25%. Eventually, in 2015, Glunz et al. announced about the development of TOPCon solar cells with a conversion efficiency of 25.1% (V
-oc 
-=718 mV, J
-sc 
-=42.1 mA/cm
-2
-, FF =83.2%) [21]. The corresponding

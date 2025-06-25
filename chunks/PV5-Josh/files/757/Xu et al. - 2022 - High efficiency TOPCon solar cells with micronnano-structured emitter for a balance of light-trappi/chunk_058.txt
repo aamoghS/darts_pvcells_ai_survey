@@ -1,9 +1,0 @@
-uc
--
-tures are the following research directions. Fig. 5f shows the PL luminescence intensity images of NPP cells at different P
-RF 
-before screen printing. The color difference of PL images characterizes local passiv
--
-ation in detail, and the PL mean values reflect global passivation quality. The positive relevant relationship between the PL mean value and the P
-RF 
-is coincident with passivation parameters measured by WCT-120. 3.3.Cell performance To illustrate the broadband spectral absorpti

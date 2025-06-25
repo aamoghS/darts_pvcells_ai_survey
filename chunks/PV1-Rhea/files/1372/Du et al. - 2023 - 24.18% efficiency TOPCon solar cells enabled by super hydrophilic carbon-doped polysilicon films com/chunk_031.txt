@@ -1,3 +1,0 @@
-vironment. However, an additional XPS peak at 282.8 eV that can be assigned to C–Si bonds appears for the C-doped sample, sug
--
-gesting that C tends to bond with polysilicon to form C–Si bonds. Compared to the nonpolar covalent Si–Si bonds, the C–Si bonds are highly polar, which may be the main reason for the better wettability of the C-doped polysilicon film [28]. The good wettability of the film could ensure the adequate spreading of the plating solution and reduce the surface energy w

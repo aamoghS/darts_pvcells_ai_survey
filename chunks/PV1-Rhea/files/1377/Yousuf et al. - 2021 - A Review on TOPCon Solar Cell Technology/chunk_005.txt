@@ -1,3 +1,0 @@
-less for metal contacts.This structure was applied to TOPCon solar cells, resulting in a median efficiency of 23.91%, and a highest efficiency of 24.58%, independently. The conversion efficiency of interdigitated back-contact solar cells has reached up to 26% by enhancing the optoelectrica
-l
-properties for both-sides-contacted of the cells.Key words: TOPCon Solar Cell, TOPCon solar cell fabrication, Production process of TOPCon Solar Cell, TOPCon cell efficiency progress,TCAD analysis of TOPCon 

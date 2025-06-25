@@ -1,7 +1,0 @@
-W. Chen, H. Tang, X. Chen, B. Feng, H. Li, Z. Sun, Y. Wang, X. Du, Y. Liu, Al-Si contact formation involving back surface field and voids of PERC, Sol. Energy Mater. Sol. Cells 245 (2022)
-.
-[23]
-T. Lauermann, B. Fr¨ohlich, G. Hahn, B. Terheiden, Diffusion-based model of local Al back surface field formation for industrial passivated emitter and rear cell solar cells, Prog. Photovolt. Res. Appl. 23 (2015) 10–18
-.
-[24]
-Q. Wang, W. Wu, Y. Li, L. Yuan, S. Yang, Y. Sun, S. Yang, Q. Zhang, Y. Cao, 

@@ -1,2 +1,0 @@
-, while R seems to decrease with increasing tpoly at long wavelengths, attributed to increased absorption in the poly-Si at the solar cell rear. The impact of higher tpoly on EQE and thus on Jsc is more clearly seen in the second, zoomed-in plot, which indicates a clear drop in the wavelength range of 1000 to 1200 nm. These findings agree well with the results of similar studies in the literature based on EQE measurements [15,39]. Since the optical differences are at long wavelengths i.e., 
-conc

@@ -1,5 +1,0 @@
-h the result of simulation. The others are “blue loss” and “base collection loss”, which get benefit from the additional RCA cleaning (Clean 1) and the gettering effect of P doping diffusion process. However, Poly-SE showed a disadvantage in terms of “ARC reflectance” and “Front surface escape”, which is related to the polishing process leading to damage the front surface texture and to increase the reflectance. After process optimiza
--
-tion, the J
-sc 
-value of Poly-SE can be fur

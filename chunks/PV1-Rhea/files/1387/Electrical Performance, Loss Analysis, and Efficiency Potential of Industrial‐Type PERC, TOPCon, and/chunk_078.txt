@@ -1,3 +1,0 @@
-layer) [mΩ.cm2]30.70.3ρc (n++ layer) [mΩ·cm2]10.70.3Voc (calculated) [mV]697.0723.0749.0FF [%]80.682.281.5Abbreviations: J0, emitter dark saturation current density; Jo, metal, the dark saturation current density at metal contact; Voc, open- circuit voltage; ρc, the specific contact resistance.
-896
-the wavelength of < 600 nm, owing to the optical reflectance and the parasitic absorption of a- Si:H/nc- SiOx:H(n+) layer. Meantime, the IQE for SHJ and TOPCon cells also exhibited a poor respo

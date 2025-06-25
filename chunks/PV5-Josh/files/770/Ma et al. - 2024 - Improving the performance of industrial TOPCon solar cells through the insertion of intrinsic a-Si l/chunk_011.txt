@@ -1,5 +1,0 @@
-f Tox, there have been many reports on the methods of preparation, including thermal oxidation [13–16], wet-chemical oxidation [16–18], ozone oxidation [16,17], plasma-assisted oxidation [2,19,20], and plasma-assisted atomic layer deposition (PEALD) [21], resulting in the saturation current density (J
-0
-) of <3 fA/cm
-2 
-[22,23]. However, most of the above methods cannot be used in industrial production except for thermal oxidation and plasma-assisted oxidation, corresponding to the low-press

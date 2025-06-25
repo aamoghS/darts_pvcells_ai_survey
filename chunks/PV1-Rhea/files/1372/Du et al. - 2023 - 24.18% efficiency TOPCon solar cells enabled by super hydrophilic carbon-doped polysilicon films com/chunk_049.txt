@@ -1,5 +1,0 @@
- for the device in this work is only 30 nm, which makes the V
-oc 
-more susceptible to metallization. It has been proven that C-doped polysilicon exhibits higher atomic density [37], which may have a better blocking effect on Cu atoms, thereby resulting in a small decrease in passivation performance. Besides, the improved FF may be attributed to the void-free fingers due to the better wettability of C-doped polysilicon. It is worth noting that we obtained a notably higher V
-oc 
-(i.e., 707.3 mV) b

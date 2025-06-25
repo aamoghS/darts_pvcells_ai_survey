@@ -1,9 +1,0 @@
-cal Front: n-type TOPCON locally aligned to front contacts. (III) Combination of I and II; the texturing of the front surface is not depicted [107]. 
-D.K. Ghosh et al.                                                                                                                                                                                                                                
-cm demonstrated a power conversion efficiency of 24.4% with V
-oc 
-=715.1 mV, J
-sc 
-=41.5 mA/cm
-2 
-and FF =82

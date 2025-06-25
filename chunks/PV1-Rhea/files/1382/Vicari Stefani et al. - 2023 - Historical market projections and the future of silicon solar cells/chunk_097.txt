@@ -1,3 +1,0 @@
-olt.:Res.Appl.29,1180–1201.28.Ramspeck,K.,etal.(2012).Lightinduceddegradationofrearpassivatedmc-Sisolarcells.InProceedingsofthe27thEuropean
-PhotovoltaicSolarEnergyConferenceandExhibition,pp.861–865.29.Petter,K.,Hu¨bener,K.,Kersten,F.,Bartzsch,M.,Fertig,F.,andMu¨ller,J.(2016).DependenceofLeTIDonbrickheightfordifferentwafersupplierswithseveral
-resistivitiesanddopants.Proceedingsofthe9thInt.Work.Cryst.SiliconSol.Cells.6,1–17.30.Chen,D.,Kim,M.,Stefani,B.V.,Hallam,B.J.,Abbott,M.D.,Chan,C.E.,C

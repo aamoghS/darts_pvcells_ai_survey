@@ -1,9 +1,0 @@
-t testing at 85 °C and 85% relative humidity 
-(DH85), the Joly wood Special Injected Metallization (JSIM) solar cells outperform the standard Topcon cells by 
-a significant margin. Several i
-nvestigations have brought attention to possible reliability problems that Topcon 
-solar cells and modules may encounter when operating, especially in situations with high temperatures and 
-humidity [5, 6, 8, 9]. Significant reductions in power output have b
-een associated with damp
--
-heat stress, which is 

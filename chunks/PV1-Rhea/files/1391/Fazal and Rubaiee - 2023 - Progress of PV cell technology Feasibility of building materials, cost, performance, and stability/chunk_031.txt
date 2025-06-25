@@ -1,3 +1,0 @@
-ding on the materials used, adapted manufacturing process, and PV cell perfor
--
-mance. Fig. 1 presents the four generations of existing PV technologies. 2.1.Generation I: Crystalline silicon cell First-generation technology includes sc-Si- and mc-Si-based PV cells. Currently, it dominates the market share by more than 90% [7]. The bulk material producing crystalline silicon is plentiful (making up 28% of the earth’s crust). The sc-Si PV cells are produced from pseudo-square silicon wafer subst

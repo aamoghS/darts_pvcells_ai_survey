@@ -1,3 +1,0 @@
- time, were suc
--
-cessfully identified. The simulation results reveal that only a limited number of B atoms diffuse into Si along the Z direction during the diffusion process. The quantity and depth of B atom diffusion are contingent on temperature and time, with higher temperatures resulting in more B atoms diffusing deeper into the material. The experimental results of thermal diffusion are consistent with the simulation findings. As the temperature increases, the sheet resistance decreases, a

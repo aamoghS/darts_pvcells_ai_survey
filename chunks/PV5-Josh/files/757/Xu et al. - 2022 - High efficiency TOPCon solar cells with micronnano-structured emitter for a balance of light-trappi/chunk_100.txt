@@ -1,5 +1,0 @@
- S. T. Dunham, P.P. Altermatt, Analyzing emitter dopant inhomogeneities at textured Si surfaces by using 3D process and device simulations in combination with SEM imaging, in: 2012 38th IEEE Photovolt. Specialists Conf., 2012, pp. 313–316, https://doi.org/10.1109/PVSC.2012.6317625. [40]G. Dingemans, W.M.M. Kessels, Status and prospects of Al
-2
-O
-3
--based surface passivation schemes for silicon solar cells, J. Vac. Sci. Technol. 30 (4) (2012), https://doi.org/10.1116/1.4728205. [41]A. Kimmerle,

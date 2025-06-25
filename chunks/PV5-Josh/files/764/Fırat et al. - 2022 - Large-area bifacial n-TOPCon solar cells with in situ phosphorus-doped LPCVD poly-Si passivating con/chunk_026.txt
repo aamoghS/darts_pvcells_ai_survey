@@ -1,5 +1,0 @@
- poly-Si passivating contact on the rear. For this, first, the front side was masked with a 200 nm thick SiO
-x 
-mask grown by plasma enhanced chemical vapor deposition (PECVD) in a batch-type system. Later, the interfacial SiO
-x 
-layer of the passivating contact structure was grown thermally, yielding a thickness of ~1.5 nm measured by transmission electron microscopy (TEM) on identically oxidized thickness monitors. We would like to note that the monitors had been annealed by the same process a

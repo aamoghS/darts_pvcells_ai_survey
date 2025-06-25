@@ -1,5 +1,0 @@
-ore, the authors suggested that a proper balance should be maintained among different parameters such as passivating quality, contact resistivity and free car
--
-rier absorption losses during the design of poly-Si/SiO
-x 
-contacts. Park et al. also studied the impact of phosphorous doping concentration on the passivation quality of poly-Si contacts grown by LPCVD technique [81]. Besides, the role of annealing temperature and annealing time on the passivation properties was also investigated. Excel

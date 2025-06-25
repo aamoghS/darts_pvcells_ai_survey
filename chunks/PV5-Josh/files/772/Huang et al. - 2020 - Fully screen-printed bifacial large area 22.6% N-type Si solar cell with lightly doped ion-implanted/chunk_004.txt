@@ -1,5 +1,0 @@
-O
-x
-/poly-Si (polycrystalline silicon) carrier-selective passivating contacts, such as tunnel oxide passivated contact (TOPCon), have become an active research area for next-generation industrial silicon solar cells due to the excellent surface passivation, elimination of diffusion into the bulk, no direct metal contact to absorber material, and ability to withstand high temperature [1–5]. An n-type TOPCon (n-TOPCon) is composed of a very thin tunnel oxide (SiO
-x
-) capped with phosphorus doped

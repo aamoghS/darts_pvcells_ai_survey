@@ -1,3 +1,0 @@
-ve 24.5% (PV-magazine. 2020; Chen et al., 2020). Therefore, a big challenge about the further improvement of the conversion efficiency is the recombination and electrical contacting of B-doped emitters in n-TOPCon solar cells. The preparation processes of B-doped emitter include BBr
-3 
-tube diffusion (Padhamnath et al., 2019; Pal et al., 2019), B diffusion using boric acid (Ebrahimi et al., 2017), or B-ion implantation (Ok et al., 2016) and so on. However, the same requirements for B-doped emitt

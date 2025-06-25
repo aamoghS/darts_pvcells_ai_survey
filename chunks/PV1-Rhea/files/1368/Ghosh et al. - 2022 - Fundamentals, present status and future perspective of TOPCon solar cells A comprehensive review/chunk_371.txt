@@ -1,9 +1,0 @@
-, improvement in the external V
-oc 
-was observed. However, a decrement in the cell performance was noticed when the thickness of tunnelling SiO
-2 
-layer was increased beyond 0.2 nm. Reduced carrier transport through thicker SiO
-2 
-layer may be the reason for this phenomenon. 12.Future scope of work with possible challenges So far we have observed how the intensified study has been con
--
-ducted over the years to quantify the power output and simplify the commercialization process of TOPCon solar 

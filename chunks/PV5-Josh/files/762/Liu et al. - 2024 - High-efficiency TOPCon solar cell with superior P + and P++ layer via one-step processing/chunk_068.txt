@@ -1,5 +1,0 @@
-d below 750 
-◦
-C were not investigated since insufficient heat treatment does not effectively facilitate B atom diffusion. As depicted in Fig. 11, the sheet resistance decreases as the thermal diffusion temperature and time increase. Specifically, at a given diffu
--
-sion temperature, increasing the time results in a lower sheet resistance. Similarly, at a consistent diffusion time, elevating the temperature leads to decreased sheet resistance. This pattern indicates a gradual diffusion of B at

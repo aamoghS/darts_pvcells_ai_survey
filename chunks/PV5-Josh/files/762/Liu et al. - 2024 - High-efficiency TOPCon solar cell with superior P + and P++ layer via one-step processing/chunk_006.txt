@@ -1,5 +1,0 @@
- pivotal role in establishing PN junctions, resulting in the formation of a lightly doped p
-+
-layer [6–8]. The concentration and depth of this diffusion layer have a direct effect on the generation and recombination of photogenerated carriers [9,10]. Concurrently, localized diffusion of high-concentration B elements beneath the printed metal electrode region leads to the creation of a selective emitter(SE), forming a heavily doped p
-++
-layer. This, in turn, enhances the contact between the sil
