@@ -1,0 +1,76 @@
+{
+  "version": "1",
+  "metadata": {
+    "marimo_version": "0.14.9"
+  },
+  "cells": [
+    {
+      "id": "Hbol",
+      "code_hash": "062ef9e63adb77427b2e61801fb66668",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "tZyz",
+      "code_hash": "647272ef4422693b58c3731154cf5c18",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stdout",
+          "text": "hello is this thing on?\n"
+        }
+      ]
+    },
+    {
+      "id": "MJUe",
+      "code_hash": "38a37a7c0c975cfbef999a31c80452fb",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "vblA",
+      "code_hash": "2dc196458fb7336b887c04ddfe7ba6ce",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "bkHC",
+      "code_hash": "edba3db6f95ed0b755e68f6bb0975a1a",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "lEQa",
+      "code_hash": "b0c356631efb03022a1f64a642bcf741",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "PKri",
+      "code_hash": "ab590e8a1b97a6270f9d65064b066ffb",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "Xref",
+      "code_hash": "caddfea1cbcc1cb2b82d412952cc02b7",
+      "outputs": [],
+      "console": []
+    }
+  ]
+}
