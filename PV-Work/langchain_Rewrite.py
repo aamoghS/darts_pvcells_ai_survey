@@ -44,7 +44,7 @@ def _():
 @app.cell
 def _(Path):
     # Constants for readability
-    PDF_FOLDER = Path("SpecificFolder")
+    PDF_FOLDER = Path("foldersam")
     MODEL_NAME = "gemma3:1b"
     OUTPUT_CSV = "pv_extraction_results_ollama.csv"
     CHUNK_SIZE = 2000
