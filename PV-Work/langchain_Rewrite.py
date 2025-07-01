@@ -38,7 +38,6 @@ def _():
 
 @app.cell
 def _():
-    print("hello is this thing on?")
     return
 
 
@@ -46,7 +45,7 @@ def _():
 def _(Path):
     # Constants for readability
     PDF_FOLDER = Path("SpecificFolder")
-    MODEL_NAME = "gemma3:4b"
+    MODEL_NAME = "gemma3:1b"
     OUTPUT_CSV = "pv_extraction_results_ollama.csv"
     CHUNK_SIZE = 2000
     CHUNK_OVERLAP = 200
