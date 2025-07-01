@@ -19,13 +19,20 @@
     },
     {
       "id": "MJUe",
-      "code_hash": "647272ef4422693b58c3731154cf5c18",
-      "outputs": [],
+      "code_hash": null,
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
       "console": []
     },
     {
       "id": "vblA",
-      "code_hash": "38a37a7c0c975cfbef999a31c80452fb",
+      "code_hash": "5783b34fc3c8c4d60e5e976650f8d298",
       "outputs": [
         {
           "type": "data",
@@ -51,7 +58,7 @@
         {
           "type": "stream",
           "name": "stderr",
-          "text": "C:\\Users\\bootcamp\\AppData\\Local\\Temp\\marimo_43060\\__marimo__cell_bkHC_.py:36: PydanticDeprecatedSince20: Pydantic V1 style `@validator` validators are deprecated. You should migrate to Pydantic V2 style `@field_validator` validators, see the migration guide for more details. Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.11/migration/\n  @validator(\"*\", pre=True)\n"
+          "text": "C:\\Users\\bootcamp\\AppData\\Local\\Temp\\marimo_41976\\__marimo__cell_bkHC_.py:36: PydanticDeprecatedSince20: Pydantic V1 style `@validator` validators are deprecated. You should migrate to Pydantic V2 style `@field_validator` validators, see the migration guide for more details. Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.11/migration/\n  @validator(\"*\", pre=True)\n"
         }
       ]
     },
@@ -83,7 +90,7 @@
     },
     {
       "id": "Xref",
-      "code_hash": "1c334b77107c627bbb91e78134ea66e2",
+      "code_hash": "98729950703a7ae60e26f505328497c1",
       "outputs": [
         {
           "type": "data",
@@ -108,8 +115,18 @@
       "console": [
         {
           "type": "stream",
+          "name": "stderr",
+          "text": "\rProcessing PDFs:   0%|          | 0/1 [00:00<?, ?it/s]"
+        },
+        {
+          "type": "stream",
+          "name": "stderr",
+          "text": "\rProcessing PDFs: 100%|\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588| 1/1 [58:00<00:00, 3480.37s/it]\rProcessing PDFs: 100%|\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588| 1/1 [58:00<00:00, 3480.38s/it]\n"
+        },
+        {
+          "type": "stream",
           "name": "stdout",
-          "text": "model is not loaded\n"
+          "text": "\nSaved the CSV to pv_extraction_results_ollama.csv\n"
         }
       ]
     }

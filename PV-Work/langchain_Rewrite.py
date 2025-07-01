@@ -47,7 +47,7 @@ def _(Path):
     PDF_FOLDER = Path("foldersam")
     MODEL_NAME = "gemma3:1b"
     OUTPUT_CSV = "pv_extraction_results_ollama.csv"
-    CHUNK_SIZE = 2000
+    CHUNK_SIZE = 6000
     CHUNK_OVERLAP = 200
 
     PROMPT_TEMPLATE = """
@@ -181,7 +181,8 @@ def _(
     clean_response_data,
     pd,
 ):
-    # Main function
+    from tqdm import tqdm
+
     def main():
         model = ChatOllama(model=MODEL_NAME)
         parser = PydanticOutputParser(pydantic_object=PVArticleData)
@@ -191,7 +192,7 @@ def _(
         pdf_files = list(PDF_FOLDER.rglob("*.pdf"))
         results = []
 
-        for pdf_file in pdf_files:
+        for pdf_file in tqdm(pdf_files, desc="Processing PDFs"):
             try:
                 loader = PDFMinerLoader(str(pdf_file))
                 docs = loader.load()
@@ -227,9 +228,10 @@ def _(
             df = df.rename(columns=COLUMN_MAP)
             df = df[list(COLUMN_MAP.values())]
             df.to_csv(OUTPUT_CSV, index=False)
-            print(f"Saved the CSV to {OUTPUT_CSV}")
+            print(f"\nSaved the CSV to {OUTPUT_CSV}")
         else:
-            print("Error with saving")
+            print("\nNo results to save.")
+
     return (main,)
 
 
