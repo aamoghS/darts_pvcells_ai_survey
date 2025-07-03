@@ -18,8 +18,34 @@
       "console": []
     },
     {
-      "id": "tZyz",
-      "code_hash": "647272ef4422693b58c3731154cf5c18",
+      "id": "MJUe",
+      "code_hash": null,
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "vblA",
+      "code_hash": "b0a02dd86e42aa42049db7c5514df7ea",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "bkHC",
+      "code_hash": "b3848b08623b9ad8615333988b13cdc7",
       "outputs": [
         {
           "type": "data",
@@ -31,46 +57,68 @@
       "console": [
         {
           "type": "stream",
-          "name": "stdout",
-          "text": "hello is this thing on?\n"
+          "name": "stderr",
+          "text": "C:\\Users\\bootcamp\\AppData\\Local\\Temp\\marimo_40388\\__marimo__cell_bkHC_.py:32: PydanticDeprecatedSince20: Pydantic V1 style `@validator` validators are deprecated. You should migrate to Pydantic V2 style `@field_validator` validators, see the migration guide for more details. Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.11/migration/\n  @validator(\"*\", pre=True)\n"
         }
       ]
     },
     {
-      "id": "MJUe",
-      "code_hash": "38a37a7c0c975cfbef999a31c80452fb",
-      "outputs": [],
-      "console": []
-    },
-    {
-      "id": "vblA",
-      "code_hash": "2dc196458fb7336b887c04ddfe7ba6ce",
-      "outputs": [],
-      "console": []
-    },
-    {
-      "id": "bkHC",
-      "code_hash": "edba3db6f95ed0b755e68f6bb0975a1a",
-      "outputs": [],
-      "console": []
-    },
-    {
       "id": "lEQa",
-      "code_hash": "b0c356631efb03022a1f64a642bcf741",
-      "outputs": [],
+      "code_hash": "edba3db6f95ed0b755e68f6bb0975a1a",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
       "console": []
     },
     {
       "id": "PKri",
-      "code_hash": "ab590e8a1b97a6270f9d65064b066ffb",
-      "outputs": [],
+      "code_hash": "b0c356631efb03022a1f64a642bcf741",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
       "console": []
     },
     {
       "id": "Xref",
-      "code_hash": "caddfea1cbcc1cb2b82d412952cc02b7",
-      "outputs": [],
+      "code_hash": "98729950703a7ae60e26f505328497c1",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
       "console": []
+    },
+    {
+      "id": "SFPL",
+      "code_hash": "caddfea1cbcc1cb2b82d412952cc02b7",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stderr",
+          "text": "\rProcessing PDFs:   0%|          | 0/1 [00:00<?, ?it/s]"
+        }
+      ]
     }
   ]
 }
