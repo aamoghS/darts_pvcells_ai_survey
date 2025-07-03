@@ -1,3 +1,8 @@
-pyzotero
-python-dotenv
-requests
+# requirements.txt
+marimo==0.14.9
+pandas
+pydantic
+langchain
+langchain-community
+tqdm
+pdfminer.six
