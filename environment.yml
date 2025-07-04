@@ -5,11 +5,20 @@ channels:
 dependencies:
   - python=3.10
   - pip
+  - git
   - pip:
       - marimo==0.14.9
       - pandas
       - pydantic
+      - tqdm
+      - pdfminer.six
       - langchain
       - langchain-community
-      - pdfminer.six
-      - tqdm
+      - datasets
+      - peft
+      - transformers
+      - bitsandbytes-cpu
+      - sentencepiece
+      - accelerate
+      - jupyter
+      - matplotlib
