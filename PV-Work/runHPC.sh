@@ -1,8 +1,5 @@
 #!/bin/bash
 
-echo "Filtering the PDF pages to specifics"
-python3 filter_pdf/filterPage.py
-
 echo "Sorting the files"
 go run sort.go
 
