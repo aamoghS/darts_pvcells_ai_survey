@@ -7,50 +7,123 @@
     {
       "id": "Hbol",
       "code_hash": "062ef9e63adb77427b2e61801fb66668",
-      "outputs": [],
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
       "console": []
     },
     {
       "id": "MJUe",
       "code_hash": null,
-      "outputs": [],
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
       "console": []
     },
     {
       "id": "vblA",
       "code_hash": "b0a02dd86e42aa42049db7c5514df7ea",
-      "outputs": [],
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
       "console": []
     },
     {
       "id": "bkHC",
       "code_hash": "b3848b08623b9ad8615333988b13cdc7",
-      "outputs": [],
-      "console": []
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stderr",
+          "text": "C:\\Users\\bootcamp\\AppData\\Local\\Temp\\marimo_10276\\__marimo__cell_bkHC_.py:32: PydanticDeprecatedSince20: Pydantic V1 style `@validator` validators are deprecated. You should migrate to Pydantic V2 style `@field_validator` validators, see the migration guide for more details. Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.11/migration/\n  @validator(\"*\", pre=True)\n"
+        }
+      ]
     },
     {
       "id": "lEQa",
       "code_hash": "edba3db6f95ed0b755e68f6bb0975a1a",
-      "outputs": [],
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
       "console": []
     },
     {
       "id": "PKri",
       "code_hash": "b0c356631efb03022a1f64a642bcf741",
-      "outputs": [],
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
       "console": []
     },
     {
       "id": "Xref",
       "code_hash": "98729950703a7ae60e26f505328497c1",
-      "outputs": [],
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
       "console": []
     },
     {
       "id": "SFPL",
       "code_hash": "caddfea1cbcc1cb2b82d412952cc02b7",
-      "outputs": [],
-      "console": []
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stderr",
+          "text": "C:\\Users\\bootcamp\\AppData\\Local\\Temp\\marimo_10276\\__marimo__cell_Xref_.py:4: LangChainDeprecationWarning: The class `ChatOllama` was deprecated in LangChain 0.3.1 and will be removed in 1.0.0. An updated version of the class exists in the :class:`~langchain-ollama package and should be used instead. To use it run `pip install -U :class:`~langchain-ollama` and import as `from :class:`~langchain_ollama import ChatOllama``.\n  model = ChatOllama(model=MODEL_NAME)\n\rProcessing PDFs: 0it [00:00, ?it/s]\rProcessing PDFs: 0it [00:00, ?it/s]\n"
+        },
+        {
+          "type": "stream",
+          "name": "stdout",
+          "text": "\nNo results to save.\n"
+        }
+      ]
     }
   ]
 }
