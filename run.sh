@@ -34,4 +34,4 @@ else
     fi 
 fi
 
-marimo edit PV-Work/mainScript/extraction.py
+marimo edit PV-Work/mainScript/notebook.py
